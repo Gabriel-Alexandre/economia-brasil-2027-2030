@@ -168,3 +168,12 @@ O indicador `GGX_NGDP` do WEO não está no serviço de dados do FMI (datamapper
 
 O M1 definiu o controle de emergentes para a bolsa e para a moeda, mas não para o juro. Fica definido agora, antes de qualquer dado do dia: **o controle do juro longo é a variação do juro do título de 10 anos dos Estados Unidos** no mesmo intervalo (Yahoo Finance, `^TNX`), e o excesso do juro é a variação brasileira menos essa. **A série de juro longo do Brasil**, em ordem de preferência: (1) a taxa de ajuste do DI futuro de janeiro de 2033 publicada pela B3; (2) a taxa de ajuste do DI de janeiro de 2031; (3) a taxa do Tesouro Prefixado de prazo mais longo do Tesouro Direto; (4) duas matérias que publiquem a taxa de fechamento do mesmo vencimento. Vale a primeira disponível; as outras vão como conferência. O prêmio que entra no M6 é o excesso desse juro dividido por (1 − *p*), como no M1.
 
+### Emenda 3 (26/out, manhã, antes de contar, régua que faltava)
+
+O M5 diz o que medir em A3 e A4, mas não escreveu a régua de quatro níveis que o §3 pede para cada afirmação. Fica assim, igual para qualquer governo:
+
+- **A3 (*"muitas medidas"* no ano da eleição):** **confirmada** se houver 5 medidas ou mais anunciadas, editadas ou sancionadas nos 12 meses antes da eleição (26/out/2025 a 25/out/2026) **e** mais da metade do custo recorrente delas não for compensada na própria lei (categorias B a E); **em parte** se só uma das duas; **não confirmada** se nenhuma. A intenção continua fora da conta.
+- **A4 (*"de onde é que vai vir esse dinheiro"*):** conta-se a fatia das promessas econômicas do 2º mandato **sem custo publicado ou sem fonte do dinheiro declarada**. **Confirmada** (não se sabe de onde vem) se for mais da metade; **em parte** de um quarto à metade; **não confirmada** abaixo de um quarto.
+
+**O que já foi visto:** a lista de medidas e de promessas com as datas, o custo e a categoria, que a pesquisa entregou antes desta emenda. As contagens ainda não foram feitas.
+
