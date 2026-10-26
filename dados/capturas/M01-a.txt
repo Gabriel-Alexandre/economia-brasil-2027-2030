@@ -1,0 +1,564 @@
+# fonte: https://www12.senado.leg.br/orcamento/documentos/estudos/tipos-de-estudos/notas-tecnicas-e-informativos/sto-2025-01976-nota-tecnica-de-impacto-orcamentario-e-financeiro.pdf
+# capturado em: 2026-10-26
+
+
+=== página 1 ===
+NOTA TÉCNICA DE IMPACTO ORÇAMENTÁRIO E
+FINANCEIRO 92/2025
+Solicitante:
+PL nº 1.087/2025, que institui a redução do Consultoria de Orçamentos, Fiscalização
+e Controle
+imposto sobre a renda devido nas bases de
+cálculo mensal e anual e a tributação mínima para Número da STO: 2025-01976
+as pessoas físicas que auferem altas rendas
+Data de elaboração: 17/10/2025
+Autor da Nota: Marcos Felipe de Almeida Martins | Consultor
+Legislativo – Assessoramento em Orçamentos
+SUMÁRIO EXECUTIVO
+• Proposição: De autoria do Poder Executivo, o PL nº 1.087/2025 busca
+mitigar a falta de progressividade da tributação sobre a renda, articulando-
+se em três principais eixos: a) redução do IRPF para contribuintes de menor
+renda; b) definição de um valor mínimo para o IRPF devido por contribuintes
+de alta renda; c) tributação na fonte de lucros e dividendos percebidos por
+pessoas físicas ou jurídicas domiciliadas no exterior.
+• Alterações contidas no substitutivo: O substitutivo aprovado pela
+Câmara dos Deputados, em linhas gerais, ampliou a faixa de renda elegível
+à redução do IRPF, ampliou o rol rendimentos dedutíveis da base de cálculo
+da tributação mínima do IRPF e criou hipóteses de isenção dos impostos
+retidos na fonte sobre lucros e dividendos.
+• Restrições e hipóteses adotadas: As limitações encontradas durante a
+elaboração da estimativa (detalhamento insuficiente dos dados e
+incertezas relacionadas ao comportamento futuro dos contribuintes)
+impuseram a necessidade de adoção de hipóteses e criação de diferentes
+cenários.
+• Impacto orçamentário e financeiro do PL nº 1.087/2025: Conforme o
+cenário mais conservador calculado, representativo do impacto potencial
+da medida, estima-se uma perda de arrecadação de R$ 4,45 bilhões em
+2026, de R$ 3,05 bilhões em 2027 e de R$ 4,82 bilhões em 2028.
+O conteúdo deste trabalho não representa a posição da Consultoria de Orçamentos, Fiscalização e Controle,
+tampouco do Senado Federal, sendo de exclusiva responsabilidade de seus autores. O trabalho produzido
+no âmbito da Conorf, com objetivo de consultoria e assessoramento parlamentar, é considerado informação Página 1 de 13
+prestada em razão do exercício do mandato, mantendo-se sob a salvaguarda do § 6º do art. 53 da
+Constituição Federal. A permissão de sua reprodução deve ser requisitada ao solicitante.
+
+=== página 2 ===
+NOTA TÉCNICA DE IMPACTO ORÇAMENTÁRIO E
+FINANCEIRO 92/2025
+Estimativa de impacto do PL 1.087/2025 – substitutivo (em R$ bilhões)
+2026 2027 2028 TOTAL
+Redução do IRPF -27,44 -29,45 -31,52 -88,41
+Alíquota mínima para altas rendas 17,65 20,14 20,37 58,17
+Lucros e dividendos remetidos ao exterior 5,34 6,26 6,33 17,92
+TOTAL -4,45 -3,05 -4,82 -12,33
+Fonte: Elaboração própria
+1. INTRODUÇÃO
+A presente Nota tem por objetivo atender solicitação do Consultor-Geral de
+Orçamentos, Fiscalização e Controle, nos termos da STO 2025-01976, para que esta
+Consultoria de Orçamentos, Fiscalização e Controle (Conorf) forneça subsídios quanto
+à estimativa de impacto orçamentário e financeiro do Projeto de Lei (PL) nº 1.087/2025,
+que
+altera as Leis nºs 9.250, de 26 de dezembro de 1995, e 9.249, de 26
+de dezembro de 1995, para instituir a redução do imposto sobre a
+renda devido nas bases de cálculo mensal e anual e a tributação
+mínima para as pessoas físicas que auferem altas rendas; e dá outras
+providências.
+De autoria do Poder Executivo, a proposição foi apresentada em 18 de março de
+2025, tendo sido aprovada pela Câmara dos Deputados em 1º de outubro de 2025, na
+forma do substitutivo aprovado pelo seu plenário. Ato contínuo, o Projeto de Lei foi
+encaminhado ao Senado Federal, e encontra-se em análise pela Comissão de Assuntos
+Econômicos desta Casa, sob relatoria do Senador Renan Calheiros.
+Nota-se que a proposição inicialmente apresentada pelo Poder Executivo, além de
+ter sido acompanhada de estimativa de impacto fiscal calculada pelo Ministério da
+Fazenda, foi também analisada por esta Conorf, na Nota Técnica de Impacto
+Orçamentário e Financeiro nº 13/20251. Dessarte, a presente Nota propõe-se a avaliar o
+impacto das alterações constantes do substitutivo aprovado pela Câmara dos
+Deputados, em relação à proposição inicialmente apresentada.
+2. CONSIDERAÇÕES PRELIMINARES
+De acordo com o art. 113 do Ato das Disposições Constitucionais Transitórias –
+ADCTi, a proposição legislativa que crie ou altere despesa obrigatória ou renúncia de
+receita deverá ser acompanhada da estimativa do seu impacto orçamentário e
+financeiro.
+1 https://www12.senado.leg.br/orcamento/resultadopesquisa?tipo_estudo=notas-tecnicas-e-informativos
+Consultoria de Orçamentos, Fiscalização e Controle
+Senado Federal | Praça dos Três Poderes. Brasília – DF | CEP 70165-900 Página 2 de 13
+Telefone: + 55 (61) 3303-3318 | E-mail: conorf@senado.leg.br
+
+=== página 3 ===
+NOTA TÉCNICA DE IMPACTO ORÇAMENTÁRIO E
+FINANCEIRO 92/2025
+Por sua vez, o art. 14 da Lei de Responsabilidade Fiscal - LRFii determina que a
+concessão ou ampliação de incentivo ou benefício de natureza tributária da qual
+decorra renúncia de receita deverá estar acompanhada de estimativa do impacto
+orçamentário-financeiro no exercício em que deva iniciar sua vigência e nos dois
+seguintes, atender ao disposto na Lei de Diretrizes Orçamentárias - LDO e a pelo menos
+uma das seguintes condições: (i) demonstração pelo proponente de que a renúncia foi
+considerada na estimativa de receita da lei orçamentária e de que não afetará as metas
+de resultados fiscais; ou (ii) estar acompanhada de medidas de compensação, no
+período mencionado, por meio do aumento de receita, proveniente da elevação de
+alíquotas, ampliação da base de cálculo, majoração ou criação de tributo ou
+contribuição.
+A Lei nº 15.080/2024 (LDO 2025) determina, em seu art. 129 (caput, §1º e §2º)iii,
+que as proposições legislativas, as suas emendas e as propostas de atos infralegais que
+importem renúncia de receitas deverão ser instruídas com o demonstrativo do impacto
+no exercício financeiro em que devam entrar em vigor e nos dois subsequentes, o qual:
+deverá conter memória de cálculo com grau de detalhamento suficiente para evidenciar
+as premissas e a consistência das estimativas (§1º) e deverá constar da exposição de
+motivos ou de documento equivalente que acompanhar a proposição legislativa (§2º).
+Adicionalmente, as medidas escolhidas para compensar a renúncia de receita
+também devem integrar a proposição legislativa ou a proposta de ato infralegal, com
+indicação expressa no texto, na exposição de motivos ou no documento que os
+fundamentarem, conforme §4º do art. 129 da LDO 2025iv, vedada alusão a outras
+proposições em tramitação ou a ato infralegal ainda não editado (inciso I). Nada
+obstante, o inciso II do mesmo dispositivo faculta a indicação de norma, lei ou ato
+infralegal publicado em 2025 ou em 2024 como medida compensatória, desde que
+tenha registrado de forma expressa, precisa e específica, ainda que na exposição de
+motivos ou no documento que o tenha fundamentado, os casos em que seus efeitos
+poderão ser considerados para fins de compensar a redução de receita.
+O inciso I do §8º do art. 129v, por sua vez, preconiza que as proposições legislativas
+e as propostas de atos infralegais que contenham remissão à futura legislação,
+estabeleçam parcelamento de despesa ou prevejam postergação do impacto
+orçamentário-financeiro da medida não dispensam o cumprimento dessas exigências.
+Entretanto, conforme §10 do art. 129vi, ficarão dispensadas das medidas de
+compensação as proposições legislativas que impliquem renúncia de receita cujo
+impacto seja de até um milésimo por cento da receita corrente líquida realizada no
+exercício de 2024.
+Consultoria de Orçamentos, Fiscalização e Controle
+Senado Federal | Praça dos Três Poderes. Brasília – DF | CEP 70165-900 Página 3 de 13
+Telefone: + 55 (61) 3303-3318 | E-mail: conorf@senado.leg.br
+
+=== página 4 ===
+NOTA TÉCNICA DE IMPACTO ORÇAMENTÁRIO E
+FINANCEIRO 92/2025
+Ainda na LDO 2025, no art. 139vii, há outras condições a serem observadas pelas
+proposições legislativas que concedam, renovem ou ampliem benefícios tributários,
+quais sejam: (i) vigência máxima de cinco anos; (ii) estabelecimento de metas e
+objetivos da proposta, preferencialmente quantitativos; (iii) designação de órgão
+responsável pelo acompanhamento e avaliação do benefício.
+Quanto à indicação da compensação, importa destacar que se trata de atribuição
+privativa dos parlamentares, pois envolve juízo de valor sobre qual opção deve ser
+adotada para se obter o correspondente aumento compensatório de receita: elevação
+de alíquota, ampliação de base de cálculo, majoração ou criação de tributo ou
+contribuição. Para subsidiar a escolha, pode-se utilizar, por exemplo, o demonstrativo
+de gastos tributários, constante das Informações Complementares ao PLOA 2025 (PLN
+nº 26/2024)2.
+3. ANÁLISE DA PROPOSIÇÃO
+3.1. Proposição enviada pelo Poder Executivo
+A proposição analisada, que, conforme a Exposição de Motivos nº 19/2025 MF,
+busca mitigar a falta de progressividade da tributação sobre a renda, articula-se em três
+principais eixos:
+• Redução do imposto sobre a renda das pessoas físicas (IRPF) para
+contribuintes de menor renda;
+• Definição de um valor mínimo para IRPF devido por contribuintes de alta
+renda;
+• Tributação na fonte de lucros e dividendos percebidos por pessoas físicas
+ou jurídicas domiciliadas no exterior.
+A redução do IRPF para contribuintes de menor renda é promovida pelo acréscimo,
+à Lei nº 9.250/1995 (Lei do IRPF), do art. 3º-A, que cria uma redução no imposto sobre
+os rendimentos tributáveis das pessoas físicas, a partir do ano-calendário de 2026. Para
+rendimentos de até R$ 5.000,00 por mês (R$ 60.000 anuais), a proposição concede um
+desconto de até R$ 312,89, de modo que o imposto devido pelo contribuinte dessa faixa
+de renda seja zero. Além disso, a versão inicial do PL concede uma redução parcial do
+imposto devido, calculada por uma fórmula de transição3, para contribuintes que
+auferem rendimentos entre R$ 5.000,01 e R$ 7.000,00 mensais – em termos anuais, a
+2 O demonstrativo de gastos tributários consta do Anexo II, inciso IV, das Informações Complementares ao PLOA 2025.
+3 1.095,11 - (0,156445 x rendimentos tributáveis sujeitos à incidência mensal)
+Consultoria de Orçamentos, Fiscalização e Controle
+Senado Federal | Praça dos Três Poderes. Brasília – DF | CEP 70165-900 Página 4 de 13
+Telefone: + 55 (61) 3303-3318 | E-mail: conorf@senado.leg.br
+
+=== página 5 ===
+NOTA TÉCNICA DE IMPACTO ORÇAMENTÁRIO E
+FINANCEIRO 92/2025
+proposição original concede a redução parcial a contribuintes com renda entre R$
+60.000,01 e R$ 84.000,00.
+Quanto ao aumento do IRPF para contribuintes de alta renda, a proposição, por
+meio da introdução do art. 16-A na Lei nº 9.250/1995, estabelece uma alíquota mínima
+para o imposto de renda devido por contribuintes com rendimentos anuais acima de R$
+600 mil, a ser cobrada a partir de 2027 (ano-calendário de 2026). Para o cálculo do
+rendimento a ser utilizado como critério para aplicação das alíquotas, o § 1º do art. 16-
+A, na proposição inicial, define que devem ser considerados todos os rendimentos do
+contribuinte auferidos no ano-calendário, com as seguintes exceções:
+• Ganhos de capital4 (inciso I);
+• Rendimentos recebidos acumuladamente (inciso II);
+• Doação em adiantamento da legítima ou herança (inciso III).
+Como se verá a seguir, essa lista foi ampliada no substitutivo.
+Ainda na proposição inicial, para a definição da base de cálculo sobre a qual a
+alíquota mínima deve incidir, o § 3º do art. 16-A, suprimido no substitutivo, define que,
+do valor apurado nos termos do § 1º, ainda devem ser deduzidos os rendimentos
+oriundos de:
+• Contas de poupança (inciso I);
+• Indenização por acidente de trabalho, por danos materiais ou morais
+(inciso II);
+• Aposentadoria e pensão por moléstia grave (inciso III);
+• Títulos e valores mobiliários isentos ou sujeito a alíquota zero (inciso IV).
+A alíquota mínima, por sua vez, conforme o § 2º do art. 16-A, tem o valor fixado em
+10% para os contribuintes que percebam no ano-calendário acima de R$ 1,2 milhão.
+Para os contribuintes que percebam entre R$ 600 mil e R$ 1,2 milhão, a alíquota
+progride, linearmente, de 0 a 10%, conforme fórmula definida pelo dispositivo:
+• Alíquota % = (REND/60.000) – 10, onde REND refere-se aos rendimentos
+apurados na forma prevista no § 1º.
+Outrossim, conforme o § 4º do art. 16-A da proposição original (§ 3º, no
+substitutivo) o valor devido a título da tributação mínima do IRPF é o resultado obtido da
+4 exceto os decorrentes de operações realizadas em bolsa ou no mercado de balcão organizado sujeitas à
+tributação com base no ganho líquido no Brasil
+Consultoria de Orçamentos, Fiscalização e Controle
+Senado Federal | Praça dos Três Poderes. Brasília – DF | CEP 70165-900 Página 5 de 13
+Telefone: + 55 (61) 3303-3318 | E-mail: conorf@senado.leg.br
+
+=== página 6 ===
+NOTA TÉCNICA DE IMPACTO ORÇAMENTÁRIO E
+FINANCEIRO 92/2025
+multiplicação da alíquota mínima pela base de cálculo, do qual ainda devem ser
+deduzidos:
+• IRPF devido na declaração de ajuste anual (inciso I);
+• Determinados impostos sujeitos à tributação exclusiva (incisos II a IV);
+• Redutor da tributação mínima do IRPF, em virtude da soma desta com o
+IRPJ/CSLL da fonte pagadora (inciso V);
+• Montante do IRPF retido na fonte (§ 6º na proposição inicial, § 5º no
+substitutivo).
+Caso o valor apurado por meio dos procedimentos descritos nesses dispositivos
+seja negativo, o valor devido será zero. Além disso, o PL 1.087/2025 insere na Lei do IRPF
+o art. 6º-A, que estabelece, a partir de 2026, a retenção na fonte de 10% dos lucros e
+dividendos recebidos por pessoa física domiciliada no Brasil, quando superiores a R$
+50 mil por mês, a título de antecipação da tributação mínima do IRPF.
+Em relação à criação do redutor da tributação mínima, estabelecida no inciso V do
+§ 4º do art. 16-A, ele será aplicável quando a soma da alíquota efetiva paga pela pessoa
+jurídica sobre o lucro com a alíquota efetiva da tributação mínima do IRPF ultrapassar a
+soma das alíquotas nominais do IRPJ e da CSLL. O redutor será calculado a partir da
+diferença entre a carga tributária efetiva suportada pelo contribuinte e a carga tributária
+referencial estabelecida pela proposição.
+Ainda, o PL altera o art. 10 da Lei nº 9.249/1995, harmonizando seu caput à nova
+legislação e acrescentando o § 4º, que sujeita os lucros e dividendos pagos, creditados,
+entregues, empregados ou remetidos ao exterior à incidência do imposto de renda na
+fonte, à alíquota de 10%. De maneira análoga ao redutor aplicado à tributação mínima
+do IRPF, o art. 10-A disciplina crédito aplicável quando apurado que a soma da alíquota
+efetiva de tributação dos lucros das pessoas jurídicas domiciliadas no Brasil com a
+alíquota de retenção de 10% excede a soma das alíquotas nominais do IRPJ e da CSLL.
+3.2. Alterações constantes do substitutivo aprovado pela Câmara dos
+Deputados
+O substitutivo aprovado pela Câmara dos Deputados promoveu algumas
+alterações na versão inicial do projeto. Dentre elas, destaca-se a ampliação do limite
+superior da faixa de redução do IRPF de R$ 7.000,00 para R$ 7.350,00 (R$ 84.000,00 para
+R$ 88.200,00, em termos anuais). Desse modo, o benefício atinge uma quantidade
+maior de contribuintes.
+Quanto à tributação mínima do IRPF, na proposição inicial, havia dois momentos
+de aplicação de deduções: o primeiro deles, constante do § 1º do art. 16-A, servia ao
+Consultoria de Orçamentos, Fiscalização e Controle
+Senado Federal | Praça dos Três Poderes. Brasília – DF | CEP 70165-900 Página 6 de 13
+Telefone: + 55 (61) 3303-3318 | E-mail: conorf@senado.leg.br
+
+=== página 7 ===
+NOTA TÉCNICA DE IMPACTO ORÇAMENTÁRIO E
+FINANCEIRO 92/2025
+cálculo do montante que serviria de critério para a incidência ou não da alíquota
+mínima, bem como para a definição da alíquota a ser aplicada; o segundo, constante do
+§ 3º, previa outras deduções para a formação da base de cálculo sobre a qual incidiria a
+alíquota mínima. O substitutivo uniu esses dois momentos, fazendo com que o
+montante utilizado como critério incidência e a base de cálculo sejam iguais. Em termos
+de impacto na arrecadação, o efeito prático dessa medida é uma pequena redução na
+quantidade de contribuintes sobre os quais a alíquota mínima deve incidir.
+Ademais, o substitutivo acrescentou às deduções possíveis a parcela isenta dos
+rendimentos rurais e os lucros e dividendos relativos a resultados apurados até 2025,
+cuja distribuição tenha sido aprovada até dezembro de 2025. Além disso, a isenção
+concedida aos lucros e dividendos apurados e com distribuição aprovada até 2025
+aplica-se, também, ao imposto retido previsto no art. 6º-A – em decorrência da inserção
+do § 3º ao dispositivo.
+Ademais, o substitutivo, por meio dos incisos IV e V, criou um rol de rendimentos
+dedutíveis, relativos a títulos e valores mobiliários. Ressalta-se, no entanto, que tais
+rendimentos são isentos de imposto sobre a renda, motivo pelo qual a possibilidade de
+sua dedução já era abarcada, no projeto original, pelo inciso IV. A diferença é que, com
+a nova redação, tais rendimentos poderão ser deduzidos da base de cálculo mesmo que
+legislação diversa revogue a isenção tributária que os beneficia.
+Já no contexto da tributação sobre lucros e dividendos remetidos ao exterior, o
+substitutivo optou por acrescentar o § 5º ao art. 10 da Lei 9.249/1995, isentando desse
+imposto de renda retido na fonte os lucros e dividendos:
+• Relativos a resultados apurados até 2025, cuja distribuição tenha sido
+aprovada até o final de 2025 (inciso I);
+• Pagos a governos estrangeiros, desde que haja reciprocidade de tratamento
+(inciso II, alínea a);
+• Pagos a fundos soberanos (inciso II, alínea b);
+• Pagos a entidades no exterior que tenham como principal atividade a
+administração de benefícios previdenciários (inciso II, alínea c).
+4. ESTIMATIVA DE IMPACTO DO PL Nº 1.087/2025
+Como mencionado, a proposição inicial já foi adequadamente instruída com a
+estimativa de seu impacto fiscal. Posteriormente, o Ministério da Fazenda, na Nota
+Consultoria de Orçamentos, Fiscalização e Controle
+Senado Federal | Praça dos Três Poderes. Brasília – DF | CEP 70165-900 Página 7 de 13
+Telefone: + 55 (61) 3303-3318 | E-mail: conorf@senado.leg.br
+
+=== página 8 ===
+NOTA TÉCNICA DE IMPACTO ORÇAMENTÁRIO E
+FINANCEIRO 92/2025
+Conjunta GAB/Sutri/Cetad/Asleg nº 15, de 26 de maio de 2025, em atendimento ao
+Requerimento de Informação da Câmara dos Deputados nº 1.229/20256, apresentou
+tabela atualizada, considerando o redutor relativo à alíquota efetiva das empresas
+pagadoras de lucros e dividendos. As Tabelas 1 e 2 comparam a estimativa que
+acompanhou o envio da proposição e a estimativa atualizada da versão inicial do PL,
+ambas elaboradas pelo Ministério da Fazenda.
+Tabela 1 – Estimativa inicial de impacto do PL 1.087/2025 (EM 19/2025 – MF)
+R$ bilhões
+2026 2027 2028 TOTAL
+Isenção/redução do IRPF -25,84 -27,72 -29,68 -83,24
+Alíquota mínima para altas rendas 25,22 29,49 29,83 84,54
+Lucros e dividendos remetidos ao exterior 8,90 9,69 9,81 28,40
+TOTAL 8,28 11,46 9,96 29,70
+Fonte: Exposição de Motivos nº 19/2025 – MF.
+Tabela 2 – Estimativa inicial de impacto do PL 1.087/2025 (NT GAB/Sutri/Cetad/Asleg
+nº 1/2025)
+R$ bilhões
+2026 2027 2028 TOTAL
+Isenção/redução do IRPF -25,84 -27,73 -29,68 -83,25
+Alíquota mínima para altas rendas 25,22 25,35 25,64 76,21
+Lucros e dividendos remetidos ao exterior 8,90 6,95 7,03 22,88
+TOTAL 8,28 4,58 2,99 15,85
+Fonte: Nota Conjunta GAB/Sutri/Cetad/Asleg nº 1, de 26 de maio de 2025.
+Assim, o cálculo do impacto produzido pelas alterações contidas no substitutivo
+aprovado pela Câmara dos Deputados foi realizado utilizando-se as estimativas
+atualizadas elaboradas pelo Ministério da Fazenda e as informações fornecidas pela
+Secretaria Especial da Receita Federal do Brasil (RFB) sobre a distribuição de renda7. A
+publicação da RFB fornece a distribuição de renda por centis, detalhando também
+informações sobre o imposto de renda.
+Vale notar que, em virtude da agregação dos dados publicados pela RFB, não é
+possível à análise aqui empreendida chegar ao mesmo grau de precisão a que se
+chegaria caso fossem utilizados dados desagregados, que permitissem seu cruzamento
+com outras informações detalhadas a respeito dos rendimentos percebidos pelos
+5
+https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2919037&filename=Tramitacao-
+RIC%201229/2025. O documento mencionado se encontra na página 193 do arquivo contido no link.
+6 https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2497135
+7 https://www.gov.br/receitafederal/pt-br/centrais-de-conteudo/publicacoes/estudos/distribuicao-da-
+renda/distribuicao-de-renda-por-centis-estudo-ampliado-2017-a-2023/2023/centis-br-ac2023-versao-out-
+2025.xlsx/view
+Consultoria de Orçamentos, Fiscalização e Controle
+Senado Federal | Praça dos Três Poderes. Brasília – DF | CEP 70165-900 Página 8 de 13
+Telefone: + 55 (61) 3303-3318 | E-mail: conorf@senado.leg.br
+
+=== página 9 ===
+NOTA TÉCNICA DE IMPACTO ORÇAMENTÁRIO E
+FINANCEIRO 92/2025
+contribuintes. Não obstante, o presente trabalho busca contribuir para a discussão
+sobre o PL nº 1.087/2025, apresentando estimativas que forneçam uma noção
+adequada do potencial impacto das alterações feitas pelo substitutivo.
+Desse modo, utilizando-se os dados da Receita Federal, foram construídos dois
+cenários: um cenário base (conforme o projeto inicial) e um cenário baseado no texto
+do substitutivo. Ressalta-se que os dados mais recentes fornecidos pela RFB referem-
+se ao ano-calendário de 2023, de modo que os cálculos realizados com base nessas
+informações foram projetados para os anos posteriores conforme o crescimento do PIB
+nominal (publicado pela Secretaria de Política Econômica8), buscando capturar o efeito-
+preço e o efeito-quantidade incidentes sobre a dinâmica da renda. Procedeu-se, assim,
+ao cálculo da diferença percentual na arrecadação entre os dois cenários, aplicando-
+se, posteriormente, essa diferença às estimativas mais atualizadas fornecidas pelo
+Ministério da Fazenda para a versão inicial da proposição.
+Para a definição dos centis contemplados pela redução do IRPF, foram utilizados
+os dados da Renda Tributável Bruta (RTB), que incorpora os rendimentos tributáveis para
+fins da Declaração Anual do IRPF. Foram acrescidos a essa rubrica os rendimentos do
+13º salário. Os centis foram filtrados pelo seu limite superior e separados entre as faixas
+de renda aptas a receber a isenção do IRPF e as faixas aptas a receber a redução parcial
+do IRPF. Para a aplicação da isenção, foi consultado, por centil, o imposto total devido.
+Quanto à redução parcial, aplicou-se a fórmula definida pelo PL 1.087/2025 sobre a
+renda média, valor que foi multiplicado pela quantidade de contribuintes do centil.
+Posteriormente, os valores positivos encontrados em cada centil foram agregados.
+Os cenários da tributação mínima do IRPF para altas rendas, por sua vez, foram
+construídos com os dados da classificação que acresce aos dados da RTB os
+rendimentos isentos e os rendimentos sujeitos à tributação exclusiva ou definitiva,
+deduzida das transferências patrimoniais (RB4). A publicação detalha, ainda, os
+rendimentos isentos e os rendimentos sujeitos à tributação exclusiva, ambos
+necessários para o cálculo do impacto das deduções detalhadas no § 1º do art. 16-A da
+Lei nº 9.250/1995, proposto pelo PL.
+Para o ano de 2026, quanto à tributação de altas rendas, considerou-se apenas o
+imposto retido na fonte, já que a vigência da tributação mínima calculada com base no
+art. 16-A só se inicia em 2027, ao passo que a vigência da retenção sobre lucros e
+dividendos se inicia em 2026. Para os anos de 2027 e 2028 foram utilizados os cálculos
+efetuados a partir dos dados da RB4.
+8 https://www.gov.br/fazenda/pt-br/central-de-conteudo/publicacoes/conjuntura-economica/panorama-
+macroeconomico#:~:text=O%20Panorama%20Macroecon%C3%B4mico%20%C3%A9%20um,fontes%20pri
+m%C3%A1rias%20de%20acesso%20p%C3%BAblico.
+Consultoria de Orçamentos, Fiscalização e Controle
+Senado Federal | Praça dos Três Poderes. Brasília – DF | CEP 70165-900 Página 9 de 13
+Telefone: + 55 (61) 3303-3318 | E-mail: conorf@senado.leg.br
+
+=== página 10 ===
+NOTA TÉCNICA DE IMPACTO ORÇAMENTÁRIO E
+FINANCEIRO 92/2025
+Quanto à retenção sobre lucros e dividendos, a proposição inicial estabelecia o
+ano de 2026 como marco inicial de vigência, sem fazer quaisquer ressalvas quanto aos
+lucros cuja distribuição tenha sido aprovada até 2025. Diante desse cenário, o
+comportamento esperado é que as empresas antecipassem a distribuição de lucros e
+rendimentos para o ano de 2025. Assim, é razoável supor que parte significativa da
+arrecadação inicialmente estimada para 2026 relaciona-se à distribuição de lucros e
+dividendos apurados no próprio ano de 2026. Não obstante, não é razoável supor que a
+totalidade da distribuição de lucros apurados antes de 2026 tenha sido antecipada.
+Desse modo, adota-se a hipótese de que há uma fração dos lucros apurados antes
+de 2026, cuja distribuição somente seria aprovada em 2026. Conforme a redação inicial
+da proposição, essa fração sujeitar-se-ia à retenção na fonte, o que não mais ocorre nos
+termos do substitutivo. Portanto, essa parcela que deixa de ser arrecadada diminui a
+arrecadação estimada para a tributação mínima do IRPF em 2026. Analogamente, o
+substitutivo estabelece a mesma isenção para os lucros e dividendos remetidos ao
+exterior que sejam apurados até 2025, cuja distribuição tenha sido aprovada nesse
+mesmo prazo. Logo, a mesma lógica exposta anteriormente fundamenta perda de
+arrecadação, em 2026, para o IRRF sobre lucros e dividendos enviados ao exterior.
+Apesar disso, esta Consultoria não dispõe dos dados necessários para a
+estimativa dessa parcela de lucros apurados e aprovados até 2025, distribuídos a partir
+de 2026. Por essa razão optou-se por traçar três cenários distintos, arbitrando-se que,
+para cada cenário, uma parcela diferente dos lucros e dividendos distribuídos em 2026
+(10%, 20% e 30%), teve sua distribuição aprovada em 2025.
+Para a estimativa das isenções concedidas às remessas de lucros e dividendos ao
+exterior para governos estrangeiros, fundos soberanos e entidades de administração de
+benefícios previdenciárias, foi necessária a utilização de um proxy capaz de representar
+o percentual dos lucros e dividendos enviados ao exterior isentos dessa tributação.
+Estudo realizado pelo Fundo Monetário Internacional9 estima que entre 5% e 15% das
+aquisições corporativas internacionais são feitas pelo setor público. Dessa maneira,
+para viabilizar a apresentação de uma estimativa do impacto dessas isenções, adotou-
+se a hipótese de que, potencialmente, 10% dos lucros e dividendos remetidos ao
+exterior fariam jus ao benefício.
+Os resultados encontrados por meio da metodologia descrita, incorporando os
+três diferentes cenários, são apresentados nas tabelas 3, 4 e 5.
+9 https://www.imf.org/en/Publications/FM/Issues/2020/04/17/Fiscal-Monitor-April-2020-Policies-to-Support-
+People-During-the-COVID-19-Pandemic-49278
+Consultoria de Orçamentos, Fiscalização e Controle
+Senado Federal | Praça dos Três Poderes. Brasília – DF | CEP 70165-900 Página 10 de 13
+Telefone: + 55 (61) 3303-3318 | E-mail: conorf@senado.leg.br
+
+=== página 11 ===
+NOTA TÉCNICA DE IMPACTO ORÇAMENTÁRIO E
+FINANCEIRO 92/2025
+Tabela 3 – Estimativa de impacto do substitutivo (cenário 1)
+R$ bilhões
+2026 2027 2028 TOTAL
+Redução do IRPF -27,44 -29,45 -31,52 -88,41
+Alíquota mínima para altas rendas 22,70 20,14 20,37 63,21
+Lucros e dividendos remetidos ao exterior 7,12 6,26 6,33 19,70
+TOTAL 2,37 -3,05 -4,82 -5,50
+Fonte: Elaboração própria
+Tabela 4 – Estimativa de impacto do substitutivo (cenário 2)
+R$ bilhões
+2026 2027 2028 TOTAL
+Redução do IRPF -27,44 -29,45 -31,52 -88,41
+Alíquota mínima para altas rendas 20,18 20,14 20,37 60,69
+Lucros e dividendos remetidos ao exterior 6,23 6,26 6,33 18,81
+TOTAL -1,04 -3,05 -4,82 -8,91
+Fonte: Elaboração própria
+Tabela 5 – Estimativa de impacto do substitutivo (cenário 3)
+R$ bilhões
+2026 2027 2028 TOTAL
+Redução do IRPF -27,44 -29,45 -31,52 -88,41
+Alíquota mínima para altas rendas 17,65 20,14 20,37 58,17
+Lucros e dividendos remetidos ao exterior 5,34 6,26 6,33 17,92
+TOTAL -4,45 -3,05 -4,82 -12,33
+Fonte: Elaboração própria
+Adicionalmente, a tabela 6 fornece o detalhamento do impacto acarretado pelas
+alterações promovidas pelo substitutivo.
+Tabela 6 – Detalhamento do impacto acarretado pelas medidas do substitutivo
+R$ bilhões
+2026 2027 2028
+IRPF - extensão da faixa de redução -1,60 -1,72 -1,84
+IRPF Mínimo
+Unificação dos §§ 1º e 3º do art. 16-A1 0,00 -0,52 -0,53
+Parcela isenta da atividade rural (art. 16-A, § 1º) 0,00 -4,69 -4,74
+Incidência sobre resultados apurados a partir de 2026 (cenário 1) -2,52 0,00 0,00
+Incidência sobre resultados apurados a partir de 2026 (cenário 2) -5,04 0,00 0,00
+Incidência sobre resultados apurados a partir de 2026 (cenário 3) -7,57 0,00 0,00
+IR sobre lucros e dividendos remetidos ao exterior
+Incidência sobre resultados apurados a partir de 2026 (cenário 1) -0,89 0,00 0,00
+Incidência sobre resultados apurados a partir de 2026 (cenário 2) -1,78 0,00 0,00
+Incidência sobre resultados apurados a partir de 2026 (cenário 3) -2,67 0,00 0,00
+Hipóteses de não incidência -0,89 -0,70 -0,70
+Consultoria de Orçamentos, Fiscalização e Controle
+Senado Federal | Praça dos Três Poderes. Brasília – DF | CEP 70165-900 Página 11 de 13
+Telefone: + 55 (61) 3303-3318 | E-mail: conorf@senado.leg.br
+
+=== página 12 ===
+NOTA TÉCNICA DE IMPACTO ORÇAMENTÁRIO E
+FINANCEIRO 92/2025
+Fonte: Elaboração própria
+5. CONSIDERAÇÕES FINAIS
+Buscou-se, nessa Nota, dimensionar o impacto orçamentário e financeiro
+decorrente do PL nº 1.087/2025, na forma do substitutivo aprovado pela Câmara dos
+Deputados. Limitações decorrentes da falta de detalhamento dos dados a que se teve
+acesso, bem como incertezas relativas ao comportamento dos contribuintes afetados
+pela proposição, dificultaram a apresentação de um cálculo preciso. Como forma de
+mitigar esse problema foram realizadas estimativas para três cenários distintos,
+retratando as possíveis reações dos contribuintes à aprovação do Projeto de Lei.
+Por prudência, sugere-se a adoção do cenário mais conservador como
+representativo do potencial impacto fiscal da proposição. Dessa maneira, estima-se
+que aprovação do PL nº 1.087, conforme a redação dada à proposição pela Câmara dos
+Deputados, acarretaria uma perda de arrecadação de R$ 4,45 bilhões em 2026, de R$
+3,05 bilhões em 2027 e de R$ 4,82 bilhões em 2028.
+São esses os subsídios considerados mais relevantes referentes à proposição em
+análise, quanto à estimativa de impacto orçamentário e financeiro.
+i (ADCT) Art. 113. A proposição legislativa que crie ou altere despesa obrigatória ou renúncia de receita deverá ser
+acompanhada da estimativa do seu impacto orçamentário e financeiro.
+ii (LRF) Art. 14. A concessão ou ampliação de incentivo ou benefício de natureza tributária da qual decorra renúncia de
+receita deverá estar acompanhada de estimativa do impacto orçamentário-financeiro no exercício em que deva iniciar sua
+vigência e nos dois seguintes, atender ao disposto na lei de diretrizes orçamentárias e a pelo menos uma das seguintes
+condições:
+I - demonstração pelo proponente de que a renúncia foi considerada na estimativa de receita da lei orçamentária, na
+forma do art. 12, e de que não afetará as metas de resultados fiscais previstas no anexo próprio da lei de diretrizes
+orçamentárias;
+II - estar acompanhada de medidas de compensação, no período mencionado no caput, por meio do aumento de
+receita, proveniente da elevação de alíquotas, ampliação da base de cálculo, majoração ou criação de tributo ou
+contribuição.
+§ 1º A renúncia compreende anistia, remissão, subsídio, crédito presumido, concessão de isenção em caráter não
+geral, alteração de alíquota ou modificação de base de cálculo que implique redução discriminada de tributos ou
+contribuições, e outros benefícios que correspondam a tratamento diferenciado.
+§ 2º Se o ato de concessão ou ampliação do incentivo ou benefício de que trata o caput deste artigo decorrer da
+condição contida no inciso II, o benefício só entrará em vigor quando implementadas as medidas referidas no mencionado
+inciso.
+§ 3º O disposto neste artigo não se aplica:
+I - às alterações das alíquotas dos impostos previstos nos incisos I, II, IV e V do art. 153 da Constituição, na forma do
+seu § 1º;
+II - ao cancelamento de débito cujo montante seja inferior ao dos respectivos custos de cobrança.
+iii (LDO 2025) Art. 129. As proposições legislativas, de que tratam o art. 59 da Constituição, as suas emendas e as propostas
+de atos infralegais que importem renúncia de receitas ou criação ou aumento de despesas obrigatórias de caráter
+continuado, nos termos dos art. 14 e art. 17 da Lei Complementar nº 101, de 2000 - Lei de Responsabilidade Fiscal,
+deverão ser instruídas com demonstrativo do impacto orçamentário-financeiro no exercício em que devam entrar em vigor
+e nos dois subsequentes e atender ao disposto neste artigo.
+Consultoria de Orçamentos, Fiscalização e Controle
+Senado Federal | Praça dos Três Poderes. Brasília – DF | CEP 70165-900 Página 12 de 13
+Telefone: + 55 (61) 3303-3318 | E-mail: conorf@senado.leg.br
+
+=== página 13 ===
+NOTA TÉCNICA DE IMPACTO ORÇAMENTÁRIO E
+FINANCEIRO 92/2025
+§ 1º O proponente é o responsável pela elaboração e apresentação do demonstrativo a que se refere o caput, o qual deverá
+conter memória de cálculo com grau de detalhamento suficiente para evidenciar as premissas e a consistência das
+estimativas.
+§ 2º A estimativa do impacto orçamentário-financeiro, elaborada com fundamento no demonstrativo de que trata o caput,
+deverá constar da exposição de motivos ou de documento equivalente que acompanhar a proposição legislativa.
+iv (LDO 2025) Art. 129. (...)
+§ 4º Para fins de atendimento ao disposto nos art. 14 e art. 17 da Lei Complementar nº 101, de 2000 - Lei de
+Responsabilidade Fiscal, as medidas para compensar a renúncia de receita ou o aumento de despesa obrigatória de
+caráter continuado devem integrar a proposição legislativa ou a proposta de ato infralegal, com indicação expressa no
+texto, na exposição de motivos ou no documento que fundamentar a norma proposta, hipótese em que será:
+I - vedada a referência a outras proposições legislativas em tramitação ou a ato infralegal ainda não editado; e
+II - permitida a referência à norma, lei ou ato infralegal, publicado no mesmo exercício financeiro ou no anterior, que
+registre de forma expressa, precisa e específica, ainda que na exposição de motivos ou no documento que o tenha
+fundamentado, os casos em que seus efeitos poderão ser considerados para fins de compensar a redução de receita ou
+o aumento de despesa.
+v (LDO 2025) Art. 129. (...)
+§ 8º O disposto no caput aplica-se às proposições legislativas e às propostas de atos infralegais que:
+I - contenham remissão à futura legislação, estabeleçam parcelamento de despesa ou prevejam postergação do impacto
+orçamentário-financeiro;
+II - estejam em tramitação no Congresso Nacional; ou
+III - estejam em fase de sanção.
+vi (LDO 2025) Art. 129. (...)
+§ 10 Ficam dispensadas das medidas de compensação as proposições legislativas que impliquem renúncia de receita ou
+aumento da despesa obrigatória de caráter continuado cujo impacto seja de até um milésimo por cento da receita
+corrente líquida realizada no exercício de 2024.
+vii (LDO 2025) Art. 139. As proposições legislativas que concedam, renovem ou ampliem benefícios tributários deverão:
+I - conter cláusula de vigência de, no máximo, cinco anos;
+II - estar acompanhadas de metas e objetivos, preferencialmente quantitativos; e
+III - designar órgão responsável pelo acompanhamento e pela avaliação do benefício tributário quanto à consecução das
+metas e dos objetivos estabelecidos.
+§ 1º O órgão a que se refere o inciso III definirá indicadores para acompanhamento das metas e dos objetivos e dará
+publicidade a suas avaliações.
+§ 2º Ficam dispensadas do atendimento ao disposto neste artigo as proposições legislativas que tratem de:
+I - alterações de normas de tributação de investimentos de não residentes no País ou de domiciliados no exterior;
+II - benefícios tributários associados a emissão de letras de crédito destinadas ao financiamento de longo prazo no âmbito
+de programas de desenvolvimento econômico;
+III - benefícios tributários associados às debêntures incentivadas e de infraestrutura; e
+IV - benefícios tributários previstos nas Lei nº 8.248, de 23 de outubro de 1991, Lei nº 11.484, de 31 de maio de 2007, Lei
+nº 13.969, de 26 de dezembro de 2019 e Lei nº 14.968, de 11 de setembro de 2024.
+Consultoria de Orçamentos, Fiscalização e Controle
+Senado Federal | Praça dos Três Poderes. Brasília – DF | CEP 70165-900 Página 13 de 13
+Telefone: + 55 (61) 3303-3318 | E-mail: conorf@senado.leg.br

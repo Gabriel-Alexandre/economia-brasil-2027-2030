@@ -1,0 +1,383 @@
+# fonte: https://www.contabeis.com.br/noticias/73889/reforma-tributaria-2026-veja-o-que-muda-na-fase-de-transicao/
+# capturado em: 2026-10-26
+
+Reforma Tributária 2026: veja o que muda na fase de transição
+Fórum
+Fórum
+« Voltar
+Índice
+Sobre o Portal Contábeis
+Contabilidade
+Tributos Federais
+Departamento Pessoal e RH
+Legalização de Empresas
+Tributos Estaduais/Municipais
+Assuntos Acadêmicos
+Contabilidade Pública
+Tecnologia Contábil
+Auditoria e Perícia
+Arquivo Morto
+O Maior e Melhor Fórum
+do Brasil ...
+há 27 anos
+O Fórum Contábeis reúne o maior acervo de conteúdo contábil atualizado e com discussães que promovem um crescimento em geral de toda a comunidade contábil. Conheça e comece a fazer parte da nossa comunidade!
+PRINCIPAIS DISCUSSÕES
+Veja quais tópicos são os mais discutidos nos últimos 10 dias.
+VER DISCUSSÕES
+ÚLTIMAS DO FÓRUM
+Veja em tempo real, os últimos tópicos postados no fórum.
+ÍNDICE DO FÓRUM
+TÓPICOS SEM RESPOSTA
+Contribua interagindo com tópicos não respondidos.
+VER TÓPICOS
+Conteúdo
+Conteúdo
+« Voltar
+Por assunto
+Tributário
+Trabalhista
+Empresarial
+Previdência
+Tecnologia
+Economia
+Contábil
+Carreira
+Todos
+Por segmento
+Notícias
+Articulistas
+Artigos
+Vídeos
+e-Books
+Parceiros
+Podcasts
+Últimos
+Mais que Gestão
+Conversas de Trabalho
+Contábeis Tech
+Contabilizando
+Analisando Tributos
+Papo de Previdência
+Carreira em Tópicos
+IA na prática
+Descomplicando o tributário
+Tabelas e Índices
+Simples Nacional
+Imposto de Renda
+Salário Família
+INSS
+Salário Minimo
+UFESP
+Taxa Selic
+Termos Contábeis
+TODOS OS TERMOS
+Contabilidade
+Contador
+ICMS
+Reforma Tributária
+MEI
+CBS
+IBS
+PIS
+Fique bem Informado em todos os
+assuntos
+Utilize nossas editorias para se informar com um conteúdo atualizado diariamente e diretamente voltado para seu interesse. No portal contábeis você tem a certeza de que pode encontrar o suporte de informação necessário para voce ter ainda mais sucesso profissional.
+CONTRIBUA COM O PORTAL
+Envie sua matéria, publique seu artigo e compartilhe com milhares de visitantes todos os dias.
+VEJA COMO FUNCIONA
+Vídeos
+Club
+Ferramentas
+Ferramentas
+« Voltar
+Reforma Tributária
+Simples Nacional
+Anexos do Super Simples
+Análise Imposto de Renda
+Calculadora INSS e IR
+NFe DANFE/CTe DACTE
+Ferramentas
+Contábeis
+Ferramentas que ajudam o profissional contábil, empreendedores e acadêmicos
+SIMPLES NACIONAL
+Encontre o anexo e calcule a alíquota da atividade de sua empresa através da descrição ou do CNAE.
+Sobre
+Sobre
+« Voltar
+Regras
+Ajuda
+Anuncie
+Contato
+Conheça o nosso
+Portal
+O portal contábeis é feito para profissionais como você, que procuram informação de qualidade e uma comunidade ativa e pronta para discutir, opinar e participar de tudo o que envolve o mundo contábil.
+CONTRIBUA CONOSCO
+Compartilhe seu conhecimento para visitantes todos os dias.
+ENTENDA MAIS
+Conbcon
+Parceiros
+Parceiros
+« Voltar
+Omie
+Soluti
+Parceiros
+do Portal Contábeis
+Fique por dentro dos conteúdos e ofertas dos nossos parceiros
+Veja todos os nossos parceiros
+Buscar
+Cadastre-se
+Grátis
+Login
+Buscar
+x
+REFORMA TRIBUTÁRIA
+Reforma Tributária inicia fase de testes em 2026 com novas regras para impostos e documentos fiscais
+CBS e IBS passam a constar nos documentos fiscais com alíquotas simbólicas; sistema evolui até 2033, quando ICMS e ISS serão totalmente substituídos.
+01/01/2026 10:00
+Atualizado há 9 meses
+compartilhe
+no facebook
+compartilhe
+no twitter
+compartilhe
+no linkedin
+compartilhe
+no whatsapp
+A
+Reforma Tributária
+inicia, em 2026, a primeira fase oficial de implantação do novo modelo de tributação sobre o consumo no Brasil, com o início do período de testes dos novos tributos — a Contribuição sobre Bens e Serviços (
+CBS
+) e o Imposto sobre Bens e Serviços (
+IBS
+).
+As mudanças serão implementadas em todo o território nacional e representam a etapa inicial da substituição gradual de
+PIS
+,
+Cofins
+, IPI,
+ICMS
+e ISS, conforme aprovado pelo Congresso Nacional.
+Durante o ano de 2026, empresas de todos os portes deverão emitir documentos fiscais eletrônicos contendo campos específicos para a CBS, com alíquota simbólica de 0,9%, e para o IBS, com alíquota de 0,1%. Os valores serão informativos e não gerarão cobrança, servindo exclusivamente para calibrar sistemas, processos e parametrizações fiscais.
+As novas regras integram o calendário oficial de transição previsto na legislação e marcam o primeiro passo do novo sistema nacional de tributação sobre bens e serviços, em substituição aos tributos federais, estaduais e municipais vigentes.
+Mudanças estruturais da Reforma Tributária a partir de 2026
+Ano de calibração: CBS e IBS entram de forma não onerosa
+Em 2026, todas as empresas deverão:
+Emitir NF-e, NFC-e e NFS-e contendo os novos campos de IBS e CBS;
+Informar as alíquotas simbólicas (0,1% para IBS e 0,9% para CBS);
+Registrar as operações sem recolhimento desses tributos;
+Ajustar sistemas de gestão, ERPs e processos internos.
+O objetivo é permitir que sistemas públicos e privados se adaptem ao novo modelo de Imposto sobre Valor Agregado (IVA dual) antes da cobrança efetiva.
+A partir dessa etapa, o modelo de cobrança passa a ser progressivamente deslocado do local de origem para o local de destino, com impactos logísticos e fiscais para contribuintes de todos os setores.
+Impactos no
+Imposto de Renda
+: novas faixas e tributação de dividendos
+A Reforma Tributária também prevê mudanças no Imposto de Renda a partir de 2026, incluindo:
+Isenção total para quem recebe até R$ 5.000 mensais;
+Redução de imposto para faixas intermediárias;
+Tributação de 10% sobre dividendos acima de R$ 50.000 mensais por pessoa física;
+Novas regras para contribuintes de alta renda com faturamento anual superior a R$ 600 mil.
+As medidas fazem parte da reestruturação do imposto de renda da pessoa física e devem modificar a distribuição da carga tributária no país.
+Simples Nacional
+: modelo permanece, mas com redistribuição interna
+Para as empresas do Simples Nacional:
+As tabelas atuais permanecem válidas em 2026;
+Não haverá aumento de carga tributária;
+A Receita Federal fará apenas a redistribuição interna dos valores para CBS e IBS.
+Ou seja, as empresas continuarão pagando o DAS normalmente.
+Reforma Tributária em 2027: início da cobrança da CBS e criação do Imposto Seletivo
+A partir de 2027:
+PIS, PIS-Importação, Cofins e Cofins-Importação serão extintos;
+A CBS passa a ser cobrada efetivamente;
+A alíquota estimada da CBS é de 8,7%, sujeita a confirmação;
+O IBS permanece com alíquota simbólica de 0,1%;
+Entra em vigor o Imposto Seletivo (IS), aplicável a produtos nocivos à saúde ou ao meio ambiente, como combustíveis fósseis, bebidas alcoólicas e cigarros.
+O IPI permanece apenas para garantir proteção à Zona Franca de Manaus.
+Ano de 2028: consolidação inicial, análise de arrecadação e neutralidade fiscal
+Em 2028:
+A CBS segue com cobrança plena;
+O IBS permanece simbólico (0,1%);
+ICMS e ISS continuam vigentes;
+O governo federal avaliará o impacto da arrecadação para verificar neutralidade fiscal.
+Se houver perda de arrecadação para União, Estados ou municípios, ajustes nas alíquotas poderão ser feitos a partir de 2029.
+2029 a 2032: redução gradual de ICMS e ISS e aumento proporcional do IBS
+Entre 2029 e 2032:
+Ano
+Percentual de ICMS/ISS vigente
+Percentual de IBS
+2029
+90%
+10%
+2030
+80%
+20%
+2031
+70%
+30%
+2032
+60%
+40%
+Essa transição progressiva garante a substituição gradual dos tributos estaduais e municipais pelo IBS, mantendo neutralidade na carga tributária.
+2033: início da vigência plena do novo sistema IVA dual
+A partir de 1º de janeiro de 2033:
+O ICMS e o ISS são totalmente extintos;
+Toda a tributação sobre bens e serviços passa a ocorrer exclusivamente pelo modelo dual:
+CBS (federal)
+IBS (estadual e municipal)
+O IBS será repartido entre os entes federativos conforme o destino do consumo.
+A Constituição prevê um teto estimado para a soma das alíquotas de CBS e IBS, e caso seja ultrapassado, o governo deverá propor ajustes legislativos para garantir neutralidade e evitar aumento indevido da carga tributária.
+Empresas precisam estar preparadas
+Diante do novo cronograma, empresas deverão:
+Revisar sistemas fiscais e contábeis;
+Reavaliar precificação, logística e contratos;
+Ajustar políticas internas de faturamento;
+Investir em capacitação de equipes financeiras, fiscais e jurídicas.
+A fase inicial da Reforma Tributária exige conhecimento técnico e preparação antecipada para garantir conformidade e evitar riscos operacionais durante a transição.
+Siga o Contábeis no WhatsApp e não perca nenhuma notícia
+Leia mais sobre
+REFORMA TRIBUTÁRIA
+CBS
+IBS
+IMPOSTO SELETIVO
+SIMPLES NACIONAL
+IMPOSTO DE RENDA
+PIS
+COFINS
+IPI
+ICMS
+ISS
+IVA DUAL
+TRIBUTAÇÃO
+BRASIL
+2026
+2027
+2033
+Publicado
+por
+Juliana Moratto
+﻿Editora chefe
+ver perfil
+enviar mensagem
+mais matérias
+publicar matérias
+ÚLTIMAS NOTÍCIAS
+REFORMA TRIBUTÁRIA
+cClassTrib na Reforma Tributária: entenda os reflexos na rotina contábil
+CONFORMIDADE FISCAL
+Receita Sintonia: como consultar a classificação fiscal e melhorar a conformidade
+PROCESSO TRIBUTÁRIO
+Decisão tributária saiu: o prazo do recurso começa no julgamento ou na intimação?
+DIREITO TRABALHISTA
+Segundo turno: trabalhador tem direito a tempo para votar sem desconto salarial
+ESCALA 6X1
+Fim da escala 6x1: como o RH pode usar dados para planejar a nova jornada
+FISCALIZAÇÃO
+Fiscalização de medicamentos: veja quais controles empresas precisam manter
+ARTICULISTAS CONTÁBEIS
+VER TODOS
+André Sacconato
+IA, o motor que sustenta (e ameaça) a economia
+Anderson Souza
+ISS fora da base do PIS e da COFINS: impacto para empresas
+Jorge Matsumoto
+Por que a reforma da jornada é parcialmente inconstitucional
+Danilo Campos
+Recuperação judicial: impactos contábeis e tributários
+Karina Alves
+Desistência da aposentadoria e os cuidados com um novo pedido
+Silvia Brunelli
+A guerra cibernética começou: a sua empresa está preparada para ela?
+Receba noticias no seu e-mail
+×
+Cadastro recebido.
+Agora voce recebera as principais noticias no seu e-mail.
+Fechar
+Noticias por e-mail
+Fique bem informado com os principais assuntos da contabilidade.
+Nao foi possivel cadastrar agora. Tente novamente.
+Nome
+E-mail
+Ao enviar, voce concorda com a
+politica de privacidade
+.
+Assinar newsletter
+Conteúdo
+Notícias
+Artigos
+Videos
+Termos Contábeis
+Regras
+Anuncie Conosco
+Contato
+Fórum
+Sobre o Portal Contábeis
+Contabilidade
+Tributos Federais
+Departamento Pessoal e RH
+Legalização de Empresas
+Tributos Estaduais/Municipais
+Assuntos Acadêmicos
+Contabilidade Pública
+Tecnologia Contábil
+Auditoria e Perícia
+Arquivo Morto
+Ferramentas
+Simples Nacional
+Anexos do Super Simples
+NFe DANFE/CTe DACTE
+SIGA
+Siga no Google News
+Gostou do Portal
+Contábeis?
+ANUNCIE CONOSCO
+O Portal Contábeis se isenta de quaisquer responsabilidades civis sobre eventuais discussões dos usuários ou visitantes deste site, nos termos da lei no 5.250/67 e artigos 927 e 931 ambos do novo código civil brasileiro.
+1999 - 2026 Contábeis ® - Todos os direitos reservados.
+Política de privacidade
+·
+Preferências de cookies
+O Portal Contábeis utiliza cookies essenciais e analíticos com base no
+legítimo interesse
+(LGPD Art. 7º, IX) para medir audiência,
+recomendar conteúdo e personalizar sua experiência.
+Publicidade personalizada depende do seu aceite.
+Detalhes em nossa
+Política de Privacidade
+.
+Ajuste suas
+preferências de cookies
+quando quiser.
+Usamos cookies essenciais e analíticos com base no
+legítimo interesse
+.
+Publicidade personalizada só com seu aceite.
+Saiba mais
+ou ajuste suas
+preferências
+.
+Entendi e continuar
+Usamos cookies para melhorar sua experiência, medir audiência e personalizar publicidade.
+Você pode aceitar todos, recusar opcionais ou
+personalizar
+.
+Política de Privacidade
+·
+Política de Cookies
+.
+Escolha como podemos usar cookies opcionais para audiência e publicidade.
+Consulte a
+Política de Privacidade
+.
+Apenas essenciais
+Personalizar
+Aceitar todos
+Preferencias de cookies
+Controle como o Portal Contabeis usa cookies. Voce pode mudar essa escolha a qualquer momento pelo link
+"Preferencias de cookies"
+no rodape.
+Essenciais (obrigatorios)
+Login, seguranca, sessao, prevencao de fraude. Necessarios para o site funcionar e nao podem ser desligados.
+Analiticos
+Google Analytics. Nos ajuda a entender quais conteudos sao mais lidos e melhorar o portal. Sem cookies persistentes quando recusado (pings cookieless).
+Marketing e publicidade
+Facebook Pixel, Outbrain, anuncios personalizados, pixels de parceiros. Se desligado, anuncios continuam aparecendo mas em modo nao-personalizado.
+Cancelar
+Salvar preferencias

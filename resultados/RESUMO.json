@@ -1,0 +1,702 @@
+{
+ "gerado_em": "2026-10-26T07:55",
+ "M1_mercado": {},
+ "M1_historico_eleicoes": [
+  {
+   "ano": 2002,
+   "vencedor": "Lula",
+   "ibovespa_dia_pct": -4.403394907638547,
+   "dolar_dia_pct": -1.6019992108378234,
+   "excesso_ibovespa_pct": null,
+   "anos": [
+    2003,
+    2006
+   ],
+   "pib_real_medio_pct": 3.5250000000000004,
+   "pib_anos_com_dado": 4,
+   "divida_bruta_inicio": 76.1,
+   "divida_bruta_fim": 64.6,
+   "ibovespa_real_pct": 244.47939207866537,
+   "mandato_completo": true
+  },
+  {
+   "ano": 2006,
+   "vencedor": "Lula",
+   "ibovespa_dia_pct": -1.088283157038239,
+   "dolar_dia_pct": 0.3648610721302292,
+   "excesso_ibovespa_pct": -0.7451399182974328,
+   "anos": [
+    2007,
+    2010
+   ],
+   "pib_real_medio_pct": 4.65,
+   "pib_anos_com_dado": 4,
+   "divida_bruta_inicio": 64.6,
+   "divida_bruta_fim": 62.4,
+   "ibovespa_real_pct": 44.636932267696714,
+   "mandato_completo": true
+  },
+  {
+   "ano": 2010,
+   "vencedor": "Dilma",
+   "ibovespa_dia_pct": 1.2564911635277953,
+   "dolar_dia_pct": 0.17632537909955115,
+   "excesso_ibovespa_pct": 0.15067557800774178,
+   "anos": [
+    2011,
+    2014
+   ],
+   "pib_real_medio_pct": 2.35,
+   "pib_anos_com_dado": 4,
+   "divida_bruta_inicio": 62.4,
+   "divida_bruta_fim": 61.6,
+   "ibovespa_real_pct": -45.33521499704227,
+   "mandato_completo": true
+  },
+  {
+   "ano": 2014,
+   "vencedor": "Dilma",
+   "ibovespa_dia_pct": -2.7666005660268334,
+   "dolar_dia_pct": 2.1608546663979045,
+   "excesso_ibovespa_pct": -1.986494053951815,
+   "anos": [
+    2015,
+    2018
+   ],
+   "pib_real_medio_pct": -0.925,
+   "pib_anos_com_dado": 4,
+   "divida_bruta_inicio": 61.6,
+   "divida_bruta_fim": 84.8,
+   "ibovespa_real_pct": 36.74226695329696,
+   "mandato_completo": true
+  },
+  {
+   "ano": 2018,
+   "vencedor": "Bolsonaro",
+   "ibovespa_dia_pct": -2.243350443303782,
+   "dolar_dia_pct": -1.0475335346774362,
+   "excesso_ibovespa_pct": -0.5107458385190666,
+   "anos": [
+    2019,
+    2022
+   ],
+   "pib_real_medio_pct": 1.425,
+   "pib_anos_com_dado": 4,
+   "divida_bruta_inicio": 84.8,
+   "divida_bruta_fim": 83.9,
+   "ibovespa_real_pct": 3.5127122710751246,
+   "mandato_completo": true
+  },
+  {
+   "ano": 2022,
+   "vencedor": "Lula",
+   "ibovespa_dia_pct": 1.3078514741703628,
+   "dolar_dia_pct": -1.6537583716840665,
+   "excesso_ibovespa_pct": 1.599488354159706,
+   "anos": [
+    2023,
+    2026
+   ],
+   "pib_real_medio_pct": 2.7749999999999995,
+   "pib_anos_com_dado": 4,
+   "divida_bruta_inicio": 83.9,
+   "divida_bruta_fim": 97,
+   "ibovespa_real_pct": 47.16197780636344,
+   "mandato_completo": false
+  },
+  {
+   "ano": 2026,
+   "vencedor": "Lula",
+   "ibovespa_dia_pct": null,
+   "dolar_dia_pct": -1.1247725300101763,
+   "excesso_ibovespa_pct": null
+  }
+ ],
+ "M7_previsao_do_mercado_contra_o_realizado": {
+  "linhas": [
+   {
+    "eleicao": 2002,
+    "previsao_feita_em": "2002-10-25",
+    "ano_alvo": 2005,
+    "dlsp_prevista": 56.2,
+    "dlsp_realizada": 47.92,
+    "dlsp_realizada_em": "2005-12-01",
+    "erro_dlsp_pp": 8.280000000000001,
+    "pib_medio_previsto": 3.0499999999999994,
+    "pib_medio_realizado": 3.366666666666667,
+    "erro_pib_pp": -0.31666666666666776
+   },
+   {
+    "eleicao": 2006,
+    "previsao_feita_em": "2006-10-27",
+    "ano_alvo": 2009,
+    "dlsp_prevista": 45.3,
+    "dlsp_realizada": 40.88,
+    "dlsp_realizada_em": "2009-12-01",
+    "erro_dlsp_pp": 4.419999999999995,
+    "pib_medio_previsto": 3.5,
+    "pib_medio_realizado": 3.6999999999999997,
+    "erro_pib_pp": -0.19999999999999973
+   },
+   {
+    "eleicao": 2010,
+    "previsao_feita_em": "2010-10-29",
+    "ano_alvo": 2013,
+    "dlsp_prevista": 37.0,
+    "dlsp_realizada": 30.5,
+    "dlsp_realizada_em": "2013-12-01",
+    "erro_dlsp_pp": 6.5,
+    "pib_medio_previsto": 4.5,
+    "pib_medio_realizado": 2.966666666666667,
+    "erro_pib_pp": 1.5333333333333332
+   },
+   {
+    "eleicao": 2014,
+    "previsao_feita_em": "2014-10-24",
+    "ano_alvo": 2017,
+    "dlsp_prevista": 35.0,
+    "dlsp_realizada": 51.37,
+    "dlsp_realizada_em": "2017-12-01",
+    "erro_dlsp_pp": -16.369999999999997,
+    "pib_medio_previsto": 2.1,
+    "pib_medio_realizado": -1.8333333333333333,
+    "erro_pib_pp": 3.9333333333333336
+   },
+   {
+    "eleicao": 2018,
+    "previsao_feita_em": "2018-10-26",
+    "ano_alvo": 2021,
+    "dlsp_prevista": 60.5,
+    "dlsp_realizada": 55.11,
+    "dlsp_realizada_em": "2021-12-01",
+    "erro_dlsp_pp": 5.390000000000001,
+    "pib_medio_previsto": 2.5,
+    "pib_medio_realizado": 0.9,
+    "erro_pib_pp": 1.6
+   },
+   {
+    "eleicao": 2022,
+    "previsao_feita_em": "2022-10-28",
+    "ano_alvo": 2025,
+    "dlsp_prevista": 66.5,
+    "dlsp_realizada": 65.24,
+    "dlsp_realizada_em": "2025-12-01",
+    "erro_dlsp_pp": 1.2600000000000051,
+    "pib_medio_previsto": 1.4814666666666667,
+    "pib_medio_realizado": 2.9666666666666663,
+    "erro_pib_pp": -1.4851999999999996
+   }
+  ],
+  "resumo": {
+   "erro_medio_absoluto_dlsp_pp": 7.036666666666666,
+   "vies_medio_dlsp_pp": 1.5800000000000007,
+   "vezes_que_o_mercado_previu_divida_maior": 5,
+   "maior_erro_para_menos": -16.369999999999997,
+   "erro_medio_absoluto_pib_pp": 1.5114222222222222,
+   "vies_medio_pib_pp": 0.8441333333333332,
+   "n": 6
+  }
+ },
+ "M3_gasto": {
+  "despesa_total": {
+   "2019": {
+    "ano": 2019,
+    "brasil": 43.042876399214,
+    "mediana_g20_emergentes": 31.770041301054,
+    "paises_g20": {
+     "ARG": 38.129056297919,
+     "CHN": 33.637742500653,
+     "IND": 27.374053165519,
+     "IDN": 16.35879139945,
+     "MEX": 25.263015738684,
+     "RUS": 33.752262028844,
+     "SAU": 31.770041301054,
+     "ZAF": 31.393811424573,
+     "TUR": 35.362511759836
+    },
+    "media_fm_emg": 31.571979209001,
+    "mediana_america_latina": 28.540171237829,
+    "paises_latam": {
+     "ARG": 38.129056297919,
+     "CHL": 26.494919580752,
+     "COL": 32.878861580952,
+     "MEX": 25.263015738684,
+     "PER": 20.819735297907,
+     "URY": 30.585422894906
+    },
+    "media_avancados": 38.732514917065
+   },
+   "2022": {
+    "ano": 2022,
+    "brasil": 43.445330898147,
+    "mediana_g20_emergentes": 29.894768231654,
+    "paises_g20": {
+     "ARG": 37.643122969244,
+     "CHN": 32.625179627723,
+     "IND": 29.894768231654,
+     "IDN": 17.257502158197,
+     "MEX": 28.509130686015,
+     "RUS": 35.147334870877,
+     "SAU": 25.272821693077,
+     "ZAF": 31.888962637187,
+     "TUR": 27.109473546912
+    },
+    "media_fm_emg": 31.244407769903,
+    "mediana_america_latina": 29.1165869115365,
+    "paises_latam": {
+     "ARG": 37.643122969244,
+     "CHL": 26.736192663357,
+     "COL": 34.085297560448,
+     "MEX": 28.509130686015,
+     "PER": 23.098022676221,
+     "URY": 29.724043137058
+    },
+    "media_avancados": 40.310496506102
+   },
+   "2025": {
+    "ano": 2025,
+    "brasil": 46.934805032268,
+    "mediana_g20_emergentes": 31.131754768795,
+    "paises_g20": {
+     "ARG": 31.131754768795,
+     "CHN": 32.878623208048,
+     "IND": 28.234493352019,
+     "IDN": 16.194521734651,
+     "MEX": 29.838371346875,
+     "RUS": 39.142142100091,
+     "SAU": 29.072029558835,
+     "ZAF": 34.122821054843,
+     "TUR": 32.284541607505
+    },
+    "media_fm_emg": 32.255399266627,
+    "mediana_america_latina": 30.485063057835,
+    "paises_latam": {
+     "ARG": 31.131754768795,
+     "CHL": 26.235319405706,
+     "COL": 33.189363624444,
+     "MEX": 29.838371346875,
+     "PER": 21.367357686296,
+     "URY": 31.498111052288
+    },
+    "media_avancados": 40.881276889124
+   },
+   "2026": {
+    "ano": 2026,
+    "brasil": 48.664022440688,
+    "mediana_g20_emergentes": 30.462093814622,
+    "paises_g20": {
+     "ARG": 30.462093814622,
+     "CHN": 32.370375880188,
+     "IND": 28.497394854715,
+     "IDN": 16.861595229158,
+     "MEX": 29.117183499456,
+     "RUS": 39.247995707732,
+     "SAU": 28.268567335815,
+     "ZAF": 33.132585012142,
+     "TUR": 32.593711389915
+    },
+    "media_fm_emg": 32.377139017973,
+    "mediana_america_latina": 29.789638657039,
+    "paises_latam": {
+     "ARG": 30.462093814622,
+     "CHL": 26.257706451713,
+     "COL": 34.731542697796,
+     "MEX": 29.117183499456,
+     "PER": 20.871152285196,
+     "URY": 31.791860246233
+    },
+    "media_avancados": 41.416189896041
+   }
+  },
+  "resultado_nominal": {
+   "2025": {
+    "ano": 2025,
+    "brasil": -7.4288045757745,
+    "mediana_g20_emergentes": -4.8596833354093,
+    "paises_g20": {
+     "ARG": -0.15602148746002,
+     "CHN": -7.8675159742722,
+     "IND": -7.3660687858933,
+     "IDN": -2.9166944221677,
+     "MEX": -4.8596833354093,
+     "RUS": -3.8701189743502,
+     "SAU": -5.7993258136647,
+     "ZAF": -5.5733672124446,
+     "TUR": -2.761030535715
+    },
+    "media_fm_emg": -6.0003927094473,
+    "mediana_america_latina": -3.0902377917806,
+    "paises_latam": {
+     "ARG": -0.15602148746002,
+     "CHL": -2.7670767829982,
+     "COL": -5.7508333534174,
+     "MEX": -4.8596833354093,
+     "PER": -2.3542373135894,
+     "URY": -3.413398800563
+    },
+    "media_avancados": -4.4141439394129
+   },
+   "2026": {
+    "ano": 2026,
+    "brasil": -8.1186162935564,
+    "mediana_g20_emergentes": -4.2288548711513,
+    "paises_g20": {
+     "ARG": 0.41077824962255,
+     "CHN": -8.0417296116212,
+     "IND": -7.5058430919322,
+     "IDN": -2.8983539174361,
+     "MEX": -4.2288548711513,
+     "RUS": -3.1733263709166,
+     "SAU": -6.4761477102648,
+     "ZAF": -4.3757055581688,
+     "TUR": -3.1377440823688
+    },
+    "media_fm_emg": -6.1757938561895,
+    "mediana_america_latina": -3.0490094686305502,
+    "paises_latam": {
+     "ARG": 0.41077824962255,
+     "CHL": -1.9918341740676,
+     "COL": -6.8503154003755,
+     "MEX": -4.2288548711513,
+     "PER": -1.4591907998157,
+     "URY": -4.1061847631935
+    },
+    "media_avancados": -5.1785559145692
+   }
+  },
+  "resultado_primario": {
+   "2025": {
+    "ano": 2025,
+    "brasil": -0.13437361120851,
+    "mediana_g20_emergentes": -0.75728607300965,
+    "paises_g20": {
+     "ARG": 1.3204277275442,
+     "CHN": -6.9051648672724,
+     "IND": -2.2367963286883,
+     "IDN": -0.75728607300965,
+     "MEX": 1.2422219935681,
+     "RUS": -3.6480693588012,
+     "SAU": -5.5800131956093,
+     "ZAF": -0.16037216680981,
+     "TUR": -0.14977008584652
+    },
+    "media_fm_emg": -3.8596724670701,
+    "mediana_america_latina": -1.1410940392538,
+    "paises_latam": {
+     "ARG": 1.3204277275442,
+     "CHL": -1.9816187730271,
+     "COL": -3.4563436728632,
+     "MEX": 1.2422219935681,
+     "PER": -1.0022754001316,
+     "URY": -1.279912678376
+    },
+    "media_avancados": -2.5133369557048
+   },
+   "2026": {
+    "ano": 2026,
+    "brasil": -0.33890967348697,
+    "mediana_g20_emergentes": -0.64141961761706,
+    "paises_g20": {
+     "ARG": 1.6555543983345,
+     "CHN": -6.9417860381697,
+     "IND": -2.1696394284352,
+     "IDN": -0.64141961761706,
+     "MEX": 1.6656645865025,
+     "RUS": -2.1047215410734,
+     "SAU": -5.9422195428745,
+     "ZAF": 1.0482120948242,
+     "TUR": -0.41706275975296
+    },
+    "media_fm_emg": -3.8059657788678,
+    "mediana_america_latina": -0.652069868310835,
+    "paises_latam": {
+     "ARG": 1.6555543983345,
+     "CHL": -1.2543779948511,
+     "COL": -3.3832590497834,
+     "MEX": 1.6656645865025,
+     "PER": -0.04976174177057,
+     "URY": -2.0875189445798
+    },
+    "media_avancados": -3.0376219224112
+   }
+  },
+  "juros_liquidos_fmi_pct_pib": {
+   "2025": 7.29443096456599,
+   "2026": 7.77970662006943
+  },
+  "diferenca_2025_contra_mediana_g20_pp": 15.803050263473004,
+  "diferenca_2025_contra_fm_emg_pp": 14.679405765641,
+  "veredito_a5": "confirmada"
+ },
+ "M3_contas_hoje": {
+  "bcb-primario-12m": {
+   "ultimo": {
+    "mes": "2026-08-01",
+    "valor": 0.62
+   },
+   "dez_2014": 0.56,
+   "dez_2018": 1.55,
+   "dez_2022": -1.25,
+   "dez_2025": 0.43
+  },
+  "bcb-juros-nominais-12m": {
+   "ultimo": {
+    "mes": "2026-08-01",
+    "valor": 9.48
+   },
+   "dez_2014": 5.95,
+   "dez_2018": 6.96,
+   "dez_2022": 4.57,
+   "dez_2025": 8.34
+  },
+  "bcb-divida-bruta-gg": {
+   "ultimo": {
+    "mes": "2026-08-01",
+    "valor": 82.87
+   },
+   "dez_2014": 56.28,
+   "dez_2018": 75.27,
+   "dez_2022": 71.68,
+   "dez_2025": 78.64
+  },
+  "bcb-divida-liquida-sp": {
+   "ultimo": {
+    "mes": "2026-08-01",
+    "valor": 69.27
+   },
+   "dez_2014": 32.59,
+   "dez_2018": 52.77,
+   "dez_2022": 56.13,
+   "dez_2025": 65.24
+  },
+  "deficit_nominal_12m_pct_pib": 10.1
+ },
+ "M4_juro_real": {
+  "selic_meta": 13.75,
+  "selic_em": "2026-10-26",
+  "ipca_esperado_12m": 4.5146,
+  "focus_data": "2026-10-16",
+  "juro_real_ex_ante_pct": 8.836468780438334
+ },
+ "M4_focus_selic": {
+  "2026": {
+   "data": "2026-10-16",
+   "mediana": 13.25
+  },
+  "2027": {
+   "data": "2026-10-16",
+   "mediana": 12.0
+  },
+  "2028": {
+   "data": "2026-10-16",
+   "mediana": 10.5
+  },
+  "2029": {
+   "data": "2026-10-16",
+   "mediana": 10.0
+  },
+  "2030": {
+   "data": "2026-10-16",
+   "mediana": 10.0
+  }
+ },
+ "M4_focus_macro": {
+  "PIB Total": {
+   "2026": 1.8301,
+   "2027": 1.3246,
+   "2028": 1.81,
+   "2029": 2.0,
+   "2030": 2.0
+  },
+  "IPCA": {
+   "2026": 5.219,
+   "2027": 4.3206,
+   "2028": 3.75,
+   "2029": 3.5,
+   "2030": 3.5
+  },
+  "Câmbio": {
+   "2026": 5.132,
+   "2027": 5.2213,
+   "2028": 5.29,
+   "2029": 5.3,
+   "2030": 5.37
+  },
+  "Resultado primário": {
+   "2026": -0.4787,
+   "2027": -0.4,
+   "2028": -0.2,
+   "2029": -0.13,
+   "2030": 0.0
+  },
+  "Dívida líquida do setor público": {
+   "2026": 70.1,
+   "2027": 74.0,
+   "2028": 76.7,
+   "2029": 79.1275,
+   "2030": 81.3762
+  }
+ },
+ "M5_medidas": {
+  "medidas_recorrentes": [
+   {
+    "id": "M01",
+    "nome": "Isenção do IR até R$ 5 mil e redução até R$ 7.350 (Lei 15.270/2025), com tributação mínima de altas rendas",
+    "categoria": "A",
+    "rs_bi": 27.72
+   },
+   {
+    "id": "M02",
+    "nome": "Gás do Povo (recarga gratuita do botijão de 13 kg)",
+    "categoria": "B",
+    "rs_bi": 4.7
+   },
+   {
+    "id": "M03",
+    "nome": "Luz do Povo: tarifa social com gratuidade até 80 kWh/mês e isenção da CDE até 120 kWh",
+    "categoria": "D",
+    "rs_bi": 10.4
+   },
+   {
+    "id": "M05",
+    "nome": "Pé-de-Meia em 2026 (dentro da LOA)",
+    "categoria": "B",
+    "rs_bi": 11.47
+   },
+   {
+    "id": "M10",
+    "nome": "Agora Tem Especialistas (atendimento do SUS em hospitais privados pago com crédito tributário)",
+    "categoria": "D",
+    "rs_bi": 2.0
+   },
+   {
+    "id": "M12",
+    "nome": "Desenrola Brasil 3.0: compra de carteiras de dívidas pela União em leilão (MP 1.393/2026)",
+    "categoria": "B",
+    "rs_bi": 5.0
+   },
+   {
+    "id": "M13",
+    "nome": "Reajuste do Bolsa Família em 15,04% (piso de R$ 600 para R$ 691)",
+    "categoria": "B",
+    "rs_bi": 22.7
+   },
+   {
+    "id": "M14",
+    "nome": "Salário mínimo de 2026: R$ 1.621 (alta de 6,79%, com ganho real de 2,5%)",
+    "categoria": "B",
+    "rs_bi": 39.1
+   }
+  ],
+  "total_recorrente_rs_bi": 123.09,
+  "pib_nominal_2027_ifi": 14533.0,
+  "total_recorrente_pct_pib_2027": 0.8469689671781463,
+  "por_categoria_rs_bi": {
+   "A": 27.72,
+   "B": 82.97,
+   "D": 12.4
+  },
+  "por_categoria_fatia_pct": {
+   "A": 22.5201072386059,
+   "B": 67.40596311641887,
+   "D": 10.073929644975221
+  },
+  "promessas": 15,
+  "promessas_com_custo_publicado": 5,
+  "promessas_sem_custo": [
+   "Universalizar a escola de tempo integral até o ensino médio",
+   "Continuar a valorização do salário mínimo acima da inflação",
+   "Fim da escala 6x1 e jornada de 40 horas (promessa do plano, já cumprida pela EC 141)",
+   "Manter a Farmácia Popular 100% gratuita (e incluir exames, segundo a seleção do projeto de simulação)",
+   "Manter, aperfeiçoar e ampliar a proteção social e a transferência de renda",
+   "Manter e ampliar o Minha Casa Minha Vida para todas as faixas",
+   "Seguir mitigando a volatilidade dos preços de combustíveis",
+   "Debater o barateamento da energia elétrica para residências e empresas",
+   "Pé-de-Meia Licenciatura / Pé-de-Meia Professor",
+   "Manter o arcabouço fiscal (restrição declarada para as promessas)"
+  ]
+ },
+ "M5_S2": {
+  "custo_pct_pib": 0.0,
+  "itens": []
+ },
+ "M6_divida": {
+  "premio_pp": 2.046153846153846,
+  "premio_origem": "provisório: o do projeto do vídeo 13 (reação do DI de 15/out), até medir o do dia 26/out",
+  "S0_base_ifi": {
+   "2025": 78.6,
+   "2026": 82.49999999999999,
+   "2027": 86.39999999999999,
+   "2028": 90.09999999999998,
+   "2029": 92.69999999999999,
+   "2030": 95.69999999999999
+  },
+  "S1_central": {
+   "2025": 78.6,
+   "2026": 82.49999999999999,
+   "2027": 87.11436911088292,
+   "2028": 91.9292901356851,
+   "2029": 95.98759318718487,
+   "2030": 100.72465464270877
+  },
+  "S2_risco": {
+   "2025": 78.6,
+   "2026": 82.49999999999999,
+   "2027": 87.11436911088292,
+   "2028": 91.9292901356851,
+   "2029": 95.98759318718487,
+   "2030": 100.72465464270877
+  },
+  "custo_s2_pct_pib": 0.0,
+  "S0_reproduz_a_ifi": true,
+  "variacao_2026_2030_S1_pp": 18.224654642708785,
+  "classificacao_S1": "sobe rápido",
+  "primario_que_estabiliza_em_2030_pct_pib": 3.6370614555239125,
+  "primario_previsto_2030_base_ifi": -1.1,
+  "distancia_ate_estabilizar_pp": 4.737061455523913,
+  "sensibilidade_2030": {
+   "premio_metade": 98.18838926937272,
+   "premio_dobro": 105.94320648064526,
+   "repasse_total_imediato": 102.90922745060789,
+   "pib_1_ponto_abaixo": 104.5262767539322,
+   "pib_1_ponto_acima": 97.09739056883318,
+   "custos_fora_da_base_ifi": 101.5326573231981,
+   "cenario_otimista_ifi_com_premio": 89.94122438317714,
+   "cenario_pessimista_ifi_com_premio": 111.65592760845388
+  },
+  "fmi_weo_out2026_conceito_fmi": {
+   "2025": 93.3,
+   "2026": 97,
+   "2027": 99.3,
+   "2028": 101.3,
+   "2029": 103.2,
+   "2030": 104.5,
+   "2031": 105.3
+  },
+  "focus_dbgg": {
+   "2026": 83.4,
+   "2027": 87.2603,
+   "2028": 90.4,
+   "2029": 92.825,
+   "2030": 95.02
+  }
+ },
+ "M6_variante_custos_fora_da_base": {
+  "itens": [
+   {
+    "id": "M12",
+    "nome": "Desenrola Brasil 3.0: compra de carteiras de dívidas pela União em leilão (MP 1.393/2026)",
+    "categoria": "B",
+    "rs_bi": 5.0
+   },
+   {
+    "id": "M13",
+    "nome": "Reajuste do Bolsa Família em 15,04% (piso de R$ 600 para R$ 691)",
+    "categoria": "B",
+    "rs_bi": 22.7
+   }
+  ],
+  "pct_pib": 0.1906007018509599
+ },
+ "M4_veredito_a7": "não confirmada"
+}

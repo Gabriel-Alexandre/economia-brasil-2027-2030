@@ -1,0 +1,673 @@
+# fonte: https://static.poder360.com.br/uploads/2026/09/Texto_RMD_Ago_26.pdf
+# capturado em: 2026-10-26
+
+
+=== página 1 ===
+2026
+Agosto
+Publicado em
+28/09/2026
+1
+
+=== página 2 ===
+MINISTRO DA FAZENDA
+Dario Carnevalli Durigan
+SECRETÁRIO-EXECUTIVO DO MINISTÉRIO DA FAZENDA
+Rogério Ceron de Oliveira
+SECRETÁRIO DO TESOURO NACIONAL
+Daniel Cardoso Leal
+SECRETÁRIO ADJUNTO DO TESOURO NACIONAL
+David Rebelo Athayde
+SUBSECRETÁRIOS DO TESOURO NACIONAL
+Francisco Onivaldo de Oliveira Segundo
+Heriberto Henrique Vilela do Nascimento
+Luiz Fernando Alves
+Maria Betania Gonçalves Xavier
+Paulo Moreira Marques
+Rafael Brigolini
+Suzana Teixeira Braga
+EQUIPE TÉCNICA
+Subsecretário da Dívida Pública
+Francisco Onivaldo de Oliveira Segundo
+Coordenador-Geral de Operações da Dívida Pública
+Helano Borges Dias
+Coordenador-Geral de Planejamento Estratégico da Dívida Pública
+Fausto Jose Araujo Vieira
+Coordenador-Geral de Controle e Pagamento da Dívida Pública
+Leonardo Martins Canuto Rocha
+Coordenadora-Geral do Tesouro Direto
+Mauricio Dias Leister
+Informações:
+Gerência de Relacionamento Institucional - GERIN
+Correio Eletrônico: stndivida@tesouro.gov.br
+Secretaria do Tesouro Nacional
+Edifício Sede do Ministério da Economia, Esplanada dos Ministérios, Bloco P, 2° andar
+70048-900 - Brasília – DF
+Correio Eletrônico: ascom@tesouro.gov.br
+Home Page: http://www.gov.br/tesouronacional
+Metodologia dos Indicadores da Dívida Pública Federal: Nota Metodológica
+Relatório Mensal da Dívida Pública Federal é uma publicação da Secretaria do Tesouro Nacional.
+É permitida a sua reprodução total ou parcial, desde que mencionada a fonte.
+2
+
+=== página 3 ===
+ÍNDICE
+1. OPERAÇÕES NO MERCADO PRIMÁRIO .................................................... 5
+1.1 Emissões e Resgastes da DPF ............................................................................................. 5
+1.2 Dívida Pública Mobiliária Federal interna—DPMFi ........................................................... 6
+Emissões e Resgastes da DPMFi ................................................................................................................................. 6
+Programa Tesouro Direto ............................................................................................................................................ 7
+Emissões Diretas e Cancelamentos .......................................................................................................................... 8
+1.3 Dívida Pública Federal externa—DPFe ............................................................................. 9
+2. ESTOQUE DA DÍVIDA PÚBLICA FEDERAL—DPF .......................................... 10
+2.1 Evolução .............................................................................................................................. 10
+2.2 Fatores de Variação ........................................................................................................... 11
+2.3 Composição ........................................................................................................................ 12
+2.3.1 Indexadores ......................................................................................................................................................... 12
+2.3.2 Detentores ........................................................................................................................................................... 13
+3. PERFIL DE VENCIMENTOS DA DÍVIDA PÚBLICA FEDERAL—DPF ................ 14
+3.1 Composição dos Vencimentos ......................................................................................... 14
+3.2 Prazo Médio ......................................................................................................................... 15
+3.3 Vida Média (Average Term to Maturity—ATM) ................................................................ 16
+4. CUSTO MÉDIO DA DÍVIDA PÚBLICA FEDERAL—DPF .................................. 17
+4.1 Custo Médio do Estoque .................................................................................................... 17
+4.2 Custo Médio das Emissões em Oferta Pública da DPMFi ................................................ 18
+5. MERCADO SECUNDÁRIO DE TÍTULOS PÚBLICOS FEDERAIS ....................... 19
+5.1 Volume Negociado ............................................................................................................ 19
+5.2 Rentabilidade dos Títulos Públicos Federais ..................................................................... 21
+6. RESERVA DE LIQUIDEZ ................................................................................ 22
+7. GARANTIAS HONRADAS EM OPERAÇÕES DE CRÉDITO .......................... 23
+3
+
+=== página 4 ===
+TABELAS
+Tabela 1.1 – Emissões e resgates da DPF ............................................................................................. 5
+Tabela 1.2 – Emissões e resgates da DPF, por indexador .................................................................. 5
+Tabela 1.3 – Emissões e resgates da DPMFi ......................................................................................... 6
+Tabela 1.4 – Programa Tesouro Direto .................................................................................................. 7
+Tabela 1.5 – Perfil dos investidores cadastrados ................................................................................. 8
+Tabela 1.6 – Emissões diretas e cancelamentos da DPMFi ......................................................................... 8
+Tabela 1.7 – Emissões e resgates da DPFe ........................................................................................... 9
+Tabela 2.1 – Estoque da DPF ................................................................................................................... 10
+Tabela 2.2 – Fatores de variação da DPF ............................................................................................ 11
+Tabela 2.3 – Composição da DPF.......................................................................................................... 12
+Tabela 2.4 – Detentores dos títulos públicos – DPMFi .......................................................................... 13
+Tabela 3.1 – Vencimentos da DPF ......................................................................................................... 14
+Tabela 3.2 – Dívida Pública Federal a vencer em 12 meses, por indexador ................................. 14
+Tabela 3.3 – Prazo médio da DPF ........................................................................................................... 15
+Tabela 3.4 – Prazo médio das emissões da DPMFi em oferta pública ............................................ 15
+Tabela 3.5 – Vida média da DPF ............................................................................................................ 16
+Tabela 4.1 – Custo médio do estoque da DPF .................................................................................... 17
+Tabela 4.2 – Custo médio das emissões em oferta pública da DPMFi ........................................... 18
+Tabela 5.1 – Volume negociado no mercado secundário, por título ............................................. 19
+Tabela 5.2 – Vencimentos mais negociados por volume financeiro no mercado secundário, por
+indexador .................................................................................................................................................. 20
+GRÁFICOS
+Gráfico 1.1 – Emissões e resgates da DPMFi, por indexador ............................................................. 7
+Gráfico 1.2 – Emissões e resgates da DPFe .......................................................................................... 9
+Gráfico 2.1 – Composição da DPF por indexador ............................................................................. 12
+Gráfico 2.2 – Composição da carteira de títulos públicos, por detentor – DPMFi ....................... 13
+Gráfico 2.3 – Distribuição por prazo de vencimento, por detentor – DPMFi ................................. 13
+Gráfico 3.1 – Prazo médio das emissões da DPMFi em ofertas públicas x prazo médio do estoque da
+DPMFi ........................................................................................................................................................... 15
+Gráfico 4.1 – Custo médio acumulado em 12 meses da DPF, DPMFi, DPFe e Taxa Selic ...................... 17
+Gráfico 4.2 – Custo médio do estoque e custo médio das emissões da DPMFi .......................... 18
+Gráfico 4.3 – Custo médio das emissões dos títulos da DPMFi ......................................................... 18
+Gráfico 5.1 – Volume diário de títulos públicos negociado no mercado secundário como % dos
+respectivos estoques ................................................................................................................................ 19
+Gráfico 5.2 – Volume mensal em tela e percentual do mercado secundário ............................ 20
+Gráfico 5.3 – Rentabilidade dos títulos públicos (% acumulado em 12 meses) ............................ 21
+Gráfico 5.4 – Evolução da rentabilidade dos títulos públicos – IMA geral (% acumulado em 12 meses)
+...................................................................................................................................................................... 21
+Gráfico 6.1– Evolução da reserva e índice de liquidez da dívida pública ................................... 22
+4
+
+=== página 5 ===
+1. Operações no Mercado Primário
+1.1 Emissões e Resgates da DPF
+No mês de agosto, as emissões da Dívida Pública Federal – DPF1 corresponderam a R$ 211,62
+bilhões, enquanto os resgates alcançaram R$ 296,05 bilhões, resultando em resgate líquido de
+R$ 84,43 bilhões, sendo R$ 83,90 bilhões referentes ao resgate líquido da Dívida Pública Mobiliária
+Federal interna - DPMFi e R$ 0,53 bilhão, ao resgate líquido da Dívida Pública Federal externa -
+DPFe.
+Tabela 1.1
+Emissões e resgates
+da DPF
+Agosto/2026
+Tabela 1.2
+Emissões e resgates
+da DPF,
+por indexador
+Agosto/2026
+1 Neste relatório, todas as estatísticas referem-se à DPF em poder do público.
+5
+
+=== página 6 ===
+1.2 Dívida Pública Mobiliária Federal interna—DPMFi
+Emissões e Resgates da DPMFi
+As emissões de títulos da DPMFi alcançaram R$ 211,49 bilhões: R$ 105,51 bilhões (49,89%) em
+títulos atrelados a taxa flutuante; R$ 84,05 bilhões (39,74%) em títulos com remuneração
+prefixada e R$ 21,85 bilhões (10,33%) em títulos atrelados a índice de preços. Desse total, foram
+emitidos R$ 193,36 bilhões nos leilões tradicionais, R$ 15,00 bilhões relativos às vendas de títulos
+do Programa Tesouro Direto (p. 7) e R$ 3,12 bilhões relativo às emissões diretas (p. 8).
+Tabela 1.3
+Emissões e resgates
+da DPMFi
+Agosto/2026
+6
+
+=== página 7 ===
+Nos leilões de LFT foram emitidos R$ 95,42 bilhões, com vencimento em setembro de 2032. Nos
+leilões de LTN foram emitidos títulos no valor total de R$ 66,40 bilhões, com vencimento entre abril
+de 2027 e janeiro de 2032. Nos leilões de NTN-B (títulos remunerados pelo IPCA) foram emitidos
+R$ 16,40 bilhões, com vencimentos entre maio de 2029 e agosto de 2060. Já nos leilões de NTN-F,
+foram emitidos R$ 15,14 bilhões, com vencimentos entre janeiro de 2031 e janeiro de 2037. Todas
+as emissões ocorreram mediante pagamento em dinheiro.
+O total de resgates de títulos da DPMFi foi de R$ 295,39 bilhões, com destaque para os títulos
+atrelados a índice de preços, no valor de R$ 290,13 bilhões (98,22%). Os vencimentos efetivos do
+período totalizaram R$ 277,79 bilhões.
+Gráfico 1.1
+Emissões e resgates da
+DPMFi, por indexador
+Agosto/2026
+Programa Tesouro Direto
+As emissões do Tesouro Direto2 em agosto atingiram R$ 15.003,69 milhões, enquanto os resgates
+corresponderam a R$ 17.216,42 milhões, o que resultou em resgate líquido de R$ 2.212,73
+milhões. O título mais demandado pelos investidores foi o Tesouro Selic, que respondeu por
+35,81% do montante vendido.
+O estoque do Tesouro Direto alcançou R$ 271.991,92 milhões, o que representa uma diminuição
+de 0,10% em relação ao mês anterior. O título com maior representação no estoque é o Tesouro
+Selic, que corresponde a 36,92% do total.
+Tabela 1.4
+Programa Tesouro
+Direto
+Agosto/2026
+2 Programa de venda de títulos públicos a pessoas físicas por meio da internet.
+7
+
+=== página 8 ===
+Em relação ao número de investidores ativos, houve aumento de 23.962 participantes com
+posição no Tesouro Direto em agosto. Desta forma, o total de investidores ativos chegou a
+3.832.453, o que representa um incremento de 21,69% em relação ao mesmo mês do ano
+anterior.
+Tabela 1.5
+Perfil dos investidores
+cadastrados
+Agosto/2026
+Emissões Diretas e Cancelamentos
+Em agosto, as emissões diretas de títulos da DPMFi totalizaram R$ 3.123,22 milhões. Já os
+cancelamentos contabilizaram R$ 0,10 milhão.
+Tabela 1.6
+Emissões diretas e
+cancelamentos da
+DPMFi
+Agosto/2026
+8
+
+=== página 9 ===
+1.3 Dívida Pública Federal externa—DPFe
+No mês de agosto, as emissões da DPFe totalizaram R$ 129,67 milhões, relativos a desembolsos
+da dívida contratual.
+Já os fluxos de amortização e juros da DPFe pagos no período totalizaram R$ 662,65 milhões,
+sendo R$ 657,19 milhões referentes à dívida mobiliária e R$ 5,46 milhões, à dívida contratual.
+Tabela 1.7
+Emissões e resgates
+da DPFe
+Agosto/2026
+Gráfico 1.2
+Emissões e resgates
+da DPFe
+Agosto/2026
+9
+
+=== página 10 ===
+2. Estoque da Dívida Pública Federal—DPF
+2.1 Evolução
+O estoque da DPF apresentou aumento, em termos nominais, de 0,04%, passando de R$ 9.288,78
+bilhões, em julho, para R$ 9.292,73 bilhões, em agosto.
+A DPMFi teve seu estoque reduzido em 0,05%, ao passar de R$ 8.948,72 bilhões para R$ 8.944,48
+bilhões, devido ao resgate líquido, no valor de R$ 83,90 bilhões, neutralizado, em parte, pela
+apropriação positiva de juros, no valor de R$ 79,66 bilhões.
+Com relação ao estoque da DPFe, houve variação positiva de 2,41% sobre o estoque apurado
+em julho, encerrando o mês de agosto em R$ 348,26 bilhões (US$ 67,21 bilhões), sendo R$ 299,70
+bilhões (US$ 57,84 bilhões) referentes à dívida mobiliária e R$ 48,56 bilhões (US$ 9,37 bilhões)
+relativos à dívida contratual.
+Tabela 2.1 (R$ Bilhões)
+Estoque da DPF Dez/25 Jul/26 Ago/26
+DPF 8.635,09 9.288,78 9.292,73 100,00%
+DPMFi 8.309,03 8.948,72 8.944,48 100,00% 96,25%
+LFT 4.164,12 4.744,09 4.896,65 54,74% 52,69%
+LTN 1.331,87 1.133,36 1.213,78 13,57% 13,06%
+NTN-B 2.137,95 2.311,60 2.050,69 22,93% 22,07%
+NTN-B1 12,74 18,84 19,37 0,22% 0,21%
+NTN-C 80,37 78,01 78,44 0,88% 0,84%
+NTN-F 567,08 647,15 668,58 7,47% 7,19%
+Dívida Securitizada 2,05 2,56 3,78 0,04% 0,04%
+TDA 0,23 0,27 0,26 0,00% 0,00%
+Demais 12,62 12,83 12,94 0,14% 0,14%
+DPFe¹ 326,07 340,06 348,26 100,00% 3,75%
+Dívida Mobiliária 273,98 292,75 299,70 86,06% 3,23%
+Global USD 268,93 258,56 264,49 75,95% 2,85%
+Euro 0,00 29,36 30,33 8,71% 0,33%
+Global BRL 5,05 4,83 4,87 1,40% 0,05%
+Dívida Contratual 52,08 47,31 48,56 13,94% 0,52%
+Organismos Multilaterais 30,19 28,35 29,05 8,34% 0,31%
+Credores Privados/Ag.Gov. 21,89 18,96 19,51 5,60% 0,21%
+¹ Valores da DPFe convertidos de todas as moedas para US$ e, posteriormente, de US$ para R$ com a cotação do último dia
+do mês.
+Série histórica: Anexo 2.1
+Indicadores PAF 2026
+Estoque em mercado (R$ Bilhões)
+Mínimo Máximo
+DPF
+9.700,0 10.300,0
+10
+
+=== página 11 ===
+2.2 Fatores de Variação
+Conforme mencionado no item anterior, a Dívida Pública Federal - DPF apresentou aumento,
+em termos nominais, de 0,04%, ao passar de R$ 9.288,78 bilhões, em julho, para R$ 9.292,73
+bilhões, em agosto. Esta variação deveu-se à apropriação positiva de juros, no valor de R$ 88,39
+bilhões, neutralizado, em parte, pelo resgate líquido, no valor de R$ 84,43 bilhões.
+Tabela 2.2
+Fatores de variação
+da DPF
+Agosto/2026
+11
+
+=== página 12 ===
+2.3 Composição
+2.3.1 Indexadores
+Em relação à composição da DPF, houve diminuição da participação da DPMFi, passando de
+96,34%, em julho, para 96,25%, em agosto. Já a participação da DPFe aumentou de 3,66% para
+3,75%.
+A parcela dos títulos remunerados por taxa flutuante passou de 51,11%, em julho, para 52,74%,
+em agosto, enquanto a participação dos títulos vinculados a índice de preços da DPF foi
+reduzida de 26,02%, em julho, para 23,22%, em agosto. A parcela dos títulos com remuneração
+prefixada, por sua vez, apresentou aumento, passando de 19,22% para 20,31%.
+Tabela 2.3
+Composição da DPF
+Gráfico 2.1
+Composição da DPF
+por indexador
+Agosto/2026
+Indicadores PAF 2026
+Participação no estoque da DPF (%) - Revisado
+Mínimo Máximo
+Prefixado 20,0 24,0
+Índice de Preços 21,0 25,0
+Taxa Flutuante 49,0 53,0
+Câmbio 3,0 7,0
+12
+
+=== página 13 ===
+2.3.2 Detentores
+O grupo Previdência reduziu seu estoque em R$ 9,82 bilhões, totalizando R$ 2.024,37 bilhões no
+mês. A participação relativa desse grupo caiu para 22,63%. O estoque de Instituições Financeiras
+apresentou redução no mês, passando de R$ 2.804,97 bilhões para R$ 2.792,10 bilhões. A
+participação relativa desse grupo caiu para 31,22%. Os Fundos de Investimento aumentaram o
+estoque, passando de R$ 1.989,49 bilhões para R$ 2.014,62 bilhões. Os Não-residentes
+apresentaram aumento de R$ 7,22 bilhões no estoque, fechando o mês com participação
+relativa de 9,91%. O grupo Tesouro Direto encerrou agosto com participação relativa de 3,04%, e
+o grupo Seguradoras, 3,34%.
+Destaca-se que os Não-residentes possuem 70,35% de sua carteira em títulos prefixados,
+enquanto a carteira do grupo Previdência é composta de 51,53% de títulos vinculados a índices
+de preços.
+Tabela 2.4
+Detentores dos Títulos
+Públicos Federais—
+DPMFi
+Gráfico 2.2
+Composição da
+carteira de títulos
+públicos por
+indexador, por
+detentor—DPMFi
+Agosto/2026
+Gráfico 2.3
+Distribuição
+por prazo de
+vencimento, por
+detentor— DPMFi
+Agosto/2026
+13
+
+=== página 14 ===
+3. Perfil de Vencimentos da Dívida Pública Federal—
+DPF
+3.1 Composição dos Vencimentos
+O percentual de vencimentos da DPF para os próximos 12 meses apresentou redução,
+passando de 18,91%, em julho, para 16,39%, em agosto.
+A parcela de títulos da DPMFi a vencer em até 12 meses também foi reduzida, passando de
+19,35%, em julho, para 16,73%, em agosto. Os títulos atrelados a taxa flutuante correspondem a
+50,62% deste montante, seguidos pelos títulos prefixados, os quais apresentam participação de
+33,21% desse total.
+Em relação à DPFe, o percentual vincendo em 12 meses passou de 7,50%, em julho, para 7,48%
+em agosto, sendo os títulos e contratos denominados em dólar responsáveis por 83,77% desse
+total. Destaca-se que os vencimentos acima de 5 anos respondem por 51,90% do estoque da
+DPFe.
+Tabela 3.1
+Vencimentos da
+DPF
+Tabela 3.2
+Dívida Pública
+Federal a vencer em
+12 meses, por
+indexador
+Indicadores PAF 2026
+% Vincendo em 12 meses
+Mínimo Máximo
+DPF
+18,0 22,0
+14
+
+=== página 15 ===
+3.2 Prazo Médio
+O prazo médio da DPF apresentou aumento, passando de 4,05 anos, em julho, para 4,10 anos,
+em agosto. O prazo médio da DPMFi também foi ampliado, passando de 3,94 anos, em julho,
+para 3,99 anos, em agosto, enquanto o prazo médio da DPFe diminuiu de 6,91 anos, em julho,
+para 6,84 anos, em agosto.
+O prazo médio das emissões da DPMFi em agosto foi de 4,52 anos.
+Tabela 3.3
+Prazo médio da DPF
+Tabela 3.4
+Prazo médio das
+emissões da DPMFi em
+oferta pública
+Gráfico 3.1
+Prazo médio das
+emissões da DPMFi em
+ofertas públicas X Prazo
+médio do estoque da
+DPMFi
+Indicadores PAF 2026
+Prazo Médio (Anos)
+Mínimo Máximo
+DPF
+3,8 4,2
+15
+
+=== página 16 ===
+3.3 Vida média (Average Term to Maturity—ATM)
+O Tesouro Nacional divulga os dados de vida média utilizando metodologia denominada
+Average Term to Maturity – ATM, que é mais comumente encontrada na literatura internacional
+e, portanto, permite uma maior comparabilidade do Brasil com outros países no que se refere à
+maturidade da dívida pública.
+Esta metodologia para a vida média é calculada por meio da média ponderada do tempo
+restante até o vencimento de cada um dos títulos que compõem a DPF, considerando apenas
+o principal. A ponderação ocorre pelo valor de cada título, utilizando-se o seu valor de face.
+A vida média da DPF, nesta metodologia, apresentou aumento, passando de 6,04 anos, em
+julho, para 6,06 anos, em agosto.
+Tabela 3.5
+Vida média da DPF
+16
+
+=== página 17 ===
+4. Custo médio da Dívida Pública Federal—DPF
+4.1 Custo Médio do Estoque
+O custo médio acumulado nos últimos doze meses da DPF apresentou aumento, passando de
+12,45% a.a., em julho, para 12,59% a.a., em agosto.
+Já o custo médio acumulado em doze meses da DPMFi diminuiu, de 13,14% a.a., em julho, para
+13,06% a.a., em agosto.
+Com relação à DPFe, este indicador registrou crescimento, passando de -4,00% a.a. para 0,94%
+a.a., devido, principalmente, à apreciação do dólar em relação ao real de 2,05%, em agosto
+de 2026, contra a depreciação de 3,14% ocorrida no mesmo período do ano anterior.
+Tabela 4.1
+Custo Médio do
+estoque da DPF
+Gráfico 4.1
+Custo médio
+acumulado em 12
+meses da DPF, DPMFi,
+DPFe e Taxa Selic
+17
+
+=== página 18 ===
+4.2 Custo médio das emissões em oferta pública da DPMFi
+O custo médio de emissão em oferta pública da DPMFi é um indicador que reflete a taxa
+interna de retorno – TIR dos títulos do Tesouro Nacional no mercado doméstico, mais a variação
+média de seus indexadores, considerando-se apenas as colocações de títulos em oferta pública
+(leilões e Tesouro Direto) nos últimos 12 meses. Desde janeiro de 2021, este indicador é
+apresentado sob nova metodologia.
+O custo médio das emissões em oferta pública da DPMFi apresentou variação negativa,
+passando de 14,10%, em julho, para 13,96% a.a., em agosto.
+Tabela 4.2
+Custo médio das
+emissões em oferta
+pública da DPMFi nos
+últimos 12 meses
+Gráfico 4.2
+Custo médio do
+estoque e custo
+médio das emissões
+da DPMFi nos últimos
+12 meses
+Gráfico 4.3
+Custo médio das
+emissões dos títulos da
+DPMFi nos últimos
+12 meses
+18
+
+=== página 19 ===
+5. Mercado Secundário de Títulos Públicos Federais
+5.1 Volume Negociado
+O volume financeiro médio diário de títulos negociados no mercado secundário aumentou de
+R$ 102,11 bilhões, em julho, para R$ 145,00 bilhões, em agosto. A negociação de títulos
+indexados a taxa flutuante passou de 45,55% para 44,69%; já os prefixados reduziram sua
+participação, passando de 23,73% para 20,75%; em relação aos títulos atrelados a índices de
+preço, houve crescimento para 34,56%.
+Tabela 5.1
+Volume negociado
+no mercado
+secundário,
+por título
+O volume diário negociado no mercado secundário de títulos públicos como percentual dos
+respectivos estoques apresentou aumento, passando de 1,14%, em julho, para 1,62% em agosto. A
+participação no giro do segmento de títulos indexados a taxa flutuante cresceu de 1,00% para
+1,34%; em relação aos prefixados, houve aumento, de 1,30% para 1,64%; em relação aos títulos
+atrelados a índice de preço, houve variação positiva, passando de 1,32% para 2,22%.
+Gráfico 5.1
+Volume diário de
+Títulos Públicos
+negociado no
+mercado secundário
+como % dos
+respectivos estoques
+19
+
+=== página 20 ===
+As LTNs com vencimento em outubro de 2026 foram, em volume financeiro, as mais negociadas
+em agosto, seguidas das LTNs vincendas em janeiro de 2032 e janeiro de 2028. Quanto às NTN-Fs,
+o título com vencimento em janeiro de 2031 foi o mais negociado, seguido pelos vincendos em
+janeiro de 2033 e em janeiro de 2027.
+Entre as NTN-Bs, os vencimentos com maior volume financeiro negociado foram, em ordem
+decrescente, agosto de 2028, maio de 2029 e agosto de 2030.
+Com relação às LFTs, os papéis mais negociados em agosto, em ordem decrescente, foram
+aqueles com vencimento em março de 2027, setembro de 2032 e setembro de 2026.
+Em relação ao volume total negociado, a participação em tela saiu de 6,80% em agosto de
+2025 para 2,80% no mês de agosto de 2026. Em julho, esse número foi de 2,42%. O financeiro este
+mês foi de R$ 72,58 bilhões ante R$ 56,86 bilhões no mês anterior e R$ 127,33 bilhões no mesmo
+mês do ano anterior.
+20
+2
+1
+1
+1
+1
+1
+0
+8
+6
+4
+2
+0
+8
+6
+4
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+1
+8
+6
+4
+2
+0
+2
+0
+%
+%
+%
+%
+%
+%
+%
+s e
+õ
+h
+lib
+$
+R
+5 5 6 6 7 7 8 8 9 9 0 0 1 1 2 2 3 3 4 4 5 5 6 6
+1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+-n -lu -n -lu -n -lu -n -lu -n -lu -n -lu -n -lu -n -lu -n -lu -n -lu -n -lu -n -lu
+a j a j a j a j a j a j a j a j a j a j a j a j
+j j j j j j j j j j j j
+V o l. F in a n c e iro T e la T o ta l P a rtic ip a ç ã o T e la S e c u n d á rio T o ta l
+Tabela 5.2
+Vencimentos mais
+negociados por
+volume financeiro no
+mercado secundário,
+por indexador
+Agosto/2026
+Gráfico 5.2
+Volume mensal em
+tela e percentual do
+mercado secundário
+Agosto/2026
+
+=== página 21 ===
+5.2 Rentabilidade dos Títulos Públicos Federais
+O Índice de Mercado Anbima33 - IMA, criado pela Anbima44 em parceria com o Tesouro
+Nacional, afere a rentabilidade da carteira teórica formada por títulos públicos em circulação
+no mercado. É considerado um parâmetro eficiente para avaliar a evolução da rentabilidade
+dos títulos públicos, imprimindo maior dinamismo aos mercados primário e secundário da dívida
+mobiliária federal.
+Em agosto, a rentabilidade do índice geral manteve-se estável, quando comparada à de julho.
+O IRF-M, que representa a rentabilidade dos títulos prefixados, diminuiu 0,69 ponto percentual.
+Com relação à rentabilidade dos títulos vinculados ao IPCA, representados pelo IMA-B, houve
+aumento de 0,81 ponto percentual. Por fim, o índice IMA-S, referente aos títulos vinculados à
+Selic, apresentou queda de 0,07 ponto percentual.
+Gráfico 5.3
+Rentabilidade dos
+títulos públicos
+Agosto/2026
+(% acumulado em
+12 meses)
+Gráfico 5.4
+Evolução da
+rentabilidade dos
+Títulos públicos —
+IMA Geral
+(% acumulado em
+12 meses)
+3 IMA - Índices de renda fixa calculados com base na evolução do valor de mercado de carteiras compostas por títulos
+públicos. O IMA geral é o resultado da ponderação das variações de cada índice; o IRF-M é composto por títulos prefixados
+(LTN e NTN-F); o IMA-C, por títulos atrelados ao IGP-M (NTN-C); o IMA-B, por títulos atrelados ao IPCA (NTN-B); e o IMA-S, por
+títulos atrelados à Taxa Selic (LFT). Para mais informações sobre os índices IMA acesse:
+http://www.andima.com.br/publicacoes/arqs/edesp_ima_tpf.pdf.
+4 Associação Brasileira das Entidades dos Mercados Financeiro e de Capitais.
+21
+
+=== página 22 ===
+6. Reserva de Liquidez
+A reserva de liquidez (ou colchão) da dívida pública compreende as disponibilidades de caixa
+destinadas exclusivamente ao pagamento da dívida e o saldo em caixa dos recursos oriundos
+da emissão de títulos. Ela constitui um subconjunto das disponibilidades de caixa depositadas na
+Conta Única do Tesouro Nacional (CTU), no Banco Central.
+A reserva de liquidez apresentou redução, em termos nominais, de 11,89%, passando de
+R$ 1.371,21 bilhões, em julho, para R$ 1.208,12 bilhões, em agosto. Em relação ao mesmo mês do
+ano anterior (R$ 1.134,45 bilhões), houve crescimento, em termos nominais, de 6,49%.
+O índice de liquidez aponta a suficiência da reserva liquidez para cobertura dos vencimentos
+dos títulos da DPMFi. Para o seu cálculo, são considerados os vencimentos de principal e juros
+dos títulos em poder do público, além dos juros dos títulos emitidos para o Banco Central. A
+projeção, a valor corrente, considera apenas as emissões já ocorridas e um cenário específico.
+O nível atual da reserva de liquidez garante o pagamento dos próximos 7,18 meses de
+vencimentos.
+2.000 9,33 8,81 8,91 9,14
+8,43 8,33
+1.800
+7,78 7,81
+1.600 7,33 7,18 8
+6,77
+1.400 6,41 1.346 1.371
+1.200 1.134 1.213 1.187 1.085 1.192 5,69 1.092 1.211 1.208 6
+1.032 1.048
+1.000 885
+4
+800
+783
+600
+643 587 611
+400 537 522 2
+412
+336
+200 273 289 303
+153 167
+0 0
+22
+52/oga 52/tes 52/tuo 52/von 52/zed 62/naj 62/vef 62/ram 62/rba 62/iam 62/nuj 62/luj 62/oga
+nÍ
+d ci
+e
+d e
+L
+qi
+u
+di
+e
+z
+(
+M
+e
+s e
+s )
+)seõhliB
+$R(
+zediuqiL
+ed
+avreseR
+Gráfico 6.1
+Evolução da Reserva
+e Índice de Liquidez
+da Dívida Pública
+Reserva de Liquidez Valor Prudencial (3 Meses) Índice de Liquidez
+
+=== página 23 ===
+7. Garantias Honradas em Operações de Crédito
+A Secretaria do Tesouro Nacional monitora os atrasos de pagamentos das operações de crédito
+garantidas pela União, estabelecendo prazos para regularização das pendências e alertando
+os devedores para as sanções, penalidades e consequências previstas nos contratos e na
+legislação pertinente.
+Em agosto de 2026, a União pagou R$ 79,95 milhões em dívidas garantidas dos entes
+subnacionais, sendo R$ 74,76 milhões do Estado do Rio Grande do Sul, R$ 5,01 milhões do Estado
+do Rio Grande do Norte, R$ 102,46 mil do Município de Paranã - TO e R$ 70,21 mil do Município
+de Santanópolis - BA. No acumulado do ano, a União honrou R$ 3,13 bilhões em dívidas
+garantidas de entes subnacionais.
+Informações mais detalhadas estão disponíveis no Relatório Mensal de Garantias Honradas pela
+União em Operações de Crédito https://www.tesourotransparente.gov.br/publicacoes/relatorio-
+mensal-de-garantias-honradas-rmgh/) e no Painel de Garantias Honradas
+(https://www.tesourotransparente.gov.br/historias/painel-de-garantias-honradas).
+23

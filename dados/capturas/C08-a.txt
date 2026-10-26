@@ -1,0 +1,1262 @@
+# fonte: https://www.eco.unicamp.br/images/arquivos/artigos/3710/09OrAIR.pdf
+# capturado em: 2026-10-26
+
+
+=== página 1 ===
+Artigos originais
+Economia e Sociedade, Campinas, Unicamp. IE.
+http://dx.doi.org/10.1590/1982-3533.2018v27n3art9
+Investimento público no Brasil e suas relações
+com ciclo econômico e regime fiscal *
+Rodrigo Octávio Orair **, ****
+Fernando de Faria Siqueira ****
+Resumo
+O artigo analisa a trajetória dos investimentos públicos na economia brasileira e suas relações com ciclo econômico
+e regime fiscal. A abordagem de Auerbach e Gorodnichenko (2012) é utilizada para estimar multiplicadores fiscais
+que variam conforme o ciclo econômico. Os multiplicadores do investimento público estimados para o Brasil podem
+alcançar valores elevados em recessões (superiores a 2) e muito mais baixos nas expansões (no máximo 0,8). Estes
+resultados dão subsídios ao uso do investimento público como instrumento de política anticíclica e também indicam
+que sua retração em conjunturas de crise econômica como em 2015 tem fortes repercussões negativas. Por fim, o
+artigo explora os fatores por trás da inflexão para uma trajetória de queda da taxa de investimentos a partir de 2011,
+com destaque para o papel do regime fiscal.
+Palavras-chave: Investimento público; Multiplicador fiscal; Regime fiscal.
+Abstract
+Public investment in Brazil and its relationships with business cycles and fiscal regime
+This article examines trends in Brazilian public investments and how they relate to business cycles and fiscal regime.
+The approach of Auerbach and Gorodnichenko (2012) is used to estimate fiscal multipliers that may change
+according to the business cycle. Public investment multipliers estimated for Brazil may reach high values during
+recessions (above 2) and much lower values in booms (at most 0.8). These results support the use of public
+investments as an instrument of anti-cyclical policy also in addition to the claim that cutting such investments during
+economic crisis as in the year 2015 has strong unfavorable repercussions. Finally, the article explores the main
+factors that lie behind the change towards a falling trend of public investments since 2011 with a particular emphasis
+on the role of the fiscal regime.
+Palavras-chave: Public investment; Fiscal multiplier; Fiscal Regime.
+JEL H60, H54.
+1 Introdução
+As escolas de pensamento econômico divergem nas suas análises sobre os impactos
+dos gastos públicos ou sobre a função do Estado como indutor do desenvolvimento econômico.
+Há, contudo, um reconhecimento bastante generalizado em relação ao papel estratégico que os
+investimentos do setor público podem desempenhar em nossas economias, principalmente
+________________________
+* Artigo recebido em 28 de setembro de 2016 e aprovado em 8 de janeiro de 2018.
+** Técnico de Planejamento e Pesquisa do Instituto de Pesquisa Econômica Aplicada (Ipea), Brasília, DF, Brasil. E-mail:
+rodrigo.orair@ipea.gov.br.
+*** Pesquisador Associado ao International Policy Centre for Inclusive Growth (IPC-IG), Brasília, DF, Brasil.
+**** Especialista em Regulação da Agência Nacional de Telecomunicações (Anatel), Brasília, DF, Brasil. E-mail:
+fariasiqueira.f@gmail.com.
+Economia e Sociedade, Campinas, v. 27, n. 3 (64), p. 939-969, setembro-dezembro 2018.
+
+=== página 2 ===
+Rodrigo Octávio Orair, Fernando de Faria Siqueira
+quando orientados para infraestrutura. Esses investimentos se distinguem da maior parte das
+demais despesas públicas porque resultam na acumulação de ativos fixos, que potencialmente
+ampliam o patrimônio líquido do setor público e geram um fluxo futuro de receitas, além de se
+tratar de uma variável macroeconômica que exerce efeitos simultâneos de estímulo sobre a
+demanda e sobre a oferta. Pelo lado da demanda, no curto prazo, as despesas de investimento
+estão associadas a multiplicadores do produto e do emprego mais elevados, sobretudo em
+períodos recessivos. Sob a ótica da oferta, possuem a faculdade de romper gargalos estruturais
+e ampliar a produtividade sistêmica da economia no médio e longo prazo.
+Uma boa parte da teoria econômica argumenta ainda que a manutenção de um alto
+patamar de investimento público contribui para reduzir as flutuações da economia capitalista,
+dada a preferência dos empresários por ativos mais líquidos (como os títulos públicos) nos
+momentos de maior incerteza, ao contrário do governo, que não pauta suas decisões pelas
+perspectivas de lucro imediato. Sob tal perspectiva, a manutenção da taxa de investimento
+público em níveis estáveis e elevados pode reduzir a vulnerabilidade da economia às crises e
+atuar como um indutor do crescimento econômico.
+É evidente que tais hipóteses são teóricas e há uma ampla literatura empírica que
+explora a relação entre investimentos públicos e crescimento econômico. Embora não seja
+unânime, a maior parte dos estudos, principalmente aqueles que incluem infraestrutura,
+encontram efeitos positivos significativos (Servén, 2007)1.3 No caso brasileiro, a literatura
+empírica é escassa devido à carência de informações, como iremos discutir com mais detalhes
+na seção 3 deste trabalho. Não obstante, existem estudos como os de Candido Júnior (2006) e
+Ferreira (1996) que, a partir de estimações com séries históricas anuais dos investimentos
+públicos, identificam uma relação de longo prazo positiva e estável entre produto e
+investimento público ou infraestrutura. Há ainda uma incipiente literatura destinada a estimar,
+a partir de dados trimestrais, o impacto dos diferentes gastos públicos sobre o crescimento
+(Pires, 2011; Pires, 2014; Castelo-Branco; Lima; Paula, 2015). Estes trabalhos recentes vêm
+encontrando multiplicadores fiscais dos investimentos públicos que são robustos e
+normalmente superiores à unidade, além de maiores do que os multiplicadores do consumo do
+governo que chegam a assumir valores negativos ou não significativos.
+Apesar da reconhecida importância teórica e empírica, os investimentos nem sempre
+recebem a prioridade que deveriam e são candidatos preferenciais a sofrerem cortes
+orçamentários durante os processos de ajuste fiscal – seja por questões de economia política,
+rigidezes legais e institucionais, seja pelo foco excessivo no curto prazo, que faz com que
+retornos de longo prazo sejam negligenciados. Episódios de ajuste fiscal tendem a estar
+associados a cortes desproporcionais nos investimentos públicos, e isso cria um viés pró-cíclico
+________________________
+(1) Uma exceção é Warner (2014), que encontra uma relação fracamente positiva e restrita ao curto prazo, com poucas
+evidências de impactos positivos de longo prazo, ao analisar grandes projetos de infraestrutura em países de baixa renda. Sua
+crítica, contudo, está direcionada aos aspectos analíticos que distorcem as decisões (falhas na seleção e especificação de projetos,
+descontinuidades no financiamento, problemas de incentivos etc.) e não ao potencial dos investimentos de dinamizar a economia.
+940 Economia e Sociedade, Campinas, v. 27, n. 3 (64), p. 939-969, setembro-dezembro 2018.
+
+=== página 3 ===
+Investimento público no Brasil e suas relações com ciclo econômico e regime fiscal
+na política fiscal que amplifica as tendências depressivas da economia e impacta negativamente
+o crescimento econômico2.4
+Obviamente, a relação dos investimentos públicos com os ciclos econômicos, ou
+mesmo sua trajetória ao longo do tempo, não é tão simples e determinística. O volume de
+investimentos, assim como das demais despesas públicas, responde à orientação da política
+econômica e às prioridades de determinado governo, o que, por sua vez, estará condicionado
+pela maneira como funcionam suas instituições. Este arcabouço político-institucional se reflete
+no regime fiscal que diz respeito ao conjunto de regras e instituições que regem a condução da
+política fiscal.
+Nas últimas décadas, disseminou-se ao redor do mundo a prática de regras fiscais que
+estabelecem limites numéricos sobre agregados orçamentários. A regra impõe uma restrição à
+política fiscal, sob os propósitos de assegurar disciplina fiscal e uma dinâmica sustentável do
+endividamento público. A primeira geração de regras fiscais, que prevaleceu na década de 1990
+e início da de 2000, baseava-se em metas numéricas mais rígidas e com maior foco nos fluxos
+de caixa de curto prazo (por exemplo, metas anuais de resultado fiscal). Essas regras foram
+alvo de críticas por gerarem pouco espaço para ajuste a choques e riscos de distorcer a
+composição das despesas públicas e de minar a transparência devido aos incentivos à
+contabilidade criativa.
+Diante do reconhecimento de que metas com essas características induzem vieses anti-
+investimento e pró-cíclico na política fiscal, surgiram duas ondas revisionistas com propostas
+de aprimoramentos nos regimes fiscais. A primeira, em meados dos anos 2000, por uma série
+de trabalhos sugerindo regras que combinem incentivos aos investimentos públicos com
+sustentabilidade fiscal no médio prazo3.5Uma segunda onda revisionista surgiu como resposta
+ao legado fiscal da crise internacional de 2008, com sugestões de regras que acomodassem
+mais explicitamente os efeitos dos ciclos econômicos e conferissem maior flexibilidade para
+lidar com períodos de desaceleração econômica.
+Vários países promoveram reformas institucionais nos últimos anos para introduzir
+uma "nova geração de regras fiscais" mais flexível e com âncora fiscal de médio prazo, sob a
+visão de que se deve buscar a sustentabilidade da dívida pública, mas sem atuar contrariamente
+ao crescimento econômico4.6 Entre os países membros da União Europeia, por exemplo,
+________________________
+(2) Relação amplamente documentada na literatura macroeconômica tanto nos países desenvolvidos quanto nos países
+em desenvolvimento. Por exemplo, Calderón, Easterly e Servén (2003) mostram que quase metade do ajuste fiscal dos países
+latino-americanos na década de 1990 foi obtido por cortes nos investimentos em infraestrutura. Schettini et al. (2011) apresentam
+evidências da pró-ciclicidade da política fiscal no Brasil.
+(3) Mais comumente, as propostas passam pela separação do orçamento de despesas de capital, passível de ser financiado
+por endividamento, das demais despesas que permanecem submetidas a regras mais rígidas. Seja na sua versão mais ampla, como
+Blanchard e Giavazzi (2004), que sugerem retomar a regra do ouro, segundo a qual todos os investimentos estão liberados para
+serem financiados por dívida, seja na versão mais restrita, de Mintz e Smart (2006) e Servén (2007), que incluem apenas projetos
+de investimentos autofinanciáveis.
+(4) Para a discussão da nova geração de regras fiscais, ver Schaechter, Kinda, Budina e Weber (2012) e Gobetti (2014).
+Economia e Sociedade, Campinas, v. 27, n. 3 (64), p. 939-969, setembro-dezembro 2018. 941
+
+=== página 4 ===
+Rodrigo Octávio Orair, Fernando de Faria Siqueira
+ampliou-se o uso de metas fiscais estruturais ajustadas ao ciclo econômico com cláusulas de
+escape, que permitem que as restrições fiscais sejam temporariamente relaxadas em situações
+extraordinárias como as crises econômicas. Complementarmente, desde 2011 vários destes
+países estão adotando uma restrição adicional de limitar o crescimento da despesa à taxa de
+crescimento de longo prazo do PIB.
+No Brasil, a discussão sobre regras fiscais foi protelada por vários anos e apenas
+recentemente foi reaberta, sob condições desfavoráveis, em meio a uma profunda crise política,
+fiscal e econômica que, simultaneamente, exige ação imediata e restringe o raio de ação do
+governo. Fatores como a conjuntura adversa das finanças públicas, juntamente com a avaliação
+de que as práticas fiscais dos últimos anos minaram a transparência e a credibilidade do atual
+regime fiscal brasileiro, influenciaram decisivamente para que o governo propusesse um novo
+regime fiscal que restringe o crescimento das despesas primárias do governo central à reposição
+da inflação (Proposta de Emenda à Constituição n. 159 de 2015). Tal regra denominada de
+nominalismo é bastante rigorosa – por exemplo, porque estabelece crescimento real nulo das
+despesas enquanto as experiências semelhantes nos países europeus permitem que as despesas
+cresçam no mesmo ritmo das estimativas do PIB no longo prazo –, e vem levantando uma série
+de preocupações e questionamentos sobre sua viabilidade. Uma dessas preocupações é a
+possibilidade de penalização excessiva dos investimentos públicos.
+O propósito do artigo é contribuir com esse debate buscando um melhor entendimento
+sobre os fatores que estão por trás da trajetória dos investimentos públicos na economia
+brasileira e suas relações com o ciclo econômico e o regime fiscal. O texto está organizado em
+seis seções, incluindo esta introdução. A próxima seção analisa a trajetória da taxa de
+investimentos públicos na economia brasileira, com ênfase no período recente caracterizado
+por um esboço de retomada (2006-2010) e inflexão para uma tendência de queda (2011-2015)
+que fez com que o avanço anterior tenha sido quase todo revertido.
+As duas seções seguintes são dedicadas aos questionamentos: Qual o impacto da
+trajetória da taxa de investimentos públicos sobre o ritmo de atividade econômica? Quais
+fatores estariam por trás da queda recente da taxa de investimentos? Para explorar a relação
+entre investimentos públicos e crescimento econômico, a terceira seção faz uso de um modelo
+econométrico não linear que estima multiplicadores fiscais variáveis conforme o estado do
+ciclo econômico. Será adotada a mesma modelagem de Auerbach e Gorodnichenhko (2012),
+com algumas adaptações para os dados brasileiros, que possui a grande vantagem de permitir
+que se avalie se a resposta do produto em relação ao investimento público é maior (ou menor)
+em períodos recessivos (ou expansivos).
+A quarta seção apresenta um conjunto de hipóteses explicativas para a queda recente
+da taxa de investimentos públicos. A hipótese central deste artigo diz respeito aos
+constrangimentos orçamentários aos investimentos que foram flexibilizados no período 2006-
+2010 e retornaram de maneira mais aguda no período a partir de 2011. À primeira vista, tal
+hipótese pode soar paradoxal porque a interrupção da retomada dos investimentos públicos e o
+942 Economia e Sociedade, Campinas, v. 27, n. 3 (64), p. 939-969, setembro-dezembro 2018.
+
+=== página 5 ===
+Investimento público no Brasil e suas relações com ciclo econômico e regime fiscal
+início do seu retrocesso ocorreu durante um período de expansionismo fiscal (2011-2014). Por
+isso, a quinta seção do texto avança na avaliação desta hipótese, a partir de uma análise mais
+geral da política fiscal no Brasil que explora as relações dos investimentos públicos com o
+regime fiscal. Seguem-se as considerações finais em que se procura destacar a atual situação
+de fragilidade dos investimentos públicos no arcabouço fiscal brasileiro. Essa reflexão é crucial
+no momento em que o país rediscute seu regime fiscal, porque traz à tona a necessidade de que
+a avaliação de alternativas de estratégias fiscais leve em consideração as repercussões dos
+investimentos públicos sobre o crescimento econômico e sobre a sustentabilidade das finanças
+públicas.
+2 Trajetória da taxa de investimentos públicos na economia brasileira
+Analisar a trajetória dos investimentos públicos na economia brasileira requer alguns
+cuidados especiais. Em primeiro lugar, porque o conceito investimento é muitas vezes utilizado
+de forma pouco precisa. Ao longo do texto, o termo será sinônimo de formação bruta de capital
+fixo (FBCF), que é um conceito mais restrito5.7 Uma segunda dificuldade diz respeito à
+presença de componentes cíclicos que podem induzir analistas a interpretar erroneamente as
+oscilações conjunturais como mudanças na tendência. É possível identificar ao menos três
+ciclos muito característicos nos investimentos públicos brasileiros que se diferenciam em
+termos de periodicidade.
+Um primeiro é um ciclo de prazo mais longo com ascensão no período pós-Guerra,
+auge no final da década de 1970 e declínio nas décadas seguintes, até atingir o patamar histórico
+mais baixo no início do século XXI (Gráfico 1). Este movimento de ascensão e queda do
+investimento público está relacionado com o modelo de desenvolvimento da economia
+brasileira e seu padrão de intervenção estatal subjacente. A ascensão do modelo de
+desenvolvimento sob o Estado intervencionista (1930-1979) ocasionou a expansão da taxa de
+investimento público que tinha a função de promover a transformação estrutural e o
+crescimento econômico, mediante ampliação do escopo de ação do setor produtivo estatal.
+No declínio deste modelo, durante as décadas de 1980 e 1990, foram colocados
+inúmeros constrangimentos orçamentários ao investimento público, diante de um quadro de
+crise fiscal e desarticulação do padrão de financiamento estatal. Paralelamente a isso, houve a
+implementação de uma estratégia de desestatização da economia, via desmonte do aparato do
+Estado desenvolvimentista, que dera suporte à expansão dos investimentos públicos no período
+anterior, e transferência da responsabilidade de parte considerável dos investimentos para a
+iniciativa privada.
+________________________
+(5) Os dados de investimento público utilizados neste artigo são de Orair (2016) cujo apêndice apresenta as definições
+conceituais e descreve as fontes primárias de dados. É comum que estudos e relatórios fiscais utilizem conceitos amplos que
+incluem despesas que não compõe a FBCF, como, por exemplo, capitalizações de empresas estatais, aquisições de imóveis não
+relacionados a uma obra, transferências de capital aos entes subnacionais e até mesmo subsídios aos investimentos privados.
+Economia e Sociedade, Campinas, v. 27, n. 3 (64), p. 939-969, setembro-dezembro 2018. 943
+
+=== página 6 ===
+Rodrigo Octávio Orair, Fernando de Faria Siqueira
+Não se deseja retomar de maneira aprofundada a análise histórica já realizada em Pêgo
+Filho, Cândido Júnior e Pereira (1999), Afonso e Biasoto Júnior. (2007) e Orair e Gobetti
+(2010), entre tantos outros. Para os propósitos deste artigo, o mais importante é destacar os
+indícios de um novo ciclo de menor duração da taxa de investimentos públicos, interpondo-se
+ao ciclo histórico mais longo, com uma fase de ascensão no quinquênio 2006-2010 e inflexão
+para uma fase descendente no quinquênio 2011-2015. Essa trajetória reflete um ciclo de médio
+prazo da política fiscal que transitou de uma fase contracionista (1999-2005) para uma fase
+expansionista (2006-2014). Sendo que nesta última o espaço fiscal foi canalizado
+predominantemente para expansão dos investimentos em um primeiro subperíodo (2006-2010)
+e no subperíodo subsequente reorientado para maior expansão das despesas de custeio e
+subsídios e das desonerações tributárias (2011-2014), como analisaremos com mais detalhes
+na seção 56.8
+Gráfico 1
+Investimentos públicos (1947-2015)¹
+(Em participação percentual do PIB)
+Notas: 1 Considera-se o total do governo geral e das empresas estatais federais.
+2 A tendência foi extraída pelo filtro Hodrick-Prescott.
+Elaboração dos autores, a partir de dados do produto interno bruto (PIB) do Sistema de Contas
+Nacionais (SCN) do Instituto Brasileiro de Geografia e Estatística (IBGE) e investimentos públicos
+de Orair (2016).
+________________________
+(6) Segue-se aqui a periodização da política fiscal de Gobetti e Orair (2015).
+944 Economia e Sociedade, Campinas, v. 27, n. 3 (64), p. 939-969, setembro-dezembro 2018.
+
+=== página 7 ===
+Investimento público no Brasil e suas relações com ciclo econômico e regime fiscal
+A visualização da trajetória da taxa de investimentos públicos no período mais recente
+pode ser feita com maior clareza no Gráfico 2. O mesmo gráfico revela uma terceira natureza
+de ciclo, vinculada ao calendário político, de prazo mais curto (quatro anos) e com formato de
+vale: são duas fases de aceleração nos períodos pré-eleitorais, sendo a primeira mais intensa,
+nas eleições presidenciais e de governadores (1998, 2002, 2006, 2010 e 2014), e a segunda
+menos forte, nas eleições de prefeitos (1996, 2000, 2004, 2008 e 2012). Por isto, o mais
+apropriado é que as comparações considerem anos equivalentes do calendário eleitoral ou
+façam uso de procedimentos para controlar a presença dos ciclos políticos eleitorais7.9
+Gráfico 2
+Investimentos públicos (1995-2015)
+(Valores mensais anualizados em participação percentual do PIB)
+Elaboração dos autores, a partir dos dados do indicador mensal do PIB do Banco Central (Bacen) e investimentos
+públicos de Orair (2016).
+Obs.: 1 O componente do ciclo político eleitoral foi extraído por um modelo estrutural básico de séries temporais.
+2 A série sem privatizações deduz os investimentos de empresas que deixaram de fazer parte do setor público, a
+exemplo da Companhia Vale do Rio Doce e da Telebras.
+3 O total de investimentos do setor público é uma aproximação com a soma do governo geral e das estatais federais.
+________________________
+(7) Orair, Gouvêa e Leal (2014) apresentam evidências empíricas dos ciclos políticos eleitorais nos investimentos públicos
+e uma resenha com suas explicações teóricas, que vão desde a necessidade de promover um ajuste fiscal em resposta à maior
+pressão do mercado às políticas de pleno emprego, pressão esta que ameniza durante o período eleitoral, até a possibilidade de
+influenciar os resultados das eleições com obras de maior visibilidade e que sinalizam competência administrativa.
+Economia e Sociedade, Campinas, v. 27, n. 3 (64), p. 939-969, setembro-dezembro 2018. 945
+
+=== página 8 ===
+Rodrigo Octávio Orair, Fernando de Faria Siqueira
+Feita essa ressalva, vê-se que a taxa de investimentos públicos alcançou o auge do
+período recente de 4,6% do PIB no ano eleitoral de 2010, que representa acréscimo de 1,7%
+ponto percentual (p.p.) em relação aos 2,9% do PIB verificados em 2006. A comparação não
+se modifica quando considerada a série que controla o efeito do ciclo eleitoral: seu auge foi de
+4,2% do PIB em 2010 e o acréscimo de 1,6 p.p. sobre os 2,6% do PIB de 2006. No período
+após 2010, a taxa de investimentos públicos passou a mostrar tendência de declínio (ou ao
+menos estagnação), com pronunciada queda a partir do último trimestre de 2014. A estimativa
+da taxa de investimentos públicos em 2015 é de 2,9% do PIB (ou 3,1% do PIB na série que
+controla o efeito do ciclo eleitoral), que é um patamar muito próximo daquele observado em
+2007 e também em 1995. Ou seja, a retração do quinquênio 2011-2015 reverteu quase todo o
+avanço anterior e ainda fez com que a taxa de investimentos públicos retomasse patamares
+semelhantes aos de meados da década de 1990.
+A desaceleração recente dos investimentos públicos fica ainda mais evidente ao
+compararmos as taxas reais de crescimento (Tabela 1). Há um enorme contraste entre o
+crescimento superior a dois dígitos durante 2007-2010 – período de maior dinamismo
+econômico das duas últimas décadas, mesmo tendo atravessado o pior momento da crise
+internacional de 2008 –, em relação a 2011-2014, quando os investimentos permaneceram
+quase estagnados e a economia adentrou um período de desaceleração econômica.
+A ascensão dos investimentos no quinquênio 2006-2010 reflete não somente a
+flexibilização da política fiscal, que removeu temporariamente entraves orçamentários, mas
+também uma mudança de posicionamento do governo, no sentido de reassumir seu papel no
+planejamento estratégico. Essa mudança foi consubstanciada na formulação de programas
+estratégicos e na retomada de grandes projetos de investimentos.
+À época, consolidou-se o diagnóstico de que o resultado das reformas liberalizantes da
+década de 1990 foram desiguais. A expansão dos investimentos privados em infraestrutura
+ficou muito restrita aos segmentos mais atraentes e, na maioria dos demais segmentos, o avanço
+privado não se refletiu no aumento dos investimentos em magnitude suficiente para compensar
+a queda nos gastos públicos. Explicitando-se uma incapacidade de se alocar recursos na
+manutenção e expansão da infraestrutura do país, recolocando gargalos ao crescimento,
+prejudicando a competitividade sistêmica e contribuindo para o fraco crescimento econômico
+do período. Mais do que mera transferência de responsabilidades à iniciativa privada, houve
+reconcentração setorial e reconfiguração das articulações entre investimento público e privado,
+cabendo ao Estado, em conformidade com esse diagnóstico, assumir uma posição mais
+pragmática para promover a retomada dos investimentos, via intervenção direta ou indireta,
+por meio de arranjos remodelados com o setor privado, nos quais as empresas, bancos e fundos
+públicos desempenhariam papel proeminente8.10
+________________________
+(8) Bielschowsky (2002) faz um balanço das reformas e da infraestrutura no Brasil, e Pêgo Filho e Campos Neto (2010)
+mapeiam seus gargalos. Orair (2014) analisa a relação entre a retomada dos investimentos públicos e as grandes obras de
+infraestrutura, assim como os novos arranjos patrimoniais.
+946 Economia e Sociedade, Campinas, v. 27, n. 3 (64), p. 939-969, setembro-dezembro 2018.
+
+=== página 9 ===
+Investimento público no Brasil e suas relações com ciclo econômico e regime fiscal
+Tabela 1
+Investimentos públicos (1994/2015)
+(Em bilhões de R$ de 2015 convertidos pelo deflator implícito do PIB)
+Governo Governo Governo Governo Estatais Setor
+PIB
+Ano central estadual municipal geral federais público
+Valores em bilhões de R$
+1994 23,8 46,0 38,0 107,8 43,3 151,1 3.371,5
+1995 20,0 18,5 40,3 78,8 43,9 122,7 3.522,2
+1996 17,9 24,1 40,6 82,7 52,0 134,6 3.600,0
+1997 19,7 30,6 25,3 75,6 55,4 131,0 3.722,2
+1998 19,3 47,4 30,0 96,8 48,9 145,6 3.734,8
+1999 12,7 20,7 29,0 62,4 28,9 91,3 3.752,3
+2000 12,2 27,4 30,0 69,6 30,3 99,9 3.916,9
+2001 17,4 34,2 26,0 77,6 33,8 111,5 3.971,4
+2002 18,4 32,0 39,0 89,4 45,6 135,0 4.092,6
+2003 8,1 21,9 30,9 60,9 45,0 105,8 4.139,3
+2004 9,4 25,6 34,7 69,7 44,0 113,7 4.377,7
+2005 15,0 29,5 27,6 72,0 45,4 117,4 4.517,9
+2006 18,0 34,5 39,2 91,7 45,6 137,3 4.696,9
+2007 21,0 24,7 41,1 86,7 53,7 140,4 4.982,0
+2008 23,0 36,3 53,1 112,4 72,0 184,5 5.235,8
+2009 31,2 46,9 39,4 117,5 93,3 210,7 5.229,2
+2010 44,4 58,0 49,8 152,2 105,1 257,3 5.622,9
+2011 35,1 40,2 49,5 124,8 94,9 219,7 5.842,7
+2012 32,3 40,6 55,9 128,8 107,9 236,7 5.954,8
+2013 38,9 53,9 38,7 131,5 117,9 249,4 6.134,2
+2014 43,8 62,4 45,3 151,5 95,2 246,7 6.140,6
+2015 27,2 34,3 44,7 106,2 71,2 177,4 5.904,3
+Taxa de crescimento ao ano
+1995-1998 -5,1% 0,8% -5,7% -2,7% 3,1% -0,9% 2,6%
+1999-2002 -1,2% -9,4% 6,8% -2,0% -1,7% -1,9% 2,3%
+2003-2006 -0,6% 1,9% 0,1% 0,6% 0,0% 0,4% 3,5%
+2007-2010 25,4% 13,8% 6,1% 13,5% 23,2% 17,0% 4,6%
+2011-2014 -0,4% 1,9% -2,4% -0,1% -2,4% -1,0% 2,2%
+2012-2015 -6,2% -3,9% -2,5% -4,0% -6,9% -5,2% 0,3%
+Elaboração dos autores, a partir das fontes de dados do PIB do SCN/IBGE e investimentos públicos de
+Orair (2016).
+O fato é que a taxa de investimentos públicos, em um primeiro momento, nos anos
+2006-2010, respondeu favoravelmente ao reposicionamento estratégico do governo e à
+Economia e Sociedade, Campinas, v. 27, n. 3 (64), p. 939-969, setembro-dezembro 2018. 947
+
+=== página 10 ===
+Rodrigo Octávio Orair, Fernando de Faria Siqueira
+flexibilização da política fiscal. Logo em seguida, o esboço de retomada foi interrompido e a
+taxa de investimentos públicos passou a declinar mesmo no período 2011-2014 caracterizado
+pelo expansionismo fiscal. Estas constatações suscitam alguns questionamentos: Qual é o
+impacto da queda na taxa de investimentos sobre o ritmo de atividade econômica? Quais fatores
+estariam por trás desta queda? As próximas seções são dedicadas a esses questionamentos.
+3 Multiplicadores dos investimentos públicos: uma estimação por Stvar
+3.1 Estimação de multiplicadores fiscais: aspectos metodológicos
+A crise internacional de 2008 reergueu o debate acerca da importância da política fiscal
+anticíclica e, mais notadamente, da proposição de inspiração keynesiana de que os
+multiplicadores fiscais tendem a ser maiores durante as crises econômicas. Sob esse pano de
+fundo, vem proliferando um ramo de pesquisa empírica dedicado a estimar multiplicadores
+fiscais que variam conforme o estado do ciclo econômico9.12
+Por exemplo, Auerbach e Gorodnichenko (2012) empregam um modelo vetorial
+autorregressivo com mudança de regime em que as transições entre os estados são suaves
+(smooth transition vector autoregression – STVAR), de modo a permitir respostas
+diferenciadas entre recessões e expansões. A especificação econométrica adotada pelos autores
+segue o sistema de equações:
+𝑿 = (1−𝐹(𝑧 ))𝜫 (𝐿)𝑿 +𝐹(𝑧 )𝜫 (𝐿)𝑿 +𝒖 (1)
+𝑡 𝑡−1 𝑬 𝒕−𝟏 𝑡−1 𝑹 𝒕−𝟏 𝒕
+𝒖 ~ 𝑁(𝟎,𝜴 ) (2)
+𝒕 𝒕
+𝜴 = 𝜴 (1−𝐹(𝑧 ))+𝜴 𝐹(𝑧 ) (3)
+𝒕 𝑬 𝑡−1 𝑹 𝑡−1
+𝐹(𝑧 )=
+𝑒𝑥𝑝 (−𝛾𝑧𝑡 )
+(4)
+𝑡 1+𝑒𝑥𝑝 (−𝛾𝑧𝑡 )
+𝑣𝑎𝑟(𝑧 )= 1,𝐸(𝑧 )= 0 (5)
+𝑡 𝑡
+no qual 𝑿 = [𝑮 𝑻 𝒀 ]′ é um vetor de variáveis com as séries dos gastos públicos, receitas
+𝒕 𝒕 𝒕 𝒕
+públicas e PIB10.13A variável 𝑧 na equação (4) é um índice que captura a transição entre as
+𝑡
+fases do ciclo econômico, assumindo valores positivos nos períodos de expansão e negativos
+nas recessões. Essa variável é normalizada para ter variância unitária de modo que 𝛾 seja
+invariante com a escala e, por construção, adota-se 𝛾 > 0. Assim, a equação (4) define que os
+________________________
+(9) Tais estudos podem ser classificados de acordo com a técnica econométrica utilizada: i) modelos de vetor auto
+regressivo (VAR) de parâmetros variáveis no tempo com volatilidade estocástica (Kirchner, Cimadomo e Hauptmeier, 2010); ii)
+VAR com limiar (threshold) [Baum; Poplawski-Ribeiro; Ribeiro, 2012]; iii) Regressões em painéis e técnicas Var (Corsetti; Meier;
+Miler 2012; Ilzetzki; Mendoza; Vgh, 2013; Auerbach; Gorodnichenko, 2011); iv) Var com mudança de regime (Auerbach;
+Gorodnichenko, 2012; Cos; .oral-Benito, 2013).
+(10) Este ordenamento das variáveis em 𝑿 implica que choques nas receitas e no produto não possuem efeitos
+𝒕
+contemporâneos sobre o gasto e que choques das receitas afetam o produto contemporaneamente, não valendo o argumento
+recíproco. Como usual na literatura, os argumentos básicos para identificação são os de que a arrecadação responde com certa
+defasagem ao PIB e que o processo orçamentário é mais lento porque leva mais de um período para que as autoridades políticas e
+fiscais internalizem determinado choque do produto e respondam via política fiscal.
+948 Economia e Sociedade, Campinas, v. 27, n. 3 (64), p. 939-969, setembro-dezembro 2018.
+
+=== página 11 ===
+Investimento público no Brasil e suas relações com ciclo econômico e regime fiscal
+períodos de recessão (suficientemente) forte são aqueles em que 𝐹(𝑧) está próximo da unidade
+(𝐹(𝑧)≈ 1) com o comportamento do sistema sendo descrito por 𝜫 e 𝜴 . O raciocínio
+𝑹 𝑹
+análogo vale para uma expansão (suficientemente) forte (1−𝐹(𝑧)≈ 1) quando 𝜫 e 𝜴
+𝑬 𝑬
+descrevem o comportamento do sistema. No limite, pode-se interpretar 𝐹(𝑧) de maneira
+simplificada como a probabilidade de se estar em uma recessão.
+Os resultados de Auerbach e Gorodnichenko (2012) para a economia norte-americana
+do pós-guerra indicam que os multiplicadores diferem consideravelmente de acordo com o
+estado do ciclo econômico e com o componente de gasto. As estimativas de multiplicadores
+dos gastos públicos nas recessões (entre 1 e 1,5) mostram-se consideravelmente mais elevadas
+do que nas expansões (de 0 a 0,5), ao passo que os resultados do modelo linear ficaram
+próximos da unidade. Quando é introduzida a decomposição dos gastos públicos, encontram-
+se resultados de multiplicadores dos investimentos mais robustos (chegam a exceder 2) do que
+os do consumo do governo (em torno de 0,5) e em ambos os casos são maiores na recessão do
+que na expansão.
+A evidência empírica sobre multiplicadores que diferenciam os estados do ciclo
+econômico é muito escassa no Brasil. A grande dificuldade da literatura aplicada está na
+carência de estatísticas fiscais com séries relativamente longas, periodicidade adequada
+(trimestral, mensal, etc.) e cobertura das três esferas de governo11.14Não por acaso, somente foi
+possível encontrar dois estudos que adotam modelos VAR com mudança de regime (Markok
+Switching) para investigar se os multiplicadores fiscais variam de acordo com alterações do
+estado da economia no Brasil (Pires, 2014; Castelo-Branco; Lima; Paula, 2015).
+As principais conclusões de Pires (2014) são que os multiplicadores fiscais não
+possuem comportamento idêntico nos regimes de diferentes estados da economia e que a
+volatilidade é mais importante do que a média de crescimento na determinação desses regimes.
+Esse estudo não consegue calcular multiplicadores fiscais para o regime de alta volatilidade,
+mas obtém resultados significativos em períodos de baixa volatilidade, encontrando
+multiplicadores dos investimentos públicos situados entre 1,4 e 1,7 e multiplicadores do
+consumo do governo não significativos. Semelhantemente, Castelo-Branco, Lima e Paula
+(2015) concluem que choques nos investimentos públicos resultam em maior resposta do PIB
+do que os choques do consumo do governo. Contudo, seus resultados não sugerem maiores
+multiplicadores fiscais em regimes com maior variância, contrariamente ao resultado mais
+comum encontrado na literatura internacional.
+Cabe observar que estes dois estudos fazem uso de informações trimestrais: Pires
+(2014) nos anos 1996-2012 (cerca de 60 observações) e Castelo-Branco, Lima e Paula (2015)
+um período ainda mais restrito nos anos 1999-2012. Podendo-se concluir que ambos os estudos
+compartilham um problema inevitável de amostra muito curta e convergem nos resultados de
+________________________
+(11) Atualmente, as estatísticas trimestrais oficiais divulgadas pela Secretaria do Tesouro Nacional (STN) estão restritas
+ao período a partir de 2010 ou 25 observações que é uma amostra muito curta para exercícios econométricos. Disponíveis em:
+http://www.tesouro.fazenda.gov.br/-/estatisticas-de-financas-publicas.
+Economia e Sociedade, Campinas, v. 27, n. 3 (64), p. 939-969, setembro-dezembro 2018. 949
+
+=== página 12 ===
+Rodrigo Octávio Orair, Fernando de Faria Siqueira
+multiplicadores fiscais dos investimentos maiores do que dos gastos correntes, mas são
+inconclusivos em relação aos efeitos sobre o ciclo econômico. Sugerindo-se que há um longo
+percurso a ser percorrido em termos de análises de multiplicadores fiscais no país.
+O presente artigo baseia-se nos procedimentos de estimação de Auerbach e
+Gorodnichenko (2012), com algumas adaptações para os dados mensais brasileiros no período
+2002-2015 que totaliza 168 observações. Faz-se uso das séries de investimentos públicos (IP)
+de Orair (2016), das receitas tributárias (CTB) de Orair et al. (2013) e do indicador mensal do
+PIB do Bacen12.15Todas as variáveis foram dessazonalizadas via ARIMA x-13 e introduzidas
+em log no modelo STVAR descrito pelas equações 1 a 5. Para calcular a variável 𝑧 tomou-se
+𝑡
+a média móvel da taxa de crescimento do PIB no período de seis meses1316 – admitindo-se
+implicitamente que a recessão pode ser definida por uma contração geral na atividade
+econômica por dois trimestres. Essa variável foi normalizada e em seguida transformada,
+segundo a equação 4, para obter a variável 𝐹(𝑧 ) no Gráfico 3 que, de maneira simplificada,
+𝑡
+pode ser interpretada como a probabilidade de se estar em uma recessão.
+Gráfico 3
+Recessões segundo a datação do Codace e variável 𝐹(𝑧)
+Notas: 1 As áreas sombreadas mostram as recessões definidas pela Codace, enquanto que a linha negra
+demonstra a dinâmica de 𝐹(𝑧).
+Elaboração dos autores.
+________________________
+(12) No caso dos investimentos públicos, essas séries cobrem os meses de janeiro de 1995 a dezembro de 2015 e são
+aproximações para os totais investidos pelo governo geral e empresas estatais federais. No entanto, as informações mensais da
+carga tributária estão restritas aos anos de 1995 a 2001.
+(13) Considera-se a taxa real de crescimento do trimestre em relação ao trimestre do ano anterior.
+950 Economia e Sociedade, Campinas, v. 27, n. 3 (64), p. 939-969, setembro-dezembro 2018.
+
+=== página 13 ===
+Investimento público no Brasil e suas relações com ciclo econômico e regime fiscal
+De acordo com o Comitê de Datação de Ciclos Econômicos (Codace) do Instituto
+Brasileiro de Economia da Fundação Getúlio Vargas (IBRE/FGV), que tem como finalidade
+estabelecer cronologias de referência para os ciclos econômicos brasileiros, a economia
+brasileira esteve em recessão em aproximadamente 20% do período de 2002 a 2015. Tal qual
+em Auerbach e Gorodnichenko (2012), foi definido que a economia está em recessão se
+𝐹(𝑧 )> 0,8. Para que a variável de transição esteja condizente com a datação do Codace, a
+𝑡
+calibragem do parâmetro 𝛾 foi realizada respeitando o critério: 𝑃(𝐹(𝑧 )> 0,8)= 0,2 . O
+𝑡
+gráfico 3 permite comparar essa datação do Codace com a evolução da variável 𝐹(𝑧 ) e mostra
+𝑡
+uma aderência bastante razoável: com exceção dos primeiros meses da crise de 2008, há uma
+coincidência entre os períodos também identificados como recessão pelo comitê do IBRE/FGV.
+Uma das maiores vantagens da metodologia de transição suave em relação às
+abordagens que estimam cada regime em separado (isto é, abordagens com respostas binárias
+para recessão e expansão) é que nestas últimas pode haver um número excessivamente reduzido
+de informações em um regime particular, sobretudo nos regimes recessivos que são menos
+frequentes, e isto pode tornar as estimativas imprecisas e instáveis. O STVAR utiliza mais
+informações ao explorar a variação no grau (ou “probabilidade”) em que se encontra em
+determinado regime, de modo que estimação e inferência para cada regime são baseadas em
+um conjunto maior de observações. Essa propriedade é particularmente útil para o caso
+brasileiro com reduzido número de observações disponíveis.
+Porém, antes de serem apresentados os resultados, é importante esclarecer que o
+propósito deste exercício econométrico não é avaliar a hipótese de que o investimento público
+seja a única (e nem mesmo a principal) variável explicativa da dinâmica do PIB. Sem dúvida,
+o desempenho do produto é afetado por múltiplas variáveis e complexas interações entre elas
+– sendo que algumas destas variáveis, como o crédito, tiveram comportamento potencialmente
+mais favorável ao desempenho do produto –, as quais não são contempladas de maneira
+exaustiva pelo modelo econométrico. O exercício econométrico enfrenta o dilema clássico
+entre explicabilidade e previsibilidade e a inclusão destas potenciais variáveis traria à tona uma
+série de questões não triviais de identificação e de perda de graus de liberdade em uma
+modelagem que já enfrenta um problema de pequeno tamanho da amostra. Por conseguinte, a
+opção metodológica deste artigo é por uma estratégia de pesquisa seguindo a especificação
+básica do estudo de referência de Auerbach e Gorodnichenko (2012), que preserva os graus de
+liberdade do modelo e permite responder ao questionamento principal do trabalho sobre a
+sensibilidade do produto frente aos choques do investimento público, além de viabilizar
+comparações internacionais. De todo modo, seus resultados devem ser interpretados com
+cautela e estão longe de afirmar que os investimentos públicos tenham sido a única causa e
+nem sequer a principal causa do desempenho econômico no período.
+3.2 Estimação de multiplicadores fiscais: resultados
+O Gráfico 4 reporta as funções de impulso-resposta para um choque de R$ 1,00 no
+investimento público. Os gráficos ditam o comportamento das variáveis durante um período de
+Economia e Sociedade, Campinas, v. 27, n. 3 (64), p. 939-969, setembro-dezembro 2018. 951
+
+=== página 14 ===
+Rodrigo Octávio Orair, Fernando de Faria Siqueira
+48 meses após o choque. A primeira coluna inclui no gráfico o intervalo de confiança de 90%
+da resposta do modelo linear, ao passo que a segunda e terceira, dos modelos recessivo e
+expansivo, respectivamente.
+Gráfico 4
+Funções de impulso-resposta no modelo linear, recessões e expansões
+Notas: 1 As figuras mostram as funções de impulso-resposta a um aumento de R$1 na variável de
+interesse. A região sombreada é o intervalo de confiança de 90%.
+Elaboração dos autores.
+Os resultados corroboram as evidências encontradas na literatura internacional de que
+os multiplicadores fiscais diferem de acordo com os regimes recessivo/expansivo. As respostas
+do produto a choques do investimento no modelo não linear apresentam uma dinâmica similar
+(em formato hump-shapped), porém possuem níveis distintos: o impacto é em média 1,5 maior
+no regime recessivo em comparação com o regime expansivo. A resposta do produto em
+recessões (suficientemente) fortes é superior à unidade, persistente (estatisticamente
+significante durante todo o período de análise de 48 meses) e chega a alcançar valores elevados
+(próximos ou superiores a 2 no período de maior impacto de 3 a 5 trimestres). Por sua vez, a
+resposta do produto nas expansões (suficientemente) fortes sempre está abaixo da unidade e é
+pouco persistente (significativa apenas do 3º ao 17º mês).
+Com intuito de clarificar essa análise, a primeira coluna da Tabela 2 traz o impacto
+máximo sobre o produto (e respectivo erro-padrão na segunda coluna), o qual é amplamente
+adotado por Blanchard e Perotti (2002) como medida de multiplicador fiscal. A terceira coluna
+952 Economia e Sociedade, Campinas, v. 27, n. 3 (64), p. 939-969, setembro-dezembro 2018.
+
+=== página 15 ===
+Investimento público no Brasil e suas relações com ciclo econômico e regime fiscal
+reporta a razão entre a resposta do produto (frente ao choque da despesa) e a resposta da despesa
+(frente ao choque da própria despesa), a qual é utilizada por Woodford (2011), uma vez que se
+argumenta que o tamanho do multiplicador fiscal depende da persistência dos choques fiscais.
+Pela tabela, pode-se verificar que os multiplicadores fiscais no regime recessivo são
+consideravelmente superiores aos do regime expansivo. Por exemplo, o multiplicador em
+recessões (suficientemente) fortes foi estimado em 2,2 no impacto máximo e em 0,8 nas
+expansões (suficientemente) fortes.
+Cabe aqui, entretanto, advertir que os multiplicadores do modelo não linear são
+considerados extremos. Em geral, a economia encontra-se transitando entre regimes
+expansivos e recessivos. Por isto, as diferenças entre multiplicadores são superestimadas
+devido à pressuposição de que os regimes não mudam e pelo fato de considerar uma
+configuração com expansões e recessões fortes. Logo, não se deve prender muito ao valor
+pontual em si, mas sim à direção das funções de impulso-resposta. O mais razoável é admitir
+que, ao longo do tempo, os multiplicadores dos investimentos públicos assumam valores
+intermediários aos extremos. Algo que é consistente com o multiplicador de impacto máximo
+de 1,3 no modelo linear, sendo que a resposta do produto ao choque do investimento nesse
+modelo também se mostrou persistente convergindo para 0,8 ao longo de quatro anos.
+Tabela 2
+Multiplicadores Fiscais
+48 48
+𝑚𝑎𝑥 𝑌 ∑ 𝑌 ⁄∑ 𝐼𝑔
+ℎ=1,…,48 ℎ ℎ ℎ
+ℎ=1 ℎ=1
+Estimativa pontual Erro Padrão Estimativa pontual Erro Padrão
+Linear 1,3038 0,1957 3,8399 0,1466
+Expansão 0,8102 0,1783 0,2409 0,2339
+Recessão 2,1937 0,2664 7,0177 0,3005
+Fonte: Elaboração dos autores.
+Em relação à resposta das receitas tributárias ao choque do investimento público, esta
+também mostrou distinção entre regimes: para o período recessivo, após uma moderada queda
+nos primeiros meses, a trajetória torna-se ligeiramente positiva e persistente ao longo do tempo;
+enquanto que o contrário ocorre no regime expansivo, quando após os primeiros meses ela fica
+ligeiramente negativa e mantém-se persistente. Pode-se concluir, portanto, que a arrecadação
+responde positivamente ao choque dos investimentos no regime recessivo, mas não no regime
+expansivo.
+Sobre este último ponto, cabe observar que as dinâmicas das funções de impulso-
+resposta aos choques do investimento público, tanto para as receitas tributárias quanto para o
+produto, são semelhantes às encontradas na economia norte-americana por Auerbach e
+Gorodnichenko (2012). Estes autores também chegam ao resultado de que a resposta das
+receitas tributárias é positiva no regime recessivo e não no regime expansivo, diferença que é
+Economia e Sociedade, Campinas, v. 27, n. 3 (64), p. 939-969, setembro-dezembro 2018. 953
+
+=== página 16 ===
+Rodrigo Octávio Orair, Fernando de Faria Siqueira
+consistente com a resposta automática da arrecadação às mudanças no produto. Dito de outro
+modo, a existência de uma relação mais direta entre a arrecadação e o produto tende a fazer
+com que, nos regimes (fortemente) recessivos, a resposta positiva e persistente do produto se
+traduza em uma resposta positiva e persistente da arrecadação, assim como nos regimes
+(fortemente) expansivos, quando a resposta ligeiramente positiva e pouco persistente do
+produto (que perdura por alguns meses e depois fica inclusive negativa) também se reflete em
+um padrão de resposta semelhante da arrecadação. Entretanto, mais uma vez é preciso advertir
+que as funções de impulso-resposta do modelo não linear devem ser consideradas situações
+extremas com configurações de fortes recessões/expansões e que não se verificam por
+sucessivos períodos de tempo já que a economia encontra-se transitando entre regimes. Por isto,
+uma interpretação mais adequada é a de que tanto o produto quanto a arrecadação respondem
+de maneira mais positiva e persistente aos choques do investimento público nos períodos
+recessivos e estas respostas tendem a ser menores e pouco persistentes nas expansões.
+Por um lado, esses resultados dão subsídios ao uso do investimento público como
+instrumento de política anticíclica, no sentido de que pode ser um instrumento de estímulo ao
+crescimento durante períodos recessivos. Ao mesmo tempo em que sugere cautela já que o
+mesmo instrumento não se mostra tão eficiente em períodos expansivos. Por outro lado, os
+mesmos resultados parecem indicar que a retração da taxa de investimentos públicos, em
+conjunturas de desaceleração econômica como em 2011-2014 ou em forte recessão como em
+2015, quando os multiplicadores assumem seus valores mais elevados, tem fortes repercussões
+negativas e contribui para a deterioração do cenário econômico.
+4 Hipóteses explicativas para a queda recente da taxa de investimentos
+Além das repercussões da queda da taxa de investimentos sobre a atividade econômica
+no período 2011-2015, outro aspecto relevante a ser analisado diz respeito aos fatores que estão
+por trás desta queda. O propósito desta seção é justamente lançar algumas hipóteses
+explicativas para esse fenômeno e na próxima seção aprofundaremos a análise sobre uma delas.
+4.1 Condicionantes institucionais
+Uma primeira hipótese é que a dinâmica do investimento público foi influenciada
+menos pela questão orçamentária e mais pelas amarras institucionais, como problemas de
+gestão do governo ou questões ambientais e judiciais. É notório que o marco institucional
+impõe grandes obstáculos, sobretudo após a desarticulação das estruturas que deram suporte
+aos investimentos no período desenvolvimentista.
+No entanto, não se deve desconsiderar que inúmeras ações voltadas à minoração dos
+obstáculos institucionais foram adotadas desde 2005 e inclusive favoreceram a retomada dos
+investimentos nos anos 2006-2010 (contração e capacitação de pessoal, esforços de
+coordenação entre órgãos do governo, recriação de instâncias de planejamento, retomada de
+planos estratégicos etc.). Além disso, o propósito aqui não é buscar uma explicação para o
+954 Economia e Sociedade, Campinas, v. 27, n. 3 (64), p. 939-969, setembro-dezembro 2018.
+
+=== página 17 ===
+Investimento público no Brasil e suas relações com ciclo econômico e regime fiscal
+baixo patamar da taxa de investimento público no Brasil e, sim, para a inflexão na sua trajetória,
+que vinha crescendo e passou a cair a partir de 2011. Para explicar essa reversão, seria
+necessário que os obstáculos institucionais tivessem se agravado demasiadamente durante um
+curto período de tempo a ponto de fazer com que a taxa de investimentos nos anos 2011-2015
+retomasse níveis semelhantes aos de meados da década de 1990, algo que carece de evidências.
+4.2 Condicionantes externos e financeiros
+Uma segunda hipótese explicativa diz respeito ao papel dos condicionantes externos e
+financeiros na fase de grande recessão que sucedeu a crise internacional de 2008. A conjuntura
+internacional desfavorável levou à deterioração das condições de liquidez nos mercados
+financeiros e à revisão de projetos de investimentos em escala global. Na direção contrária, o
+governo federal implementou uma estratégia anticíclica de enfrentamento do cenário adverso,
+dando continuidade ao expansionismo fiscal iniciado em 2005, por meio de medidas como a
+ampliação da oferta de crédito doméstico pelos bancos públicos e a flexibilização das restrições
+à tomada de crédito pelos governos regionais e empresas estatais.
+Desse modo, a ação estatal anticíclica permitiu contornar a maior parte dos obstáculos
+externos e financeiros aos investimentos públicos. No âmbito dos governos regionais, por
+exemplo, os anos 2011-2014 coincidiram com o auge de um período de retomada de
+endividamento junto a organismos multilaterais e bancos públicos, em que o principal destino
+dos recursos foi financiar projetos de investimentos14.17 Tampouco existem indícios de forte
+intensificação nas restrições ao endividamento do governo central. Isso parece ter ocorrido de
+maneira mais evidente apenas no âmbito de empresas estatais como a Petrobras e a Eletrobras,
+nos anos 2014 e 2015, que, devido à deterioração das suas condições financeiras, tiveram o
+acesso ao mercado de crédito dificultado15.18Em suma, os obstáculos financeiros emergiram de
+maneira muito localizada e não fornecem uma explicação completa para a inflexão dos
+investimentos públicos a partir de 2011.
+4.3 Reorientação da estratégia governamental
+A terceira hipótese explicativa é que houve uma revisão na estratégia governamental
+que passou a apostar mais no setor privado e menos no investimento público. Na virada da
+década de 2010 emergiu um diagnóstico, por uma parcela do governo, de que vários dos
+grandes projetos de investimentos públicos continham deficiências e atrasos excessivos nos
+seus cronogramas. Esse diagnóstico parece ter influenciado para que, diante da nova
+________________________
+(14) Mora (2016) e Orair et al. (2016) analisam o processo de retomada do crédito bancário e externo que contou com o
+aval do governo central. É apenas com a inflexão da política fiscal em 2015 que o governo central voltou a impor restrições mais
+fortes à tomada de crédito pelos governos regionais.
+(15) As condições financeiras dessas empresas se deterioraram rapidamente influenciadas por condicionantes externos e
+internos (por exemplo, colapso do preço internacional do petróleo e compressão das tarifas de energia elétrica e dos preços
+domésticos dos derivados do petróleo). Afonso, Vilma e Fajardo (2015) e Cerqueira (2016) analisam esse fenômeno com maior
+profundidade e suas repercussões sobre os investimentos, além de apresentarem análises sobre os investimentos do governo geral.
+Economia e Sociedade, Campinas, v. 27, n. 3 (64), p. 939-969, setembro-dezembro 2018. 955
+
+=== página 18 ===
+Rodrigo Octávio Orair, Fernando de Faria Siqueira
+desaceleração econômica verificada a partir de 2011, o governo tenha optado por uma
+estratégia de enfrentamento baseada principalmente em estímulos como subsídios,
+desonerações, reduções de tarifas e um plano de concessões em infraestrutura, prevendo maior
+presença do setor privado. O pressuposto básico da estratégia era que os investimentos privados
+reagiriam mais rapidamente do que os investimentos públicos16.19
+Essa hipótese de reorientação na estratégia governamental tampouco é suficiente para
+explicar a inflexão para uma trajetória de queda da taxa de investimentos públicos. A aposta
+mais incisiva no setor privado não necessariamente exige uma retração dos investimentos
+públicos. No próprio discurso governamental sempre predominou uma retórica acomodativa,
+argumentando-se em favor da necessidade de se aprimorar o planejamento e a execução dos
+projetos para dar continuidade à retomada dos investimentos públicos, assim como seu caráter
+complementar em relação aos investimentos privados. Assim, é pouco razoável admitir que
+houve uma ação deliberada no sentido de promover uma inflexão na tendência de crescimento
+dos investimentos públicos.
+4.4 Retorno dos constrangimentos orçamentários
+Resumindo, as hipóteses explicativas delineadas nas subseções 4.1 a 4.3 são relevantes,
+mas não explicam integralmente a dinâmica dos investimentos públicos. Uma hipótese
+complementar diz respeito à paralisia de instâncias governamentais, ocasionada por fatores
+como instabilidade política desde 2013 e denúncias de irregularidade17.20 Infelizmente, o
+impacto desses fatores sobre os investimentos públicos é de difícil avaliação.
+Por fim, a hipótese central deste trabalho é que os constrangimentos orçamentários aos
+investimentos públicos foram intensificados após 2011. À primeira vista, essa hipótese pode
+soar paradoxal porque a interrupção da retomada dos investimentos públicos e o início do seu
+retrocesso ocorreu durante um período de expansionismo fiscal (2011-2014). Para melhor
+compreensão desse ponto, será necessário proceder a uma análise mais geral da política fiscal
+no Brasil explorando as relações dos investimentos públicos com o regime fiscal. Este será o
+propósito da próxima seção cujo foco recairá especificamente sobre o governo central.
+Antes de prosseguir, entretanto, cabe fazer duas advertências. Primeiramente, há que
+se ressaltar que a discussão sobre as restrições financeiras aos investimentos públicos deve
+levar em consideração o arcabouço fiscal vigente no país. O regime de metas primárias
+restringe o acesso ao endividamento e reduz os graus de liberdade da política fiscal ao
+estabelecer limites aos agregados orçamentários e, sobretudo, àquelas despesas que, como os
+investimentos, possuem uma natureza essencialmente discricionária. Mesmo que do ponto de
+________________________
+(16) Afonso e Gobetti (2015) e Gobetti e Orair (2015) desenvolvem argumentos semelhantes.
+(17) Por exemplo, as denúncias de irregularidades no Departamento Nacional de Infraestrutura de Transportes (DNIT)
+em 2011, que desorganizaram temporariamente o órgão e levaram a uma reforma nos instrumentos de contratação de obras públicas,
+e que se repetiriam com maior gravidade na Operação Lava-Jato em 2014 e 2015, que afetou importantes instâncias responsáveis
+pelos investimentos, como as empresas estatais e as grandes empreiteiras.
+956 Economia e Sociedade, Campinas, v. 27, n. 3 (64), p. 939-969, setembro-dezembro 2018.
+
+=== página 19 ===
+Investimento público no Brasil e suas relações com ciclo econômico e regime fiscal
+vista teórico a restrição mais geral aos investimentos esteja relacionada à debilidade do
+mercado de financiamento de longo prazo no país, na prática o regime de metas reduz essa
+discussão à questão dos constrangimentos do orçamento primário.
+Em segundo lugar, é preciso advertir que as diversas hipóteses explicativas para a
+queda da taxa de investimentos públicos a partir de 2011 não são excludentes. Como será
+analisado na sequência, o custo fiscal da estratégia de estímulo aos investimentos privados por
+subsídios e desonerações, bem como seu malogro em termos de recuperar o crescimento
+econômico, é um dos fatores responsáveis, mas não o único, pela intensificação dos
+constrangimentos orçamentários aos investimentos.
+5 Regime fiscal, orientação da política econômica e investimentos públicos
+O regime fiscal baseado em metas anuais de superavit primário está em vigor no Brasil
+desde 1999, mas, ao longo desse período, esteve sujeito a diversas tensões, passou por
+flexibilizações e acomodou diferentes orientações da política fiscal. Durante a fase
+contracionista do ciclo de médio prazo da política fiscal (1999-2005), as metas foram
+progressivamente aumentadas, e os resultados primários saíram de valores aproximadamente
+nulos (em média, -0,2% do PIB no quadriênio 1995-1998) para alcançar um superavit superior
+a 4,0% do PIB. Esse processo de ajustamento se apoiou no acréscimo da carga tributária de 6,6
+p.p. no PIB e em outro 1,3 p.p. de queda dos investimentos públicos, e também acomodou o
+acréscimo de outras despesas como os benefícios sociais.
+O quadro se modificou com a reorientação da política fiscal para uma fase de
+flexibilização, quando uma série de instrumentos foram introduzidos no regime de metas com
+o intuito de gerar espaço fiscal. O primeiro desses instrumentos foi o Projeto Piloto de
+Investimentos (PPI), criado em 2005 e depois ampliado com o lançamento do PAC. O PPI
+serviu para introduzir a ideia de que alguns investimentos precisariam receber tratamento fiscal
+diferenciado por ensejarem um processo virtuoso de autofinanciamento, e, por conseguinte,
+poderiam ser deduzidos da meta fiscal. A concepção do PPI seguia recomendações de
+organismos multilaterais para retirar o viés anti-investimento de regras numéricas muito
+rígidas, sendo que a opção brasileira apenas previa a dedução da meta fiscal de uma carteira
+bem seletiva de projetos e não um orçamento de capital em separado.
+O PAC contribuiu ao deslanchar um conjunto de projetos na área de infraestrutura e
+ampliar substancialmente a margem de dedução. No ano de 2009, por exemplo, a margem de
+dedução de investimentos quase dobrou, de R$ 15,6 bilhões para R$ 28,5 bilhões, com a
+mudança do PPI para o PAC. Em contrapartida, os critérios de enquadramento foram
+flexibilizados no PAC, e os projetos se afastaram gradualmente dos investimentos públicos
+propriamente ditos. Voltaremos a esse ponto mais adiante.
+Um segundo instrumento de flexibilização foi a exclusão de empresas estatais federais
+da meta fiscal, com intuito de liberá-las de constrangimentos orçamentários para que
+viabilizassem seus planos de investimentos. Simultaneamente, a meta de resultado primário foi
+Economia e Sociedade, Campinas, v. 27, n. 3 (64), p. 939-969, setembro-dezembro 2018. 957
+
+=== página 20 ===
+Rodrigo Octávio Orair, Fernando de Faria Siqueira
+sendo reduzida: recalculada de 4,25% para 3,8%, após a divulgação da nova série do PIB pelo
+IBGE em 2007, que elevou o denominador da relação entre resultado primário e PIB; para
+3,3%, com a retirada das empresas do Grupo Petrobras em 2009; e para 3,1%, com a retirada
+das empresas do Grupo Eletrobras em 201018.21
+Tabela 3
+Metas e valores realizados do superavit primário do setor público (2003-2016)
+(Em participação percentual do PIB)
+Teto de
+Teto de
+Margem superavit
+Ampliação superavit Fundo
+Meta de de PPI/PAC pós- Superavit
+Excedente da margem pela Soberano e
+Ano superavit dedução executado dedução realizado2
+(F = E - D) de deduções3 legislação Cessão
+(A) PPI/PAC (C) PPI/PAC (E)
+(G) (H = D – onerosa (I)
+(B) (D = A –
+G)
+B)
+2003 4,25% - - 4,25% 4,37% 0,12% - 4,25% -
+2004 4,25% - - 4,25% 4,58% 0,33% - 4,25% -
+2005 4,25% 0,14% 0,06% 4,11% 4,83% 0,72% - 4,11% -
+2006 4,25% 0,15% 0,14% 4,10% 4,37% 0,27% - 4,10% -
+2007 4,25% 0,20% 0,23% 4,05% 4,50% 0,45% - 4,05% -
+2008 3,80% 0,48% 0,27% 3,32% 4,56% 1,24% - 3,32% -0,49%
+2009 2,50% 0,90% 0,57% 1,60% 2,05% 0,45% - 1,60% -
+2010 3,30% 0,67% 0,65% 2,63% 2,07% -0,57% - 2,63% 0,94%
+2011 3,30% 0,84% 0,74% 2,46% 3,38% 0,93% - 2,46% -
+2012 3,10% 0,90% 0,87% 2,20% 2,05% -0,15% - 2,20% 0,27%
+2013 3,10% 0,88% 0,89% 2,22% 1,82% -0,40% 0,42% 1,80% -
+2014 3,10% 1,07% 1,07% 2,03% -0,60% -2,63% Sem limite Sem teto -
+2015 -0,85% - 0,82% -0,85% -1,92% -1,07% 1,18% -2,03% 0,01%
+2016 -2,64% - nd -2,64% nd Nd - -2,64% -
+Obs.: 1 Consideram-se os valores do PIB previstos nas leis orçamentárias que servem de referência para o
+cumprimento da meta e não os valores atualizados.
+2 Exclui os efeitos das triangulações de recursos no Fundo Soberano (2008, 2012 e 2015) e nas operações de cessão
+onerosa e capitalização da Petrobras (2010).
+3 Considera desonerações tributárias, frustrações de receitas e passivos quitados junto a fundos e bancos públicos.
+Fonte: Elaboração dos autores a partir das informações de leis orçamentárias e relatórios fiscais.
+O resultado das flexibilizações foi que o teto de superavit para fins de cumprimento da
+legislação reduziu-se de 4,25% em 2004 para 2,63% do PIB em 2010, como se pode observar
+________________________
+(18) Além de uma redução temporária para 2,5% do PIB em 2009, com o intuito de acomodar o pacote de medidas
+anticíclicas e os efeitos do contágio da crise internacional no Brasil.
+958 Economia e Sociedade, Campinas, v. 27, n. 3 (64), p. 939-969, setembro-dezembro 2018.
+
+=== página 21 ===
+Investimento público no Brasil e suas relações com ciclo econômico e regime fiscal
+na Tabela 3. Essa redução, juntamente com o maior dinamismo econômico do período, que
+impulsionou as receitas, abriu espaço fiscal, que foi canalizado predominantemente para
+investimentos públicos. Entre 2005 e 2010, o resultado primário do governo geral caiu de 3,7%
+para 2,6% do PIB19,22 sua taxa de investimentos acresceu em um montante da mesma
+magnitude, de 1,1% p.p. do PIB, e a taxa de investimentos das empresas estatais federais
+liberadas do cumprimento de metas fiscais acresceu mais 0,9 p.p. do PIB.
+O fato de o espaço fiscal ter sido canalizado predominantemente para investimentos
+no período 2006-2010 não significa que essas despesas foram as únicas que cresceram e nem
+mesmo as que mais cresceram em termos absolutos. Ao contrário, o principal fator de expansão
+das despesas primárias está relacionado à dinâmica dos gastos sociais e, mais precisamente,
+aos benefícios sociais (assistenciais e previdenciários), que representam cerca de metade do
+orçamento primário federal e crescem a taxas elevadas e muito estáveis desde a década de
+1990, como se pode observar na tabela 4. Esses gastos sociais respondem, em grande medida,
+a pressões estruturais em favor de transferências redistributivas e da construção de um projeto
+de estado de bem-estar social, com ampliação do acesso aos serviços sociais básicos pela
+população, que remontam pelo menos à renovação do contrato social após a Constituição
+Federal de 1988.
+Quando analisamos em perspectiva os mais de 17 anos do regime de metas primárias,
+as principais mudanças encontram-se na composição da política fiscal e na trajetória do
+resultado primário e não tanto no ritmo de crescimento das despesas primárias que,
+impulsionadas pelos benefícios sociais, cresceram a taxas semelhantes ao longo dos diversos
+subperíodos na Tabela 4. A consolidação fiscal do período 1999-2005 exigiu aumentos
+legislados da carga tributária e queda na taxa de investimentos públicos para alcançar o duplo
+propósito de acomodar o gasto social e canalizar recursos para ampliar o superavit primário.
+No período subsequente de flexibilização fiscal (2006-2014), os resultados primários
+foram gradualmente reduzidos, e a arrecadação acompanhou de maneira mais próxima o ritmo
+de crescimento do PIB, com a carga tributária mantendo-se a relativamente
+estabilizada20.23 Outra distinção importante é que, durante o primeiro subperíodo da fase de
+flexibilização fiscal (2006-2010), a arrecadação acompanhou o ritmo mais acelerado de
+crescimento econômico e acomodou pressões do gasto social. A combinação entre
+flexibilizações nas metas primárias e maior dinamismo da arrecadação ampliou os graus de
+liberdade da política fiscal e criou espaço fiscal que foi canalizado predominantemente para os
+investimentos durante o subperíodo de expansionismo fiscal (2006-2010).
+________________________
+(19) Desconsiderando-se o resultado das empresas da Petrobras e da Eletrobras, que foram retiradas da meta, e a receita
+atípica da triangulação de recursos nas operações de cessão onerosa e capitalização da Petrobras em 2010.
+(20) Como mostra Orair (2015), a carga tributária oscilou em torno de 33% do PIB ao longo do decênio 2005-2014,
+mesmo sob predomínio das desonerações tributárias. Esse paradoxo é explicado pelas características do padrão de crescimento
+econômico, favoráveis à arrecadação, como a formalização do mercado de trabalho com expansão da massa salarial, o crescimento
+do volume de importações e, no período anterior à crise de 2008, um boom financeiro de lucros não operacionais e de ganhos de
+capital.
+Economia e Sociedade, Campinas, v. 27, n. 3 (64), p. 939-969, setembro-dezembro 2018. 959
+
+=== página 22 ===
+Rodrigo Octávio Orair, Fernando de Faria Siqueira
+Existem vários fatores por trás do maior dinamismo econômico desse período, mais
+notadamente o boom de liquidez e de preços de commodities anterior à crise internacional de
+2008, que relaxou a restrição externa ao crescimento da economia brasileira. Não se deve
+negligenciar, contudo, a influência dos fatores domésticos, como a própria mudança na
+composição da política fiscal, mais favorável aos investimentos públicos, que cresceram a taxas
+superiores a dois dígitos, as mais elevadas entre os componentes das despesas na Tabela 4. Os
+multiplicadores dos investimentos públicos estimados na seção 3 deste artigo dão indícios
+nessa direção, cujos impactos máximos assumem valores entre 0,8 e 2,2 dependendo do estado
+do ciclo econômico.
+Tabela 4
+Crescimento das receitas e despesas primárias do governo central por períodos selecionados –
+Taxa real de crescimento ao ano (1999-2015) ¹
+(Em %)
+Discriminação 1999-2002 2003-2006 2007-2010 2011-2014 2014-2015
+Receita total 6,5% 4,7% 3,6% 1,5% -6,0%
+Despesa total 3,9% 5,2% 5,5% 3,8% -2,9%
+Pessoal 3,4% 0,7% 4,1% -0,3% 1,8%
+Benefícios Sociais 6,0% 8,8% 4,5% 4,3% 0,4%
+Subsídios -14,3% 32,3% 14,9% 23,8% -10,3%
+Custeio 2,9% 3,6% 4,8% 4,7% -5,3%
+FBCF -4,2% 2,3% 24,0% 0,3% -41,4%
+Outras despesas de capital 2,9% -5,9% 11,4% -2,5% -14,7%
+PIB 2,3% 3,5% 4,6% 2,2% -3,8%
+Nota: ¹ Valores convertidos pelo deflator implícito do PIB.
+Elaboração dos autores, com valores atualizados de Gobetti e Orair (2015).
+Vale destacar que na maior parte desse período de bonança (2006-2010) havia um
+excedente orçamentário para fins de investimento, no sentido de que o resultado primário
+superava o teto permitido pela legislação caso fosse feito uso completo das deduções, e poucas
+vezes foi necessário recorrer às deduções do PPI/PAC porque os resultados primários
+normalmente superavam as metas (ver tabela 3). É justamente aí que ganha força a tese de que
+os constrangimentos orçamentários deixaram de ser um problema tão grande e que o baixo
+volume de investimento público deveria ser atribuído mais às amarras institucionais, como
+problemas de gestão do governo ou questões ambientais e judiciais21.24
+Esta hipótese, mesmo que seja relevante para explicar o baixo nível de execução de
+projetos específicos (principalmente nas grandes obras de infraestrutura), deve ser relativizada
+quando se deseja analisar as restrições orçamentárias ao agregado dos investimentos públicos.
+________________________
+(21) Tese defendida em Almeida (2009), por exemplo.
+960 Economia e Sociedade, Campinas, v. 27, n. 3 (64), p. 939-969, setembro-dezembro 2018.
+
+=== página 23 ===
+Investimento público no Brasil e suas relações com ciclo econômico e regime fiscal
+Basta observar que, nas duas primeiras vezes em que o governo fez uso da margem de dedução
+de investimentos para cumprir a meta fiscal (2009 e 2010), ela foi utilizada apenas parcialmente
+e sob intensas críticas. Na ocasião, o procedimento previsto na legislação foi interpretado como
+“contabilidade criativa” por diversos analistas da política fiscal, de maneira indistinta em
+relação a outras medidas que elevam artificialmente o resultado primário, e essa interpretação
+controversa teve ampla repercussão no debate público. Isso sugere a imposição de um
+constrangimento, senão do ponto de vista legal, ao menos de caráter pragmático, já que, na
+prática, evitava-se fazer amplo uso do excedente orçamentário para investimentos. O mais
+usual até 2010 foi o governo cumprir suas metas impondo contingenciamentos à base de
+despesas discricionárias, dentre elas os investimentos, e, apenas em caráter excepcional,
+deduzindo uma parcela da margem de investimentos da meta fiscal.
+A principal hipótese desta seção do artigo é a de que o mecanismo de dedução dos
+investimentos prioritários, tal qual introduzido e operacionalizado no país, apenas flexibilizou
+parcial e temporariamente as restrições orçamentárias sem equacionar a tensão básica entre o
+objetivo de cumprir a meta fiscal e o de ampliar esses investimentos. As restrições
+orçamentárias persistiram em menor ou maior grau, tendo sido temporariamente relaxadas
+durante os anos 2006-2010, mas tornando-se mais agudas no período 2011-2014, quando a
+economia brasileira adentrou um novo período recessivo, e o espaço fiscal para investimentos
+reduziu-se bruscamente.
+Cabe aqui destacar três fatores responsáveis pela redução do espaço fiscal para
+investimentos públicos no período 2011-2014. Primeiramente, o governo reorientou sua
+estratégia para priorizar desonerações e subsídios, sendo que esses últimos passaram a mostrar
+as mais elevadas taxas de crescimento entre os componentes das despesas primárias (tabela 4).
+A rápida expansão desses instrumentos insere-se em uma estratégia de reação à conjuntura
+econômica depressiva, sob o pressuposto de que, oferecendo-se estímulos suficientes ao setor
+privado, seria possível alavancar o investimento e retomar o crescimento. O custo fiscal da
+estratégia foi alto. O governo renunciou a volumes significativos de receitas, cujas
+desonerações instituídas mais que dobraram da média anual de R$ 26,3 bilhões nos anos 2006-
+2010 para R$ 69,3 bilhões entre 2011-2014, injetou cerca de R$ 17 bilhões por ano no programa
+Minha Casa Minha Vida (MCMV) e multiplicou os volumes de subsídios aos empréstimos do
+Banco Nacional de Desenvolvimento Social (BNDES) que alcançaram 29,1 bilhões em 2014.
+O resultado foi que a reação ficou limitada a setores específicos, sobretudo aqueles mais
+diretamente beneficiados, e a taxa agregada de investimentos privados não respondeu.
+Em segundo lugar, a arrecadação desacelerou acompanhando a queda no ritmo de
+atividade econômica, além de ter sido influenciada pelo crescente volume de desonerações.
+Adicionalmente, ficou explícito o caráter rígido e inercial dos gastos sociais, que
+permaneceram crescendo a taxas muito semelhantes às do período anterior. No caso do governo
+central, o crescimento das receitas primárias se desacelerou de 3,6% ao ano (a.a.) durante 2007-
+2010 para 1,5% a.a. em 2011-2014, enquanto os benefícios sociais cresceram a taxas próximas
+a 4,5% a.a. em ambos os períodos (Tabela 4).
+Economia e Sociedade, Campinas, v. 27, n. 3 (64), p. 939-969, setembro-dezembro 2018. 961
+
+=== página 24 ===
+Rodrigo Octávio Orair, Fernando de Faria Siqueira
+Diante da conjuntura de baixo crescimento econômico e desaceleração das receitas,
+com manutenção do ritmo de expansão de parcela considerável das despesas (benefícios sociais)
+ou mesmo aceleração de algumas rubricas (subsídios), o cumprimento das metas de resultado
+primário somente seria factível por dois caminhos. O primeiro via contingenciamentos muito
+fortes sobre a pequena parcela restante de despesas discricionárias passíveis de serem
+comprimidas no curto prazo, inclusive os investimentos. A segunda alternativa seria recorrer a
+medidas artificiais como receitas não recorrentes22,25postergação de pagamentos (ou pedaladas
+no jargão orçamentário) e ampliação da margem de despesas dedutíveis da meta.
+Em 2010, os investimentos públicos alcançaram o auge do período histórico recente, e
+a meta foi cumprida com expressivas receitas não recorrentes, como a triangulação de recursos
+nas operações de cessão onerosa com simultânea capitalização da Petrobras. No ano de 2011
+aconteceu o oposto: o governo anunciou que cumpriria a meta cheia de resultado primário, sem
+utilizar a margem de dedução, e interrompeu o processo de retomada dos investimentos
+públicos. Esse foi o último ano que se observou um excedente orçamentário para fins de
+investimentos (Tabela 3). O que se viu no período 2012-2014, quando o governo ainda relutava
+em modificar sua meta fiscal, mantida acima de 3% do PIB, foi que ela seria formalmente
+cumprida, mediante sucessivas alterações na legislação, por um misto dos dois caminhos
+supracitados.
+Em particular, a margem de deduções, ao longo do tempo, foi sendo ampliada e
+perdendo sua relação mais direta com os investimentos públicos prioritários. Por exemplo, o
+governo reclassificou despesas nas áreas de saúde, educação e segurança, que passaram a
+compor o PAC a partir de 2012; e em 2013-2014, ampliou a margem de dedução para
+contemplar desonerações tributárias. Até que, no ano de 2015, o governo propôs cumprir uma
+meta cheia de resultado primário, de 1,2% p.p. do PIB. A meta não se mostrou factível, e a
+legislação foi alterada, prevendo um déficit de 0,85% p.p. e deduções de mais 1,18% p.p.,
+referentes à frustração de receitas e quitação de passivos junto aos bancos e fundos públicos.
+Novamente em 2016, o governo propôs uma meta inicial cheia de 0,5% p.p. do PIB e alterou
+a legislação para um déficit de 2,64% do PIB, sendo que a redação final do projeto de lei que
+alterou a meta fiscal sequer faz referência ao mecanismo de dedução das despesas prioritárias
+de investimentos.
+O próprio PAC teve critérios de enquadramento flexibilizados e acomodou crescente
+volume de despesas que não são investimentos propriamente ditos. Fazendo emergir uma
+situação paradoxal retratada na tabela 5: enquanto a FBCF do governo central permaneceu
+praticamente estagnada nos anos 2010-2014, os volumes de execução do PAC dobraram,
+influenciados por reclassificações e outras despesas como os subsídios do programa
+________________________
+(22) As receitas não recorrentes incluem receitas extraordinárias e contabilidade criativa, entre outras medidas. Ver
+Schettini et al. (2011).
+962 Economia e Sociedade, Campinas, v. 27, n. 3 (64), p. 939-969, setembro-dezembro 2018.
+
+=== página 25 ===
+Investimento público no Brasil e suas relações com ciclo econômico e regime fiscal
+MCMV23.26Sintetizando, a margem de dedução, que era formada inicialmente por uma carteira
+seletiva de projetos prioritários de investimentos, foi gradualmente alterando sua composição
+e deixando de ter relação com investimentos prioritários. Até culminar no seu abandono no
+biênio 2015-2016.
+Tabela 5
+Despesas pagas do PPI/PAC (2006-2015)
+(Em bilhões de R$ de 2015 convertidos pelo IPCA)
+2006- 2010- 2014-
+Discriminação 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015
+2010 2014 2015
+-
+PPI/PAC 4,9 8,2 12,0 23,4 30,6 36,4 48,4 51,8 62,9 47,3 57,9% 19,8%
+24,9%
+-
+FBCF 4,0 6,0 8,3 13,4 19,2 17,1 17,6 21,5 27,2 14,1 47,7% 9,1%
+48,1%
+Transferências aos -
+0,6 1,0 3,2 6,5 8,3 7,8 15,2 9,7 12,9 8,3 90,1% 11,7%
+governos subnacionais 35,3%
+Minha Casa Minha
+0,0 0,0 0,0 0,0 2,2 10,0 13,9 16,4 19,0 20,7 - 71,9% 9,0%
+Vida
+Outras despesas 0,3 1,3 0,5 3,5 0,9 1,5 1,7 4,2 3,9 4,1 38,4% 43,1% 6,7%
+-
+Memo: FBCF Total 15,1 18,5 21,0 28,7 40,5 36,1 32,2 37,1 43,2 25,0 27,9% 1,7%
+42,3%
+Elaboração dos autores, com dados do Sistema Integrado de Administração Financeira (Siafi).
+Tal situação explicita a fragilidade do mecanismo introduzido no regime de metas
+primárias para conferir tratamento orçamentário diferenciado aos investimentos prioritários.
+Essa fragilidade, juntamente com a elevada rigidez que caracteriza a política fiscal brasileira,
+acaba por tornar os investimentos públicos muito vulneráveis no atual regime fiscal. Daí que a
+combinação da desaceleração das receitas com a manutenção do ritmo de expansão das
+despesas em um cenário de baixo crescimento econômico – o que se explica por um
+componente de caráter mais estrutural e inercial relacionado aos gastos sociais, que já vinham
+crescendo desde a década de 1990, ao qual se somaram novos gastos de subsídios e as renúncias
+de receitas na estratégia do governo de promover a retomada do crescimento via estímulos ao
+setor privado – tenha resultado inevitavelmente na brusca redução do espaço fiscal para
+investimentos no período 2011-2014.
+O recurso às medidas artificiais para alcançar a meta fiscal (receitas não recorrentes,
+ampliação forçada da margem de deduções e postergações de pagamentos) acabaram
+funcionado como um instrumento nada transparente para conferir flexibilidade ao regime fiscal,
+________________________
+(23) Os valores da FBCF do governo central apresentados na tabela 5 são apurados pelo conceito de caixa e deflacionados
+pelo IPCA, diferindo um pouco daqueles vistos na tabela 1, sob competência (patrimonial) e convertidos pelo deflator implícito
+do PIB.
+Economia e Sociedade, Campinas, v. 27, n. 3 (64), p. 939-969, setembro-dezembro 2018. 963
+
+=== página 26 ===
+Rodrigo Octávio Orair, Fernando de Faria Siqueira
+não sendo sequer suficiente para evitar a imposição de maiores entraves orçamentários aos
+investimentos que contribuíram para sua estagnação e mesmo seu declínio no período em
+questão. Isso consolidou uma mudança na composição da política fiscal, com a passagem de
+um período cujo espaço fiscal criado pelas flexibilizações do regime de metas foi canalizado
+principalmente para investimentos (2006-2010) para um período de maior crescimento dos
+subsídios e das desonerações (2011-2014).
+Se é verdade que a expansão dos investimentos públicos funcionou como um dos
+fatores dinamizadores do crescimento econômico durante 2005-2010, também é razoável
+admitir que a mudança para uma trajetória de queda da taxa de investimentos tenha favorecido
+a desaceleração econômica do período 2010-2014 e a crise de 2015, quando os investimentos
+públicos caíram a quase metade do patamar observado no ano anterior (Tabela 5).
+Principalmente quando se considera que, em conformidade com os resultados encontrados na
+análise empírica da seção 3, é justamente nos períodos recessivos que os multiplicadores dos
+investimentos alcançam valores mais elevados. Ao mesmo tempo em que as incertezas em
+relação ao contexto internacional adverso e ao regime fiscal tendem a desincentivar as
+inversões privadas e reduzir os possíveis impactos de subsídios e desonerações. Ou seja, a
+mudança na composição da política fiscal em favor dos subsídios e desonerações (e em
+detrimento dos investimentos públicos) pode ter contribuído para o malogro da estratégia de
+retomada do crescimento econômico24.27
+6 Considerações finais
+Este artigo analisou a trajetória dos investimentos públicos na economia brasileira –
+com ênfase no período recente caracterizado por um esboço de retomada (2005-2010) e
+inflexão para tendência de queda (2011-2015) que fez com que o avanço anterior já tenha sido
+quase todo revertido – e suas relações com ciclo econômico e regime fiscal. A análise da relação
+entre investimentos públicos e ciclo econômico se baseou nos resultados de um modelo
+econométrico não linear que permite estimar multiplicadores fiscais que variam conforme o
+estado da economia, seguindo a abordagem de Auerbach e Gorodnichenko (2012).
+Os resultados corroboram as evidências encontradas na literatura internacional de que
+os multiplicadores fiscais diferem de acordo com os regimes recessivo/expansivo. Durante um
+período de quatro anos, a resposta do produto aos choques do investimento público em
+recessões fortes é sempre superior à unidade, persistente e alcança valores elevados (próximos
+ou superiores a 2 no período de maior impacto de 3 a 5 trimestres), sendo que o multiplicador
+de impacto máximo foi estimado em 2,2 (no décimo mês). Nas expansões fortes, em
+contrapartida, a resposta do produto é pouco persistente (não significativa a partir do sétimo
+trimestre) e sempre ficou abaixo da unidade com uma estimativa do multiplicador de impacto
+máximo de 0,8 (no sétimo mês).
+________________________
+(24) Uma avaliação mais precisa deste ponto exigiria uma estimação dos multiplicadores fiscais dos subsídios e
+desonerações. Algo que foge ao escopo desse trabalho.
+964 Economia e Sociedade, Campinas, v. 27, n. 3 (64), p. 939-969, setembro-dezembro 2018.
+
+=== página 27 ===
+Investimento público no Brasil e suas relações com ciclo econômico e regime fiscal
+Cabe aqui advertir que os multiplicadores do modelo não linear são considerados
+extremos. Em geral, a economia encontra-se transitando entre regimes expansivos e recessivos.
+Por isto, suas diferenças são superestimadas devido à pressuposição de que os regimes não
+mudam e pelo fato de considerar uma configuração com expansões e recessões fortes. Ao longo
+do tempo, o mais razoável é admitir que os multiplicadores assumam valores intermediários
+aos extremos. Algo que é consistente com o resultado também obtido neste artigo de um
+multiplicador de impacto máximo de 1,3 no modelo linear, sendo que a resposta do produto ao
+choque do investimento nesse modelo também se mostrou persistente convergindo para 0,8 ao
+longo de quatro anos.
+Por um lado, esses resultados dão subsídios ao uso do investimento público como
+instrumento de política anticíclica, no sentido de que pode ser um instrumento de estímulo ao
+crescimento durante períodos recessivos. Ao mesmo tempo em que sugere cautela porque não
+se mostra tão eficiente em períodos expansivos. Por outro lado, os mesmos resultados sugerem
+que a retração da taxa de investimentos públicos, em conjunturas de desaceleração econômica
+como em 2011-2014 ou na crise de 2015, quando os multiplicadores assumem seus valores
+mais elevados, tem fortes repercussões negativas que contribuem para a deterioração do cenário
+macroeconômico.
+É importante ressaltar, entretanto, que esta análise não pretende dar um tom generalista,
+justamente pelo fato de que se estuda uma vertente da política fiscal (os gastos de investimento)
+e não ela como um todo. Em outras palavras, o que se mensurou nesse artigo é o impacto
+marginal da execução de investimentos públicos sobre variáveis macroeconômicas, o que não
+quer dizer que esse tenha sido o efeito líquido da política fiscal em termos amplos. Sem dúvida,
+uma importante linha de avanço desta pesquisa seria estimar multiplicadores fiscais para os
+demais componentes dos gastos (ou mesmo das receitas).
+Feitas estas constatações, o estudo passou a explorar os fatores que estão por trás da
+inflexão na trajetória da taxa de investimentos a partir de 2011. A hipótese central do texto diz
+respeito aos constrangimentos orçamentários aos investimentos que foram flexibilizados no
+período 2005-2010 e retornaram de maneira mais aguda durante 2011-2014. De maneira mais
+precisa, procurou-se mostrar que, a partir de 2011, a redução do espaço fiscal para
+investimentos foi um resultado inevitável da combinação entre rigidez da política fiscal,
+revelada por um componente estrutural e inercial dos gastos sociais, que já vinham crescendo
+desde a década de 1990, com a estratégia do governo de promover a retomada do crescimento
+via ampliação de subsídios e desonerações para o setor privado.
+Isso ocasionou uma mudança na composição da política fiscal, com a passagem de um
+período no qual o espaço fiscal criado pelas flexibilizações no regime de metas foi canalizado
+predominantemente para investimentos públicos (2005-2010), para um período de maior
+crescimento dos subsídios e das desonerações (2011-2014), que, em parte, explica o malogro
+da estratégia de se retomar o crescimento. Do mesmo modo, a recente inflexão da política
+fiscal, do expansionismo do decênio 2005-2014 para nova fase de ajustamento iniciada em
+Economia e Sociedade, Campinas, v. 27, n. 3 (64), p. 939-969, setembro-dezembro 2018. 965
+
+=== página 28 ===
+Rodrigo Octávio Orair, Fernando de Faria Siqueira
+2015, também impôs cortes desproporcionais aos investimentos públicos, o que, dadas as
+elevadas estimativas de multiplicadores fiscais nos períodos recessivos desse artigo, tende a
+agravar ainda mais a situação econômica do país.
+Procurou-se ainda apontar a fragilidade do mecanismo introduzido no regime fiscal
+para remover entraves orçamentários aos investimentos, uma vez que a margem de dedução de
+projetos prioritários de investimentos foi se desviando do seu propósito inicial e deixando de
+ter relação com esses investimentos, até culminar no seu abandono em 2015-2016. A
+fragilidade desse instrumento, juntamente com a rigidez da política fiscal, acaba por tornar a
+situação dos investimentos muito vulnerável no atual regime fiscal e aponta para um cenário
+pouco favorável nos próximos anos.
+Refletir sobre esses aspectos é crucial no momento em que o país rediscute seu regime
+fiscal e atravessa profunda crise. O governo vem ensaiando uma reforma fiscal por meio da
+chamada proposta de nominalismo que estabelece uma regra de crescimento real nulo para as
+despesas primárias. Porém, pouco se tem debatido sobre o papel dos investimentos públicos.
+O aspecto crucial aqui é que a avaliação de alternativas de estratégias fiscais deve considerar
+de maneira mais explícita a composição da política fiscal e as repercussões dos investimentos
+públicos, no curto e no médio prazo, sobre o crescimento econômico e sobre a própria
+sustentabilidade fiscal. O propósito deste artigo é fornecer insumos para essas avaliações, a
+partir de estimações empíricas e reflexões sobre os erros e acertos do passado.
+Referências bibliográficas
+AFONSO, J. R.; BIASOTO JÚNIOR, G. Investimento público no Brasil: diagnósticos e
+proposições. Revista do BNDES, v. 14, n. 27, p. 71-122, jun. 2007. Disponível em:
+http://goo.gl/6tTjS9.
+AUERBACH, A. J.; GORODNICHENKO, Y. Fiscal multipliers in recession and expansion.
+National Bureau of Economic Research, Inc, 2011. (NBER Working Papers).
+AUERBACH, A. J.; GORODNICHENKO, Y. Measuring the output responses to fiscal policy.
+American Economic Journal: Economic Policy, v. 4, n. 2, p. 1-27, 2012.
+AFONSO, J. R.; GOBETTI, S. W. Impactos das reformas tributárias e dos gastos públicos
+sobre o crescimento e os investimentos: o caso do Brasil. Santiago de Chile: Cepal, 2015. (Série
+Macroeconomia do Desenvolvimento, n. 167).
+AFONSO, J. R.; VILMA, C. P.; FAJARDO, B. Dilemas do investimento público brasileiro:
+como salvar o futuro? Ensaios IBRE, Rio de Janeiro, 2015.
+ALMEIDA, M. O paradoxo do investimento público no Brasil. Brasília: Ipea, 2009. (Nota
+Técnica).
+BAUM, A.; POPLAWSKI-RIBEIRO, M.; WEBER, A. Fiscal Multipliers and the State of the
+Economy. International Monetary Fund, 2012. (IMF Working Papers).
+966 Economia e Sociedade, Campinas, v. 27, n. 3 (64), p. 939-969, setembro-dezembro 2018.
+
+=== página 29 ===
+Investimento público no Brasil e suas relações com ciclo econômico e regime fiscal
+BLANCHARD, O.; PEROTTI, R. An empirical characterization of the dynamic effects of
+changes in government spending and taxes on output. The Quarterly Journal of Economics,
+v. 117, n. 4, p. 1329-1368, 2002.
+BIELSCHOWSKY, R. Investimento e reformas no Brasil: indústria e infraestrutura nos anos
+1990. Brasília: Cepal; Ipea, 2002.
+BLANCHARD, O.; GIAVAZZI, F. Improving the SGP through a proper accounting of public
+investment. London: Centre for Economic Policy Research, 2004. (CEPR Discussion Paper,
+n. 4220).
+CALDERÓN, C.; EASTERLY, W.; SERVÉN, L. Latin America’s infrastructure in the era of
+macroeconomic crises. In: EASTERLY, W.; SERVÉN, L. (Ed.). The limits of stabilization:
+infrastructure, public deficits, and growth in Latin America. Stanford: Stanford University
+Press, 2003. p. 21-94.
+CÂNDIDO JÚNIOR, J. O. Efeitos do investimento público sobre o produto e a produtividade:
+uma análise empírica. Brasília: Ipea, 2006. (Texto para Discussão, n. 1204).
+CASTELO-BRANCO, M. A.; LIMA, E. C. R.; PAULA, L. F. Mudanças de regime e
+multiplicadores fiscais no Brasil entre 1999-2012: uma avaliação empírica. In: ENCONTRO
+NACIONAL DE ECONOMIA, 43. Anais... Florianópolis: Anpec, 2015.
+CERQUEIRA, B. S. Política fiscal, demanda agregada, crescimento e crise: o investimento
+federal e o investimento da Petrobras no período 2003-2015. Rio de Janeiro: IE/UFRJ, 2016.
+(Texto para Discussão, n. 27).
+CORSETTI, G.; MEIER, A.; MLLER, G. J. What determines government spending
+multipliers? Economic Policy, v. 27, n. 72, p. 521-565, 2012.
+COS, P. H. de; MORAL-BENITO, E. Fiscal multipliers in turbulent times: the case of Spain.
+Banco de España, 2013. (Working Papers).
+FERREIRA, P. Investimento em infraestrutura no Brasil: fatos estilizados e relações de longo
+prazo. Pesquisa e Planejamento Econômico, v. 26, n. 2, 1996.
+GOBETTI, S. W. Regras fiscais no Brasil e na Europa: um estudo comparativo e propositivo.
+Brasília: Ipea, 2014. (Texto para Discussão, n. 2018).
+GOBETTI, S. W.; ORAIR, R. O. Flexibilização fiscal: novas evidências e desafios. Revista de
+Economia Contemporânea, v. 19, n. 3, p. 417-447, dez. 2015.
+ILZETZKI, E.; MENDOZA, E. G.; VGH, C. A. How big (small?) are fiscal multipliers?
+Journal of Monetary Economics, v. 60, n. 2, p. 239-254, 2013.
+KIRCHNER, M.; CIMADOMO, J.; HAUPTMEIER, S. Transmission of government spending
+shocks in the euro area: time variation and driving forces. European Central Bank, 2010.
+(Working Paper Series).
+Economia e Sociedade, Campinas, v. 27, n. 3 (64), p. 939-969, setembro-dezembro 2018. 967
+
+=== página 30 ===
+Rodrigo Octávio Orair, Fernando de Faria Siqueira
+MINTZ, J.; SMART, M. Incentives for public investment under fiscal rules. New York: Banco
+Mundial, 2006. (Policy Research Working Paper, n. 3860).
+MORA, M. Evolução recente da dívida estadual. Brasília: Ipea, 2016. (Texto para Discussão,
+n. 2016).
+ORAIR, R. O. A dinâmica recente dos gastos públicos brasileiros (III): a retomada do
+investimento público no Brasil e os desafios do padrão de financiamento. In: SANTOS, C. H.;
+GOUVÊA, R. (Org.). Finanças públicas e macroeconomia no Brasil: um registro da reflexão
+do Ipea (2008-2014). Brasília: Ipea, 2014. v. 2. p. 89-110.
+ORAIR, R. O. Desonerações em alta com rigidez da carga tributária: o que explica o paradoxo
+do decênio 2005-2014? Brasília: Ipea, 2015. (Texto para Discussão, n. 2117).
+ORAIR, R. O. Investimento público no Brasil: trajetória e relações com o regime fiscal.
+Brasília: Ipea, 2016. (Texto para Discussão, n. 2215).
+ORAIR, R. O.; GOBETTI, S. Retomada do investimento público federal no Brasil e a política
+fiscal: em busca de um novo paradigma. In: CARDOSO JÚNIOR, J. C. (Org.). Brasil em
+desenvolvimento 2010: Estado, planejamento e políticas públicas. Brasília: Ipea, 2010. v. 1.
+p. 113-139.
+ORAIR, R. O.; GOBETTI, S. W.; ALENCAR, A. A.; MARCELO, J. Fiscal condition of the
+public sector in Brazil: an analysis with an emphasis on the states in the Northand Northeast
+regions of the country and on financing for rural development. Brasília: IPC-IG, Apr. 2016.
+(Working Paper, n. 140).
+ORAIR, R. O.; GOBETTI, S. W.; LEAL, E. M.; SILVA, W. J. Carga tributária brasileira:
+estimação e análise dos determinantes da evolução recente – 2002/2012. Brasília-DF: Ipea,
+2013. (Texto para discussão, n. 1875).
+ORAIR, R. O.; GOUVÊA, R. R.; LEAL, E. Ciclos políticos eleitorais e investimentos das
+administrações públicas no Brasil. Brasília: Ipea, 2014. (Texto para Discussão, n. 1999).
+PÊGO FILHO, B.; CAMPOS NETO, C. A. da S. (Org.). Infraestrutura econômica no Brasil:
+diagnósticos e perspectivas para 2025. Brasília: Ipea, 2010. v. 1.
+PÊGO FILHO, B.; CÂNDIDO JÚNIOR, J. O.; PEREIRA, F. Investimento e financiamento da
+infraestrutura no Brasil: 1990/2002. Brasília: Ipea, 1999. (Texto para Discussão, n. 680).
+PIRES, M. Controvérsias recentes sobre multiplicadores fiscais. In: ENCONTRO
+INTERNACIONAL DA ASSOCIAÇÃO KEYNESIANA BRASILEIRA, 7. Anais... São
+Paulo: AKB, 2011.
+PIRES, M. Política fiscal e ciclos econômicos no Brasil. Economia Aplicada, v. 18, n. 1,
+p. 69-90, jan./mar. 2014.
+968 Economia e Sociedade, Campinas, v. 27, n. 3 (64), p. 939-969, setembro-dezembro 2018.
+
+=== página 31 ===
+Investimento público no Brasil e suas relações com ciclo econômico e regime fiscal
+SCHAECHTER, A.; KINDA, T.; BUDINA, N. T.; WEBER, A. Fiscal rules in response to the
+crisis-toward the next-generation rules: a new dataset. New York: Fundo Monetário
+Internacional, 2012. (Working Paper, n. 12/187).
+SCHETTINI, B. et al. Balanço estrutural e impulso fiscal: uma aplicação para o Brasil (1997-
+2010). Brasília: Ipea, 2011. (Texto para Discussão, n. 1650).
+SERVÉN, L. Fiscal rules, public investment, and growth. New York: Banco Mundial, 2007.
+(Policy Research Working Paper, n. 4382).
+WARNER, A. M. Public investment as an engine of growth. Washington: IMF, Aug. 2014.
+(IMF Working Paper, n. 148).
+WOODFORD, M. Simple analytics of the government expenditure multiplier. American
+Economic Journal: Macroeconomics, v. 3, n. 1, p. 1-35, 2011.
+Economia e Sociedade, Campinas, v. 27, n. 3 (64), p. 939-969, setembro-dezembro 2018. 969

@@ -1,0 +1,433 @@
+{
+ "bcb-desemprego-pnad": {
+  "arquivo": "dados/series/bcb-desemprego-pnad.json",
+  "baixado_em": "2026-10-26T07:20:00",
+  "bytes": 7385,
+  "sha256": "22642639fec550e384da82a7948ed1ab730482880c6b04639987ff8cdd170be5",
+  "urls": [
+   "https://api.bcb.gov.br/dados/serie/bcdata.sgs.24369/dados?formato=json&dataInicial=01/03/2012&dataFinal=26/10/2026"
+  ]
+ },
+ "bcb-divida-bruta-gg": {
+  "arquivo": "dados/series/bcb-divida-bruta-gg.json",
+  "baixado_em": "2026-10-26T07:19:46",
+  "bytes": 10430,
+  "sha256": "e4fcab16160b8bfb2104929efa4030f8cfcd291a52dc62126a4224646026ad03",
+  "urls": [
+   "https://api.bcb.gov.br/dados/serie/bcdata.sgs.13762/dados?formato=json&dataInicial=01/12/2006&dataFinal=26/10/2026"
+  ]
+ },
+ "bcb-divida-liquida-sp": {
+  "arquivo": "dados/series/bcb-divida-liquida-sp.json",
+  "baixado_em": "2026-10-26T07:19:49",
+  "bytes": 13070,
+  "sha256": "6d0e3ac0ec1cad62feb78fe9a431df1cd12c800d29e440f03b8a83156b859729",
+  "urls": [
+   "https://api.bcb.gov.br/dados/serie/bcdata.sgs.4513/dados?formato=json&dataInicial=01/12/2001&dataFinal=26/10/2026"
+  ]
+ },
+ "bcb-ipca-12m": {
+  "arquivo": "dados/series/bcb-ipca-12m.json",
+  "baixado_em": "2026-10-26T07:19:58",
+  "bytes": 16440,
+  "sha256": "0c236b8f5b6568e528fb78b7d52eb351a27ca89ad3a5bb50269426e6b2783a91",
+  "urls": [
+   "https://api.bcb.gov.br/dados/serie/bcdata.sgs.13522/dados?formato=json&dataInicial=01/01/1995&dataFinal=26/10/2026"
+  ]
+ },
+ "bcb-ipca-mensal": {
+  "arquivo": "dados/series/bcb-ipca-mensal.json",
+  "baixado_em": "2026-10-26T07:19:55",
+  "bytes": 16406,
+  "sha256": "8463d7db9748b095c4c6d581ed63aa8fbdce1193f04619f560903f4628d78f1e",
+  "urls": [
+   "https://api.bcb.gov.br/dados/serie/bcdata.sgs.433/dados?formato=json&dataInicial=01/01/1995&dataFinal=26/10/2026"
+  ]
+ },
+ "bcb-juros-nominais-12m": {
+  "arquivo": "dados/series/bcb-juros-nominais-12m.json",
+  "baixado_em": "2026-10-26T07:19:53",
+  "bytes": 12271,
+  "sha256": "50f1b7f6caff1d8b8876a7c78be6901cc4406b3f7c12ad8216334cb47aab9f13",
+  "urls": [
+   "https://api.bcb.gov.br/dados/serie/bcdata.sgs.5727/dados?formato=json&dataInicial=01/12/2002&dataFinal=26/10/2026"
+  ]
+ },
+ "bcb-primario-12m": {
+  "arquivo": "dados/series/bcb-primario-12m.json",
+  "baixado_em": "2026-10-26T07:19:51",
+  "bytes": 12421,
+  "sha256": "25cb1feebdfb12a5cf4cef15dd59c9ad1c1fd4397f5f89268d69b6ccc7d4d742",
+  "urls": [
+   "https://api.bcb.gov.br/dados/serie/bcdata.sgs.5793/dados?formato=json&dataInicial=01/12/2002&dataFinal=26/10/2026"
+  ]
+ },
+ "bcb-ptax-venda": {
+  "arquivo": "dados/series/bcb-ptax-venda.json",
+  "baixado_em": "2026-10-26T07:20:58",
+  "bytes": 359327,
+  "sha256": "25e25fd5261f7df3a30dadd98d2bd858e686ebed1fbac5cd93f3e8e2c4a90ca6",
+  "urls": [
+   "https://api.bcb.gov.br/dados/serie/bcdata.sgs.1/dados?formato=json&dataInicial=01/01/1995&dataFinal=31/12/2003",
+   "https://api.bcb.gov.br/dados/serie/bcdata.sgs.1/dados?formato=json&dataInicial=01/01/2004&dataFinal=31/12/2012",
+   "https://api.bcb.gov.br/dados/serie/bcdata.sgs.1/dados?formato=json&dataInicial=01/01/2013&dataFinal=31/12/2021",
+   "https://api.bcb.gov.br/dados/serie/bcdata.sgs.1/dados?formato=json&dataInicial=01/01/2022&dataFinal=26/10/2026"
+  ]
+ },
+ "bcb-selic-meta": {
+  "arquivo": "dados/series/bcb-selic-meta.json",
+  "baixado_em": "2026-10-26T07:30:34",
+  "bytes": 428381,
+  "sha256": "5c7890b591f87c0c532e700384a94098401ee9e4fba4e898cfe2f022a996b572",
+  "urls": [
+   "https://api.bcb.gov.br/dados/serie/bcdata.sgs.432/dados?formato=json&dataInicial=01/01/2000&dataFinal=31/12/2004",
+   "https://api.bcb.gov.br/dados/serie/bcdata.sgs.432/dados?formato=json&dataInicial=01/01/2005&dataFinal=31/12/2009",
+   "https://api.bcb.gov.br/dados/serie/bcdata.sgs.432/dados?formato=json&dataInicial=01/01/2010&dataFinal=31/12/2014",
+   "https://api.bcb.gov.br/dados/serie/bcdata.sgs.432/dados?formato=json&dataInicial=01/01/2015&dataFinal=31/12/2019",
+   "https://api.bcb.gov.br/dados/serie/bcdata.sgs.432/dados?formato=json&dataInicial=01/01/2020&dataFinal=31/12/2024",
+   "https://api.bcb.gov.br/dados/serie/bcdata.sgs.432/dados?formato=json&dataInicial=01/01/2025&dataFinal=26/10/2026"
+  ]
+ },
+ "focus-historico": {
+  "arquivo": "dados/series/focus-historico.json",
+  "baixado_em": "2026-10-26T07:28:22",
+  "bytes": 2436867,
+  "sha256": "6bf8df262068d23e211e47381b34f972febfa0702a23d154a12ac8180c36932d",
+  "urls": [
+   "https://olinda.bcb.gov.br/olinda/servico/Expectativas/versao/v1/odata/ExpectativasMercadoAnuais?%24filter=Indicador%20eq%20%27IPCA%27%20and%20Data%20ge%20%272002-10-01%27%20and%20Data%20le%20%272002-11-15%27&%24format=json&%24top=100000",
+   "https://olinda.bcb.gov.br/olinda/servico/Expectativas/versao/v1/odata/ExpectativasMercadoAnuais?%24filter=Indicador%20eq%20%27IPCA%27%20and%20Data%20ge%20%272006-10-01%27%20and%20Data%20le%20%272006-11-15%27&%24format=json&%24top=100000",
+   "https://olinda.bcb.gov.br/olinda/servico/Expectativas/versao/v1/odata/ExpectativasMercadoAnuais?%24filter=Indicador%20eq%20%27IPCA%27%20and%20Data%20ge%20%272010-10-01%27%20and%20Data%20le%20%272010-11-15%27&%24format=json&%24top=100000",
+   "https://olinda.bcb.gov.br/olinda/servico/Expectativas/versao/v1/odata/ExpectativasMercadoAnuais?%24filter=Indicador%20eq%20%27IPCA%27%20and%20Data%20ge%20%272014-10-01%27%20and%20Data%20le%20%272014-11-15%27&%24format=json&%24top=100000",
+   "https://olinda.bcb.gov.br/olinda/servico/Expectativas/versao/v1/odata/ExpectativasMercadoAnuais?%24filter=Indicador%20eq%20%27IPCA%27%20and%20Data%20ge%20%272018-10-01%27%20and%20Data%20le%20%272018-11-15%27&%24format=json&%24top=100000",
+   "https://olinda.bcb.gov.br/olinda/servico/Expectativas/versao/v1/odata/ExpectativasMercadoAnuais?%24filter=Indicador%20eq%20%27IPCA%27%20and%20Data%20ge%20%272022-10-01%27%20and%20Data%20le%20%272022-11-15%27&%24format=json&%24top=100000",
+   "https://olinda.bcb.gov.br/olinda/servico/Expectativas/versao/v1/odata/ExpectativasMercadoAnuais?%24filter=Indicador%20eq%20%27PIB%20Total%27%20and%20Data%20ge%20%272002-10-01%27%20and%20Data%20le%20%272002-11-15%27&%24format=json&%24top=100000",
+   "https://olinda.bcb.gov.br/olinda/servico/Expectativas/versao/v1/odata/ExpectativasMercadoAnuais?%24filter=Indicador%20eq%20%27PIB%20Total%27%20and%20Data%20ge%20%272006-10-01%27%20and%20Data%20le%20%272006-11-15%27&%24format=json&%24top=100000",
+   "https://olinda.bcb.gov.br/olinda/servico/Expectativas/versao/v1/odata/ExpectativasMercadoAnuais?%24filter=Indicador%20eq%20%27PIB%20Total%27%20and%20Data%20ge%20%272010-10-01%27%20and%20Data%20le%20%272010-11-15%27&%24format=json&%24top=100000",
+   "https://olinda.bcb.gov.br/olinda/servico/Expectativas/versao/v1/odata/ExpectativasMercadoAnuais?%24filter=Indicador%20eq%20%27PIB%20Total%27%20and%20Data%20ge%20%272014-10-01%27%20and%20Data%20le%20%272014-11-15%27&%24format=json&%24top=100000",
+   "https://olinda.bcb.gov.br/olinda/servico/Expectativas/versao/v1/odata/ExpectativasMercadoAnuais?%24filter=Indicador%20eq%20%27PIB%20Total%27%20and%20Data%20ge%20%272018-10-01%27%20and%20Data%20le%20%272018-11-15%27&%24format=json&%24top=100000",
+   "https://olinda.bcb.gov.br/olinda/servico/Expectativas/versao/v1/odata/ExpectativasMercadoAnuais?%24filter=Indicador%20eq%20%27PIB%20Total%27%20and%20Data%20ge%20%272022-10-01%27%20and%20Data%20le%20%272022-11-15%27&%24format=json&%24top=100000",
+   "https://olinda.bcb.gov.br/olinda/servico/Expectativas/versao/v1/odata/ExpectativasMercadoAnuais?%24filter=Indicador%20eq%20%27Selic%27%20and%20Data%20ge%20%272002-10-01%27%20and%20Data%20le%20%272002-11-15%27&%24format=json&%24top=100000",
+   "https://olinda.bcb.gov.br/olinda/servico/Expectativas/versao/v1/odata/ExpectativasMercadoAnuais?%24filter=Indicador%20eq%20%27Selic%27%20and%20Data%20ge%20%272006-10-01%27%20and%20Data%20le%20%272006-11-15%27&%24format=json&%24top=100000",
+   "https://olinda.bcb.gov.br/olinda/servico/Expectativas/versao/v1/odata/ExpectativasMercadoAnuais?%24filter=Indicador%20eq%20%27Selic%27%20and%20Data%20ge%20%272010-10-01%27%20and%20Data%20le%20%272010-11-15%27&%24format=json&%24top=100000",
+   "https://olinda.bcb.gov.br/olinda/servico/Expectativas/versao/v1/odata/ExpectativasMercadoAnuais?%24filter=Indicador%20eq%20%27Selic%27%20and%20Data%20ge%20%272014-10-01%27%20and%20Data%20le%20%272014-11-15%27&%24format=json&%24top=100000",
+   "https://olinda.bcb.gov.br/olinda/servico/Expectativas/versao/v1/odata/ExpectativasMercadoAnuais?%24filter=Indicador%20eq%20%27Selic%27%20and%20Data%20ge%20%272018-10-01%27%20and%20Data%20le%20%272018-11-15%27&%24format=json&%24top=100000",
+   "https://olinda.bcb.gov.br/olinda/servico/Expectativas/versao/v1/odata/ExpectativasMercadoAnuais?%24filter=Indicador%20eq%20%27Selic%27%20and%20Data%20ge%20%272022-10-01%27%20and%20Data%20le%20%272022-11-15%27&%24format=json&%24top=100000",
+   "https://olinda.bcb.gov.br/olinda/servico/Expectativas/versao/v1/odata/ExpectativasMercadoAnuais?%24filter=Indicador%20eq%20%27C%C3%A2mbio%27%20and%20Data%20ge%20%272002-10-01%27%20and%20Data%20le%20%272002-11-15%27&%24format=json&%24top=100000",
+   "https://olinda.bcb.gov.br/olinda/servico/Expectativas/versao/v1/odata/ExpectativasMercadoAnuais?%24filter=Indicador%20eq%20%27C%C3%A2mbio%27%20and%20Data%20ge%20%272006-10-01%27%20and%20Data%20le%20%272006-11-15%27&%24format=json&%24top=100000",
+   "https://olinda.bcb.gov.br/olinda/servico/Expectativas/versao/v1/odata/ExpectativasMercadoAnuais?%24filter=Indicador%20eq%20%27C%C3%A2mbio%27%20and%20Data%20ge%20%272010-10-01%27%20and%20Data%20le%20%272010-11-15%27&%24format=json&%24top=100000",
+   "https://olinda.bcb.gov.br/olinda/servico/Expectativas/versao/v1/odata/ExpectativasMercadoAnuais?%24filter=Indicador%20eq%20%27C%C3%A2mbio%27%20and%20Data%20ge%20%272014-10-01%27%20and%20Data%20le%20%272014-11-15%27&%24format=json&%24top=100000",
+   "https://olinda.bcb.gov.br/olinda/servico/Expectativas/versao/v1/odata/ExpectativasMercadoAnuais?%24filter=Indicador%20eq%20%27C%C3%A2mbio%27%20and%20Data%20ge%20%272018-10-01%27%20and%20Data%20le%20%272018-11-15%27&%24format=json&%24top=100000",
+   "https://olinda.bcb.gov.br/olinda/servico/Expectativas/versao/v1/odata/ExpectativasMercadoAnuais?%24filter=Indicador%20eq%20%27C%C3%A2mbio%27%20and%20Data%20ge%20%272022-10-01%27%20and%20Data%20le%20%272022-11-15%27&%24format=json&%24top=100000",
+   "https://olinda.bcb.gov.br/olinda/servico/Expectativas/versao/v1/odata/ExpectativasMercadoAnuais?%24filter=Indicador%20eq%20%27Resultado%20prim%C3%A1rio%27%20and%20Data%20ge%20%272002-10-01%27%20and%20Data%20le%20%272002-11-15%27&%24format=json&%24top=100000",
+   "https://olinda.bcb.gov.br/olinda/servico/Expectativas/versao/v1/odata/ExpectativasMercadoAnuais?%24filter=Indicador%20eq%20%27Resultado%20prim%C3%A1rio%27%20and%20Data%20ge%20%272006-10-01%27%20and%20Data%20le%20%272006-11-15%27&%24format=json&%24top=100000",
+   "https://olinda.bcb.gov.br/olinda/servico/Expectativas/versao/v1/odata/ExpectativasMercadoAnuais?%24filter=Indicador%20eq%20%27Resultado%20prim%C3%A1rio%27%20and%20Data%20ge%20%272010-10-01%27%20and%20Data%20le%20%272010-11-15%27&%24format=json&%24top=100000",
+   "https://olinda.bcb.gov.br/olinda/servico/Expectativas/versao/v1/odata/ExpectativasMercadoAnuais?%24filter=Indicador%20eq%20%27Resultado%20prim%C3%A1rio%27%20and%20Data%20ge%20%272014-10-01%27%20and%20Data%20le%20%272014-11-15%27&%24format=json&%24top=100000",
+   "https://olinda.bcb.gov.br/olinda/servico/Expectativas/versao/v1/odata/ExpectativasMercadoAnuais?%24filter=Indicador%20eq%20%27Resultado%20prim%C3%A1rio%27%20and%20Data%20ge%20%272018-10-01%27%20and%20Data%20le%20%272018-11-15%27&%24format=json&%24top=100000",
+   "https://olinda.bcb.gov.br/olinda/servico/Expectativas/versao/v1/odata/ExpectativasMercadoAnuais?%24filter=Indicador%20eq%20%27Resultado%20prim%C3%A1rio%27%20and%20Data%20ge%20%272022-10-01%27%20and%20Data%20le%20%272022-11-15%27&%24format=json&%24top=100000",
+   "https://olinda.bcb.gov.br/olinda/servico/Expectativas/versao/v1/odata/ExpectativasMercadoAnuais?%24filter=Indicador%20eq%20%27Resultado%20nominal%27%20and%20Data%20ge%20%272002-10-01%27%20and%20Data%20le%20%272002-11-15%27&%24format=json&%24top=100000",
+   "https://olinda.bcb.gov.br/olinda/servico/Expectativas/versao/v1/odata/ExpectativasMercadoAnuais?%24filter=Indicador%20eq%20%27Resultado%20nominal%27%20and%20Data%20ge%20%272006-10-01%27%20and%20Data%20le%20%272006-11-15%27&%24format=json&%24top=100000",
+   "https://olinda.bcb.gov.br/olinda/servico/Expectativas/versao/v1/odata/ExpectativasMercadoAnuais?%24filter=Indicador%20eq%20%27Resultado%20nominal%27%20and%20Data%20ge%20%272010-10-01%27%20and%20Data%20le%20%272010-11-15%27&%24format=json&%24top=100000",
+   "https://olinda.bcb.gov.br/olinda/servico/Expectativas/versao/v1/odata/ExpectativasMercadoAnuais?%24filter=Indicador%20eq%20%27Resultado%20nominal%27%20and%20Data%20ge%20%272014-10-01%27%20and%20Data%20le%20%272014-11-15%27&%24format=json&%24top=100000",
+   "https://olinda.bcb.gov.br/olinda/servico/Expectativas/versao/v1/odata/ExpectativasMercadoAnuais?%24filter=Indicador%20eq%20%27Resultado%20nominal%27%20and%20Data%20ge%20%272018-10-01%27%20and%20Data%20le%20%272018-11-15%27&%24format=json&%24top=100000",
+   "https://olinda.bcb.gov.br/olinda/servico/Expectativas/versao/v1/odata/ExpectativasMercadoAnuais?%24filter=Indicador%20eq%20%27Resultado%20nominal%27%20and%20Data%20ge%20%272022-10-01%27%20and%20Data%20le%20%272022-11-15%27&%24format=json&%24top=100000",
+   "https://olinda.bcb.gov.br/olinda/servico/Expectativas/versao/v1/odata/ExpectativasMercadoAnuais?%24filter=Indicador%20eq%20%27D%C3%ADvida%20l%C3%ADquida%20do%20setor%20p%C3%BAblico%27%20and%20Data%20ge%20%272002-10-01%27%20and%20Data%20le%20%272002-11-15%27&%24format=json&%24top=100000",
+   "https://olinda.bcb.gov.br/olinda/servico/Expectativas/versao/v1/odata/ExpectativasMercadoAnuais?%24filter=Indicador%20eq%20%27D%C3%ADvida%20l%C3%ADquida%20do%20setor%20p%C3%BAblico%27%20and%20Data%20ge%20%272006-10-01%27%20and%20Data%20le%20%272006-11-15%27&%24format=json&%24top=100000",
+   "https://olinda.bcb.gov.br/olinda/servico/Expectativas/versao/v1/odata/ExpectativasMercadoAnuais?%24filter=Indicador%20eq%20%27D%C3%ADvida%20l%C3%ADquida%20do%20setor%20p%C3%BAblico%27%20and%20Data%20ge%20%272010-10-01%27%20and%20Data%20le%20%272010-11-15%27&%24format=json&%24top=100000",
+   "https://olinda.bcb.gov.br/olinda/servico/Expectativas/versao/v1/odata/ExpectativasMercadoAnuais?%24filter=Indicador%20eq%20%27D%C3%ADvida%20l%C3%ADquida%20do%20setor%20p%C3%BAblico%27%20and%20Data%20ge%20%272014-10-01%27%20and%20Data%20le%20%272014-11-15%27&%24format=json&%24top=100000",
+   "https://olinda.bcb.gov.br/olinda/servico/Expectativas/versao/v1/odata/ExpectativasMercadoAnuais?%24filter=Indicador%20eq%20%27D%C3%ADvida%20l%C3%ADquida%20do%20setor%20p%C3%BAblico%27%20and%20Data%20ge%20%272018-10-01%27%20and%20Data%20le%20%272018-11-15%27&%24format=json&%24top=100000",
+   "https://olinda.bcb.gov.br/olinda/servico/Expectativas/versao/v1/odata/ExpectativasMercadoAnuais?%24filter=Indicador%20eq%20%27D%C3%ADvida%20l%C3%ADquida%20do%20setor%20p%C3%BAblico%27%20and%20Data%20ge%20%272022-10-01%27%20and%20Data%20le%20%272022-11-15%27&%24format=json&%24top=100000",
+   "https://olinda.bcb.gov.br/olinda/servico/Expectativas/versao/v1/odata/ExpectativasMercadoAnuais?%24filter=Indicador%20eq%20%27D%C3%ADvida%20bruta%20do%20governo%20geral%27%20and%20Data%20ge%20%272002-10-01%27%20and%20Data%20le%20%272002-11-15%27&%24format=json&%24top=100000",
+   "https://olinda.bcb.gov.br/olinda/servico/Expectativas/versao/v1/odata/ExpectativasMercadoAnuais?%24filter=Indicador%20eq%20%27D%C3%ADvida%20bruta%20do%20governo%20geral%27%20and%20Data%20ge%20%272006-10-01%27%20and%20Data%20le%20%272006-11-15%27&%24format=json&%24top=100000",
+   "https://olinda.bcb.gov.br/olinda/servico/Expectativas/versao/v1/odata/ExpectativasMercadoAnuais?%24filter=Indicador%20eq%20%27D%C3%ADvida%20bruta%20do%20governo%20geral%27%20and%20Data%20ge%20%272010-10-01%27%20and%20Data%20le%20%272010-11-15%27&%24format=json&%24top=100000",
+   "https://olinda.bcb.gov.br/olinda/servico/Expectativas/versao/v1/odata/ExpectativasMercadoAnuais?%24filter=Indicador%20eq%20%27D%C3%ADvida%20bruta%20do%20governo%20geral%27%20and%20Data%20ge%20%272014-10-01%27%20and%20Data%20le%20%272014-11-15%27&%24format=json&%24top=100000",
+   "https://olinda.bcb.gov.br/olinda/servico/Expectativas/versao/v1/odata/ExpectativasMercadoAnuais?%24filter=Indicador%20eq%20%27D%C3%ADvida%20bruta%20do%20governo%20geral%27%20and%20Data%20ge%20%272018-10-01%27%20and%20Data%20le%20%272018-11-15%27&%24format=json&%24top=100000",
+   "https://olinda.bcb.gov.br/olinda/servico/Expectativas/versao/v1/odata/ExpectativasMercadoAnuais?%24filter=Indicador%20eq%20%27D%C3%ADvida%20bruta%20do%20governo%20geral%27%20and%20Data%20ge%20%272022-10-01%27%20and%20Data%20le%20%272022-11-15%27&%24format=json&%24top=100000"
+  ]
+ },
+ "focus-ipca-12m": {
+  "arquivo": "dados/series/focus-ipca-12m.json",
+  "baixado_em": "2026-10-26T07:38:56",
+  "bytes": 26253,
+  "sha256": "5dce9c0bc585dda02d2ae43f486c01addc7676f19fa1e950d6e7cc306a579ddf",
+  "urls": [
+   "https://olinda.bcb.gov.br/olinda/servico/Expectativas/versao/v1/odata/ExpectativasMercadoInflacao12Meses?%24filter=Indicador%20eq%20%27IPCA%27%20and%20Data%20ge%20%272026-09-01%27&%24format=json&%24top=10000"
+  ]
+ },
+ "focus-recente": {
+  "arquivo": "dados/series/focus-recente.json",
+  "baixado_em": "2026-10-26T07:27:21",
+  "bytes": 958202,
+  "sha256": "a43ce18a3415f6db3f4a18bd42923de5f818ad7bc4554c24a4f7a3d68abb9c2a",
+  "urls": [
+   "https://olinda.bcb.gov.br/olinda/servico/Expectativas/versao/v1/odata/ExpectativasMercadoAnuais?%24filter=Indicador%20eq%20%27IPCA%27%20and%20Data%20ge%20%272026-09-01%27%20and%20Data%20le%20%272026-10-26%27&%24format=json&%24top=100000",
+   "https://olinda.bcb.gov.br/olinda/servico/Expectativas/versao/v1/odata/ExpectativasMercadoAnuais?%24filter=Indicador%20eq%20%27PIB%20Total%27%20and%20Data%20ge%20%272026-09-01%27%20and%20Data%20le%20%272026-10-26%27&%24format=json&%24top=100000",
+   "https://olinda.bcb.gov.br/olinda/servico/Expectativas/versao/v1/odata/ExpectativasMercadoAnuais?%24filter=Indicador%20eq%20%27Selic%27%20and%20Data%20ge%20%272026-09-01%27%20and%20Data%20le%20%272026-10-26%27&%24format=json&%24top=100000",
+   "https://olinda.bcb.gov.br/olinda/servico/Expectativas/versao/v1/odata/ExpectativasMercadoAnuais?%24filter=Indicador%20eq%20%27C%C3%A2mbio%27%20and%20Data%20ge%20%272026-09-01%27%20and%20Data%20le%20%272026-10-26%27&%24format=json&%24top=100000",
+   "https://olinda.bcb.gov.br/olinda/servico/Expectativas/versao/v1/odata/ExpectativasMercadoAnuais?%24filter=Indicador%20eq%20%27Resultado%20prim%C3%A1rio%27%20and%20Data%20ge%20%272026-09-01%27%20and%20Data%20le%20%272026-10-26%27&%24format=json&%24top=100000",
+   "https://olinda.bcb.gov.br/olinda/servico/Expectativas/versao/v1/odata/ExpectativasMercadoAnuais?%24filter=Indicador%20eq%20%27Resultado%20nominal%27%20and%20Data%20ge%20%272026-09-01%27%20and%20Data%20le%20%272026-10-26%27&%24format=json&%24top=100000",
+   "https://olinda.bcb.gov.br/olinda/servico/Expectativas/versao/v1/odata/ExpectativasMercadoAnuais?%24filter=Indicador%20eq%20%27D%C3%ADvida%20l%C3%ADquida%20do%20setor%20p%C3%BAblico%27%20and%20Data%20ge%20%272026-09-01%27%20and%20Data%20le%20%272026-10-26%27&%24format=json&%24top=100000",
+   "https://olinda.bcb.gov.br/olinda/servico/Expectativas/versao/v1/odata/ExpectativasMercadoAnuais?%24filter=Indicador%20eq%20%27D%C3%ADvida%20bruta%20do%20governo%20geral%27%20and%20Data%20ge%20%272026-09-01%27%20and%20Data%20le%20%272026-10-26%27&%24format=json&%24top=100000"
+  ]
+ },
+ "imf-fm-despesa": {
+  "arquivo": "dados/series/imf-fm-despesa.json",
+  "baixado_em": "2026-10-26T07:31:36",
+  "bytes": 200351,
+  "sha256": "46093388b60921075a52246cd42c35146bc4e4ac1dc1f2a414768a1249316f9f",
+  "urls": [
+   "https://www.imf.org/external/datamapper/api/v1/G_X_G01_GDP_PT/ARG",
+   "https://www.imf.org/external/datamapper/api/v1/G_X_G01_GDP_PT/BRA",
+   "https://www.imf.org/external/datamapper/api/v1/G_X_G01_GDP_PT/CHL",
+   "https://www.imf.org/external/datamapper/api/v1/G_X_G01_GDP_PT/CHN",
+   "https://www.imf.org/external/datamapper/api/v1/G_X_G01_GDP_PT/COL",
+   "https://www.imf.org/external/datamapper/api/v1/G_X_G01_GDP_PT/IDN",
+   "https://www.imf.org/external/datamapper/api/v1/G_X_G01_GDP_PT/IND",
+   "https://www.imf.org/external/datamapper/api/v1/G_X_G01_GDP_PT/MEX",
+   "https://www.imf.org/external/datamapper/api/v1/G_X_G01_GDP_PT/PER",
+   "https://www.imf.org/external/datamapper/api/v1/G_X_G01_GDP_PT/RUS",
+   "https://www.imf.org/external/datamapper/api/v1/G_X_G01_GDP_PT/SAU",
+   "https://www.imf.org/external/datamapper/api/v1/G_X_G01_GDP_PT/TUR",
+   "https://www.imf.org/external/datamapper/api/v1/G_X_G01_GDP_PT/URY",
+   "https://www.imf.org/external/datamapper/api/v1/G_X_G01_GDP_PT/ZAF",
+   "https://www.imf.org/external/datamapper/api/v1/G_X_G01_GDP_PT/FM_EMG",
+   "https://www.imf.org/external/datamapper/api/v1/G_X_G01_GDP_PT/FAD_G20Emg",
+   "https://www.imf.org/external/datamapper/api/v1/G_X_G01_GDP_PT/OEMDC",
+   "https://www.imf.org/external/datamapper/api/v1/G_X_G01_GDP_PT/WE",
+   "https://www.imf.org/external/datamapper/api/v1/G_X_G01_GDP_PT/ADVEC"
+  ]
+ },
+ "imf-fm-divida-bruta": {
+  "arquivo": "dados/series/imf-fm-divida-bruta.json",
+  "baixado_em": "2026-10-26T07:34:09",
+  "bytes": 184852,
+  "sha256": "b3668c12dc60a2725aa6c63209d9aa00cf9ba7460aaae612360e696a70d4b2af",
+  "urls": [
+   "https://www.imf.org/external/datamapper/api/v1/G_XWDG_G01_GDP_PT/ARG",
+   "https://www.imf.org/external/datamapper/api/v1/G_XWDG_G01_GDP_PT/BRA",
+   "https://www.imf.org/external/datamapper/api/v1/G_XWDG_G01_GDP_PT/CHL",
+   "https://www.imf.org/external/datamapper/api/v1/G_XWDG_G01_GDP_PT/CHN",
+   "https://www.imf.org/external/datamapper/api/v1/G_XWDG_G01_GDP_PT/COL",
+   "https://www.imf.org/external/datamapper/api/v1/G_XWDG_G01_GDP_PT/IDN",
+   "https://www.imf.org/external/datamapper/api/v1/G_XWDG_G01_GDP_PT/IND",
+   "https://www.imf.org/external/datamapper/api/v1/G_XWDG_G01_GDP_PT/MEX",
+   "https://www.imf.org/external/datamapper/api/v1/G_XWDG_G01_GDP_PT/PER",
+   "https://www.imf.org/external/datamapper/api/v1/G_XWDG_G01_GDP_PT/RUS",
+   "https://www.imf.org/external/datamapper/api/v1/G_XWDG_G01_GDP_PT/SAU",
+   "https://www.imf.org/external/datamapper/api/v1/G_XWDG_G01_GDP_PT/TUR",
+   "https://www.imf.org/external/datamapper/api/v1/G_XWDG_G01_GDP_PT/URY",
+   "https://www.imf.org/external/datamapper/api/v1/G_XWDG_G01_GDP_PT/ZAF",
+   "https://www.imf.org/external/datamapper/api/v1/G_XWDG_G01_GDP_PT/FM_EMG",
+   "https://www.imf.org/external/datamapper/api/v1/G_XWDG_G01_GDP_PT/FAD_G20Emg",
+   "https://www.imf.org/external/datamapper/api/v1/G_XWDG_G01_GDP_PT/OEMDC",
+   "https://www.imf.org/external/datamapper/api/v1/G_XWDG_G01_GDP_PT/WE",
+   "https://www.imf.org/external/datamapper/api/v1/G_XWDG_G01_GDP_PT/ADVEC"
+  ]
+ },
+ "imf-fm-nominal": {
+  "arquivo": "dados/series/imf-fm-nominal.json",
+  "baixado_em": "2026-10-26T07:33:17",
+  "bytes": 207434,
+  "sha256": "740c1e0fca9d7e994e7c33c33572784f15e91e02bca84c157c6a2a1ed9370037",
+  "urls": [
+   "https://www.imf.org/external/datamapper/api/v1/GGXCNL_G01_GDP_PT/ARG",
+   "https://www.imf.org/external/datamapper/api/v1/GGXCNL_G01_GDP_PT/BRA",
+   "https://www.imf.org/external/datamapper/api/v1/GGXCNL_G01_GDP_PT/CHL",
+   "https://www.imf.org/external/datamapper/api/v1/GGXCNL_G01_GDP_PT/CHN",
+   "https://www.imf.org/external/datamapper/api/v1/GGXCNL_G01_GDP_PT/COL",
+   "https://www.imf.org/external/datamapper/api/v1/GGXCNL_G01_GDP_PT/IDN",
+   "https://www.imf.org/external/datamapper/api/v1/GGXCNL_G01_GDP_PT/IND",
+   "https://www.imf.org/external/datamapper/api/v1/GGXCNL_G01_GDP_PT/MEX",
+   "https://www.imf.org/external/datamapper/api/v1/GGXCNL_G01_GDP_PT/PER",
+   "https://www.imf.org/external/datamapper/api/v1/GGXCNL_G01_GDP_PT/RUS",
+   "https://www.imf.org/external/datamapper/api/v1/GGXCNL_G01_GDP_PT/SAU",
+   "https://www.imf.org/external/datamapper/api/v1/GGXCNL_G01_GDP_PT/TUR",
+   "https://www.imf.org/external/datamapper/api/v1/GGXCNL_G01_GDP_PT/URY",
+   "https://www.imf.org/external/datamapper/api/v1/GGXCNL_G01_GDP_PT/ZAF",
+   "https://www.imf.org/external/datamapper/api/v1/GGXCNL_G01_GDP_PT/FM_EMG",
+   "https://www.imf.org/external/datamapper/api/v1/GGXCNL_G01_GDP_PT/FAD_G20Emg",
+   "https://www.imf.org/external/datamapper/api/v1/GGXCNL_G01_GDP_PT/OEMDC",
+   "https://www.imf.org/external/datamapper/api/v1/GGXCNL_G01_GDP_PT/WE",
+   "https://www.imf.org/external/datamapper/api/v1/GGXCNL_G01_GDP_PT/ADVEC"
+  ]
+ },
+ "imf-fm-primario": {
+  "arquivo": "dados/series/imf-fm-primario.json",
+  "baixado_em": "2026-10-26T07:32:26",
+  "bytes": 198312,
+  "sha256": "3e8e9672a86a00f9f64b2eaa252e1fa153e5d33e2798886434dee24b82e89646",
+  "urls": [
+   "https://www.imf.org/external/datamapper/api/v1/GGXONLB_G01_GDP_PT/ARG",
+   "https://www.imf.org/external/datamapper/api/v1/GGXONLB_G01_GDP_PT/BRA",
+   "https://www.imf.org/external/datamapper/api/v1/GGXONLB_G01_GDP_PT/CHL",
+   "https://www.imf.org/external/datamapper/api/v1/GGXONLB_G01_GDP_PT/CHN",
+   "https://www.imf.org/external/datamapper/api/v1/GGXONLB_G01_GDP_PT/COL",
+   "https://www.imf.org/external/datamapper/api/v1/GGXONLB_G01_GDP_PT/IDN",
+   "https://www.imf.org/external/datamapper/api/v1/GGXONLB_G01_GDP_PT/IND",
+   "https://www.imf.org/external/datamapper/api/v1/GGXONLB_G01_GDP_PT/MEX",
+   "https://www.imf.org/external/datamapper/api/v1/GGXONLB_G01_GDP_PT/PER",
+   "https://www.imf.org/external/datamapper/api/v1/GGXONLB_G01_GDP_PT/RUS",
+   "https://www.imf.org/external/datamapper/api/v1/GGXONLB_G01_GDP_PT/SAU",
+   "https://www.imf.org/external/datamapper/api/v1/GGXONLB_G01_GDP_PT/TUR",
+   "https://www.imf.org/external/datamapper/api/v1/GGXONLB_G01_GDP_PT/URY",
+   "https://www.imf.org/external/datamapper/api/v1/GGXONLB_G01_GDP_PT/ZAF",
+   "https://www.imf.org/external/datamapper/api/v1/GGXONLB_G01_GDP_PT/FM_EMG",
+   "https://www.imf.org/external/datamapper/api/v1/GGXONLB_G01_GDP_PT/FAD_G20Emg",
+   "https://www.imf.org/external/datamapper/api/v1/GGXONLB_G01_GDP_PT/OEMDC",
+   "https://www.imf.org/external/datamapper/api/v1/GGXONLB_G01_GDP_PT/WE",
+   "https://www.imf.org/external/datamapper/api/v1/GGXONLB_G01_GDP_PT/ADVEC"
+  ]
+ },
+ "imf-weo-divida-bruta": {
+  "arquivo": "dados/series/imf-weo-divida-bruta.json",
+  "baixado_em": "2026-10-26T07:35:13",
+  "bytes": 114605,
+  "sha256": "3688de30a5c821f3b85d7586ec9d344747da63a1246b8ea7abfabd671fd2b532",
+  "urls": [
+   "https://www.imf.org/external/datamapper/api/v1/GGXWDG_NGDP/ARG",
+   "https://www.imf.org/external/datamapper/api/v1/GGXWDG_NGDP/BRA",
+   "https://www.imf.org/external/datamapper/api/v1/GGXWDG_NGDP/CHL",
+   "https://www.imf.org/external/datamapper/api/v1/GGXWDG_NGDP/CHN",
+   "https://www.imf.org/external/datamapper/api/v1/GGXWDG_NGDP/COL",
+   "https://www.imf.org/external/datamapper/api/v1/GGXWDG_NGDP/IDN",
+   "https://www.imf.org/external/datamapper/api/v1/GGXWDG_NGDP/IND",
+   "https://www.imf.org/external/datamapper/api/v1/GGXWDG_NGDP/MEX",
+   "https://www.imf.org/external/datamapper/api/v1/GGXWDG_NGDP/PER",
+   "https://www.imf.org/external/datamapper/api/v1/GGXWDG_NGDP/RUS",
+   "https://www.imf.org/external/datamapper/api/v1/GGXWDG_NGDP/SAU",
+   "https://www.imf.org/external/datamapper/api/v1/GGXWDG_NGDP/TUR",
+   "https://www.imf.org/external/datamapper/api/v1/GGXWDG_NGDP/URY",
+   "https://www.imf.org/external/datamapper/api/v1/GGXWDG_NGDP/ZAF",
+   "https://www.imf.org/external/datamapper/api/v1/GGXWDG_NGDP/FM_EMG",
+   "https://www.imf.org/external/datamapper/api/v1/GGXWDG_NGDP/FAD_G20Emg",
+   "https://www.imf.org/external/datamapper/api/v1/GGXWDG_NGDP/OEMDC",
+   "https://www.imf.org/external/datamapper/api/v1/GGXWDG_NGDP/WE",
+   "https://www.imf.org/external/datamapper/api/v1/GGXWDG_NGDP/ADVEC"
+  ]
+ },
+ "imf-weo-pib-real": {
+  "arquivo": "dados/series/imf-weo-pib-real.json",
+  "baixado_em": "2026-10-26T07:36:53",
+  "bytes": 144275,
+  "sha256": "2a1acb20fcdf86380a0540b251daecdbf46c8c2a54fbeb374656301e9480c0e7",
+  "urls": [
+   "https://www.imf.org/external/datamapper/api/v1/NGDP_RPCH/ARG",
+   "https://www.imf.org/external/datamapper/api/v1/NGDP_RPCH/BRA",
+   "https://www.imf.org/external/datamapper/api/v1/NGDP_RPCH/CHL",
+   "https://www.imf.org/external/datamapper/api/v1/NGDP_RPCH/CHN",
+   "https://www.imf.org/external/datamapper/api/v1/NGDP_RPCH/COL",
+   "https://www.imf.org/external/datamapper/api/v1/NGDP_RPCH/IDN",
+   "https://www.imf.org/external/datamapper/api/v1/NGDP_RPCH/IND",
+   "https://www.imf.org/external/datamapper/api/v1/NGDP_RPCH/MEX",
+   "https://www.imf.org/external/datamapper/api/v1/NGDP_RPCH/PER",
+   "https://www.imf.org/external/datamapper/api/v1/NGDP_RPCH/RUS",
+   "https://www.imf.org/external/datamapper/api/v1/NGDP_RPCH/SAU",
+   "https://www.imf.org/external/datamapper/api/v1/NGDP_RPCH/TUR",
+   "https://www.imf.org/external/datamapper/api/v1/NGDP_RPCH/URY",
+   "https://www.imf.org/external/datamapper/api/v1/NGDP_RPCH/ZAF",
+   "https://www.imf.org/external/datamapper/api/v1/NGDP_RPCH/FM_EMG",
+   "https://www.imf.org/external/datamapper/api/v1/NGDP_RPCH/FAD_G20Emg",
+   "https://www.imf.org/external/datamapper/api/v1/NGDP_RPCH/OEMDC",
+   "https://www.imf.org/external/datamapper/api/v1/NGDP_RPCH/WE",
+   "https://www.imf.org/external/datamapper/api/v1/NGDP_RPCH/ADVEC"
+  ]
+ },
+ "imf-weo-resultado-nominal": {
+  "arquivo": "dados/series/imf-weo-resultado-nominal.json",
+  "baixado_em": "2026-10-26T07:36:03",
+  "bytes": 122667,
+  "sha256": "07acd769db8e0ce59806dd8783972bebd50fd4ee3d0bf82198cf8e1147809705",
+  "urls": [
+   "https://www.imf.org/external/datamapper/api/v1/GGXCNL_NGDP/ARG",
+   "https://www.imf.org/external/datamapper/api/v1/GGXCNL_NGDP/BRA",
+   "https://www.imf.org/external/datamapper/api/v1/GGXCNL_NGDP/CHL",
+   "https://www.imf.org/external/datamapper/api/v1/GGXCNL_NGDP/CHN",
+   "https://www.imf.org/external/datamapper/api/v1/GGXCNL_NGDP/COL",
+   "https://www.imf.org/external/datamapper/api/v1/GGXCNL_NGDP/IDN",
+   "https://www.imf.org/external/datamapper/api/v1/GGXCNL_NGDP/IND",
+   "https://www.imf.org/external/datamapper/api/v1/GGXCNL_NGDP/MEX",
+   "https://www.imf.org/external/datamapper/api/v1/GGXCNL_NGDP/PER",
+   "https://www.imf.org/external/datamapper/api/v1/GGXCNL_NGDP/RUS",
+   "https://www.imf.org/external/datamapper/api/v1/GGXCNL_NGDP/SAU",
+   "https://www.imf.org/external/datamapper/api/v1/GGXCNL_NGDP/TUR",
+   "https://www.imf.org/external/datamapper/api/v1/GGXCNL_NGDP/URY",
+   "https://www.imf.org/external/datamapper/api/v1/GGXCNL_NGDP/ZAF",
+   "https://www.imf.org/external/datamapper/api/v1/GGXCNL_NGDP/FM_EMG",
+   "https://www.imf.org/external/datamapper/api/v1/GGXCNL_NGDP/FAD_G20Emg",
+   "https://www.imf.org/external/datamapper/api/v1/GGXCNL_NGDP/OEMDC",
+   "https://www.imf.org/external/datamapper/api/v1/GGXCNL_NGDP/WE",
+   "https://www.imf.org/external/datamapper/api/v1/GGXCNL_NGDP/ADVEC"
+  ]
+ },
+ "yahoo-eem": {
+  "arquivo": "dados/series/yahoo-eem.json",
+  "baixado_em": "2026-10-26T07:21:04",
+  "bytes": 975185,
+  "sha256": "3d09e6d9ad814d91362d6e2b2e9acb2b9b600c44a995c731640a3bf7403fe8bf",
+  "urls": [
+   "https://query1.finance.yahoo.com/v8/finance/chart/EEM?period1=725857200&period2=1793096463&interval=1d"
+  ]
+ },
+ "yahoo-ewz": {
+  "arquivo": "dados/series/yahoo-ewz.json",
+  "baixado_em": "2026-10-26T07:21:02",
+  "bytes": 1074680,
+  "sha256": "0bc1c9033ef787a5d8d88a3b3d4d07f35a00a814a9e1b9e40546cfc40de1847b",
+  "urls": [
+   "https://query1.finance.yahoo.com/v8/finance/chart/EWZ?period1=725857200&period2=1793096461&interval=1d"
+  ]
+ },
+ "yahoo-ibovespa": {
+  "arquivo": "dados/series/yahoo-ibovespa.json",
+  "baixado_em": "2026-10-26T07:21:00",
+  "bytes": 1088981,
+  "sha256": "2c63a37d96801b12d3e3fa1ef05170b0158b2317a5c559798a302695ae4f0d50",
+  "urls": [
+   "https://query1.finance.yahoo.com/v8/finance/chart/%5EBVSP?period1=725857200&period2=1793096459&interval=1d"
+  ]
+ },
+ "yahoo-usdbrl": {
+  "arquivo": "dados/series/yahoo-usdbrl.json",
+  "baixado_em": "2026-10-26T07:21:06",
+  "bytes": 971662,
+  "sha256": "14ea514242834af43dbba651b29f6e6997298d427ab737b5769907ce20356e86",
+  "urls": [
+   "https://query1.finance.yahoo.com/v8/finance/chart/BRL%3DX?period1=725857200&period2=1793096465&interval=1d"
+  ]
+ },
+ "yahoo-usdclp": {
+  "arquivo": "dados/series/yahoo-usdclp.json",
+  "baixado_em": "2026-10-26T07:21:10",
+  "bytes": 938486,
+  "sha256": "1824b199cf444a3582e3e5b91f55a9fcde3f846fc9eb1073ade5bef99b95ffa2",
+  "urls": [
+   "https://query1.finance.yahoo.com/v8/finance/chart/CLP%3DX?period1=725857200&period2=1793096469&interval=1d"
+  ]
+ },
+ "yahoo-usdcop": {
+  "arquivo": "dados/series/yahoo-usdcop.json",
+  "baixado_em": "2026-10-26T07:21:13",
+  "bytes": 896825,
+  "sha256": "174ca30306d75b9a701c8602cc5d4fd03bdf90e7ca39ac8419e09bbd0757e66a",
+  "urls": [
+   "https://query1.finance.yahoo.com/v8/finance/chart/COP%3DX?period1=725857200&period2=1793096471&interval=1d"
+  ]
+ },
+ "yahoo-usdmxn": {
+  "arquivo": "dados/series/yahoo-usdmxn.json",
+  "baixado_em": "2026-10-26T07:21:08",
+  "bytes": 1001860,
+  "sha256": "a026fd25e9d1f1b37633bff9423721c5ebe5987964d9f849e32a29df8f5183ac",
+  "urls": [
+   "https://query1.finance.yahoo.com/v8/finance/chart/MXN%3DX?period1=725857200&period2=1793096467&interval=1d"
+  ]
+ },
+ "yahoo-usdzar": {
+  "arquivo": "dados/series/yahoo-usdzar.json",
+  "baixado_em": "2026-10-26T07:21:15",
+  "bytes": 994672,
+  "sha256": "a0538e7a0ac402cfedd553c3129c8b2fd25c4ad1a25abcab0f447ffaca426689",
+  "urls": [
+   "https://query1.finance.yahoo.com/v8/finance/chart/ZAR%3DX?period1=725857200&period2=1793096474&interval=1d"
+  ]
+ }
+}

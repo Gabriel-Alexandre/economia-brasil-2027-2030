@@ -1,0 +1,2381 @@
+# fonte: https://www12.senado.leg.br/ifi/pdf/raf112_mai2026.pdf
+# capturado em: 2026-10-26
+
+
+=== página 1 ===
+Relatório de
+Acompanhamento
+Fiscal
+Nº 112
+21 de Maio de 2026
+
+=== página 2 ===
+SENADO FEDERAL
+Presidente do Senado Federal
+Senador Davi Alcolumbre (União-AP)
+INSTITUIÇÃO FISCAL INDEPENDENTE
+Diretor-Executivo
+Marcus Vinícius Caetano Pestana da Silva
+Diretor
+Alexandre Augusto Seijas de Andrade
+Analistas
+Dalmo Jorge Lima Palmeira
+Lucas Vinícius Penha Martins Bomfim Leal
+Pedro Henrique Oliveira de Souza
+Rafael da Rocha Mendonça Bacciotti
+Rafael Luis Comini Curi
+Assessora de Comunicação
+Carmensita Corso
+Estagiários
+Anna Clara Moreira
+Gustavo Marciel de Queiroz
+Lukas Cortez de Medeiros Balogh Fagundes
+Tallita Soares de Andrade
+Secretária executiva
+Thuane Vieira Rocha
+Layout do relatório
+CODIV/SECOM e SEFPRO/SEGRAF
+
+=== página 3 ===
+A Lei de Diretrizes Orçamentárias e as perspectivas
+para 2027
+O Relatório de Acompanhamento Fiscal nº 112, entregue agora pela Instituição Fiscal Independente
+(IFI), se defronta com uma situação que poderia ser caracterizada como um certo “equilíbrio
+precário”. Por um lado, o atual arcabouço fiscal mantém sua sobrevivência com o cumprimento das
+metas fixadas, alcançadas com o uso dos expressivos descontos legais previstos e dos limites da
+banda de tolerância em relação ao centro da meta. Por outro, os déficits primários efetivos são
+ainda recorrentes e a dívida pública mantém a trajetória de preocupante crescimento.
+A Guerra do Irã e seus impactos sobre os preços do petróleo e derivados produziram, como efeito
+colateral, uma folga fiscal não prevista, em 2026, que não só permitiu a adoção de medidas
+mitigadoras – renúncias e subvenções – em relação ao choque externo, como criou o ambiente
+fiscal para decisões como o fim da “taxa das blusinhas”, além de formar um colchão de segurança
+contra riscos de não cumprimento das metas fiscais, no presente ano.
+Não é crível esperar, dada a crescente aproximação do ambiente eleitoral, medidas mais profundas
+e radicais de ajuste fiscal. Além da votação do PLDO 2027 e da LOA 2027, teremos apenas decisões
+inevitáveis, como a regulamentação do Imposto Seletivo (IS) que substituirá, no próximo ano, o
+Imposto sobre Produtos Industrializados (IPI), conforme previsto na reforma tributária, aprovada
+recentemente pelo Congresso Nacional. Fora isto, a necessária reestruturação fiscal e orçamentária
+da União estará endereçada para o novo mandato presidencial.
+O RAF de maio foca, em primeiro lugar, na dinâmica da principal despesa orçamentária: os gastos
+com o Regime Geral da Previdência Social (RGPS). Mesmo tendo sido objeto de uma reforma
+estrutural, em 2019, as despesas previdenciárias relativas ao RGPS retomaram trajetória de
+crescimento real após 2021. Os gastos com o RGPS foram equivalentes a 8,1% do PIB e 42,9% das
+despesas primárias totais da União, em 2025. A análise apresentada sobre o crescimento do
+número de aposentadorias urbanas e rurais e o comportamento de outros benefícios, como o auxílio
+por incapacidade temporária, demonstra bem que a política previdenciária, dadas as pressões
+demográficas e o seu peso orçamentário, continuará sendo pauta prioritária no debate envolvendo
+a sociedade e ponto de atenção central para os governantes.
+O RAF se debruça, ainda, sobre o Projeto de Lei de Diretrizes Orçamentárias de 2027 (PLDO 2027),
+enviado pelo Poder Executivo ao Congresso Nacional, que deverá ser votado até 17 de julho. A IFI
+analisa a grade de parâmetros macroeconômicos que embasam a proposta, assim como as
+projeções fiscais derivadas, em um cenário crescentemente desafiador, já que as metas previstas
+para o resultado primário são de 0,5%, 1,0%, 1,25% e 1,5% do PIB para os anos de 2027, 2028, 2029
+e 2030, respectivamente.
+Inevitável assinalar que os parâmetros macroeconômicos utilizados pelo governo e que
+fundamentam os números presentes no PLDO 2027 são extremamente mais otimistas que os
+utilizados pela IFI. Essas discrepâncias em relação ao comportamento da inflação, do PIB, dos juros,
+do câmbio, entre outras variáveis, levam inevitavelmente a divergências substanciais quanto às
+projeções de receitas e despesas, e, consequentemente, dos resultados primários para os próximos
+anos, e a trajetória da dívida pública resultante.
+Relatório de Acompanhamento Fiscal – Maio de 2026 | 3
+
+=== página 4 ===
+Por fim, o RAF traz uma minuciosa análise do Anexo de Riscos Fiscais, que compõem o PLDO, no
+qual se detalham os elementos que podem ameaçar o desempenho fiscal da União. Demandas
+judiciais, dívida ativa, desempenho das estatais, riscos de inadimplências de estados, municípios,
+empresas e pessoas físicas com dívidas com a União ou por esta avalizados, entre outros,
+compõem o rol dos riscos analisados.
+Boa leitura!
+Marcus Pestana
+Diretor-Executivo da IFI
+Alexandre Andrade
+Diretor da IFI
+4 | Relatório de Acompanhamento Fiscal – Maio de 2026
+
+=== página 5 ===
+Destaques
+Evolução da despesa com benefícios previdenciários do RGPS
+A despesa do Regime Geral de Previdência Social (RGPS) retomou trajetória de crescimento
+real após 2021, refletindo predominantemente o aumento do estoque de benefícios, com
+contribuição relativamente menor do valor médio real. As aposentadorias permaneceram
+como principal vetor de expansão da despesa previdenciária, enquanto os auxílios por
+incapacidade temporária passaram a apresentar aceleração significativa a partir de 2022,
+em contraste com a trajetória observada até 2021. Em paralelo, o aumento da fila de
+requerimentos em análise pode indicar pressão adicional sobre o fluxo futuro de
+concessões previdenciárias. (Página 6)
+Considerações sobre o PLDO 2027
+Os números apresentados no PLDO devem ser percebidos com cautela. As projeções
+apresentadas no documento são relativamente otimistas e indicam o cumprimento das
+metas de resultado primário fixadas para o governo central nos próximos anos. A melhora
+gradativa projetada para o primário é alcançada com incremento da receita líquida e queda
+da despesa primária, em proporção do PIB. Isto, combinado com alguns parâmetros
+macroeconômicos favoráveis implica em estabilização e redução da dívida bruta, em
+proporção do PIB, a partir de 2030. (Página 18)
+Os riscos fiscais no PLDO 2027 e o histórico recente
+O Anexo de Riscos Fiscais é um documento essencial para acompanhamento de eventos
+com potencial impacto nas contas públicas. O PLDO 2027 lista riscos específicos com
+impactos potenciais de 37,9% do PIB em 2025. No âmbito das receitas e despesas
+primárias, o maior risco reside em demandas judiciais, que totalizaram um impacto
+potencial de 17,8% do PIB em 2025. Essas demandas podem se materializar em precatórios
+ou em redução de receita tributária. Outra fonte de risco adicional reside nas empresas
+estatais federais, que podem demandar aportes emergenciais ou compensação de metas
+nos próximos exercícios, caso classificado como de risco provável para os Correios. Existe
+também risco relevante associado às projeções macroeconômicas em razão de eventuais
+frustrações nas projeções. Isso pode afetar as estimativas de receitas e despesas primárias
+de 2026 em diante, com destaque para PIB, inflação e massa salarial. (Página 39)
+Primeira publicação em: 21 de maio de 2026
+Arquivo atualizado em: 21 de maio de 2026
+Confira erratas em: https://www12.senado.leg.br/ifi/publicacoes-1/relatorio/2026/maio/erratas
+Relatório de Acompanhamento Fiscal – Maio de 2026 | 5
+
+=== página 6 ===
+Evolução da despesa com benefícios previdenciários
+do RGPS
+Rafael Bacciotti e Gustavo Queiroz1
+Introdução
+A despesa do Regime Geral de Previdência Social (RGPS) constitui a principal rubrica
+obrigatória da despesa primária federal. Em 2025, os gastos do regime somaram R$ 1,027
+trilhão em termos nominais, o equivalente a 8,1% do PIB e a 42,9% da despesa primária da
+União, com base nas informações do Relatório do Tesouro Nacional (RTN).
+A trajetória do gasto previdenciário tem relevância no debate fiscal em razão de seu peso
+no orçamento federal e da retomada do crescimento real da despesa nos últimos anos, em
+contexto de persistência de pressões demográficas associadas ao envelhecimento
+populacional, mesmo após as mudanças introduzidas pela reforma previdenciária de 2019.
+Com a elevada participação no conjunto das despesas obrigatórias, a dinâmica do RGPS
+também possui implicações relevantes para o espaço orçamentário disponível às demais
+despesas primárias da União ao longo do tempo.
+Entre 2010 e 2019, a despesa previdenciária cresceu, em média, 4,7% ao ano, em termos
+reais. Entre 2020 e 2021, período marcado pelos efeitos da pandemia de Covid-19, o ritmo
+desacelerou para 0,8% ao ano. A partir de 2022, observou-se uma retomada do crescimento
+real da despesa, com expansão média de 3,6% ao ano, entre 2022 e 2025.
+Este texto analisa a evolução recente da despesa com benefícios previdenciários do RGPS,
+com foco no comportamento do estoque e do valor médio dos benefícios. A próxima seção
+descreve as características gerais do RGPS. Em seguida, o texto apresenta a decomposição
+da despesa entre estoque de benefícios e valor médio real dos benefícios. Por fim, elencam-
+se alguns fatores que podem estar associados ao comportamento recente da despesa
+previdenciária.
+Características gerais do RGPS
+O RGPS, administrado pelo Instituto Nacional do Seguro Social (INSS), é o principal regime
+previdenciário voltado aos trabalhadores do setor privado, previsto na Constituição Federal
+de 1988 e regulamentado pelas Leis nº 8.2122 e nº 8.2133, ambas de 1991. O regime opera
+1Respectivamente, analista e estagiário da IFI.
+2 Disponível em: https://www.planalto.gov.br/ccivil_03/leis/l8212cons.htm.
+3 Disponível em: https://www.planalto.gov.br/ccivil_03/leis/l8213cons.htm.
+6 | Relatório de Acompanhamento Fiscal – Maio de 2026
+
+=== página 7 ===
+sob a lógica de repartição simples, em que as contribuições arrecadadas dos trabalhadores
+ativos financiam o pagamento dos benefícios correntes.
+Os benefícios do RGPS podem ser organizados em dois grandes grupos, segundo a
+natureza do risco coberto: previdenciários e acidentários. Entre os principais benefícios
+previdenciários estão as aposentadorias programadas, aposentadorias por incapacidade
+permanente, pensões por morte, auxílios por incapacidade temporária, auxílio-acidente,
+auxílio-reclusão e salário-maternidade. Já os benefícios acidentários, com participação
+relativamente menor no estoque total de benefícios, estão relacionados a acidentes de
+trabalho e doenças ocupacionais.
+Uma das principais mudanças introduzidas pela reforma previdenciária de 2019, a Emenda
+Constitucional (EC) nº 1034, de 2019, foi a instituição de idade mínima para as
+aposentadorias do RGPS, com a substituição gradual da aposentadoria por tempo de
+contribuição por regras permanentes de elegibilidade. Para os segurados urbanos, a regra
+geral passou a exigir idade mínima de 65 anos para homens e 62 anos para mulheres,
+preservando regras diferenciadas para os segurados especiais rurais, cuja idade mínima
+permaneceu em 60 anos para homens e 55 anos para mulheres. As mudanças introduzidas
+pela reforma buscaram moderar o ritmo de crescimento da despesa previdenciária diante
+das pressões associadas ao envelhecimento populacional.
+A reforma também alterou as regras de cálculo dos benefícios, passando a considerar a
+média de 100% do histórico contributivo desde julho de 1994, em substituição à regra
+anterior, que permitia o descarte das 20% menores contribuições, o que tende a reduzir o
+valor relativo de parte das novas aposentadorias concedidas após a reforma. No caso das
+pensões por morte, a reforma substituiu a regra de reposição integral por um sistema de
+cotas familiares (50% fixo + 10% por dependente)5, o que tende a reduzir a taxa de reposição
+de parte dos novos benefícios.
+A reforma também introduziu restrições adicionais ao acúmulo de benefícios. Nos casos
+em que o acúmulo permaneceu permitido, passou-se a assegurar o valor integral apenas
+do benefício mais vantajoso, aplicando-se redutores ao benefício de menor valor.
+Os benefícios do RGPS estão sujeitos a um piso e a um teto de pagamento. Em 2026, o piso
+previdenciário correspondia ao salário mínimo vigente (R$ 1.621,00), enquanto o teto do
+RGPS alcançou R$ 8.475,55. Em 2025, esses valores eram de R$ 1.518,00 e R$ 8.157,41,
+respectivamente. Benefícios equivalentes ao piso previdenciário acompanham os reajustes
+do salário mínimo, enquanto benefícios acima do piso são reajustados pelo Índice Nacional
+de Preços ao Consumidor (INPC/IBGE).
+4 Disponível em: https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc103.htm
+5 Conforme previsto no art. 23 da EC nº 103, de 2019.
+Relatório de Acompanhamento Fiscal – Maio de 2026 | 7
+
+=== página 8 ===
+As regras de elegibilidade, cálculo e reajuste dos benefícios influenciam diretamente a
+dinâmica da despesa previdenciária e ajudam a explicar a evolução do estoque de
+benefícios e do valor médio real discutida na seção seguinte.
+Evolução da despesa do RGPS
+O Gráfico 1 apresenta a evolução da despesa do RGPS desde 2010, com base em duas
+séries. A primeira corresponde à despesa total do RGPS divulgada no Relatório do Tesouro
+Nacional (RTN), que inclui benefícios previdenciários, sentenças judiciais e compensação
+previdenciária (Comprev)6. A segunda considera exclusivamente a despesa com benefícios
+previdenciários, excluindo gastos com precatórios e Comprev, construída a partir de
+informações do Siga Brasil. Ambas as séries apresentam trajetória de crescimento real
+desde 2010, com exceção da retração observada em 2021.
+GRÁFICO 1. DESPESA DA UNIÃO COM RGPS
+1.100
+1.000
+5
+2
+0 900
+2
+/
+z
+e
+d
+e
+d 800
+s
+e
+õ
+h
+lib
+700
+$
+R
+600
+500
+0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5
+1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+Despesa do RGPS Despesa com benefícios do RGPS
+Fonte: Tesouro Nacional e Siga Brasil. Elaboração: IFI. R$ bi a preços de dezembro de 2025 (IPCA).
+Como mostra a Tabela 1, entre 2010 e 2019, a despesa com benefícios do RGPS cresceu,
+em média, 4,7% ao ano, em termos reais, acima da expansão da despesa primária total
+(3,5%). Entre 2020 e 2021, período marcado pelos efeitos da pandemia de Covid-19,
+observou-se desaceleração de ambas as rubricas. A partir de 2022, houve retomada do
+crescimento real, com variação média anual de 3,4% na despesa com benefícios do RGPS
+e de 4,3% na despesa primária total.
+6 A Comprev (Compensação Previdenciária) é o mecanismo de compensação financeira entre o RGPS e os
+regimes próprios de previdência social (RPPS), nos termos da Lei nº 9.796, de 1999. Disponível em:
+https://www.planalto.gov.br/ccivil_03/leis/l9796.htm.
+8 | Relatório de Acompanhamento Fiscal – Maio de 2026
+
+=== página 9 ===
+TABELA 1. DESPESAS PRIMÁRIAS DA UNIÃO: CRESCIMENTO REAL MÉDIO ANUAL*
+2010-2019 2020-2021 2022-2025
+Despesa primária total 3,5% 0,1% 4,3%
+Despesa do RGPS 4,7% 0,8% 3,6%
+Despesa com benefícios do RGPS 4,7% 0,6% 3,4%
+Demais despesas primárias 2,8% -0,2% 5,0%
+Fonte: Siga Brasil e RTN. Elaboração: IFI.
+* Média geométrica das variações reais anuais de cada período.
+A exclusão de precatórios e Comprev não altera de forma relevante a trajetória da despesa
+do RGPS, mas permite análise mais precisa do comportamento específico dos benefícios
+previdenciários. Essa separação é particularmente importante para a decomposição da
+despesa entre estoque de benefícios e valor médio real dos benefícios.
+Estoque de benefícios e valor médio
+A despesa com benefícios pode ser aproximada pelo produto entre o estoque de benefícios,
+o valor médio e o número de parcelas pagas ao longo do ano. Variações na despesa
+decorrem, portanto, de variações no estoque de benefícios e no valor médio.
+Observa-se, na Tabela 2, que o crescimento da despesa esteve associado
+predominantemente à expansão do estoque de benefícios, enquanto o valor médio real
+apresentou variação relativamente modesta ao longo do período, inclusive negativa entre
+2019 e 2021. Entre 2021 e 2025, a despesa com benefícios cresceu 14,2%, em termos reais,
+enquanto o estoque avançou 11,6% e o valor médio real aumentou 1,8%.
+TABELA 2. RGPS: DESPESA, ESTOQUE E VALOR MÉDIO
+Var.
+2010-2019 2020-2021 2022-2025
+2010 2019 2021 2025 acumulada
+(% a.a.)* (% a.a.)* (% a.a.)*
+2021–2025
+Despesa com benefícios
+585 858 868 992 4,7% 0,6% 3,4% +14,2%
+do RGPS (R$ de dez/25)
+Estoque (milhões) 24,4 30,9 31,5 35,2 2,7% 1,1% 2,8% +11,6%
+Valor médio (R$ de
+1.848 2.055 2.031 2.067 1,4% -0,6% 0,4% +1,8%
+dez/25)
+Fontes: BEPS, Siga Brasil e RTN. Elaboração: IFI. Estoque = posição de dezembro de cada ano. Valor médio =
+média anual dos benefícios. Deflator: IPCA, preços de dezembro de 2025. * Média geométrica das variações reais
+anuais de cada período.
+O Gráfico 2 apresenta a evolução do estoque de benefícios do RGPS entre 2008 e 2025.
+Observa-se trajetória de crescimento praticamente contínuo ao longo do período, com
+exceção de 2021. Em dezembro de 2025, o RGPS contava com 35,2 milhões de benefícios
+Relatório de Acompanhamento Fiscal – Maio de 2026 | 9
+
+=== página 10 ===
+emitidos, dos quais 24,1 milhões correspondiam a aposentadorias (68,6%), 8,5 milhões a
+pensões por morte (24,2%), 1,3 milhão a auxílios por incapacidade temporária (3,6%) e 1,2
+milhão às demais espécies (3,6%).
+GRÁFICO 2. ESTOQUE DE BENEFÍCIOS (MILHÕES)
+40
+35
+30
+25
+20
+15
+10
+5
+0
+0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5
+1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+Aposentadorias Pensões Auxílio-doença Demais Total
+Fonte: BEPS/MPS. Estoque de dezembro de cada ano.
+A Tabela 3 mostra que, entre dezembro de 2021 e dezembro de 2025, o estoque cresceu 3,7
+milhões de benefícios, equivalente a uma expansão de 11,6%. As aposentadorias
+responderam por 69,3% desse incremento, refletindo expansão de 2,5 milhões de benefícios
+(alta de 11,7%). Além do crescimento absoluto, observa-se aumento gradual da
+participação das aposentadorias no estoque total do RGPS, que passou de 63,9%, em 2010,
+para 68,6%, em 2025. As pensões por morte contribuíram com 12,7% do aumento do
+estoque, enquanto os auxílios por incapacidade temporária responderam por 11,0%, apesar
+da participação relativamente reduzida no estoque agregado.
+10 | Relatório de Acompanhamento Fiscal – Maio de 2026
+
+=== página 11 ===
+TABELA 3. ESTOQUE DE BENEFÍCIOS DO RGPS (MILHÕES)
+Var.
+2010-2019 2020-2021 2022-2025 acumulada
+2010 2019 2021 2025
+(% a.a.)* (% a.a.)* (% a.a.)* 2021–
+2025
+RGPS 24,4 30,9 31,5 35,2 +2,7% +1,1% +2,8% +11,6%
+Aposentadorias 15,6 21,1 21,6 24,1 +3,4% +1,3% +2,8% +11,7%
+Pensões por
+6,6 7,8 8,1 8,5 +1,9% +1,5% +1,4% +5,7%
+morte
+Aux. por
+incapacidade
+1,2 1,0 0,9 1,3 -0,6% -6,9% +9,9% +45,9%
+temporária
+(doença)
+Demais
+1,0 1,0 1,0 1,2 +0,7% -0,5% +5,9% +25,9%
+benefícios**
+Fonte: BEPS/MPS. Estoque de dezembro de cada ano, em milhões. *Média geométrica das variações anuais de
+cada período. **Demais = auxílio-acidente previdenciário, auxílio-reclusão, salário-maternidade e acidentários.
+O comportamento das diferentes espécies variou significativamente ao longo dos
+subperíodos analisados. Entre 2010 e 2019, o crescimento foi liderado pelas
+aposentadorias (+3,4% ao ano), enquanto os auxílios por incapacidade temporária
+apresentaram retração média de 0,6% ao ano. Após a desaceleração observada durante a
+pandemia, o estoque voltou a crescer a partir de 2022, com maior destaque para os auxílios
+por incapacidade temporária, cuja expansão atingiu 9,9% ao ano, entre 2022 e 2025 - o
+maior ritmo entre os benefícios analisados.
+A Tabela 4 apresenta o valor médio real dos benefícios por espécie. Em 2025, o valor médio
+agregado do RGPS era de R$ 2.067, ante R$ 1.539 do salário mínimo real. Entre 2021 e 2025,
+o valor médio agregado cresceu 1,8%, em contraste com a valorização real de 10,1% do
+salário mínimo no mesmo período. O comportamento foi heterogêneo entre os benefícios:
+aposentadorias apresentaram crescimento acumulado de 2,3%, pensões por morte
+avançaram 1,0%, enquanto os auxílios por incapacidade temporária registraram retração de
+4,1%.
+TABELA 4. VALOR MÉDIO DOS BENEFÍCIOS DO RGPS (R$ DE DEZEMBRO DE 2025)
+Var.
+2010-2019 2020-2021 2022-2025 acumulada
+2010 2019 2021 2025
+(% a.a.)* (% a.a.)* (% a.a.)* 2021–
+2025
+RGPS 1.848 2.055 2.031 2.067 +1,4% -0,6% +0,4% +1,8%
+Aposentadorias 1.930 2.218 2.106 2.155 +1,3% -0,5% +0,6% +2,3%
+Pensões por
+1.662 1.906 1.874 1.893 +1,8% -0,9% +0,3% +1,0%
+morte
+Aux. por
+incapacidade 2.049 2.057 2.018 1.935 +0,2% -1,0% -1,0% -4,1%
+temporária
+Demais 1.576 1.685 1.665 1.649 +1,0% -0,6% -0,2% -0,9%
+Salário mínimo 1.213 1.417 1.399 1.539 +2,1% -0,7% +2,4% +10,1%
+Fonte: BEPS/MPS. Estoque de dezembro de cada ano, em milhões. Valor médio calculado como média
+ponderada pelo estoque de cada benefício. *Média geométrica das variações anuais de cada período.
+Relatório de Acompanhamento Fiscal – Maio de 2026 | 11
+
+=== página 12 ===
+Em síntese, o crescimento da despesa previdenciária entre 2021 e 2025 esteve associado
+predominantemente à expansão do estoque de benefícios, enquanto o valor médio real
+apresentou variação relativamente moderada no período. No caso das aposentadorias, o
+crescimento da despesa refletiu, principalmente, a expansão do estoque, combinada a
+aumento moderado do valor médio real da espécie. Já os auxílios por incapacidade
+temporária apresentaram a maior taxa de crescimento do estoque entre os benefícios
+analisados. Ainda assim, o impacto sobre a despesa agregada permaneceu relativamente
+limitado em razão da participação reduzida da espécie no estoque total do RGPS e da
+retração do valor médio real no período.
+Fatores associados à dinâmica da despesa de benefícios do RGPS
+A dinâmica recente da despesa previdenciária parece refletir a combinação de fatores
+estruturais, institucionais e operacionais.
+No caso das aposentadorias, a expansão do estoque permanece associada,
+principalmente, a fatores demográficos, em especial ao envelhecimento populacional e ao
+aumento da expectativa de sobrevida da população. De acordo com Sidone e Afonso
+(2025)7, a expectativa de sobrevida aos 65 anos, para ambos os sexos, passou de 12,8 anos,
+em 1950, para 16,4 anos, em 2020, devendo atingir 21,1 anos, em 2050, e 24,8 anos, em
+2100. O aumento da longevidade tende a elevar a duração média dos benefícios
+permanentes, especialmente aposentadorias e pensões por morte, produzindo pressão
+persistente sobre a despesa previdenciária ao longo do tempo.
+Ao mesmo tempo, as mudanças introduzidas pela EC nº 103, de 2019, podem ter
+contribuído para moderar parte dessa trajetória por meio da introdução de idade mínima
+permanente e da redefinição dos requisitos de acesso às aposentadorias, especialmente
+pela substituição gradual da aposentadoria por tempo de contribuição por regras
+permanentes de elegibilidade. Mudanças dessa natureza tendem a afetar diretamente o
+fluxo de entrada de novos benefícios e, consequentemente, a dinâmica de expansão do
+estoque previdenciário.
+Os efeitos da reforma, contudo, não parecem ter ocorrido de forma homogênea entre os
+diferentes segmentos do RGPS. Enquanto as mudanças paramétricas introduzidas pela EC
+nº 103 afetaram, principalmente, os benefícios urbanos, as regras aplicáveis aos segurados
+especiais rurais permaneceram relativamente preservadas.
+Como mostra o Gráfico 3, a desaceleração observada no crescimento das aposentadorias
+após 2019 foi relativamente mais intensa na clientela urbana, enquanto os benefícios rurais
+mantiveram dinâmica relativamente mais estável. Ainda assim, o período imediatamente
+7 SIDONE, Otávio José Guerci; AFONSO, Luís Eduardo. Economia da previdência: teoria, desenho e avaliação.
+Colaboração de Ana Cristina de Souza Queiroz e Emmilly Elisabeth César Félix. São Paulo: FEA/USP, 2025.
+Disponível em: https://www.livrosabertos.abcd.usp.br/portaldelivrosUSP/catalog/view/1642/1498/5958
+12 | Relatório de Acompanhamento Fiscal – Maio de 2026
+
+=== página 13 ===
+posterior à reforma também coincidiu com os efeitos operacionais da pandemia de Covid-
+19 sobre o funcionamento do INSS e o fluxo de concessões, dificultando a separação
+precisa entre esses fatores.
+GRÁFICO 3. VARIAÇÃO MÉDIA ANUAL DO ESTOQUE DE APOSENTADORIAS, POR
+CLIENTELA (%)
+4,5%
+4,2%
+4,0%
+3,4%
+3,5%
+3,0%
+3,0% 2,8%
+2,5% 2,3%
+2,0%
+2,0%
+1,7%
+1,5% 1,3%
+1,0%
+0,7%
+0,5%
+0,0%
+10-19 20-21 22-25
+Total Rural Urbano
+Fonte: BEPS/MPS. Elaboração: IFI.
+A trajetória relativamente moderada do valor médio real dos benefícios no período recente
+pode estar associada às regras de reajuste e cálculo dos benefícios previdenciários.
+Benefícios equivalentes ao piso previdenciário acompanham os reajustes do salário
+mínimo, enquanto benefícios acima do piso são corrigidos pelo INPC. Embora
+aproximadamente 62% dos benefícios em manutenção, em 2025, possuíssem valor
+equivalente ao piso previdenciário, os benefícios acima do piso respondiam por parcela
+relativamente maior da despesa total em razão do valor médio mais elevado. Como o
+salário mínimo apresentou valorização real superior ao INPC em parte relevante do período
+analisado, o valor médio agregado do regime cresceu em ritmo inferior ao do piso
+previdenciário.
+Além disso, mudanças na composição das concessões e nas regras de cálculo introduzidas
+pela EC nº 103 também podem ter contribuído para limitar o crescimento do valor médio
+real dos benefícios no período recente. A ampliação da média contributiva utilizada no
+cálculo das aposentadorias e as alterações nas regras das pensões por morte tendem a
+reduzir o valor relativo de parte dos novos benefícios concedidos após a reforma (Gráficos
+4 e 5).
+Relatório de Acompanhamento Fiscal – Maio de 2026 | 13
+
+=== página 14 ===
+GRÁFICO 4. VARIAÇÃO MÉDIA ANUAL DO VALOR MÉDIO DE APOSENTADORIAS, POR
+CLIENTELA (%)
+2,5%
+2,2%
+2,0% 1,9%
+1,5% 1,3%
+1,0% 0,8%
+0,6%
+0,5%
+0,0%
+0,0%
+-0,5%
+-0,5%
+-0,7%
+-1,0% -0,9%
+-1,5%
+10-19 20-21 22-25
+Total Rural Urbano
+Fonte: BEPS/MPS. Elaboração: IFI.
+GRÁFICO 5. VARIAÇÃO MÉDIA ANUAL DO VALOR MÉDIO DE PENSÕES, POR CLIENTELA
+(%)
+2,5%
+2,1%
+2,0% 1,8% 1,9%
+1,7%
+1,5%
+1,0%
+0,5%
+0,3%
+0,0%
+-0,5%
+-0,4%
+-1,0% -0,9% -0,8%
+-1,0%
+-1,5%
+10-19 20-21 22-25
+Total Rural Urbano
+Fonte: BEPS/MPS. Elaboração: IFI.
+14 | Relatório de Acompanhamento Fiscal – Maio de 2026
+
+=== página 15 ===
+Nos benefícios por incapacidade temporária, observou-se mudança relevante de trajetória
+a partir de 2022. Após período de relativa estabilidade ou retração até 2021, as concessões
+e o estoque dessa espécie passaram a crescer em ritmo significativamente superior ao das
+demais espécies. Como mostrado no Gráfico 6, as concessões anuais passaram de 1,9
+milhão, em 2022, para 3,9 milhões, em 2025.
+GRÁFICO 6. CONCESSÕES DE AUXÍLIO POR INCAPACIDADE TEMPORÁRIA (MILHÕES)
+4,5
+2025:3,9
+4,0
+3,5
+3,0
+2,5
+2,0
+1,5
+2022:1,9
+1,0
+0,5
+0,0
+0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5
+1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+Fonte: BEPS/MPS. Elaboração: IFI.
+Constanzi (2026)8 e o Tribunal de Contas da União (TCU)9 associam esse movimento à
+ampliação das concessões por meio do sistema Atestmed, em contexto de substituição
+parcial da perícia presencial por análise documental remota. O modelo surgiu durante a
+pandemia de Covid-19, diante da suspensão das perícias presenciais, sendo
+posteriormente incorporado de forma permanente pela Lei nº 14.44110, de 2022. A partir de
+julho de 2023, observou-se intensificação do uso da ferramenta, culminando na adoção do
+Atestmed como etapa obrigatória para requerimentos iniciais de auxílio por incapacidade
+temporária, de abril de 2024 em diante.
+A coincidência temporal entre a intensificação do uso do Atestmed e a aceleração das
+concessões sugere possível mudança nos mecanismos de entrada dessa espécie no
+estoque previdenciário.
+8 COSTANZI, Rogério Nagamine. As causas da chocante evolução dos benefícios do INSS. Brazil Journal, 13
+abr. 2026. Disponível em: https://braziljournal.com/opiniao-as-causas-da-chocante-evolucao-dos-beneficios-
+do-inss/
+9 Relatório de Auditoria TC 007.857/2025-0. Disponível em:
+https://portal.tcu.gov.br/uploads/noticias/pdf/2025/11/27/007.857-2025-0-JGO-Auditoria%20Atestmed.pdf
+10 Disponível em: https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/lei/l14441.htm.
+Relatório de Acompanhamento Fiscal – Maio de 2026 | 15
+
+=== página 16 ===
+Embora os auxílios por incapacidade temporária representem parcela relativamente
+reduzida do estoque total do RGPS, o forte crescimento observado a partir de 2022 passou
+a contribuir de forma mais relevante para a dinâmica recente da despesa previdenciária.
+Em paralelo ao aumento das concessões, a fila de requerimentos administrativos e periciais
+do INSS também apresentou crescimento expressivo no período recente. O estoque de
+requerimentos em análise passou de 371 mil, em dezembro de 2019, para 1,8 milhão, em
+2021, e 3,0 milhões em dezembro de 2025.
+Em resposta ao crescimento da fila, o INSS adotou medidas extraordinárias de
+processamento de benefícios, incluindo o Programa de Enfrentamento à Fila da Previdência
+Social (PEFPS), implementado entre 2023 e 2024, e o Programa de Gerenciamento de
+Benefícios (PGB), em 2025. O Relatório de Gestão do INSS de 202511 informa que o PGB foi
+suspenso em outubro daquele ano em razão de limitações orçamentárias.
+Embora a fila inclua requerimentos de natureza previdenciária e assistencial e não implique
+concessão automática de benefícios, sua expansão pode indicar aumento da demanda
+sobre a capacidade operacional do INSS e potencial pressão futura sobre o fluxo de
+concessões previdenciárias.
+Considerações finais
+A análise dos dados do RTN e do BEPS indica que o crescimento real da despesa
+previdenciária, entre 2021 e 2025, esteve associado predominantemente à expansão do
+estoque de benefícios emitidos, com contribuição relativamente menor do valor médio real
+dos benefícios.
+A decomposição da despesa indica a coexistência de componentes estruturais e
+institucionais distintos na trajetória recente do RGPS. No caso das aposentadorias, a
+expansão do estoque permanece associada, principalmente, a fatores demográficos, em
+especial ao envelhecimento populacional e ao aumento da expectativa de sobrevida da
+população. Embora a EC nº 103, de 2019, tenha contribuído para desacelerar o crescimento
+das aposentadorias no período imediatamente posterior à reforma, a tendência estrutural
+de crescimento da despesa previdenciária não foi interrompida.
+Já os benefícios por incapacidade temporária apresentaram aceleração significativamente
+superior à tendência observada até 2021, em contexto marcado pela ampliação das
+concessões e por mudanças administrativas e operacionais nos mecanismos de análise e
+concessão de benefícios. Ainda que essa espécie represente parcela relativamente menor
+do estoque total do RGPS, o forte crescimento observado a partir de 2022 passou a
+contribuir de forma mais relevante para a expansão recente da despesa previdenciária.
+11 Disponível em: https://www.gov.br/inss/pt-br/acesso-a-informacao/transparencia-e-prestacao-de-
+contas/pretacao-de-contas-anual/relatorio-de-gestao/copy_of_RelatoriodeGestao2025.pdf
+16 | Relatório de Acompanhamento Fiscal – Maio de 2026
+
+=== página 17 ===
+Em linha com as pressões demográficas de longo prazo identificadas ao longo do texto, as
+projeções da IFI apresentadas no RAF nº 10712, de dezembro de 2025, indicam aumento da
+despesa do RGPS, de 8,1% do PIB, em 2025, para 9,1% do PIB em 2030.
+12 Disponível em: https://www2.senado.leg.br/bdsf/bitstream/handle/id/816727/RAF107_DEZ2025.pdf.
+Relatório de Acompanhamento Fiscal – Maio de 2026 | 17
+
+=== página 18 ===
+Considerações sobre o PLDO 2027
+Alexandre Andrade
+Considerações iniciais sobre o PLDO 2027
+Após o envio do Projeto de Lei de Diretrizes Orçamentárias (PLDO) de 202713, pelo Poder
+Executivo, para análise do Congresso Nacional14, em 15 de abril, a IFI analisa alguns pontos
+da proposta: (i) a grade de parâmetros macroeconômicos e as projeções fiscais, incluindo,
+por exemplo, as estimativas apresentadas para os gastos tributários da União e as
+despesas; e (ii) os riscos fiscais, particularmente aqueles associados a precatórios e
+materialização de receitas e economias projetadas de despesas.
+Em cumprimento ao disposto no art. 165, § 2º da Constituição Federal de 198815 e no art.
+4º da Lei Complementar (LC) nº 10116, de 4 de maio de 2000, também conhecida como Lei
+de Responsabilidade Fiscal (LRF), as diretrizes orçamentárias para 2027 estabelecem as
+bases para a elaboração e execução do orçamento do próximo ano.
+O texto detalha a estrutura dos orçamentos, definindo normas para a gestão de gastos,
+transferências de recursos e limites de despesas primárias. Entre os pontos centrais,
+destacam-se a meta de superávit primário para o governo central e as regras para o
+financiamento do Novo PAC (Programa de Aceleração do Crescimento). A proposta
+também regulamenta o pagamento de precatórios judiciais e define critérios para
+investimentos em empresas estatais. Adicionalmente, o projeto assegura a transparência
+pública e a fiscalização legislativa sobre a aplicação das verbas da União.
+O PLDO 2027 manteve as metas de resultado primário do governo central apresentadas no
+PLDO 202617. Para 2027, prevê um superávit de 0,5% do PIB (equivalente a R$ 73,2 bilhões),
+aumentando para 1,0% do PIB, em 2028, e 1,25% do PIB, em 2029, com intervalo de
+tolerância de 0,25 p.p. do PIB ao redor do centro da meta. Para 2030, o PLDO 2027 estipula
+uma meta de superávit de 1,5% do PIB.
+Como será melhor analisado adiante neste texto, à luz das projeções mais recentes da IFI,
+as metas fiscais definidas para os próximos anos parecem relativamente ambiciosas. Isso
+fica mais evidenciado quando se considera a trajetória esperada para as receitas e as
+despesas primárias nos anos seguintes. De acordo com o cenário mais recente da IFI,
+13 Página com os documentos do PLDO 2027: https://www.gov.br/planejamento/pt-
+br/assuntos/orcamento/orcamentos-anuais/2027/pldo.
+14 O projeto tramita como PLN nº 2, de 2026. Tramitação disponível em:
+https://www.congressonacional.leg.br/materias/pesquisa/-/materia/173677.
+15 Disponível em: https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm.
+16 Disponível em: https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp101.htm.
+17 Vide: https://www.gov.br/planejamento/pt-br/assuntos/orcamento/orcamentos-anuais/2026.
+18 | Relatório de Acompanhamento Fiscal – Maio de 2026
+
+=== página 19 ===
+persiste a necessidade de se encontrar novas fontes de arrecadação para financiar os
+gastos.
+Avaliação do cumprimento das metas de 2025
+No Anexo IV.1 do PLDO 2027, que trata da avaliação do cumprimento das metas fiscais
+relativas a 2025, o Poder Executivo detalha o cumprimento da meta de resultado primário
+zero fixada para aquele exercício. Esse cumprimento ocorreu no limite inferior da margem
+de tolerância, de R$ 31,0 bilhões de déficit (0,25 p.p. do PIB) e consideradas as deduções
+de despesas autorizadas na legislação.
+Em 2025, o governo central registrou um déficit primário efetivo de R$ 58,7 bilhões (0,46%
+do PIB), segundo a metodologia de apuração pelo critério abaixo da linha, do Banco
+Central18. As despesas deduzidas da apuração do resultado primário de 2025 foram: (i)
+excedente de precatórios previsto nas Ações Diretas de Inconstitucionalidade (ADIs) 706419
+e 704720, no montante de R$ 41,4 bilhões (sublimite para o pagamento de precatórios
+disciplinado na Emenda Constitucional nº 11421, de 2021); (ii) abertura de créditos
+extraordináros em razão do julgamento da Arguição de Descumprimento de Preceito
+Fundamental (ADPF) 123622, no valor de R$ 2,8 bilhões, destinados ao ressarcimento de
+descontos indevidos em benefícios previdenciários; (iii) gastos de R$ 2,5 bilhões em
+projetos estratégicos de defesa nacional, disciplinados na Lei Complementar (LC) nº 22123,
+de 2025; e (iv) execução de R$ 2,2 bilhões em gastos nas áreas de saúde e educação com
+recursos do Fundo Social, disciplinada na LC nº 22324, de 2025.
+Após as compensações e deduções autorizadas por lei, o resultado fiscal do governo
+central, para efeito de apuração da meta, foi de déficit de R$ 9,9 bilhões em 2025. As
+empresas estatais, por sua vez, registraram um déficit primário efetivo de R$ 4,9 bilhões
+(0,04% do PIB) no ano passado. A meta fixada na LDO 2025 para o Programa de Dispêncios
+Globais (PDG) previa um déficit de até R$ 6,2 bilhões. Considerando as deduções previstas
+na legislação, basicamente de R$ 3,1 bilhões para o Novo PAC25, as estatais apresentaram,
+em 2025, um resultado R$ 4,5 bilhões acima da meta da LDO26. A LDO 2025 também previa
+a compensação entre a meta fiscal do governo central e das empresas estatais.
+18 Ver o Manual de Estatísticas Fiscais do Banco Central. Disponível em:
+https://www.bcb.gov.br/ftp/infecon/estatisticasfiscais.pdf.
+19 Disponível em: https://portal.stf.jus.br/processos/detalhe.asp?incidente=6330822.
+20 Disponível em: https://portal.stf.jus.br/processos/detalhe.asp?incidente=6318731.
+21 Disponível em: https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc114.htm.
+22 Disponível em: https://portal.stf.jus.br/processos/detalhe.asp?incidente=7287062.
+23 Página para acesso à norma: https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp221.htm.
+24 Link para acesso: https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp223.htm.
+25 O art. 3º da LDO 2025 limita a dedução de despesas de investimento com o Novo PAC a R$ 5,0 bilhões.
+Como o resultado primário considera o valor efetivamente executado, o montante apurado para dedução pode
+ser inferior.
+26 Lei nº 15.080, de 30 de dezembro de 2024. Disponível em: https://www.planalto.gov.br/ccivil_03/_ato2023-
+2026/2024/lei/l15080.htm.
+Relatório de Acompanhamento Fiscal – Maio de 2026 | 19
+
+=== página 20 ===
+A meta fiscal do governo central, formalmente cumprida em 2025, ocorreu a partir de
+abatimentos de despesas da meta, além de recolhimentos de montantes consideráveis de
+receitas não recorrentes, como analisado pela IFI no RAF nº 10827, de janeiro de 2026.
+Eventos análogos foram registrados no exercício de 2024, quando a meta foi igualmente
+cumprida com abatimentos de despesas e realização de receitas não recorrentes28.
+Projeções Macroeconômicas do PLDO 2027
+No Anexo de Metas Fiscais do PLDO 2027, o Poder Executivo apresenta a grade de
+parâmetros macroeconômicos utilizada para a elaboração das diretrizes orçamentárias de
+2027, assim como as projeções consideradas para o intervalo de 2028 a 2030. A Tabela 5
+compara as projeções de algumas variáveis macroeconômicas contidas no PLDO 2027
+com as estimativas mais recentes da IFI, apresentadas no RAF nº 10729, de dezembro de
+2025.
+TABELA 5. PROJEÇÕES DE ALGUMAS VARIÁVEIS MACROECONÔMICAS (PLDO 2027 E
+RAF 107) – 2026 A 2028
+2026 2027 2028 2029 2030
+IFI - RAF IFI - RAF IFI - RAF IFI - RAF IFI -
+PLDO PLDO PLDO PLDO PLDO
+107 107 107 107 RAF 107
+2027 2027 2027 2027 2027
+(dez/25) (dez/25) (dez/25) (dez/25) (dez/25)
+Cresc. real ( var. %) 2,3 1,7 2,6 2,0 2,6 2,2 2,6 2,2 2,7 2,3
+PIB nominal (R$ bilhões) 13.606 13.432 14.643 14.245 15.726 15.109 16.887 15.988 18.145 16.923
+IPCA (%) 3,74 3,89 3,04 3,52 3,00 3,26 3,00 3,00 3,00 3,00
+Selic - acumulada no ano (% a.a.) 13,53 10,55 9,27 8,27 7,27
+Selic - final de período (% a.a.) 12,00 10,50 9,25 8,00 8,00
+Taxa de câmbio média (R$/US$) 5,32 5,44 5,47 5,49 5,45 5,55 5,50 5,62 5,53 5,67
+Massa salarial nominal (var. %) 10,32 7,65 11,19 6,35 11,08 5,56 11,06 5,31 11,12 5,34
+Preço médio petróleo - Brent
+73,09 66,50 67,69 66,50 66,60 66,50 66,92 66,50 67,44 65,00
+(US$/barril)
+Fonte: PLDO 2027, grade de parâmetros da SPE de março de 202630, RAF nº 107, de dezembro de 2025.
+O documento do PLDO 2027 traz a grade de parâmetros macroeconômicos para o período
+de 2026 a 2030. À luz das projeções mais recentes da IFI (RAF nº 107, de dezembro de
+2025), os números apresentados na Tabela 5 indicam um cenário mais otimista
+considerado na elaboração das diretrizes orçamentárias.
+27 Página para acesso ao documento:
+https://www2.senado.leg.br/bdsf/bitstream/handle/id/817388/RAF108_JAN2026.pdf.
+28 Ver o RAF nº 96, de janeiro de 2025, disponível em:
+https://www2.senado.leg.br/bdsf/bitstream/handle/id/682438/RAF96_JAN2025.pdf.
+29 Disponível em: https://www2.senado.leg.br/bdsf/bitstream/handle/id/816727/RAF107_DEZ2025.pdf.
+30 Ver: https://www.gov.br/fazenda/pt-br/central-de-conteudo/publicacoes/conjuntura-economica/estudos-
+economicos/2026/nota_grademarco_vff.pdf.
+20 | Relatório de Acompanhamento Fiscal – Maio de 2026
+
+=== página 21 ===
+Para o crescimento da economia, enquanto o Executivo estima 2,3%, em 2026, 2,6%, em
+2027, e incrementos ao redor de 2,6% até 2030, a IFI projeta variações mais modestas: 1,7%,
+em 2026, 2,0%, em 2027, e aumentos ao redor de 2,2% de 2028 a 2030. Para a inflação,
+medida pelo IPCA do IBGE, o Executivo projeta 3,74%, em 2026, 3,04%, em 2027, e 3,00% de
+2028 em diante. As estimativas mais recentes da IFI para o IPCA são de 3,89%, em 2026,
+3,52%, em 2027, 3,26%, em 2028, e 3,00% em 2029 e 2030, indicando uma convergência
+mais lenta para a meta.
+Chama a atenção as projeções para a variação da massa salarial nominal considerada no
+PLDO 2027, com incrementos de dois dígitos entre 2026 e 2030. Para 2026, o Executivo
+considera acréscimo de 10,3% no indicador (contra alta de 7,7% esperada pela IFI). Nos
+anos seguintes, as estimativas são: 11,2% (PLDO) e 6,3% (IFI), em 2027, 11,1% (PLDO) e
+5,6% (IFI), em 2028, 11,1% (PLDO) e 5,3% (IFI), em 2029, e 11,1% (PLDO) e 5,3% (IFI) em
+2030. Esses números indicam premissas relativamente otimistas do Poder Executivo em
+relação ao comportamento do mercado de trabalho nos próximos anos, as quais diferem
+da expectativa da IFI de um crescimento mais moderado da massa salarial. Parte dessa
+discrepência decorre da política monetária contracionista praticada em 2024 e 2025.
+Outro ponto que merece atenção diz respeito às projeções de massa salarial do PLDO 2027
+para o período de 2031 em diante, quando ocorre uma queda brusca na taxa em relação ao
+período de 2026 a 2030. Na Tabela 5.1 do “Anexo IV.10. Projeções Atuariais para o Regime
+Geral de Previdência Social”, enquanto as taxas de crescimento da massa salarial são as
+reportadas no parágrafo acima, em 2031, a variação projetada passa a ser de 4,81%, sendo
+de 4,77%, em 2032, e assim por diante. Não fica claro se ocorreu uma mudança de
+metodologia na projeção a partir de 2031, por exemplo.
+No RAF nº 10031, de maio de 2025, a IFI analisou as projeções apresentadas pelo Poder
+Executivo nas diretrizes orçamentárias entre 2021 e 2026, comparando-as com os valores
+observados para alguns dos indicadores da grade de parâmetros macroeconômicos. Ainda
+que as estimativas do Executivo tenham apresentado um menor desvio entre os valores
+projetados e observados para o crescimento da economia nos últimos anos, houve desvios
+importantes em outras variáveis, como a inflação e a taxa básica de juros (Selic) no período.
+Tais desvios são relevantes porque implicam estimativas mais otimistas para algumas
+variáveis fiscais, como a despesa primária da União e o pagamento de juros da dívida
+pública. Considerando que cerca de metade da despesa primária do governo central
+consiste em pagamento de benefícios previdenciários e assistenciais e que estes
+pagamentos dependem da correção do salário mínimo, que é reajustado pela inflação
+passada, desvios nas estimativas de inflação acabam se traduzindo em projeções mais
+otimistas para a despesa primária nos anos à frente.
+31 Página para acesso ao documento:
+https://www2.senado.leg.br/bdsf/bitstream/handle/id/696036/RAF100_MAI2025.pdf.
+Relatório de Acompanhamento Fiscal – Maio de 2026 | 21
+
+=== página 22 ===
+Projeções das receitas do PLDO 2027
+Ainda no Anexo de Metas Fiscais Anuais do PLDO 2027, o Poder Executivo apresenta as
+projeções para o resultado primário do governo central e das empresas estatais federais. A
+Tabela 6, construída pela IFI a partir das informações do PLDO e do já referenciado RAF nº
+107, contém um comparativo entre as estimativas de receitas e transferências por
+repartição de receita em 2027.
+TABELA 6. PROJEÇÕES PARA AS RECEITAS PRIMÁRIAS E TRANSFERÊNCIAS DO
+GOVERNO CENTRAL (PLDO 2027 E RAF Nº 107) – 2027 (R$ BILHÕES E % DO PIB)
+2027
+IFI (RAF nº Dif. PLDO 2027 - IFI
+Variáveis PLDO 2027
+107/dez25) (RAF nº 107)
+p.p. do
+R$ bilhões % do PIB R$ bilhões % do PIB R$ bilhões
+PIB
+1. Receita primária total 3.408,2 23,3 3.280,5 23,0 127,7 0,2
+Receitas administradas 2.210,0 15,1 2.147,4 15,1 62,6 0,0
+Arrecadação líquida para o RGPS 879,8 6,0 777,5 5,5 102,3 0,6
+Receitas não administradas 318,4 2,2 355,6 2,5 -37,2 -0,3
+2. Transferências por repartição de receitas 640,0 4,4 661,8 4,6 -21,8 -0,3
+3. Receita primária líquida [1-2] 2.768,2 18,9 2.618,7 18,4 149,5 0,5
+Fonte: PLDO 2027, RAF nº 107, de dezembro de 2025.
+De acordo com a Tabela 6, existe uma diferença, a maior, de R$ 127,7 bilhões entre as
+estimativas do Executivo e da IFI para a receita primária total do governo central em 2027.
+A análise dos grupos que compõem a receita primária indica os seguintes desvios entre as
+projeções do PLDO 2027 e da IFI: (i) R$ 62,6 bilhões (0,0 p.p. do PIB), a maior, nas receitas
+administradas; (ii) R$ 102,3 bilhões (0,6 p.p. do PIB), a maior, na arrecadação líquida para o
+RGPS; e (iii) R$ 37,2 bilhões (0,3 p.p. do PIB), a menor, nas receitas não administradas.
+A discrepância nos números para as receitas administradas e a arrecadação líquida para o
+RGPS se explica, em parte, pela expectativa do Executivo de maior crescimento da
+economia no ano que vem32. Além disso, como discutido acima, o PLDO traz embutida uma
+premissa de comportamento mais favorável do mercado de trabalho nos próximos anos,
+quando a massa salarial nominal teria incrementos de dois dígitos até 2030. Isto afeta
+positivamente os recolhimentos previstos de contribuições previdenciárias.
+No documento do PLDO 2027, o Poder Executivo detalha os efeitos da reoneração da folha
+de pagamento33 sobre os recolhimentos de receitas previdenciárias em 2027 e nos anos
+seguintes. A IFI também examina esse efeito nas projeções. No entanto, parece haver
+32 Importante mencionar que as projeções (do Poder Executivo e da IFI) não consideram os efeitos do conflito
+no Irã, iniciado em fevereiro de 2026.
+33 Nos termos da Lei nº 14.973, de 2024. Disponível em: https://www.planalto.gov.br/ccivil_03/_ato2023-
+2026/2024/lei/l14973.htm.
+22 | Relatório de Acompanhamento Fiscal – Maio de 2026
+
+=== página 23 ===
+premissas mais favoráveis consideradas pelo Executivo em relação ao comportamento da
+ocupação e da renda no mercado de trabalho nos próximos anos.
+Para as transferências por repartição de receita, existe uma diferença, a menor, de R$ 21,8
+bilhões entre a projeção do PLDO 2027 e a da IFI (RAF nº 107), o que resulta em uma
+diferença, a maior, de R$ 149,5 bilhões na estimativa da receita primária líquida do governo
+central em 2027 (Tabela 6).
+De acordo com a avaliação feita pela IFI do documento do PLDO, faltam maiores
+explicações para as projeções apresentadas para as transferências por repartição de
+receita no ano que vem e nos exercícios seguintes. Para 2027, a estimativa é de queda das
+transferências (4,4% do PIB), na comparação com 2026 (4,5% do PIB).
+Sobre as receitas não administradas, que abarcam os recolhimentos oriundos da
+exploração de recursos naturais, as projeções do PLDO 2027 e do RAF nº 107 não
+consideram os efeitos do conflito no Irã sobre o preço do petróleo no mercado
+internacional. No RAF nº 11134, de abril de 2026, a IFI apresentou uma análise a respeito
+dos possíveis impactos de um ambiente de preço do petróleo mais elevado sobre algumas
+variáveis macroeconômicas (inflação e PIB nominal) e fiscais (receitas, despesas e
+resultado primário do governo central) em 2026 e 2027.
+Em linhas gerais, o impacto tende a ser inflacionário e beneficiar as receitas
+governamentais, via efeitos diretos e indiretos, no curto prazo. Em um segundo momento,
+haveria impacto sobre a trajetória da despesa primária em razão da inflação mais elevada.
+De todo modo, caso o preço do petróleo se mantenha mais elevado em relação ao nível
+vigente antes do conflito, haveria redução no déficit primário do governo central projetado
+pela IFI em 2026 e 2027.
+A Tabela 7 apresenta as estimativas de receitas e transferências contidas no PLDO 2027 e
+no RAF nº 107 para o período de 2028 a 2030, em proporção do PIB. A diferença, a maior,
+entre a estimativa da receita total do Poder Executivo e da IFI reside, principalmente, nas
+projeções para a arrecadação líquida para o RGPS.
+34 Disponível em: https://www12.senado.leg.br/ifi/publicacoes-1/relatorio/2026/abril/relatorio-de-
+acompanhamento-fiscal-abr-2026.
+Relatório de Acompanhamento Fiscal – Maio de 2026 | 23
+
+=== página 24 ===
+TABELA 7. PROJEÇÕES PARA AS RECEITAS PRIMÁRIAS E TRANSFERÊNCIAS DO
+GOVERNO CENTRAL (PLDO 2027 E RAF Nº 107) – 2028-2030 (% DO PIB)
+2028 2029 2030
+Dif. Dif. Dif.
+PLDO IFI (RAF PLDO PLDO IFI (RAF PLDO PLDO IFI (RAF PLDO
+Variáveis
+2027 107) 2027- 2027 107) 2027- 2027 107) 2027-
+RAF 107 RAF 107 RAF 107
+p.p. do p.p. do p.p. do
+% do PIB % do PIB % do PIB % do PIB % do PIB % do PIB
+PIB PIB PIB
+1. Receita primária total 23,4 23,0 0,4 23,4 22,9 0,6 23,5 22,8 0,7
+Receitas administradas 15,0 15,0 0,0 14,9 15,0 -0,1 14,9 14,9 0,0
+Arrecadação líquida para o
+6,2 5,5 0,7 6,4 5,5 0,9 6,5 5,5 1,0
+RGPS
+Receitas não administradas 2,3 2,5 -0,2 2,2 2,4 -0,2 2,1 2,3 -0,3
+2. Transferências por repartição
+4,3 4,6 -0,3 4,3 4,6 -0,3 4,2 4,6 -0,4
+de receitas
+3. Receita primária líquida [1-2] 19,1 18,4 0,7 19,1 18,2 0,9 19,2 18,2 1,1
+Fonte: PLDO 2027, RAF nº 107, de dezembro de 2025.
+As estimativas para as receitas administradas no PLDO 2027 consideram (i) a
+recomposição de bases de incidência de alguns tributos; (ii) medidas de redução de litígios
+entre o Fisco e os contribuintes, como as transações tributárias; (iii) impacto neutro da
+implementação da reforma tributária, ou seja, os tributos que surgem com a reforma, como
+a Contribuição sobre Bens e Serviços (CBS) e o Imposto Seletivo, tiveram as estimativas de
+recolhimentos calculadas sobre as mesmas bases de incidência dos tributos que serão
+substituídos (PIS, Cofins, IPI e IOF Seguros); e (iv) a vedação de criação, ampliação ou
+prorrogação de incentivos tributários em 2027, o que impede novas renúncias de receitas.
+Sobre o item (iv) mencionado acima, vale uma explicação mais detida. O inciso I do art. 6º-
+A da Lei Complementar (LC) nº 20035, de 30 de agosto de 2023, inserido pela LC nº 21136,
+de 30 de dezembro de 2024, determina que, em caso de apuração de déficit primário do
+governo central a partir do exercício de 202537, ficam vedadas, a partir do ano seguinte ao
+da apuração do déficit, e até a constatação de superávit primário anual, a promulgação de
+lei que conceda, amplie ou prorrogue incentivo ou benefício de natureza tributária.
+Ou seja, na elaboração do PLDO 2027, o Executivo considerou que, especificamente no
+exercício de 2027, não haverá novas concessões de benefícios tributários, o que aumenta
+as bases de incidência de alguns tributos administrados. Dadas as projeções de resultado
+primário apresentadas no documento, essa vedação não valeria para 2028, 2029 ou 2030,
+tendo em vista a expectativa de materialização de superávits primários a partir de 2026.
+35 Disponível em: https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp200.htm.
+36 Disponível em: https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp211.htm#art1.
+37 Essa apuração ocorreu em janeiro de 2026. Ainda que seja possível interpretar o art. 6º-A da LC nº 200
+como sendo aplicável ao exercício de 2026, a interpretação feita para o dispositivo foi de início de vigência da
+referida vedação para o exercício de 2027.
+24 | Relatório de Acompanhamento Fiscal – Maio de 2026
+
+=== página 25 ===
+Os números apresentados na Tabela 6 e na Tabela 7 indicam que, à luz das projeções do
+Poder Executivo, a receita primária líquida do governo central vai crescer nos próximos
+anos, de 18,9% do PIB, em 2027, para 19,1% do PIB, em 2028 e 2029, alcançando 19,2% do
+PIB em 2030.
+Antes de concluir a presente subseção, cabe uma consideração sobre as estimativas
+apresentadas no PLDO para as transferências por repartição de receitas. No documento da
+proposta, o Poder Executivo justifica a redução das transferências, em proporção do PIB,
+nos próximos anos, que cairiam de 4,5% do PIB, em 2026, para 4,4% do PIB, em 2027, depois
+para 4,3% do PIB, em 2028, 4,3% do PIB, em 2029, até atingirem 4,2% do PIB, em 2030,
+retornando a média histórica.
+Ocorre que, em 2021, foi promulgada a EC nº 11238, que alterou o art. 159 da Constituição
+para aumentar os repasses da União aos Fundos de Participação dos Estados e dos
+Municípios, com reforço do FPM ao longo dos anos. A EC nº 112: (i) elevou a fatia da
+arrecadação de IR e do IPI destinada aos fundos de participação; (ii) criou um adicional
+específico para os municípios, a ser repassado em etapas; e (iii) definiu que esse ganho
+seria implementado gradualmente.
+Em outras palavras, caso o Poder Executivo esteja projetando redução das transferências,
+em proporção do PIB, nos próximos anos, essa queda deveria refletir uma diminuição nas
+estimativas de arrecadação dos tributos partilhados pela União com estados e municípios.
+No entanto, não é o caso. As planilhas da Receita Federal do Brasil com os valores de
+arrecadação projetados para o período de 2027 a 2030 indicam uma participação constante
+dos recolhimentos de IPI e do Imposto sobre a Renda, em proporção do PIB, por exemplo.
+No cenário mais recente da IFI (RAF nº 107), a receita líquida cairia, de 18,4% do PIB, em
+2027, para 18,2% do PIB em 2030. A discrepância entre as estimativas do Executivo e da IFI
+residem na receita primária total (especialmente na arrecadação líquida para o RGPS) e nas
+transferências a estados e municípios. A IFI espera que ocorra um esgotamento de algumas
+medidas para elevação da arrecadação, como as transações tributárias, além de projetar
+menores montantes oriundos da redução dos benefícios tributários39. As premissas para o
+comportamento do mercado de trabalho preveem condições menos favoráveis em relação
+ao incremento da ocupação e da renda. Além disso, a IFI projeta valores mais elevados, em
+proporção do PIB, para as transferências, na comparação com o Poder Executivo, nos
+próximos anos.
+38 Disponível em: https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc112.htm.
+39 Ver as explicações no já referenciado RAF nº 107, de dezembro de 2025.
+Relatório de Acompanhamento Fiscal – Maio de 2026 | 25
+
+=== página 26 ===
+Projeções das despesas do PLDO 2027
+A Tabela 8 apresenta as projeções de despesas primárias do governo central em 2027, a
+preços correntes e em proporção do PIB. A tabela também traz as projeções de despesas
+mais recentes da IFI, dispostas no já referenciado RAF nº 107, de dezembro de 2025.
+TABELA 8. PROJEÇÕES PARA AS DESPESAS PRIMÁRIAS DO GOVERNO CENTRAL
+(PLDO 2027 E RAF Nº 107) – 2027 (R$ BILHÕES E % DO PIB)
+2027
+IFI (RAF nº Dif. PLDO 2027 - IFI
+Variáveis PLDO 2027
+107/dez25) (RAF nº 107)
+R$ R$ R$ p.p. do
+% do PIB % do PIB
+bilhões bilhões bilhões PIB
+Despesa primária total 2.760,2 18,9 2.798,9 19,6 -38,7 -0,8
+Benefícios previdenciários 1.204,6 8,2 1.220,7 8,6 -16,1 -0,3
+Pessoal e encargos sociais 459,3 3,1 453,9 3,2 5,4 0,0
+Benefícios de Prestação Continuada (BPC/LOAS) 137,9 0,9 158,0 1,1 -20,1 -0,2
+Abono salarial e seguro-desemprego 104,8 0,7 110,2 0,8 -5,4 -0,1
+Complementação ao Fundeb 73,5 0,5 83,7 0,6 -10,2 -0,1
+Sentenças judiciais e precatórios - custeio e capital1 30,1 0,2 56,4 0,4 -26,2 -0,2
+Subsídios, subvenções econômicas e Proagro 30,7 0,2 27,2 0,2 3,5 0,0
+Custeio e capital dos Poderes Legislativo e Judiciário, do MPU e da DPU 41,4 0,3 22,6 0,2 18,8 0,1
+Outras despesas obrigatórias 18,6 0,1 12,3 0,1 6,3 0,0
+Despesas do Poder Executivo sujeitas à programação financeira 659,3 4,5 635,8 4,5 23,5 0,0
+Obrigatórias com controle de fluxo 384,6 2,6 410,0 2,9 -25,5 -0,2
+Despesas discricionárias 274,7 1,9 225,7 1,6 49,0 0,3
+1 Sentenças judiciais, conforme §21 do art. 165 da Constituição Federal, Lei Complementar nº 221, de 2025, e Lei
+Complementar nº 223, de 2025.
+Fonte: PLDO 2027, RAF nº 107, de dezembro de 2025.
+A partir dos números apresentados na Tabela 8, existe um desvio, a menor, de R$ 38,7
+bilhões (0,8 p.p. do PIB) na despesa primária total do Poder Executivo em relação à projeção
+mais recente da IFI para 2027. Ou seja, as estimativas do PLDO estão mais otimistas em
+relação às do RAF nº 107. O desvio, a menor, entre as projeções ocorre nos seguintes
+agregados de despesa: (i) benefícios previdenciários (R$ 16,1 bilhões, ou 0,3 p.p. do PIB);
+(ii) Benefícios de Prestação Continuada (R$ 20,1 bilhões, ou 0,2 p.p. do PIB); (iii) Abono
+salarial e seguro-desemprego (R$ 5,4 bilhões, ou 0,1 p.p. do PIB); (iv) Complementação da
+União ao Fundeb (R$ 10,2 bilhões, ou 0,1 p.p. do PIB); e (v) Sentenças judiciais e precatórios
+de custeio e capital (R$ 26,2 bilhões, ou 0,2 p.p. do PIB).
+A menor estimativa do Executivo para as despesas com benefícios previdenciários (item i
+acima) e assistenciais (itens ii e iii acima mencionados) decorre, entre outros, da
+expectativa de inflação para 2026 (3,74%, contra 3,89% da IFI). Além disso, as estimativas
+26 | Relatório de Acompanhamento Fiscal – Maio de 2026
+
+=== página 27 ===
+do PLDO embutem premissas mais conservadoras em relação à emissão de benefícios, em
+2027 e nos anos seguintes.
+Para as despesas sujeitas à programação financeira, enquanto o Poder Executivo estima a
+execução de R$ 659,3 bilhões (4,5% do PIB), a IFI projeta R$ 635,8 bilhões (4,5% do PIB) em
+2027. A diferença, a maior, de R$ 23,5 bilhões nessa rubrica se explica por um desvio, para
+cima, de R$ 49,0 bilhões entre a estimativa do Executivo para as despesas discricionárias
+(incluindo R$ 264,0 bilhões de despesas discricionárias sujeitas aos limites da LC nº 200 e
+R$ 10,7 bilhões de despesas discricionárias excetuadas dos limites das despesas no
+âmbito da LC nº 200) em relação à projeção da IFI.
+Nas despesas obrigatórias com controle de fluxo, que concentram, entre outras, o Programa
+Bolsa Família (PBF), a projeção do PLDO para 2027 está R$ 25,5 bilhões inferior à estimativa
+da IFI, apresentada no RAF nº 107. O gasto com o PBF tem caído nos últimos dois anos por
+duas razões: (i) a saída de beneficiários do programa; e (ii) a ausência de reajuste no valor
+do benefício.
+Algumas considerações adicionais em relação às despesas discricionárias. A previsão de
+execução de R$ 274,7 bilhões nessa rubrica, pelo Poder Executivo, em 2027, deve-se ao
+espaço que seria aberto com o controle de algumas despesas obrigatórias. Os fatores
+mencionados no documento do PLDO 2027, que embasam essa perspectiva, são: (i)
+economia de R$ 16,0 bilhões, apenas em 2027, oriunda de medidas de eficiência e combate
+a fraudes no Proagro e na concessão de benefícios do INSS, BPC e seguro-defeso; e (ii)
+ativação de gatilhos do já mencionado art. 6º-A da LC nº 200, de 2023, incluído pela LC nº
+211, de 2024, que limita o crescimento real das despesas de pessoal (de todos os poderes)
+a 0,6%40, em caso de apuração de déficit primário no exercício de 2025.
+À luz do conteúdo apresentado no RAF nº 107, a economia de R$ 16,0 bilhões com a
+redução de fraudes na concessão de benefícios previdenciários e assistenciais parece
+relativamente otimista e depende da efetividade desse controle sobre agregados
+representativos da despesa obrigatória, os quais registraram crescimento acima dos limites
+definidos na LC nº 200 (arcabouço fiscal) em 2024 e 2025.
+Ainda que o acionamento dos gatilhos previstos no art. 6º-A da LC nº 200 represente uma
+contenção importante na dinâmica da despesa de pessoal, o montante desta despesa (em
+torno de 3,0% do PIB) é significativamente inferior ao dos gastos voltados ao pagamento
+40 A redação do dispositivo diz o seguinte: “Art. 6º-A. Em caso de apuração de déficit primário do Governo
+Central, nos termos do § 4º do art. 2º desta Lei Complementar, a partir do exercício de 2025, ficam vedadas,
+no exercício subsequente ao da apuração, e até a constatação de superávit primário anual:
+I - a promulgação de lei que conceda, amplie ou prorrogue incentivo ou benefício de natureza tributária; e
+II - até 2030, no projeto de lei orçamentária anual e na lei orçamentária anual, a programação de crescimento
+anual real do montante da despesa de pessoal e de encargos com pessoal de cada um dos Poderes ou órgãos
+autônomos acima do índice inferior de que trata o § 1º do art. 5º desta Lei Complementar, excluídos os
+montantes concedidos por força de sentença judicial”.
+Relatório de Acompanhamento Fiscal – Maio de 2026 | 27
+
+=== página 28 ===
+de benefícios previdenciários e assistenciais41. Além disso, nos últimos anos, a despesa de
+pessoal tem ficado em níveis relativamente controlados, dinâmica diferente da apresentada
+por alguns benefícios assistenciais e previdenciários.
+A Tabela 9, construída pela IFI a partir de informações do documento do PLDO 2027 e das
+projeções do RAF nº 107, de dezembro de 2025, apresenta as estimativas de despesas do
+Poder Executivo e da IFI para o período de 2028 a 2030, em proporção do PIB.
+TABELA 9. PROJEÇÕES PARA AS DESPESAS PRIMÁRIAS DO GOVERNO CENTRAL
+(PLDO 2027 E RAF Nº 107) – 2028-2030 (% DO PIB)
+2028 2029 2030
+Dif. Dif. Dif.
+IFI PLDO IFI PLDO IFI PLDO
+PLDO PLDO PLDO
+Variáveis (RAF 2027- (RAF 2027- (RAF 2027-
+2027 2027 2027
+107) RAF 107) RAF 107) RAF
+107 107 107
+% do % do p.p. do % do % do p.p. do % do % do p.p. do
+PIB PIB PIB PIB PIB PIB PIB PIB PIB
+Despesa primária total 18,5 19,6 -1,1 18,2 19,8 -1,6 18,0 20,0 -2,0
+Benefícios previdenciários 8,2 8,6 -0,5 8,1 8,7 -0,6 8,0 8,8 -0,8
+Pessoal e encargos sociais 3,0 3,1 -0,1 2,9 3,1 -0,1 2,8 3,0 -0,2
+Benefícios de Prestação Continuada
+0,9 1,1 -0,2 0,9 1,2 -0,3 0,9 1,2 -0,4
+(BPC/LOAS)
+Abono salarial e seguro-desemprego 0,7 0,8 -0,1 0,7 0,8 -0,1 0,7 0,8 -0,1
+Complementação ao Fundeb 0,5 0,6 -0,1 0,5 0,6 -0,1 0,5 0,6 -0,1
+Sentenças judiciais e precatórios -
+0,3 0,4 -0,1 0,3 0,4 -0,1 0,3 0,4 -0,2
+custeio e capital(1)
+Subsídios, subvenções econômicas e
+0,2 0,2 0,0 0,2 0,2 0,0 0,2 0,2 0,0
+Proagro
+Custeio e capital dos Poderes Legislativo
+0,3 0,2 0,1 0,3 0,2 0,1 0,3 0,2 0,1
+e Judiciário, do MPU e da DPU
+Outras despesas obrigatórias 0,1 0,1 0,0 0,2 0,1 0,1 0,4 0,1 0,3
+Despesas do Poder Executivo sujeitas à
+4,2 4,4 -0,2 4,1 4,3 -0,2 4,0 4,3 -0,3
+programação financeira
+Obrigatórias com controle de fluxo 2,5 2,8 -0,3 2,4 2,8 -0,4 2,3 2,8 -0,4
+Despesas discricionárias 1,7 1,6 0,2 1,7 1,5 0,2 1,7 1,5 0,2
+(1) Sentenças judiciais, conforme §21 do art. 165 da Constituição Federal, Lei Complementar nº 221, de 2025, e
+Lei Complementar nº 223, de 2025.
+Fonte: PLDO 2027, RAF nº 107, de dezembro de 2025.
+De acordo com a Tabela 9, o Poder Executivo prevê uma redução da despesa primária total
+do governo central, em proporção do PIB, nos próximos anos. Se, em 2027, essa parcela
+seria de 18,9%, cairia para 18,5% do PIB, em 2028, depois para 18,2% do PIB, em 2029,
+alcançando 18,0% do PIB em 2030. Parte dessa redução, vis a vis as projeções da IFI, deve-
+se ao incremento do PIB nominal estimado para os próximos anos. De acordo com a Tabela
+5, em 2030, a diferença entre o PIB nominal estimado pelo Poder Executivo e o projetado
+pela IFI supera R$ 1,0 trilhão.
+41 Para uma discussão a respeito de uma despesa que apresenta dinâmica preocupante nos últimos anos, os
+pagamentos do BPC, ver análise publicada pela IFI no RAF nº 110, de março de 2026. Disponível em:
+https://www2.senado.leg.br/bdsf/bitstream/handle/id/863708/RAF110_MAR2026.pdf.
+28 | Relatório de Acompanhamento Fiscal – Maio de 2026
+
+=== página 29 ===
+Essa redução da despesa primária projetada baseia-se também em diminuições e/ou
+controle da parcela do gasto (em % do PIB) em algumas rubricas representativas, como: (i)
+os benefícios previdenciários, que cairiam de 8,2% do PIB, em 2028, para 8,0% do PIB, em
+2030; (ii) a despesa de pessoal, de 3,0% do PIB, em 2028, para 2,8% do PIB em 2030; (iii) os
+pagamentos do BPC, que se manteriam em 0,9% do PIB até 2030; e (iv) as despesas
+obrigatórias com controle de fluxo, que cairiam de 2,5% do PIB, em 2028, para 2,3% do PIB
+em 2030.
+A projeção das despesas primárias para os próximos anos leva em consideração ações do
+Poder Executivo para revisão de gastos42. De acordo com o PLDO 2027, a economia
+potencial a ser alcançada é de R$ 55,4 bilhões entre 2026 e 2029. Essas ações envolvem
+gastos como o pagamento de benefícios previdenciários, o BPC, Proagro e seguro-defeso.
+Nas estimativas para a despesa com benefícios previdenciários, por exemplo, o PLDO prevê
+economia de R$ 12,9 bilhões com a expansão do Atestmed43 entre 2026 e 2029.
+As outras ações (também para o período de 2026 a 2029) consistem em: (i) economia de
+R$ 25,8 bilhões nos pagamentos do BPC (Lei Orgânica da Assistência Social-LOAS) oriunda
+da revisão bienal de benefícios e a adoção de medidas administrativas, como a
+obrigatoriedade de registro da biometria dos beneficiários; (ii) economia de R$ 15,1 bilhões
+no Proagro, com a redução do limite de enquadramento e melhor gestão de riscos
+climáticos; e (iii) economia de R$ 1,6 bilhão nos pagamentos do seguro-desemprego do
+pescador artesanal (seguro-defeso), associada à exigência de comprovação de atividade
+pesqueira ininterrupta.
+Ainda de acordo com o PLDO 2027, outros elementos justificam a trajetória apresentada
+para a despesa primária obrigatória do governo central, em proporção do PIB, até 2030. Um
+desses elementos consiste na já mencionada ativação dos gatilhos fiscais previstos no art.
+6º-A da LC nº 200, de 2023. Esses gatilhos limitarão o crescimento real da despesa de
+pessoal a 0,6% - até a reversão do déficit primário de 2025 em superávit –, e justificam a
+projeção apresentada para a despesa de pessoal entre 2027 e 2030.
+Um terceiro elemento apresentado no PLDO para o controle de algumas despesas
+obrigatórias nos próximos exercícios diz respeito à mudança, introduzida pelo art. 4º da Lei
+nº 15.07744, de dezembro de 2024, que limita a variação real do salário mínimo, definida na
+Lei nº 14.66345, de agosto de 2023, a 2,5% (limite de crescimento da despesa primária da
+União, segundo a LC nº 200).
+42 Também chamados, em inglês, de spending reviews.
+43 Sistema do INSS que substitui a perícia médica presencial por análise documental para conceder o
+benefício por incapacidade temporária (auxílio-doença).
+44 Disponível em: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/l15077.htm.
+45 Disponível em: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14663.htm.
+Relatório de Acompanhamento Fiscal – Maio de 2026 | 29
+
+=== página 30 ===
+Um quarto elemento consiste na alteração promovida pelo art. 38 da Lei nº 15.26546, de 21
+de novembro de 2025, que alterou a Lei nº 14.81847, de 16 de janeiro de 2024, para
+classificar o Programa Pé-de-Meia como bolsa de estudo paga a estudantes do ensino
+médio, passando esse custeio a ser contabilizado para fins de cumprimento do gasto
+mínimo com educação. A mesma Lei nº 15.265, no art. 35, alterou as regras de dispêndio
+relativas às compensações entre o Regime Geral da Previdência Social (RGPS) e os regimes
+de previdência próprios dos servidores da União, dos Estados, dos Municípios e do Distrito
+Federal. Tais compensações ficaram limitadas à respectiva dotação orçamentária para
+essa despesa.
+Outro agregado importante da despesa, cuja projeção (em % do PIB) é de queda até 2030,
+são as despesas obrigatórias com controle de fluxo. De acordo com o documento do
+PLDO 2027, a trajetória estimada para essa despesa se baseia em: (i) crescimento real zero
+para as despesas desse grupo, com correção dada apenas pela variação da inflação do ano
+anterior; e (ii) aumento da eficiência no Programa Bolsa Família, com aumento da
+focalização da política.
+O PLDO 2027 considera também o impacto dos aportes a serem feitos pela União nos
+fundos compensatórios da reforma tributária, a saber, o Fundo de Compensação de
+Benefícios Fiscais (FCBF) e o Fundo de Desenvolvimento Regional (FNDR). O documento
+ressalta esses aportes como a principal fonte de pressão sobre a despesa primária da
+União a partir de 202948.
+O PLDO considera um impacto de 0,18 p.p. do PIB referente aos aportes da União no FCBF,
+que deverão ocorrer entre 2029 e 2032. Os aportes estimados no FNDR, de 0,11 p.p. do PIB
+a partir de 2029, irão além de 2033, e manterão tendência ascendente de desembolsos.
+Como será melhor explorado adiante nesta análise, o aumento das despesas nos próximos
+anos em razão dos aportes nos fundos compensatórios da reforma tributária ocorrerá em
+um período no qual o Poder Executivo fixou metas de superávit primário mais agressivas:
+1,25% do PIB, em 2029, e 1,50% do PIB em 2030. O incremento dessas despesas exigirá,
+portanto, um controle mais rigoroso de outras rubricas orçamentárias para que as metas
+sejam cumpridas. Aparentemente, o controle pretendido em alguns agregados
+representativos da despesa obrigatória tem a intenção de absorver o impacto dos aportes
+nos fundos compensatórios da reforma tributária.
+De todo modo, à luz das projeções mais recentes da IFI, o cenário para a evolução das
+despesas primárias nos próximos exercícios parece otimista, por algumas razões. Em
+primeiro lugar, a dinâmica recente de algumas dessas despesas, como o pagamento de
+46 Disponível em: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/lei/l15265.htm.
+47 Disponível em: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/l14818.htm.
+48 Para uma análise sobre os impactos e riscos fiscais para a União dos fundos compensatórios criados pela
+reforma tributária dos tributos incidentes sobre o consumo, ver a Nota Técnica (NT) da IFI nº 53, de dezembro
+de 2023. Disponível em: https://www2.senado.leg.br/bdsf/bitstream/handle/id/644753/NT53_DEZ2023.pdf.
+30 | Relatório de Acompanhamento Fiscal – Maio de 2026
+
+=== página 31 ===
+benefícios previdenciários e assistenciais, tem sido pressionada não apenas pela regra de
+correção do salário mínimo49, como também pelo número de benefícios emitidos.
+Como analisado no primeiro texto deste RAF, a emissão de benefícios do INSS tem sido
+influenciada pelo auxílio-doença. Nos exercícios de 2024 e 2025, a economia alcançada
+com o uso do Atestmed ficou abaixo dos valores previstos, o que reforça um ceticismo em
+relação a economias significativas projetadas para os próximos exercícios.
+Por sua vez, a emissão de benefícios do BPC tem sido afetada pelos pedidos a portadores
+de deficiência. Além disso, os benefícios concedidos por via judicial têm crescido
+consideravelmente desde 202150. Dessa forma, parece pouco provável que essa dinâmica
+de emissões dos benefícios seja alterada sem mudanças na legislação que disciplina as
+concessões.
+Ainda que os gatilhos inseridos na LC nº 200 para limitar o crescimento da despesa de
+pessoal sejam relevantes, a dinâmica desse gasto tem mostrado trajetória relativamente
+controlada nos últimos anos. Por sua vez, os gatilhos para limitar a criação de benefícios e
+incentivos fiscais pode ter o alcance reduzido em razão de alguns benefícios recentemente
+aprovados. Vide, por exemplo, a sanção da LC nº 22851, de 2026, e a LC nº 22952, de 2026.
+Outro elemento importante a se considerar diz respeito à limitação da variação do salário
+mínimo imposta pela Lei nº 15.077. Apesar de ser salutar alinhar o teto da variação do
+mínimo ao limite de despesas definido na LC nº 200, os pagamentos dos benefícios
+previdenciários e assistenciais, atrelados ao salário mínimo, dependem também do número
+de benefícios emitidos. Como mencionado, a emissão de alguns desses benefícios tem
+sido impulsionada por grupos específicos (casos do auxíio-doença e BPC para portadores
+de deficiência, além de BPC por via judicial).
+É igualmente relevante considerar o processo de envelhecimento da população brasileira,
+que continuará a pressionar a emissão de benefícios previdenciários e alguns assistenciais
+(BPC) nos anos à frente. Por tudo isso, parece relativamente otimista considerar que a
+despesa do INSS e do BPC cairá, em proporção do PIB, nos próximos anos.
+Por fim, sobre a trajetória apresentada no PLDO 2027 para as despesas obrigatórias com
+controle de fluxo, parece razoável supor queda em proporção do PIB, caso as condições do
+mercado de trabalho continuem a melhorar nos próximos anos, o que manterá o atual
+movimento de saída de famílias do Bolsa Família. No entanto, vale considerar que essa
+trajetória estimada prevê, provavelmente, ausência de reajustes nos valores dos benefícios
+do programa. Eventuais reajustes nesses valores poderiam fazer a despesa cair menos ou
+mesmo se estabilizar nos anos à frente.
+49 A regra leva em consideração a inflação e o crescimento da economia passados, sendo este último um
+fator de aumento real para a variável.
+50 Ver análise publicada pela IFI no já referenciado RAF nº 110, de março de 2026.
+51 Disponível em: https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp228.htm.
+52 Disponível em: https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp229.htm.
+Relatório de Acompanhamento Fiscal – Maio de 2026 | 31
+
+=== página 32 ===
+Projeções para o resultado primário do PLDO 2027
+Esta subseção analisa os números apresentados no PLDO referentes ao resultado primário
+do governo central em 2027 e de 2028 a 2030. A Tabela 10 apresenta as projeções do
+PLDO 2027 e as do RAF nº 107 para o exercício de 2027.
+TABELA 10. PROJEÇÕES PARA O RESULTADO PRIMÁRIO DO GOVERNO CENTRAL
+(PLDO 2027 E RAF Nº 107) – 2027
+2027
+IFI (RAF nº Dif. PLDO 2027 - IFI
+Variáveis PLDO 2027
+107/dez25) (RAF nº 107)
+R$ R$ R$ p.p. do
+% do PIB % do PIB
+bilhões bilhões bilhões PIB
+1. Receita primária líquida 2.768,2 18,90 2.618,7 18,38 149,5 0,5
+2. Despesa primária total 2.760,2 18,85 2.798,9 19,65 -38,7 -0,8
+3. Resultado primário efetivo [1-2] 8,0 0,05 -180,3 -1,27 188,3 1,3
+4. Governo central - deduções da meta de resultado primário(1) 65,7 0,45 118,2 0,83 -52,6 -0,4
+5. Governo central - resultado primário após deduções [3+4] 73,6 0,50 -62,0 -0,44 135,7 0,9
+6. Governo central - centro da meta de resultado primário 73,2 0,50 73,2 0,51 0,0 0,0
+7. Governo central - limite inferior da meta de resultado primário 36,6 0,25 36,6 0,26 0,0 0,0
+8. Diferença para o limite inferior da meta de resultado primário [5-7] 37,0 0,25 -98,6 -0,69 135,7 0,9
+(1) Sentenças judiciais, conforme §21 do art. 165 da Constituição Federal de 1988, LC 221/2025 e LC 223/2025
+Fonte: PLDO 2027, RAF nº 107, de dezembro de 2025.
+De acordo com a Tabela 10, existe uma diferença, a maior, de R$ 188,3 bilhões (1,3 p.p. do
+PIB) entre as estimativas de superávit primário efetivo (R$ 8,0 bilhões, ou 0,05% do PIB) do
+Poder Executivo para o governo central no próximo ano e o déficit primário (R$ 180,3
+bilhões, ou 1,27% do PIB) calculado pela IFI no RAF nº 107, de dezembro de 2025.
+Ainda segundo a tabela, o PLDO 2027 traz uma projeção para a receita primária líquida do
+governo central R$ 149,5 bilhões maior que a da IFI no próximo ano, enquanto a estimativa
+para a despesa primária está R$ 38,7 bilhões menor.
+Vale uma explicação para as deduções da apuração da meta de resultado primário
+consideradas para 2027. O Poder Executivo considera R$ 65,7 bilhões (0,45% do PIB) em
+deduções no PLDO. Esse montante considera que 39,4% das despesas com precatórios
+(R$ 95,4 bilhões) serão computadas na meta, enquanto R$ 57,8 bilhões serão
+contabilizados fora da apuração da meta fiscal do próximo ano. A Emenda Constitucional
+(EC) nº 13653, de 2025, alterou dispositivos do Ato das Disposições Constitucionais
+Transitórias (ADCT) para definir novos limites anuais de pagamento de precatórios, assim
+como parcelamentos e exceções temporárias ao regime geral do art. 100 da Constituição
+Federal de 1988.
+53 https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc136.htm.
+32 | Relatório de Acompanhamento Fiscal – Maio de 2026
+
+=== página 33 ===
+Para efeito de cumprimento das regras fiscais do limite de despesa e de apuração da meta
+de resultado primário do governo central, a despesa de precatórios foi retirada dos limites
+de despesa, como definido na LC nº 200, e da apuração da meta de resultado primário, a
+partir de 2027. No caso da meta de primário, a despesa total de precatórios será inserida
+de maneira gradual - ao menos 10% ao ano, em um horizonte de 10 anos.
+Além de parte do pagamento de precatórios (R$ 57,8 bilhões), as exceções de despesas da
+apuração da meta de resultado primário de 2027 consideradas no PLDO abarcam também:
+(i) até R$ 5 bilhões anuais em investimentos estratégicos de defesa, nos termos da já
+referenciada LC nº 221, de 2025; e (ii) R$ 2,86 bilhões em despesas temporárias de saúde
+e educação financiadas com recursos do Fundo Social, nos termos da já referenciada LC
+nº 223, de 2025.
+No RAF nº 107, de dezembro de 2025, a IFI considerou R$ 118,2 bilhões de despesas
+descontadas da apuração da meta de resultado primário em 2027. Desse montante, (i)
+R$ 113,2 bilhões corresponderiam a 90% do pagamento de precatórios fora da apuração da
+meta de primário do próximo ano54; e (ii) R$ 5,0 bilhões configurariam despesas na área de
+defesa (LC nº 221).
+Em suma, o principal fator a explicar a diferença projetada pelo Poder Executivo e a IFI no
+que diz respeito às despesas excetuadas da apuração da meta de primário no próximo ano
+é a parcela da despesa de precatórios a ser incluída nessa apuração. Enquanto o
+PLDO 2027 considerou 39,4% dessas despesas apuradas dentro da meta, a IFI considerou
+10%.
+Feitas as deduções de despesas da apuração da meta, o PLDO considera um superávit
+primário de R$ 73,6 bilhões (0,5% do PIB) em 2027, enquanto a projeção da IFI é de um
+déficit primário de R$ 62,0 bilhões (0,44% do PIB). Assim, de acordo com as projeções mais
+recentes da IFI (RAF nº 107), faltariam R$ 98,6 bilhões (0,7 p.p. do PIB) para que o Executivo
+atingisse o limite inferior da meta (R$ 36,6 bilhões) fixada para o próximo ano.
+Ainda que não seja objeto da presente análise, a persistência do choque no preço do
+petróleo em razão dos conflitos no Oriente Médio pode favorecer as receitas primárias do
+governo central. Como mencionado anteriormente, o já referenciado RAF nº 111, de abril de
+2026, trouxe um exercício a respeito. Em linhas gerais, a depender da intensidade e da
+duração do choque, o impacto para o resultado primário do governo central deverá ser
+positivo, o que diminuiria o déficit primário projetado para 2027.
+A Tabela 11 apresenta as estimativas do PLDO 2027 e da IFI para o resultado primário do
+governo central no período de 2028 a 2030. Os números da tabela indicam, à luz das
+projeções do Poder Executivo, uma melhora do resultado primário ao longo do tempo à
+medida que a meta de resultado primário fica mais agressiva.
+54 No RAF nº 107, a IFI considerou uma despesa total de precatórios de R$ 125,8 bilhões no exercício de 2027.
+Relatório de Acompanhamento Fiscal – Maio de 2026 | 33
+
+=== página 34 ===
+As projeções de receitas e despesas discutidas anteriormente indicavam isso. As
+estimativas do PLDO consideram que a receita primária líquida do governo central se
+estabiliza acima de 19,0% do PIB até 2030, enquanto a despesa primária cai de 2027 a 2030,
+alcançando 18,0% do PIB. Como mencionado anteriormente, esse cenário é relativamente
+otimista pelas razões já expostas.
+Por outro lado, de acordo com as projeções mais recentes da IFI, o déficit primário estimado
+(tanto o efetivo quanto o considerado para efeito de cumprimento da meta) piora ao longo
+do tempo em razão da acomodação das receitas55 e do aumento das despesas
+obrigatórias.
+TABELA 11. PROJEÇÕES PARA O RESULTADO PRIMÁRIO DO GOVERNO CENTRAL
+(PLDO 2027 E RAF Nº 107) – 2028-2030
+2028 2029 2030
+Dif. Dif. Dif.
+PLDO PLDO PLDO
+PLDO IFI (RAF PLDO IFI (RAF PLDO IFI (RAF
+Variáveis 2027- 2027- 2027-
+2027 107) 2027 107) 2027 107)
+RAF RAF RAF
+107 107 107
+% do % do p.p. do % do % do p.p. do % do % do p.p. do
+PIB PIB PIB PIB PIB PIB PIB PIB PIB
+1. Receita primária líquida 19,09 18,36 0,7 19,14 18,24 0,9 19,24 18,16 1,1
+2. Despesa primária total 18,48 19,63 -1,1 18,21 19,80 -1,6 17,98 19,96 -2,0
+3. Resultado primário efetivo [1-2] 0,62 -1,27 1,9 0,93 -1,56 2,5 1,26 -1,80 3,1
+4. Governo central - deduções da meta de
+0,38 0,75 -0,4 0,32 0,66 -0,3 0,24 0,57 -0,3
+resultado primário (1)
+5. Governo central - resultado primário após
+1,00 -0,52 1,5 1,25 -0,90 2,1 1,50 -1,23 2,7
+deduções [3+4]
+6. Governo central - centro da meta de resultado
+1,00 1,00 0,0 1,25 1,25 0,0 1,50 1,50 0,0
+primário
+7. Governo central - limite inferior da meta de
+0,75 0,75 0,0 1,00 1,00 0,0 1,25 1,25 0,0
+resultado primário
+8. Diferença para o limite inferior da meta de
+0,25 -1,27 1,5 0,25 -1,90 2,1 0,25 -2,48 2,7
+resultado primário [5-7]
+(1) Sentenças judiciais, conforme §21 do art. 165 da Constituição Federal de 1988, LC 221/2025 e LC 223/2025
+Fonte: PLDO 2027, RAF nº 107, de dezembro de 2025.
+Projeções para a Dívida Bruta do Governo Geral (DBGG) do PLDO 2027
+Em atendimento a alguns comandos legais, o PLDO traz projeções para a dívida pública em
+um horizonte de dez anos. A LC nº 200, de 2023, inseriu na já referenciada Lei de
+Responsabilidade Fiscal (art. 4º, § 5º, inciso III), dispositivo para demonstrar a
+compatibilidade do cumprimento das metas de resultado primário sobre a trajetória de
+convergência da dívida pública ao longo de uma década. Este horizonte temporal permite
+que o Poder Executivo demonstre qual o nível de resultados fiscais é necessário para
+alcançar a estabilização da DBGG, em proporção do PIB.
+55 Para maiores detalhes, ver o já referenciado RAF nº 107, de dezembro de 2025. Isso ocorre em razão do
+esgotamento de algumas medidas de recomposição da arrecadação e da convergência da elasticidade
+receita-PIB para 1.
+34 | Relatório de Acompanhamento Fiscal – Maio de 2026
+
+=== página 35 ===
+O Gráfico 7 apresenta as projeções do PLDO 2027 e da IFI para a DBGG nos próximos anos.
+No RAF nº 107, as projeções divulgadas pela IFI se referiam ao período de 2025 a 2035. As
+estimativas do Poder Executivo mostram que o indicador alcançaria 87,8% do PIB, em 2029,
+e passaria a cair a partir de 2030. Ao final do horizonte de projeção, o PLDO prevê que a
+DBGG alcance 83,4% do PIB. Por sua vez, a IFI projeta que a DBGG assuma trajetória de
+elevação na próxima década. As informações detalhadas a seguir embasam as projeções.
+GRÁFICO 7. DÍVIDA BRUTA DO GOVERNO GERAL – 2026 A 2036
+140
+117,7
+113,5
+120 105,4 109,4
+101,1
+97,1
+93,4
+100 90,1
+86,2
+82,7
+80
+86,0 87,3 87,8 87,5 87,0
+83,6 86,4 85,7 84,9 84,1 83,4
+78,6
+60
+40
+20
+0
+2025 2026 2027 2028 2029 2030 2031 2032 2033 2034 2035 2036
+PLDO 2027 RAF nº 107
+Fonte: PLDO 2027 e IFI. Elaboração: IFI.
+A Tabela 12 apresenta um comparativo entre as projeções de alguns parâmetros
+considerados no PLDO 2027 e no RAF nº 107 para o período de 2026 a 2036 e que
+sustentam as estimativas para a trajetória da DBGG, conforme o Gráfico 7.
+Relatório de Acompanhamento Fiscal – Maio de 2026 | 35
+
+=== página 36 ===
+TABELA 12. PROJEÇÕES DE ALGUNS PARÂMETROS DO PLDO 2027 E DO RAF Nº 107 –
+2026-2036
+Taxa real Taxa de câmbio Resultado primário
+Selic (final do ano
+implícita de juros Var. PIB (%) Deflator do PIB (%) (R$/US$) - final do efetivo do governo
+- % a.a.)
+da DBGG (% a.a.) ano central (% do PIB)
+IFI IFI IFI IFI IFI IFI
+(RAF (RAF (RAF (RAF (RAF (RAF
+PLDO 2027 PLDO 2027 PLDO 2027 PLDO 2027 PLDO 2027 PLDO 2027
+nº nº nº nº nº nº
+107) 107) 107) 107) 107) 107)
+2026 7,8 8,0 11,9 12,0 2,3 1,7 4,4 4,0 5,4 5,5 -0,4 -0,7
+2027 6,6 6,7 9,7 10,5 2,6 2,0 4,9 4,0 5,5 5,5 0,1 -1,3
+2028 5,9 5,8 8,9 9,3 2,6 2,2 4,7 3,8 5,5 5,6 0,6 -1,3
+2029 5,3 4,9 7,9 8,0 2,6 2,2 4,7 3,5 5,5 5,6 0,9 -1,6
+2030 4,8 4,9 6,9 8,0 2,7 2,3 4,7 3,5 5,6 5,7 1,3 -1,8
+2031 4,3 4,9 6,4 8,0 2,7 2,3 4,4 3,5 5,6 5,7 1,3 -2,0
+2032 4,2 4,9 6,4 8,0 2,8 2,3 4,2 3,5 5,7 5,8 1,4 -2,2
+2033 4,1 4,9 6,4 8,0 2,9 2,3 4,0 3,5 5,7 5,9 1,4 -1,8
+2034 4,1 4,9 6,4 8,0 3,0 2,3 3,9 3,5 5,8 5,9 1,5 -1,9
+2035 4,1 4,9 6,4 8,0 3,0 2,2 3,9 3,5 5,8 6,0 1,5 -1,9
+2036 4,1 6,4 3,0 3,8 5,9 1,5
+Fonte: PLDO 2027, RAF nº 107, de dezembro de 2025.
+A partir dos números apresentados na Tabela 12, fica clara a discrepância existente para
+as diferentes trajetórias da DBGG, em proporção do PIB, nos cenários do PLDO 2027 e do
+RAF nº 107. Enquanto o Poder Executivo considera que o crescimento da economia
+aumente de 2,3%, em 2026, para 2,7%, em 2030, subindo a 3,0%, em 2036, a IFI aponta que
+o crescimento da economia deve convergir para o potencial atualmente estimado, em torno
+de 2,2%.
+Para a taxa real implícita de juros da DBGG, os números refletem que o Executivo considera
+uma convergência para 4,1% a.a. até 2036, enquanto a IFI estima que alcance 4,9% a.a. até
+2035. Como a taxa real implícita guarda forte associação com a Selic, esses números
+configuram uma boa proxy para a taxa neutra de juros da economia.
+Por fim, considerando as estimativas apresentadas para o resultado primário efetivo do
+governo central, enquanto o PLDO 2027 indica uma trajetória de elevação dos superávits ao
+longo do tempo, a IFI estima a materialização de déficits primários em todo o horizonte de
+projeção (Tabela 12).
+Em suma, a discrepância na trajetória esperada pelo Poder Executivo e pela IFI para a DBGG,
+em proporção do PIBnos próximos anos, se explica por: (i) maiores taxas de expansão da
+economia esperadas pelo Executivo; (ii) menor taxa neutra de juros da economia
+considerada pelo governo; e (iii) materialização de superávits primários crescentes nos
+próximos anos considerada pelo Executivo, ao passo que a IFI estima a realização de
+déficits primários em todo o período de projeção. Sendo assim, de acordo com as projeções
+da IFI, a DBGG não se estabilizaria na próxima década.
+36 | Relatório de Acompanhamento Fiscal – Maio de 2026
+
+=== página 37 ===
+Conclusão
+Este texto procurou analisar aspectos relacionados às projeções das variáveis
+macroeconômicas e fiscais do PLDO 2027, comparando-as com as estimativas mais
+recentes elaboradas pela IFI, publicadas no RAF nº 107, dezembro de 2025.
+Os números apresentados no PLDO representam estimativas relativamente otimistas, a
+começar pela grade de parâmetros macroeconômicos. O Poder Executivo espera que o
+crescimento da economia suba gradualmente nos próximos anos, alcançando 2,7%, em
+2030, e 3,0% em 2036, o que sugere uma premissa favorável em relação ao crescimento
+potencial da economia.
+Esse impulso nas projeções do PLDO decorre dos efeitos esperados da reforma tributária
+sobre o consumo. Um dos principais reflexos da reforma sobre a atividade econômica é o
+aumento da produtividade em razão da maior eficiência alocativa da economia.
+A IFI também considera um impacto positivo da reforma tributária sobre o crescimento
+potencial da economia. No entanto, os efeitos esperados, até o momento, são mais
+modestos, da ordem de 0,2 p.p. do PIB, por duas razões principais: (i) dificuldade de
+mensuração dos impactos da reforma sobre o crescimento potencial; e (ii) necessidade de
+levantar mais informações para realizar a estimativa. Por essas razões, a IFI considera o
+crescimento potencial da economia 2,2% ao ano.
+Ainda em relação à grade de parâmetros macroeconômicos, a IFI identificou premissas
+otimistas para as estimativas de outras variáveis, como a taxa básica de juros e a inflação.
+Como discutido ao longo da análise e, de acordo com texto publicado no RAF nº 100, de
+2025, apesar de o Poder Executivo ter previsto melhor que o consenso de mercado o
+desempenho da atividade econômica nos últimos anos, os desvios entre os valores
+projetados e realizados nas demais variáveis macroeconômicas foram significativos no
+período. Os efeitos desses desvios de projeções impõem dificuldades na execução
+orçamentária do exercício seguinte.
+A expectativa de maior crescimento da economia embutida no PLDO 2027 se reflete em
+estimativas mais otimistas para as receitas de tributos administrados e não administrados.
+À luz das projeções mais recentes divulgadas pela IFI, a maior discrepância com os
+números do Poder Executivo reside nos recolhimentos de contribuições previdenciárias,
+que indicam a expectativa, pelo governo, de um desempenho bastante favorável do
+mercado de trabalho nos próximos anos.
+A projeção para a despesa primária do governo central nos anos à frente embute,
+igualmente, premissas bastante otimistas em relação ao comportamento de alguns
+agregados da despesa obrigatória, que têm apresentado trajetória de forte expansão nos
+últimos anos.
+Relatório de Acompanhamento Fiscal – Maio de 2026 | 37
+
+=== página 38 ===
+No PLDO 2027, o Executivo anunciou a intenção de alcançar R$ 55,4 bilhões de economia
+em despesas obrigatórias entre 2026 e 2029. Essa economia ocorreria por meio das
+chamadas revisões periódicas de gastos, ou spending reviews, em inglês. Os números
+reportados chamam a atenção porque envolvem algumas das despesas com dinâmica
+recente de forte elevação, como previdência (R$ 12,9 bilhões a ser alcançados por meio de
+aperfeiçoamentos no Atestmed) e o BPC (R$ 25,8 bilhões a serem obtidos com medidas
+administrativas, como a obrigatoriedade de cadastro da biometria dos beneficiários). Esses
+montantes parecem significativos.
+Dadas as premissas para as estimativas de receitas e despesas primárias, a trajetória
+considerada no PLDO 2027 para o resultado primário do governo central é favorável e
+indicaria o cumprimento das metas fiscais fixadas para os próximos exercícios financeiros.
+Considerando o relativo otimismo anteriormente descrito e o fato de as metas fiscais
+ficarem mais agressivas nos próximos anos, é preciso olhar para os números do PLDO com
+cautela.
+Sendo assim, as projeções apresentadas para a dívida bruta também precisam ser
+analisadas com ceticismo, visto estarem fundamentadas em cenários bastante otimistas
+para o crescimento da economia, a taxa neutra de juros da economia e a realização de
+superávits primários crescentes ao longo do tempo.
+No cenário macroeconômico e fiscal mais recente publicado, em dezembro de 2025, a IFI
+apresentou uma trajetória de constante elevação para a dívida bruta, em proporção do PIB,
+até 2035. Na ocasião, a instituição divulgou que o superávit primário do setor público
+necessário para a estabilização da dívida seria de 2,3% do PIB.
+Tudo colocado, e considerando também os exercícios apresentados pela IFI no RAF nº 107
+em relação à perda de eficácia da atual regra do limite de despesas da União a partir de
+2028, mesmo com a promulgação da EC nº 136, de 2025, é possível afirmar que os desafios
+para a condução da política fiscal nos próximos anos continuam elevados, exigindo
+medidas de controle da trajetória de agregados da despesa primária obrigatória.
+38 | Relatório de Acompanhamento Fiscal – Maio de 2026
+
+=== página 39 ===
+Os riscos fiscais no PLDO 2027 e o histórico recente
+Pedro Souza
+Introdução
+O Anexo de Riscos Fiscais (ARF) é um documento que integra a Lei de Diretrizes
+Orçamentárias (LDO). Conforme previsão do §3° do art. 4º da Lei de Responsabilidade
+Fiscal (LRF), a Lei Complementar (LC) nº 101, de 200056, o ARF avaliará passivos
+contingentes e outros riscos capazes de afetar as contas públicas, informando, também,
+providências no caso de ocorrência desses riscos.
+O ARF do Projeto de Lei de Diretrizes Orçamentárias (PLDO) de 2027, que tramita no
+Congresso Nacional como PLN 2/202657, é dividido em 6 seções: 1) Gestão de Riscos
+Fiscais; 2) Sumário Executivo; 3) Análise dos Riscos Macroeconômicos (Riscos Gerais); 4)
+Análise dos Riscos Específicos; 5) Providências em Caso de Materialização de Risco Fiscal;
+e 6) Considerações Finais.
+O objetivo deste texto é analisar os dados dos ARFs ao longo dos PLDOs apresentados e
+compará-los com possíveis riscos concretizados58.
+Categorização dos riscos
+O ARF classifica os riscos fiscais em riscos gerais (ou riscos macroeconômicos) e
+específicos.
+Os riscos gerais são aqueles que afetam as variáveis fiscais em função de variações de
+parâmetros macroeconômicos, como PIB, inflação, câmbio, juros, preços de commodities
+e massa salarial. O mapeamento é importante porque permite antecipar o comportamento
+de variáveis fiscais, como receitas e despesas, ante choques em variáveis
+macroeconômicas. Exemplo disso é o impacto de maiores preços de petróleo na inflação
+e nas receitas e despesas primárias, explorado pela IFI no já referenciado RAF nº 111, de
+abril de 2026.
+56 Disponível em: https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp101.htm.
+57 Disponível em: https://www.congressonacional.leg.br/web/orcamento/acompanhe/diretrizes-
+orcamentarias/-/ldo/2027.
+58 Os Anexos de Riscos Fiscais das LDOs de exercícios passados podem ser encontrados no portal Tesouro
+Nacional Transparente. ARFs disponíveis em: https://www.tesourotransparente.gov.br/publicacoes/anexo-
+de-riscos-fiscais-da-ldo/2027/20?ano_selecionado=2027.
+Relatório de Acompanhamento Fiscal – Maio de 2026 | 39
+
+=== página 40 ===
+Os riscos específicos são divididos em três categorias. A primeira, envolve os riscos
+relacionados a passivos, associados à possibilidade de assunção de novas obrigações pela
+União. Nessa categoria, incluem-se demandas judiciais, passivos em fase de
+reconhecimento e garantias prestadas. O mapeamento e classificação desses itens
+permitem o controle de possíveis obrigações que podem se traduzir em novas despesas
+primárias ou financeiras, ou resultar na frustração de receitas.
+A segunda categoria envolve os riscos relacionados a ativos, que contemplam a
+possibilidade de frustração da efetivação de direitos patrimoniais. Esses riscos envolvem a
+dívida ativa da união e haveres financeiros. No caso de riscos associados a ativos, decorre
+de o direito de receber ou explorar algum item não poder ser plenamente exercido.
+A terceira categoria de riscos específicos abrange componentes distintos. Esses riscos
+envolvem o relacionamento da união com entes subnacionais; o relacionamento da União
+com suas empresas estatais; concessões e parcerias público-privadas (PPPs); o Fundo de
+Financiamento Estudantil (FIES); riscos ambientais; mudanças demográficas; riscos do
+sistema financeiro; entre outros.
+Esses riscos podem afetar as receitas e as despesas da União, sejam primárias, afetando
+o resultado primário, sejam financeiras, afetando a dívida pública federal. No mapeamento
+de efeitos, consideram-se riscos que aumentam a despesa ou que diminuam a receita
+esperada.
+Riscos gerais
+Acerca dos riscos gerais, o ARF avalia a sensibilidade das receitas primárias, das despesas
+primárias e da dívida pública a choques em variáveis macroeconômicas. A partir dessas
+estimativas, o documento apresenta, também, testes de estresse dos parâmetros
+macroeconômicos para avaliar o impacto conjunto de múltiplos choques aleatórios nas
+trajetórias das variáveis fiscais.
+O Gráfico 8 apresenta o impacto estimado de choques de 1 p.p. em diferentes variáveis
+macroeconômicas sobre as receitas administradas pela Receita Federal. Em cada item, o
+gráfico mostra a variação percentual esperada nas receitas em resposta a uma variação de
+1 p.p. na respectiva variável macroeconômica.
+Analisando o impacto da variação de 1 p.p. no crescimento real do Produto Interno Bruto
+(PIB), observa-se que, desde 2019, esse choque esteve associado, em média, a uma
+variação de 0,64% nas receitas administradas. Para 2027, estima-se que esse impacto seja
+de 0,68%, equivalente a R$ 15,0 bilhões.
+40 | Relatório de Acompanhamento Fiscal – Maio de 2026
+
+=== página 41 ===
+Para a inflação59, o impacto médio, de 2019 para cá, é de um aumento de 0,6% nas receitas
+administradas em caso do aumento de 1 p.p. no IPCA. Para 2027, o impacto nas receitas
+administradas equivale a R$ 13,9 bilhões.
+As demais variáveis macroeconômicas possuem baixo impacto nas receitas
+administradas, por afetarem bases de incidência pouco representativas. Para 2027, os
+impactos estimados variam entre R$ 0,2 bilhão e R$ 2,9 bilhões, com destaque para o
+câmbio.
+GRÁFICO 8. IMPACTO ESTIMADO DA VARIAÇÃO DE 1 P.P. EM VARIÁVEIS
+MACROECONÔMICAS SOBRE AS RECEITAS PRIMÁRIAS (VAR. %)
+RECEITAS PREVIDENCIÁRIAS
+RECEITAS ADMINISTRADAS PELA RFB 1,0%
+1,0% 0,76%
+0,8%
+0,8% 0,68%
+0,6%
+0,6%
+0,63% 0,4%
+0,4%
+0,14%
+0,2%
+0,2%
+0,0%
+0,0%
+2 2 2 2 2 2 2 2 2 2 2 2 2 2
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 2 2 2 2 2 2 2 2 2 2 2 2 2
+1 2 2 2 2 2 2 2 2 2 2 2 2 2 9 0 1 1 2 2 3 3 4 4 5 5 6 7
+P
+-
+9
+P
+-
+0
+P
+-
+1
+P
+-
+1
+P
+-
+2
+P
+-
+2
+P
+-
+3
+P
+-
+3
+P
+-
+4
+P
+-
+4
+P
+-
+5
+P
+-
+5
+P
+-
+6
+P
+-
+7
+L
+P
+-
+L
+P
+-
+L
+P
+-
+L
+P
+-
+L
+P
+-
+L
+P
+-
+L
+P
+-
+L
+P
+-
+L
+P
+-
+L
+P
+-
+L
+P
+-
+L
+P
+-
+L
+P
+-
+L
+P
+-
+L L L L L L L L L L L L L L D D D O D O D O D O D O O D
+D D D O D O D O D O D O O D O O O A O A O A O A O A A O
+O O O A O A O A O A O A A O
+Câmbio Inflação (IER) Juros (OVER)
+Inflação (IER) Massa Salarial PIB
+Massa Salarial PIB
+Fonte: PLDOs e PLOAs de 2019 a 2027. Elaboração: IFI.
+No âmbito das receitas previdenciárias, a variável macroeconômica de maior impacto é a
+massa salarial – com variação média de 1 p.p. alcançando 0,78% nas receitas. Para 2027,
+o impacto é de 0,76%, no caso de um choque de 1 p.p., o que equivale a R$ 6,7 bilhões. Para
+choques na inflação e no PIB, o impacto é menor, por volta de 0,14%, e em 2027 o impacto
+é estimado em R$ 1,2 bilhão (Gráfico 8).
+No âmbito das despesas, as variações na inflação e no salário mínimo produzem os efeitos
+mais significativos entre os agregados macroeconômicos analisados. Em particular, nas
+despesas relacionadas ao salário mínimo, um choque de 1 p.p. no INPC corresponde a um
+aumento de 0,1% do PIB nas despesas primárias em 2027, o que equivale a R$ 13,5 bilhões
+(Gráfico 9).
+59 O PLDO considera o chamado Índice de Estimativa da Receita (IER), que é composto por uma média
+ponderada que atribui peso de 55% à taxa média do IPCA e 45% à taxa média do IGP-DI de cada ano.
+Relatório de Acompanhamento Fiscal – Maio de 2026 | 41
+
+=== página 42 ===
+GRÁFICO 9. IMPACTO DA VARIAÇÃO DE 1 P.P. NO INPC EM DESPESAS SELECIONADAS
+(EM % DO PIB)
+0,12%
+0,10%
+0,10%
+0,10% 0,01% 0,09%
+0,08% 0 0, , 0 0 1 1 % % 0 0 0 , , , 0 0 0 1 1 9 % % % 0 0 , , 0 0 0 8 % % 0 0 0 , , , 0 0 0 1 0 8 % % % 0 0 0 , , , 0 0 0 1 1 8 % % % 0 0 0 , , , 0 0 0 1 1 9 % % % 0,03% 0 0 , , 0 0 1 1 % %
+0,01%
+0,06%
+0,04% 0,08%
+0,07% 0,07% 0,07% 0,07% 0,07% 0,07% 0,08%
+0,02%
+0,00%
+2020 2021 2022 2023 2024 2025 2026 2027
+RGPS Benefícios Assistenciais Seguro Desemprego e Abono Salarial Total
+Fonte: PLDOs de 2020 a 2027. Elaboração: IFI.
+Em termos de composição, o aumento de 1 p.p. no INPC de 2026 equivale a um aumento
+de R$ 11,2 bilhões nas despesas com benefícios previdenciários do RGPS. No caso dos
+benefícios assistenciais, que envolvem o Benefício de Prestação Continuada (BPC) e a
+Renda Mensal Vitalícia (RMV), o impacto é de R$ 1,3 bilhão. Por fim, no caso do seguro
+desemprego e do abono salarial, haveria o impacto conjunto de R$ 1,0 bilhão.
+Outro grupo de despesas primárias sensível a variáveis macroeconômicas são as despesas
+com subsídios e subvenções, que contemplam operações sensíveis às taxas de juros do
+mercado interno (Selic, TR, TJLP e TLP), assim como do IPCA. Considerando a elevação de
+0,5 p.p. nas taxas de juros citadas e no IPCA, o ARF estima um resultado de R$ 1,1 bilhão
+na despesa primária do governo central.
+Por fim, vale lembrar, também, que há o efeito da inflação no cálculo do limite de despesas
+primárias, regra instituída pela LC nº 200, de 2023. Pelos parâmetros do PLDO 2027, o limite
+instituído para o ano que vem é de R$ 2.544,1 bilhões (18,7% do PIB). O impacto do aumento
+de 1 p.p. no IPCA, apurado em junho de 2026, elevaria o limite de despesas em R$ 24,5
+bilhões (0,18% do PIB). Adicionalmente, o PLDO também mostra que um aumento de 1 p.p.
+no crescimento real da receita líquida ajustada (RLA), que baliza o crescimento real do limite
+da LC nº 200, aumentaria o limite de despesas em R$ 17,4 bilhões (0,13% do PIB)60.
+Atualmente, considerando o IPCA estimado no PLDO 2027, de 3,62% nos 12 meses
+encerrados em junho de 2026, e os valores efetivamente apurados até abril de 2026, esse
+cenário parece pouco factível, especialmente diante do aumento da cotação internacional
+do petróleo decorrente da guerra no Oriente Médio. Mesmo considerando a hipótese de que
+60 É necessário relembrar, porém, que o crescimento real da despesa primária é limitado ao intervalo de 0,6%
+a 2,5%. Mesmo que houvesse um choque na receita que aumentasse a RLA em 10 p.p., o crescimento máximo
+do limite de despesas seria de 2,5%. A projeção do limite estimada no PLDO 2027 já considera esse
+crescimento máximo de 2,5%.
+42 | Relatório de Acompanhamento Fiscal – Maio de 2026
+
+=== página 43 ===
+o IPCA apurado em maio e junho de 2026 seja igual a zero, ou seja, haveria apenas o
+carregamento estatístico da inflação passada, o IPCA acumulado em 12 meses seria de
+3,87%, superior ao estimado no PLDO 2027. Assim, a expectativa é a de que o ajuste do
+limite de despesas seja superior ao estimado no PLDO, considerando os valores atuais, o
+que também pode produzir impacto em outras despesas no decorrer do ano.
+Há que se ressaltar que diversos outros fatores impactam as variáveis fiscais, como
+mudanças na composição do PIB, mudanças legislativas em alíquotas e bases de cálculo,
+mudanças tecnológicas e sociais, entre outros aspectos. Além disso, choques
+macroeconômicos tendem a ocorrer de forma conjunta, dada a correlação entre as
+variáveis analisadas. Essa ressalva é importante porque, como destacado pela IFI no já
+referenciado RAF nº 100, de maio de 2025, os valores efetivamente observados têm
+apresentado divergências relevantes em relação aos parâmetros estimados nos
+respectivos PLDOs, nos últimos anos. No caso do IPCA, em 2025, por exemplo, o valor
+observado no ano foi de 4,26%, 1,2 p.p. acima do estimado no PLDO 2025. Para o INPC, o
+valor efetivo de 2025 foi de 3,9%, 0,9 p.p acima do estimado. Essa situação pode implicar
+em choques sobre as receitas, levando à busca por arrecadação extraordinária, e em
+choques sobre as despesas, ensejando a necessidade de novas contenções de gastos
+discricionários.
+Além disso, há um efeito adicional sobre o limite de despesas, no âmbito da LC nº 200,
+decorrente do diferencial da inflação apurada em dezembro e aquela apurada em junho.
+Nos termos do § 1º do art. 4º da norma, o resultado da diferença entre o IPCA apurado nos
+12 meses encerrados em dezembro e o IPCA apurado em junho poderá ser utilizado para
+ampliar o limite de despesas do Poder Executivo, por meio da abertura de crédito adicional.
+Esse aumento do limite, contudo, não é incorporado à base de cálculo, sendo importante,
+como alertado pela IFI, que não seja utilizado para despesas de caráter permanente. Esse
+alerta é importante porque, além de a ampliação do limite não ser carregada para os
+exercícios subsequentes, não há garantia de que a inflação, no final do exercício, seja
+superior à apurada em junho sempre, como alertado no RAF nº 10661, de novembro de 2025.
+Riscos fiscais específicos
+Esta subseção se destina à análise dos riscos específicos, de natureza incerta. No PLDO,
+boa parte da análise desse aspecto é mais qualitativa, com discussões sobre o risco de
+curto prazo e o eventual custo associado. A base de atuação dos riscos fiscais específicos
+pode classificar o impacto das medidas em primário e financeiro.
+Na análise desta seção, serão segmentados os itens de maior relevância, de acordo com o
+valor e os riscos associados.
+61 Disponível em: https://www2.senado.leg.br/bdsf/bitstream/handle/id/816059/RAF106_NOV2025.pdf.
+Relatório de Acompanhamento Fiscal – Maio de 2026 | 43
+
+=== página 44 ===
+A Tabela 13 apresenta o estoque de riscos específicos apurado nos PLDOs. Os dados
+apresentados informam o volume de atos potenciais de risco. Isso não representa, por si
+só, um impacto fiscal efetivo, mas uma exposição potencial a perdas ou necessidade futura
+de recursos. Esses itens podem implicar tanto em não recebimento de receitas de haveres
+e ativos, quanto na necessidade de despesas imprevistas com passivos, o que pode
+influenciar o resultado primário e financeiro.
+TABELA 13. ESTOQUE DE EXPOSIÇÃO DA UNIÃO AOS RISCOS FISCAIS ESPECÍFICOS (EM
+% DO PIB)
+Tipo de impacto 2018 2019 2020 2021 2022 2023 2024 2025
+Financeiro 20,3% 18,1% 17,9% 14,6% 11,9% 13,3% 13,4% 13,2%
+Haveres Financeiros Relacionados a
+8,9% 8,4% 8,5% 7,1% 6,9% 6,9% 6,9% 7,0%
+Entes Federativos
+Garantias da União 3,7% 3,8% 4,0% 3,4% 2,8% 2,5% 2,9% 2,6%
+Haveres Financeiros Não Relacionados
+5,6% 3,6% 3,5% 2,2% 1,1% 0,9% 0,8% 0,8%
+a Entes Federativos
+Passivos Contingentes em
+1,7% 1,7% 1,5% 1,2% 1,0% 0,8% 0,5% 0,4%
+Reconhecimento
+Demais riscos financeiros 0,4% 0,6% 0,4% 0,7% 0,2% 2,3% 2,3% 2,4%
+Primário 30,0% 29,2% 26,8% 32,1% 45,2% 40,5% 29,8% 24,7%
+Passivos relacionados a Demandas
+21,8% 20,8% 17,3% 23,7% 37,3% 32,9% 22,6% 17,8%
+Judiciais
+Dívida Ativa 5,7% 6,0% 6,4% 5,8% 5,7% 5,7% 5,6% 5,6%
+Fundo de Financiamento Estudantil -
+1,6% 1,5% 1,5% 1,3% 1,1% 0,9% 0,8% 0,7%
+Fies
+Demais riscos primários 1,0% 0,8% 1,6% 1,4% 1,2% 1,0% 0,9% 0,6%
+Total Geral 50,3% 47,3% 44,7% 46,7% 57,2% 53,8% 43,2% 37,9%
+Memo:
+PIB (em R$ bilhões) 7.004,1 7.389,1 7.609,6 9.012,1 10.079,7 10.943,3 11.779,3 12.738,6
+Fonte: PLDOs de 2021 a 2027 e IBGE.
+Nota: Consideram os estoques apurados em exercícios já encerrados quando do envio do PLDO. Assim, o PLDO
+de 2021, enviado em 2020, apresenta o estoque de riscos fiscais de 2018 e 2019. O PLDO 2022, enviado em
+2021, apresenta o estoque de 2019 e 2020, e assim sucessivamente
+Como dispõe a Tabela 13, a exposição total da União a riscos fiscais específicos alcançou
+R$ 4.828,6 bilhões (37,9% do PIB) em 2025. Apesar de esse estoque diminuir desde 2022,
+principalmente em razão dos riscos de impacto primário com demandas judiciais, o volume
+ainda é relevante.
+Riscos financeiros
+O estoque de riscos financeiros totalizou R$ 1.679,3 bilhões (13,2% do PIB) em 2025. Desde
+2018, quando atingiu 20,8% do PIB, esses riscos apresentam trajetória de queda. Embora
+tenham se reduzido nos últimos anos, ainda possuem valores relevantes com potencial
+impacto no resultado nominal.
+44 | Relatório de Acompanhamento Fiscal – Maio de 2026
+
+=== página 45 ===
+Haveres financeiros relacionados aos entes federativos
+O principal fator de risco de impacto financeiro decorre dos haveres financeiros
+relacionados aos entes federativos, que somou R$ 888,8 bilhões (7,0% do PIB), em 2025.
+Os riscos das relações financeiras com governos regionais decorrem da possibilidade de
+não pagamento de débitos financeiros junto à União, bem como de decisões judiciais ou de
+legislações aprovadas que ampliem repasses federais ou que reduzam os fluxos de
+recebimento esperados pela União62.
+O Gráfico 10 mostra que, desde 2020, existe relativa frustração nos pagamentos de juros e
+encargos recebidos em relação aos haveres dos estados e municípios em comparação ao
+estimado, exceto em 2025. Naquele ano, o valor observado foi de R$ 33,4 bilhões (0,26% do
+PIB). O ARF considera o recebimento de R$ 30,3 bilhões (0,22% do PIB), em 2026, e de
+R$ 39,6 bilhões (0,27% do PIB), em 2027.
+GRÁFICO 10. FLUXO DE HAVERES E CRÉDITOS ESTIMADOS E REALIZADOS (EM % DO PIB)
+0,40%
+0,32%
+0,35%
+0,24% 0,28% 0,29%
+0,30% 0,26% 0,27%
+0,21% 0,21%
+0,25% 0,22%
+0,20%
+0,15%
+0,10%
+0,05%
+0,08%
+0,00%
+2019 2020 2021 2022 2023 2024 2025 2026 2027 2028
+Último PLDO PLDO 2027 Observado
+Fonte: PLDOs de 2020 a 2027 e IBGE. Elaboração: IFI.
+62 Os haveres financeiros da União com entes federativos derivam de diferentes programas de financiamento
+e refinanciamento de dívidas.
+Relatório de Acompanhamento Fiscal – Maio de 2026 | 45
+
+=== página 46 ===
+GRÁFICO 11. ESTOQUE DE HAVERES FINANCEIROS DOS ENTES FEDERATIVOS POR
+ATIVO/PROGRAMA (EM % DO PIB)
+10,0% 8,9%
+8,4% 8,5%
+9,0%
+8,0% 0,3% 7,1% 6,9% 6,9% 6,9% 7,0%
+0,4% 0,1%
+7,0%
+6,0% 0,1% 0,8% 1,1% 1,6% 1,6%
+5,0%
+1,0%
+4,0% 7,6% 7,3% 7,5%
+3,0% 6,1%
+5,5% 5,4% 5,2%
+2,0% 4,3%
+1,0%
+0,0%
+2018 2019 2020 2021 2022 2023 2024 2025
+Lei nº 9.496/97 LC 159/2017 - RRF LC 212/2025 - Propag Demais Total
+Fonte: PLDOs de 2020 a 2027 e IBGE. Elaboração: IFI.
+Detalhando os números informados na Tabela 13 referentes aos haveres, o que se observa
+no Gráfico 10 é que a maior parte da dívida entre os entes federativos diz respeito aos
+refinanciamentos da Lei nº 9.49663, de 1997, que representavam de 7,3% a 7,6% do PIB até
+2020. A partir de 2022, há uma adesão maior ao Regime de Recuperação Fiscal (RRF),
+instituído pela LC nº 15964, de 2017, chegando a R$ 186,9 bilhões (1,6% do PIB), em 202465.
+Por fim, em 2025, os haveres da União com os demais entes federativos somaram R$ 888,8
+bilhões (7,0% do PIB), sendo R$ 204,3 bilhões (1,6% do PIB) referentes ao Programa de
+Pleno Pagamento de Dívidas dos Estados (Propag), instituído pela LC nº 22266, de 2025,
+destinado à revisão dos termos das dívidas dos Estados e Distrito Federal com a União.
+Segundo informações do ARF do PLDO 2027, cerca de 22 estados aderiram ao Propag67.
+Além dos haveres financeiros, o ARF cita, ainda, a possibilidade de riscos adicionais
+decorrentes da EC nº 136, de 2025, que definiu limites para pagamento de precatórios por
+estados e municípios68, e de ação judicial que tenta reverter a EC nº 10969, de 2021, que
+revogou a obrigação de a União financiar a quitação dos saldos de precatórios dos entes
+federativos vencidos até 201570. Considerando o potencial de aumento do estoque de
+precatórios desses entes, dada a limitação para pagamentos, haveria o risco de a União ser
+obrigada a incorrer em novas despesas para honrar os compromissos ou financiar uma
+linha de crédito para tal finalidade. No total, o estoque de precatórios dos entes regionais é
+63 Disponível em: https://www.planalto.gov.br/ccivil_03/leis/l9496.htm.
+64 Disponível em: https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp159.htm.
+65 Nesta etapa, considera 4 estados sob o RRF: Rio de Janeiro, Goiás, Rio Grande do Sul e Minas Gerais.
+66 Disponível em: https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp212.htm.
+67 Conforme consta na página 77 do ARF: “Quase a totalidade dos estados aderiu ao Propag, à exceção do
+Distrito Federal, Mato Grosso, Pará, Paraná e Santa Catarina”.
+68 Os limites foram fixados no §23 do art. 100 da Constituição Federal.
+69 Disponível em: https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc109.htm.
+70 Ver notícia “OAB questiona novo prazo para quitação de precatórios devidos por estados, DF e municípios”.
+Disponível em: https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=465693&ori=1.
+46 | Relatório de Acompanhamento Fiscal – Maio de 2026
+
+=== página 47 ===
+de R$ 196,9 bilhões71, a maior parte de entes municipais, que, como demonstrado pela IFI
+no RAF nº 11072, de março de 2026, são entes com maior dificuldade de geração de receitas
+próprias.
+Riscos primários
+De acordo com o PLDO 2027, o estoque de riscos primários foi de R$ 3.149,3 bilhões (24,7
+% do PIB), em 2025, e mostra queda desde 2022, quando atingiu 45,2% do PIB. Essa
+categoria de risco envolve medidas com potencial de aumentar as despesas primárias ou
+de frustrar a arrecadação de receitas, constituindo importante elemento a ser mapeado,
+dadas as restrições impostas pelas regras fiscais.
+Demandas judiciais
+O maior estoque de medidas com impacto primário envolve passivos relacionados às
+demandas judiciais. Processos gerenciados pela Advocacia Geral da União (AGU) e pelas
+empresas estatais dependentes da União e do Banco Central do Brasil, classificados como
+risco possível ou provável.
+O ARF mensura os riscos judiciais com base nos critérios da Portaria Normativa AGU nº 68,
+de 202273, que filtra causas com impacto estimado a partir de R$ 1,0 bilhão74. Entre os graus
+de perda estipulados pela AGU (provável, possível e remoto), o ARF incorpora apenas os
+riscos classificados como prováveis e possíveis.
+Uma ação, ou grupo de ações, deixa de ser classificada como risco provável quando o
+ocorre o trânsito em julgado e o risco se concretiza (emissão de precatório ou de crédito
+em favor do contribuinte) ou quando ocorre algum evento que impeça o pagamento. Existe,
+também, possibilidade de um risco ser reclassificado em outra categoria.
+Conforme a Tabela 13, os riscos relacionados a demandas judiciais somaram R$ 2.273,2
+bilhões (17,8% do PIB), em 2025. Desde 2022, esse estoque de matérias sob risco vem
+diminuindo, seja pela condenação ou vitória da União, seja pela revisão dos valores e dos
+riscos.
+Segundo o ARF da LDO de 2024, a Portaria Normativa AGU nº 68, de 2022, foi a principal
+responsável por essa elevação de 2021 para 2022, tendo promovido uma reclassificação
+ampla de ações75. O principal destaque, em 2022, foi a incorporação de uma série de Ações
+71 Posição da EC 136/2025 apurada em 20/03/2026, conforme a Tabela 54 - Riscos Fiscais Decorrentes de
+Relações Intergovernamentais, apresentada na página 74 do ARF do PLDO 2027.
+72 Disponível em: https://www2.senado.leg.br/bdsf/bitstream/handle/id/863708/RAF110_MAR2026.pdf.
+73 Disponível em: https://legis.agu.gov.br/busca-avancada/ato/159888.
+74 Vale ressaltar que ações com fundamento em questão idêntica de direito serão consideradas
+conjuntamente para fins de impacto financeiro mínimo.
+75 Conforme o ARF do PLDO 2024, na página 43: “Destaca-se que, devido às alterações recentes da Portaria
+Normativa AGU nº 68/2022, houve reclassificação de diversas ações judiciais que passaram a ser incluídas na
+tabela a seguir”.
+Relatório de Acompanhamento Fiscal – Maio de 2026 | 47
+
+=== página 48 ===
+Diretas de Inconstitucionalidade (ADIs) sobre a reforma da previdência, promovida pela já
+referenciada EC nº 103, de 2019, totalizando R$ 621,0 bilhões, e a incorporação da ADI
+509076, que versava sobre a correção monetária do FGTS. Nos exercícios posteriores a
+2022, essas medidas foram mantidas ou reestimadas, além de ter ocorrido a incorporação
+de novas.
+Como o Gráfico 12 ilustra, historicamente, a maior parte do estoque é de ações de risco
+possível. Porém, a partir de 2019, há uma mudança de perfil, com aumento do estoque de
+ações de risco provável. Essa mudança decorre de vários fatores. Uma ação, por exemplo,
+pode estar mapeada pelo Governo Federal, mas apresentar elevada incerteza sobre seu
+impacto financeiro, de modo que não existe uma estimativa válida para ser classificada.
+GRÁFICO 12. DEMANDAS JUDICIAIS DE RISCO POSSÍVEL E PROVÁVEL (% DO PIB)
+40% 37,3%
+32,9%
+35%
+29,8% 10,1%
+30% 26,6%
+9,3%
+23,5% 23,7%
+25% 8,9% 22,6%
+20,6%
+20% 18,4% 1,7% 9,3% 4,7% 17,8%
+2,5% 9,7%
+15% 12,5% 4,3% 4,2%
+27,2%
+9,7%
+23,6%
+10% 3,0% 21,8% 20,8%
+1,4% 18,1% 17,3% 17,8%
+14,1% 14,0% 13,7%
+5% 8,3% 9,4%
+0%
+2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025
+Risco Possível Risco Provável Total
+Fonte: PLDOs de 2023, 2025, 2026 e de 202777 e IBGE. Elaboração: IFI.
+O reconhecimento e o avanço de outras ações também geram mudanças no estoque de
+demandas judiciais. O estoque de riscos de demandas judiciais aumentou, de forma geral,
+tendo saído de 23,7% do PIB, em 2021, para 37,7% do PIB em 2022. Isso ocorreu, sobretudo,
+devido ao reconhecimento de ações de risco possível. Em 2025, o estoque de riscos fiscais
+possíveis foi de R$ 1.740 bilhões (13,7% do PIB), enquanto os riscos prováveis foram de
+R$ 533,2 bilhões (4,2% do PIB).
+Analisando os riscos de demandas judiciais por modalidade, é possível observar que há
+uma heterogeneidade na composição. Como o Gráfico 13 ilustra, até 2021, a maior parte
+das ações judiciais de risco possível eram referentes a demandas tributárias. A partir de
+Na página 59 do mesmo documento, é citado que a reclassificação foi o principal motivo para a elevação dos
+valores entre 2021 e 2022.
+76 Disponível em: https://portal.stf.jus.br/peticaoInicial/verPeticaoInicial.asp?base=ADI&numProcesso=5090.
+77 Considera as tabelas intituladas “Demandas Judiciais de Risco Possível e Risco Provável”. Utiliza como
+base os PLDOs de 2023 a 2026 para os anos de 2014 a 2016 e, de 2017 em diante, o PLDO 2027, que
+contempla valores desde 2017.
+48 | Relatório de Acompanhamento Fiscal – Maio de 2026
+
+=== página 49 ===
+2022, porém, as demais demandas passam a representar a maior parte desses pleitos. Isso
+decorre, principalmente, de demandas previdenciárias adicionadas em 2022 (contestações
+da EC nº 103 e questionamentos sobre a natureza remuneratória do auxílio alimentação) e
+da correção monetária do FGTS78. Nos exercícios seguintes, esses itens vão diminuindo o
+valor por reestimativa ou sendo baixados pelo fim do processo.
+GRÁFICO 13. DEMANDAS JUDICIAIS DE RISCO POSSÍVEL POR TIPO (% DO PIB)
+25,0%
+21,6%
+20,0% 18,2% 18,3%
+17,3% 17,0%
+15,0% 13,2%
+12,3%
+11,3%
+9,3%
+10,0% 8,9% 8,7%
+6,7%
+6,0% 5,5% 6,0% 5,5%
+4,6% 5,0%
+5,0% 4,0%
+2,3% 2,7%
+0,9% 0,8%
+0,2%
+0,0%
+2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025
+Tributário Demais
+Fonte: PLDOs de 2023, 2025, 2026 e de 2027 e IBGE. Elaboração: IFI.
+No exercício de 2025, apesar da redução de 0,5 p.p. do PIB nas demandas tributárias ante
+2024, a maior redução decorreu das demandas previdenciárias reclassificadas como risco
+remoto, que, em 2024, totalizaram R$ 1.180,3 bilhões (10,0% do PIB), passando a somar
+R$ 584,4 bilhões (4,6% do PIB) em 2025.
+Para as demandas judiciais de risco provável, apresentadas no Gráfico 14, há um
+comportamento mais heterogêneo. De 2019 a 2021, as tributárias representaram a maior
+parte dos riscos fiscais, com destaque para as relacionadas à inclusão do ICMS na base de
+cálculo do PIS e da Cofins (a chamada “Tese do Século”)79. Essa ação foi encerrada em
+2022, com a respectiva redução do valor dos riscos prováveis, visto que o risco
+efetivamente se concretizou com a decisão do STF80.
+78 Conforme ADI 5090. O risco fiscal associado decorria, principalmente, da eventual necessidade de correção
+retroativa dos valores pelos novos critérios. A decisão do STF foi que o saldo das contas do FGTS deve ser
+corrigido, no mínimo, pelo IPCA, mas que a decisão deve ser aplicada a partir da data de publicação da ata do
+julgamento, em 2024. Disponível em:
+https://portal.stf.jus.br/peticaoInicial/verPeticaoInicial.asp?base=ADI&numProcesso=5090.
+79 Refere-se ao Recurso Extraordinário 574.706 (Tema 69 do STF), com repercussão geral, que fixou a tese de
+que o ICMS não integra a base de cálculo do PIS e da Cofins, Disponível em:
+https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=2585258&numer
+oProcesso=574706&classeProcesso=RE&numeroTema=69.
+80 Segundo estimativas da Receita Federal, através da NOTA SIC CETAD/COPAN Nº 041/2025, DE 17 DE
+FEVEREIRO DE 2025, foram utilizados, até dezembro de 2024, R$ 346 bilhões de créditos decorrentes do ICMS
+na base do PIS/Cofins em razão do Tema 69. Disponível em: https://buscalai.cgu.gov.br/busca/8242597.
+Relatório de Acompanhamento Fiscal – Maio de 2026 | 49
+
+=== página 50 ===
+GRÁFICO 14. DEMANDAS JUDICIAIS DE RISCO PROVÁVEL POR TIPO (% DO PIB)
+8%
+7,2%
+6,8% 6,8% 6,8%
+7%
+6%
+5,1%
+5%
+4,2%
+4%
+2,9% 2,9% 2,8% 2,8%
+3% 2,4% 2,5%
+2,2%
+1,9% 1,9% 1,9%
+2% 1,6%
+1,4%
+1,1% 1,1%
+0,9% 0,9%0,8%
+1%
+0,3%
+0%
+2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025
+Tributário Demais
+Fonte: PLDOs de 2023, 2025, 2026 e de 2027 e IBGE. Elaboração: IFI.
+A partir de 2022 ocorreu a incorporação da “Revisão da Vida Toda”81 nos benefícios
+administrativos, que foi retirado, em 2024, em razão do julgamento favorável à União
+ocorrido naquele ano. Para 2025, a maior parte das demandas de risco provável é de
+demanda não tributária, totalizando R$ 360,7 bilhões (2,8% do PIB). Apesar da possibilidade
+de reversão, deve-se atentar que esse risco tem impacto relevante em razão de poder se
+tornar um precatório.
+Ao contrário dos últimos ARFs, porém, o PLDO 2027 alterou a sistemática de classificação,
+agregando os itens por macrotemas em vez de listar todas as ações consideradas na
+classificação, o que representa, neste caso, uma piora da transparência.
+Dívida Ativa da União
+Outro item de importância relevante envolve a Dívida Ativa da União (DAU). A DAU
+representa um risco associado aos ativos da União, correspondendo a créditos de várias
+naturezas em favor da Fazenda Pública, sob competência de cobrança da Procuradoria-
+Geral da Fazenda Nacional (PGFN). O estoque de riscos associados à recuperação da dívida
+ativa totalizou R$ 708,3 bilhões (5,6% do PIB) em 2025.
+Esse valor é uma fração da dívida ativa total existente, apresentando créditos de diferentes
+naturezas e que, justamente por essas diferenças, não podem ser considerados
+integralmente como risco fiscal, já que a maior parte desses créditos é considerada
+irrecuperável82.
+81 Refere-se ao Recurso Extraordinário 1.276.977 (Tema 1102 do STF), com repercussão geral.
+82 O estoque total da dívida ativa em 2025 era de R$ 3.226,0 bilhões (25,32% do PIB). Desse total, 15% do PIB
+possuía baixa probabilidade de recuperação e o restante é parcialmente recuperável.
+50 | Relatório de Acompanhamento Fiscal – Maio de 2026
+
+=== página 51 ===
+Como o Gráfico 15 expõe, considerando apenas a dívida ativa recuperável, a maior parte da
+dívida ativa com risco fiscal é oriunda de matéria tributária, situando-se, desde 2017, em
+patamares superiores a 4,1% do PIB. O segundo maior grupo é de dívidas tributárias
+previdenciárias, com valores entre 1,3% e 1,5% do PIB no mesmo período. Os demais itens,
+não tributários, se situam entre de 0,3% e 0,1% do PIB em todos os anos
+GRÁFICO 15. DÍVIDA ATIVA RECUPERÁVEL POR ORIGEM DA MATÉRIA (EM % DO PIB)
+7,0% 6,4%
+6,1%
+6,0%
+5,7% 5,8% 5,7% 5,7% 5,6% 5,6%
+6,0%
+1,5%
+5,0% 1,3% 1,3% 1,4% 1,4% 1,4% 1,3% 1,4% 1,4%
+4,0%
+3,0%
+2,0% 4,5% 4,1% 4,5% 4,8% 4,3% 4,3% 4,3% 4,1% 4,1%
+1,0%
+0,0%
+2017 2018 2019 2020 2021 2022 2023 2024 2025
+Dívida tributárioa(Exceto previdência) Previdenciário Demais dívidas ativas Total
+Fonte: PLDOs de 2020 a 2027 e IBGE. Elaboração: IFI.
+O ARF ainda adiciona outra informação importante, que é o histórico de recuperação de
+crédito anual em relação ao estimado. Até 2024, a arrecadação foi superior à estimada em
+cada exercício. Em 2025, porém, a estimativa de recuperação era de R$ 89,7 bilhões (0,7%
+do PIB), enquanto a recuperação efetiva foi de R$ 66,2 bilhões (0,5% do PIB). Para 2026 e
+2027, a estimativa de recuperação é de R$ 68,9 bilhões (0,5% do PIB) e de R$ 54,7 bilhões
+(0,4% do PIB), respectivamente (Gráfico 16).
+GRÁFICO 16. HISTÓRICO DE RECUPERAÇÃO DE CRÉDITOS DA DÍVIDA ATIVA –
+ESTIMATIVA E VALOR REALIZADO (EM % DO PIB)
+0,8%
+0,7%
+0,7%
+0,6%
+0,5% 0,5% 0,5%
+0,5%
+0,5%
+0,4%
+0,4%0,4%
+0,4% 0,4%
+0,4% 0,3%0,3% 0,3% 0,3% 0,3%
+0,3% 0,3% 0,3% 0,3% 0,3%
+0,3%
+0,2%
+0,1%
+0,0%
+2017 2018 2019 2020 2021 2022 2023 2024 2025 2026 2027
+Valor Estimado Valor recuperado
+Fonte: PLDOs de 2020 a 2027 e IBGE. Elaboração: IFI.
+Nota: valores estimados a partir das tabelas intituladas “Créditos por exercício segundo o tipo de crédito e
+classe”, seguindo os critérios do art. 12 da Portaria nº 293, de 12 de junho de 2017, do Ministério da Fazenda.
+Esse critério considera recuperação de 70% dos créditos de rating A e 50% dos créditos de rating B.
+Relatório de Acompanhamento Fiscal – Maio de 2026 | 51
+
+=== página 52 ===
+O risco desse tipo de medida é a imposição de necessidade de contingenciamento durante
+o exercício, caso ocorra frustração dessas receitas. As receitas recuperadas com a dívida
+ativa são consideradas na elaboração da Lei Orçamentária Anual, o que implica na
+necessidade de buscar novas receitas primárias compensatórias ou conter despesas
+primárias.
+Outros riscos fiscais
+O ARF ainda cita outros riscos adicionais, que não decorrem, diretamente, de um estoque
+de medidas com impacto em caso de execução, mas envolvem possíveis frustrações de
+receitas e o surgimento de despesas de forma imprevisível. Entre os principais riscos no
+ARF, estão as Parcerias Público-Privadas (PPPs) e Concessões Públicas; as empresas
+estatais federais; mudanças demográficas e ambientais; e riscos financeiros. Dado o valor
+dessas medidas e a incerteza, esta subseção focará nas empresas estatais, por
+configurarem riscos de impacto mais relevante na execução orçamentária.
+Empresas estatais federais não dependentes
+Os riscos associados às empresas estatais federais podem se desdobrar em 3 aspectos
+distintos. Por um lado, pode ser necessário que o Tesouro Nacional faça um aporte
+emergencial de recursos em caso de insuficiência de caixa, o que implica no aumento da
+despesa primária. Por outro, caso ocorra piora no resultado, poderá haver frustração na
+receita de dividendos, importante fonte de arrecadação nos últimos exercícios. Por último,
+caso o resultado fiscal do conjunto das estatais federais seja insuficiente para
+cumprimento da meta fiscal, haveria a necessidade de um esforço fiscal do Governo
+Central, seja por incremento de receitas, seja por redução de despesas primárias.
+Em 2025, existiam 28 empresas estatais independentes83, considerando também grupos
+como uma única empresa84. Vale lembrar que as empresas estatais que atuam em
+atividades financeiras, como bancos públicos e a Financiadora de Estudos e Projetos
+(FINEP), não compõem o setor público consolidado para fins de resultado primário. Além
+disso, empresas do grupo Petrobras não são consideradas na meta de resultado primário
+apurada pelo Banco Central do Brasil, como explorado no já referenciado RAF nº 106, de
+novembro de 2025.
+Pelo lado da receita primária da União, os riscos envolvem os valores possíveis de
+recebimento de dividendos ou juros sobre capital próprio (JCP). Os valores a serem
+recebidos via dividendos ou JCP podem variar por diversas razões, como reflexo dos
+resultados obtidos pelas empresas, assim como medidas de antecipação de pagamento
+83 As empresas estatais independentes são as empresas estatais que não dependem de recursos financeiros
+do ente controlador para o pagamento de despesas com pessoal ou custeio em geral, ou de capital.
+84 Caso do Banco do Brasil; Caixa Econômica Federal; Banco Nacional do Desenvolvimento Econômico e
+Social (BNDES); ENBPar; NavBrasil; e Petrobras.
+52 | Relatório de Acompanhamento Fiscal – Maio de 2026
+
+=== página 53 ===
+de dividendos, participação da União no capital social, além do risco de retenção de
+dividendos, que pode ocorrer em situações de dificuldades de caixa.
+Como o Gráfico 17 ilustra, com exceção de 2020, em todos os exercícios, desde 2019, a
+receita com dividendos e participações foi superior ao projetado nos PLDOs de cada ano.
+Em 2025, por exemplo, a LDO 2026 previu R$ 33,8 bilhões (0,27% do PIB), mas a
+arrecadação efetivamente apresentada foi de R$ 49,8 bilhões (0,39% do PIB). Para os
+próximos exercícios, o PLDO 2027 sinaliza que dividendos correspondam entre 0,23% e
+0,27% do PIB de cada exercício, patamares inferiores aos realizados nos últimos cinco anos.
+GRÁFICO 17. PREVISÃO DE RECEITAS COM DIVIDENDOS E PARTICIPAÇÕES E VALORES
+REALIZADOS (EM % DO PIB)
+1,00%
+0,86%
+0,90%
+0,80%
+0,70% 0,61%
+0,48% 0,46%
+0,60%
+0,50%
+0,39% 0,40%
+0,40%
+0,28%
+0,30% 0,23% 0,27% 0,27% 0,25%
+0,09%
+0,20%
+0,10%
+0,00%
+2019 2020 2021 2022 2023 2024 2025 2026 2027 2028 2029 2030
+Último PLDO PLDO 2027 Observado
+Fonte: ARFs dos PLDOs de 2020 a 2027 e IBGE. Elaboração: IFI.
+Considerando o histórico recente, o risco de frustração de receitas com dividendos pode
+ser considerado baixo. Em caso de frustração dessas receitas, o governo precisa projetar o
+impacto no RARDP do exercício e proceder, se necessário, com algum ajuste para o efetivo
+cumprimento da meta de resultado primário do exercício.
+O risco associado à necessidade de aportes de capital impacta o orçamento pelo lado da
+despesa pública. Quando uma empresa apresenta dificuldades de caixa ou requer aportes
+de capital para cumprimento de regulação (exigência para instituições financeiras), isso
+gera risco para que a União tenha que cumprir essas obrigações.
+O ARF cita como risco provável o caso da Empresa de Correios e Telégrafos (ECT), dada a
+situação econômico-financeira da empresa nos últimos trimestres. Apesar da assinatura,
+no ano passado, da operação de crédito de R$ 12 bilhões e do limite para contratar mais
+R$ 8,0 bilhões em 2026, o ARF não descarta a possibilidade de que a União tenha que
+aportar recursos na empresa até 2027. O caso da ECT foi analisado pela IFI em 2025 no
+Relatório de Acompanhamento Fiscal – Maio de 2026 | 53
+
+=== página 54 ===
+RAF nº 10585, de outubro 2025. A empresa teve participação relevante no déficit primário
+das empresas estatais em 2025.
+De forma geral, o ARF estima que o aporte de capital em empresas estatais seja de R$ 15
+milhões em 2026, embora a dotação atualizada, até 8 de maio de 2026, seja da ordem de
+R$ 305,0 milhões. Historicamente, o risco tende a se concretizar em valores superiores aos
+estimados nos PLDOs. Esses valores previstos, muitas vezes, são zerados no PLDO, dada
+a incerteza em relação à concretização dos efeitos.
+Vale lembrar que os aportes não são utilizados apenas para cobertura em casos de
+problemas financeiros nas empresas. Por vezes, esses aportes são usados pelas empresas
+como fonte de recursos para investimentos86, o que pode configurar uma possível razão
+para não serem estimados como risco de aporte emergencial. Os dados de execução
+orçamentária, por vezes, não permitem identificar as razões para esses aportes, de modo
+que há uma mistura entre o que poderia ser concretização de um risco e o que é aportado
+para financiamento de investimentos.
+Por fim, o último risco associado às estatais é o de compensação das metas de resultado
+primário. Como o Gráfico 18 demonstra, desde 2021, a estimativa de meta de resultado
+primário das empresas estatais é negativa.
+GRÁFICO 18. ESTIMATIVAS DE METAS DE RESULTADO PRIMÁRIO PARA EMPRESAS
+ESTATAIS E VALORES OBSERVADOS PARA FINS DE CUMPRIMENTO DA META (% DO PIB)
+0,06%
+0,05%
+0,03%
+0,04%
+0,02% -0,01%
+0,00%
+-0,02%
+-0,04% -0,01% -0,03% -0,03%
+-0,04%
+-0,06% -0,04% -0,05% -0,05%
+-0,06%
+-0,08%
+2020 2021 2022 2023 2024 2025 2026 2027 2028 2029 2030
+Último PLDO PLDO 2027 Observado
+Fonte: ARFs dos PLDOs de 2020 a 2027 e IBGE. Elaboração: IFI.
+85 Disponível em: https://www2.senado.leg.br/bdsf/bitstream/handle/id/774149/RAF105_OUT2025.pdf.
+86 Por exemplo, em 2023, o Tesouro Nacional aportou R$ 393 milhões na Empresa Brasileira de
+Hemoderivados e Biotecnologia (Hemobrás). Os recursos, segundo notícia publicada pelo Ministério da
+Saúde, se destinam à operacionalização da produção nacional de imunoglobulina. Disponível em:
+https://www.gov.br/saude/pt-br/assuntos/noticias/2024/janeiro/hemobras-recebe-aporte-de-r-393-milhoes-
+para-conclusao-da-fabrica-de-imunoglobulina.
+54 | Relatório de Acompanhamento Fiscal – Maio de 2026
+
+=== página 55 ===
+Porém, quando se observa o resultado primário para fins de cumprimento, aparecem
+algumas divergências com as estimativas. Desde 2024, o resultado para fins de
+cumprimento se aproximou das metas estabelecidas, o que indica ter havido um aumento
+do risco de compensação de metas fiscais. Em 2025, por exemplo, o Poder Executivo
+considerou a compensação entre as metas do DPOF do 5º bimestre87, resultando em uma
+contenção de despesas adicional de R$ 2,9 bilhões. O resultado primário efetivamente
+observado mostrou melhora e a compensação não foi necessária, mas a proximidade da
+meta de resultado primário com os valores efetivamente gastos ilustra esse risco. Para
+2026 e 2027, o ARF considera a materialização desse risco como possível.
+Assim, considerando os riscos recentes para as estatais, existe um potencial maior de que
+se afete a despesa primária, seja pela necessidade de aportes, ou de compensação entre
+as metas fiscais. Esse risco é relevante porque, nos últimos exercícios, a margem para
+essas compensações foi mais estreita, visto que a política fiscal, efetivamente, vem
+perseguindo o limite inferior da meta de resultado primário88.
+Considerações finais
+O Anexo de Riscos Fiscais é um documento com informações importantes sobre os riscos
+fiscais da União. Pela incerteza inerente ao mundo real, por vezes existem erros de previsão
+sobre impactos associados aos ativos, passivos e direitos a receber da União.
+Os riscos macroeconômicos, ou riscos gerais, mostram o comportamento das receitas e
+despesas primárias ante choques em variáveis macroeconômicas, como inflação, câmbio,
+taxa de juros e crescimento do PIB. Choques no PIB e na inflação representam os elementos
+de maior destaque no crescimento da receita primária, com impacto superior a 0,6% quando
+ocorre choque de 1 p.p. nessas variáveis. Para as despesas, a variável mais relevante é a
+inflação, que influencia pagamentos de benefícios sociais relacionados ao salário mínimo.
+Para 2027, um choque de 1 p.p. no INPC eleva a despesa primária em R$ 13,5 bilhões (0,1%
+do PIB). Isso é particularmente relevante no contexto de crise do petróleo, que pode afetar
+a inflação observada em 2026.
+O ARF também mostra que, em 2025, o estoque de riscos potenciais era da ordem de
+R$ 4.828,6 bilhões (37,9% do PIB). Esse risco envolveu o montante de medidas que podem
+afetar o resultado primário ou a dívida pública.
+Em 2025, o estoque de riscos financeiros foi da ordem de R$ 1.679,3 bilhões (13,2% do PIB).
+O elemento mais relevante nesse grupo envolveu haveres financeiros da União com os
+demais entes federativos, que totalizaram R$ 888,8 bilhões (7,0% do PIB). Parte relevante
+desse risco envolveu a possibilidade de não recebimento desses recursos, dada a
+volatilidade das finanças subnacionais. Como elementos adicionais, ainda existe o risco
+87 Disponível em: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/decreto/d12763.htm.
+88 Esse tema foi explorado no RAF de novembro de 2025.
+Relatório de Acompanhamento Fiscal – Maio de 2026 | 55
+
+=== página 56 ===
+associado à EC nº 136, de 2025, que tem potencial de aumentar o estoque de precatórios
+dos estados e municípios, podendo ensejar socorro da União.
+No estoque de riscos primários, que somou R$ 3.149,3 bilhões (24,7% do PIB), em 2025, os
+mais relevantes foram os passivos relacionados a demandas judiciais. Esses passivos têm
+como principal consequência, em caso de ocorrência, aumentar as despesas primárias com
+precatórios, que passaram por diversas alterações legislativas nos últimos anos. Além
+disso, existe a possibilidade de que essas medidas também possam afetar a arrecadação,
+considerando a existência de riscos tributários no rol dessas demandas judiciais.
+Para as empresas estatais federais, os riscos envolvem receitas de dividendos e JCP e
+eventuais necessidades de aportes ou compensações entre metas. Os riscos associados
+à receita são considerados baixos, considerando o histórico recente, visto que, nos últimos
+exercícios, a arrecadação efetivamente superou as estimativas. No âmbito dos aportes,
+porém, existe alguma possibilidade futura envolvendo os Correios, caso não se verifique
+reversão da trajetória financeira da empresa observada nos últimos balanços. No ARF, o
+risco provável é de aporte na empresa em 2027. Adicionalmente, existe também o risco de
+que o resultado primário do governo central tenha que compensar o resultado das
+empresas estatais.
+Os dois últimos exercícios mostram que o resultado primário obtido para fins de
+cumprimento da meta fiscal das empresas estatais federais está bem próximo aos valores
+fixados na LDO, o que aumenta o risco de descumprimento e de eventual compensação
+entre as metas em caso de choques. Esse risco fica maior quando o Poder Executivo
+buscou, efetivamente, o piso da meta de resultado primário nos três últimos exercícios e no
+exercício atual, o que agrava a situação na eventual necessidade de compensação.
+56 | Relatório de Acompanhamento Fiscal – Maio de 2026
+
+=== página 57 ===
+PROJEÇÕES DA IFI
+CURTO PRAZO
+2026 2027
+Projeções da IFI
+Abr/26 Mai/26 Comparação Abr/26 Mai/26 Comparação
+PIB – crescimento real (% a.a.) 1,7 1,7 = 2,0 2,0 =
+PIB – nominal (R$ bilhões) 13.432,1 13.432,1 = 14.244,8 14.244,8 =
+IPCA – acum. (% no ano) 3,9 3,9 = 3,5 3,5 =
+Taxa de câmbio - fim de período (R$/US$) 5,5 5,5 = 5,5 5,5 =
+Ocupação - crescimento (%) 0,8 0,8 = 0,5 0,5 =
+Massa salarial - crescimento (%) 3,6 3,6 = 2,7 2,7 =
+Selic – fim de período (% a.a.) 12,0 12,0 = 10,5 10,5 =
+Juros reais ex-ante (% a.a.) 7,0 7,0 = 6,2 6,2 =
+Resultado Primário do Setor Público Consolidado
+-0,7 -0,7 = -1,3 -1,3 =
+(% do PIB)
+dos quais Governo Central -0,7 -0,7 = -1,3 -1,3 =
+Juros Nominais Líquidos (% do PIB) 7,9 7,9 = 7,5 7,5 =
+Resultado Nominal (% do PIB) -8,6 -8,6 = -8,8 -8,8 =
+Dívida Bruta do Governo Geral (% do PIB) 82,7 82,7 = 86,2 86,2 =
+Relatório de Acompanhamento Fiscal – Maio de 2026 | 57
+
+=== página 58 ===
+
+
+=== página 59 ===
+/ifibrasil
+@ifiBrasil
+@ifibrasil
+/company/ifibrasil
+/ifibrasil
+github.com/ifibrasil
+ifi@senado.leg.br
+61 3303 2875

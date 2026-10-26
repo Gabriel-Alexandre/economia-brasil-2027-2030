@@ -1,0 +1,972 @@
+# fonte: https://www12.senado.leg.br/ifi/pdf/raf115_ago2026.pdf
+# capturado em: 2026-10-26
+
+
+=== página 1 ===
+Relatório de
+Acompanhamento
+Fiscal
+Nº 115
+20 de agosto de 2026
+
+=== página 2 ===
+SENADO FEDERAL
+Presidente do Senado Federal
+Senador Davi Alcolumbre (União-AP)
+INSTITUIÇÃO FISCAL INDEPENDENTE
+Diretor-Executivo
+Marcus Vinícius Caetano Pestana da Silva
+Diretor
+Alexandre Augusto Seijas de Andrade
+Analistas
+Dalmo Jorge Lima Palmeira
+Lucas Vinícius Penha Martins Bomfim Leal
+Rafael da Rocha Mendonça Bacciotti
+Rafael Luis Comini Curi
+Assessora de Comunicação
+Carmensita Corso
+Estagiários
+Gustavo Marciel de Queiroz
+Lukas Cortez de Medeiros Balogh Fagundes
+Tallita Soares de Andrade
+Secretária executiva
+Thuane Vieira Rocha
+Layout do relatório
+CODIV/SECOM e SEFPRO/SEGRAF
+
+=== página 3 ===
+Despesas crescem em ritmo superior ao das receitas
+e déficit se mantém
+A Instituição Fiscal Independente (IFI) publica, em agosto, o 115º Relatório de
+Acompanhamento Fiscal (RAF). O documento vem a público a menos de dois meses da
+eleição presidencial, momento em que a questão orçamentária e fiscal deverá, direta ou
+indiretamente, ocupar posição central nos debates. Hoje, o principal desafio do país é
+avançar as políticas públicas de setores essenciais, como educação, saúde e segurança
+pública, e, simultaneamente, ampliar significativamente os investimentos em infraestrutura
+e ciência e tecnologia, em um quadro de extremo engessamento orçamentário. As
+despesas obrigatórias e discricionárias rígidas crescem, contínua e velozmente, sobre a
+margem de liberdade do governo para financiar e implantar programas e projetos
+governamentais.
+O RAF nº 115 concentra a análise nos dados e informações presentes no Relatório de
+Avaliação de Receitas e Despesas Primárias (RARDP) – instrumento previsto na Lei de
+Responsabilidade Fiscal (LRF) – relativo ao terceiro bimestre de 2026, base para as
+projeções constantes do Projeto de Lei Orçamentária Anual (PLOA 2027), a ser enviado ao
+Congresso Nacional até o próximo dia 31 de agosto. Agrega ainda informações de outras
+fontes sobre o desempenho fiscal em julho para detectar a continuidade ou não das
+tendências do primeiro semestre. Faz comparações com os números verificados em igual
+período de 2025 e com as próprias projeções da IFI, presentes no RAF nº 113, de junho de
+2026.
+Apesar de afetado por fatores específicos – aceleração do pagamento de emendas
+parlamentares em função da legislação eleitoral; queda das despesas com o Bolsa Família,
+graças à perda de valor real do benefício em função do congelamento de seu valor, além de
+importante redução no número de famílias atendidas; e o aumento das receitas derivadas
+do aumento dos preços do petróleo, a partir de maio, consequência do conflito no Oriente
+Médio - o quadro geral permanece inalterado.
+O governo central produziu um déficit primário efetivo, nos sete primeiros meses do ano,
+de R$ 81,2 bilhões. Se, por um lado, a receita líquida registrou aumento significativo de 6,0%,
+acima da inflação, por outro, as despesas subiram 6,3%, em termos reais. Tanto a IFI quanto
+o governo projetam um déficit primário efetivo em torno de 0,4% do PIB, em 2026. O
+cumprimento formal da meta fixada na Lei de Diretrizes Orçamentárias (LDO) de 2026 será
+alcançado após as deduções legais de despesas, que somam entre R$ 62,8 bilhões
+(governo) e R$ 69,8 bilhões (IFI), além do uso do intervalo de tolerância legalmente previsto.
+O centro da meta deste ano corresponde a um superávit primário de 0,25% do PIB, ou
+R$ 34,3 bilhões.
+Relatório de Acompanhamento Fiscal – Agosto de 2026 | 3
+
+=== página 4 ===
+O resultado, mesmo após as exclusões permitidas pela legislação, deverá ser menor, em
+torno de 0,1% do PIB. Para efeito da trajetória da dívida pública, importa o resultado primário
+efetivo, que deverá corresponder a um déficit de 0,4% do PIB. Para ilustrar o tamanho do
+desafio fiscal que se impõe, a IFI estima que, para a estabilização da dívida bruta em
+proporção do PIB, seria necessário um superávit de 2,1% do PIB, com a maior contribuição
+vindo, necessariamente, do governo central. A equipe econômica vem se empenhando na
+gestão do cotidiano da execução orçamentária para melhorar os resultados fiscais, mas o
+horizonte desejável para o futuro do país impõe um ajuste estrutural mais profundo e
+sustentável.
+Para reforçar esta percepção, o RAF nº 115 traz também a atualização do resultado
+primário estrutural calculado pela IFI, aquele exclui eventos não recorrentes e ajusta o
+resultado aos efeitos do ciclo econômico e do preço do petróleo, para os doze meses até
+junho de 2026. A estimativa é que, até o segundo trimestre deste ano, o déficit estrutural
+tenha sido de 1,4% do PIB, ante um déficit estrutural de 0,7% do PIB no mesmo período de
+2025. Esse resultado revela uma tendência de agravamento dos desequilíbrios fiscais
+presentes na realidade brasileira.
+Boa leitura!
+Marcus Pestana
+Diretor-Executivo da IFI
+Alexandre Andrade
+Diretor da IFI
+4 | Relatório de Acompanhamento Fiscal – Agosto de 2026
+
+=== página 5 ===
+Destaques
+Resultado primário estrutural: estimativas para o segundo trimestre de 2026
+O déficit estrutural alcançou 1,4% do PIB, no acumulado em quatro trimestres até junho, ante
+0,7% do PIB no mesmo período de 2025, enquanto o resultado convencional passou de
+superávit de 0,1% do PIB para déficit de 1,1% do PIB. O resultado fiscal estrutural corresponde
+ao saldo primário após a remoção dos efeitos do ciclo econômico e de fatores não
+recorrentes, refletindo a posição fiscal subjacente do governo. Esta seção traz as estimativas
+atualizadas da IFI para o governo central até o segundo trimestre de 2026. (Página 6)
+Entre o cumprimento formal da meta e o risco de caixa: o 3º RARDP de 2026 e a restrição
+imposta pelos restos a pagar
+O 3º Relatório de Avaliação de Receitas e Despesas Primárias (RARDP) de 2026 indica o
+cumprimento mais folgado da meta fiscal neste ano, com o resultado primário apurado
+passando de R$ 4,1 bilhões para R$ 10,8 bilhões e a reversão parcial do bloqueio de despesas,
+de R$ 23,7 bilhões para R$ 17,9 bilhões. A melhora, porém, decorre sobretudo de revisões para
+baixo em algumas despesas obrigatórias, e não de reversão do déficit primário efetivo, que
+permanece em R$ 52,0 bilhões, sustentado por R$ 62,8 bilhões em descontos legais da meta.
+Este texto mostra ainda que a restrição de caixa imposta pelo estoque de restos a pagar
+(R$ 105,5 bilhões) é cerca de seis vezes superior ao bloqueio oficial, com destaque para
+emendas de bancada e de comissão, cujo estoque já supera o limite de pagamento disponível
+para 2026 (Página 12)
+Primeira publicação em: 20 de agosto de 2026
+Arquivo atualizado em: 20 de agosto de 2026
+Confira erratas em: https://www12.senado.leg.br/ifi/publicacoes-1/relatorio/2026/agosto/erratas
+Relatório de Acompanhamento Fiscal – Agosto de 2026 | 5
+
+=== página 6 ===
+Resultado primário estrutural: estimativas para o
+segundo trimestre de 2026
+Rafael Bacciotti e Alexandre Andrade
+Introdução
+Este texto atualiza as estimativas da IFI para o resultado primário estrutural do governo
+central até o segundo trimestre de 2026. O resultado estrutural procura mostrar a posição
+fiscal subjacente do governo. Para isso, são descontados do resultado primário
+convencional os efeitos temporários do ciclo econômico e dos eventos não recorrentes.
+Em linhas gerais, o resultado primário convencional pode ser decomposto em três
+componentes: não recorrente, cíclico e estrutural. Primeiro, são identificadas as receitas e
+as despesas associadas a eventos atípicos ou temporários, que compõem o fator não
+recorrente. Em seguida, as receitas recorrentes, sensíveis à atividade econômica, são
+ajustadas ao ciclo. As receitas de royalties e participações especiais recebem tratamento
+específico, com base na diferença entre o preço observado do petróleo e o nível tendencial
+da série. O saldo obtido após esses ajustes corresponde ao resultado estrutural.
+A metodologia de estimação foi apresentada originalmente no Estudo Especial (EE) da IFI
+nº 171, de dezembro de 2021. Essa a abordagem foi retomada em atualizações posteriores,
+entre as quais, o RAF nº 862, de março de 2024, o RAF nº 1003, de maio de 2025, e o RAF nº
+1084, de janeiro de 2026.
+O resultado estrutural é uma estimativa e não representa uma variável diretamente
+observada. O cálculo está sujeito às incertezas associadas à mensuração do produto
+potencial e ao preço tendencial do petróleo, à estimação das elasticidades e à classificação
+dos eventos não recorrentes nas receitas e nas despesas primárias do governo central.
+Resultados
+O Gráfico 1 apresenta a decomposição realizada pela IFI do resultado primário
+convencional divulgado pela Secretaria do Tesouro Nacional (STN) de 1997 a 2025.
+1 Ver IFI. Simulações para o resultado primário estrutural do governo central. Estudo Especial nº 17, dezembro
+de 2021. Disponível em:
+https://www2.senado.leg.br/bdsf/bitstream/handle/id/594656/EE17_Resultado_Estrutural.pdf.
+2 Ver IFI. Relatório de Acompanhamento Fiscal nº 86. Março de 2024. Disponível em:
+https://www2.senado.leg.br/bdsf/bitstream/handle/id/648335/RAF86_MAR2024.pdf.
+3 Ver IFI. Relatório de Acompanhamento Fiscal nº 100. Maio de 2025. Disponível em:
+https://www2.senado.leg.br/bdsf/bitstream/handle/id/696036/RAF100_MAI2025.pdf.
+4 Ver IFI. Relatório de Acompanhamento Fiscal nº 108. Janeiro de 2026. Disponível em:
+https://www2.senado.leg.br/bdsf/bitstream/handle/id/817388/RAF108_JAN2026.pdf.
+6 | Relatório de Acompanhamento Fiscal – Agosto de 2026
+
+=== página 7 ===
+GRÁFICO 1. DECOMPOSIÇÃO DO RESULTADO PRIMÁRIO DO GOVERNO CENTRAL-
+ACUMULADO EM QUATRO TRIMESTRES, EM % DO PIB POTENCIAL
+Resultado Estrutural Componente Ciclico Componente Não Recorrente Resultado Convencional
+4,0
+2,0
+0,0
+-2,0 -0,8
+-1,6
+-4,0
+-6,0
+-8,0
+-10,0
+7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5
+9 9 9 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2
+9 9 9 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+Fonte: STN, para o resultado convencional, e IFI, para os demais componentes. Elaboração: IFI.
+Em 2025, o déficit primário convencional foi de 0,5% do PIB, ante 0,4% em 2024. Essa
+relativa estabilidade resultou de movimentos distintos entre os componentes. O déficit
+estrutural diminuiu, de 1,6% do PIB em 2024, para 0,8% do PIB em 2025, uma melhora de 0,8
+ponto percentual (p.p.). Em sentido contrário, o saldo positivo do componente cíclico
+diminuiu, de 0,4% do PIB, para 0,1% do PIB, enquanto o saldo positivo do componente não
+recorrente recuou, de 0,8% do PIB para 0,2% do PIB.
+Para detalhar a evolução recente, a Tabela 1 reúne os resultados acumulados em quatro
+trimestres para o período de março de 2025 a junho de 2026.
+TABELA 1. DECOMPOSIÇÃO DO RESULTADO PRIMÁRIO DO GOVERNO CENTRAL
+ACUMULADO EM QUATRO TRIMESTRES, EM % DO PIB POTENCIAL
+Resultado Componente não
+Período Componente cíclico Resultado estrutural
+convencional recorrente
+1T25 -0,1 0,4 0,5 -1,0
+2T25 0,1 0,4 0,5 -0,7
+3T25 -0,3 0,3 0,4 -1,0
+4T25 -0,5 0,1 0,2 -0,8
+1T26 -1,0 0,1 0,2 -1,2
+2T26 -1,1 0,1 0,2 -1,4
+Fonte: STN, para o resultado convencional, e IFI, para os demais componentes. Elaboração: IFI.
+Relatório de Acompanhamento Fiscal – Agosto de 2026 | 7
+
+=== página 8 ===
+No acumulado em quatro trimestres até junho de 2026, o resultado primário convencional
+registrou déficit de 1,1% do PIB, ante superávit de 0,1% do PIB no mesmo período de 2025.
+A deterioração, de 1,2 p.p. do PIB, refletiu a piora dos três componentes. A evolução de cada
+um é analisada a seguir.
+Componente não recorrente
+O saldo não recorrente permaneceu positivo, mas diminuiu, de superávit de 0,5% do PIB no
+acumulado em quatro trimestres até junho de 2025, para 0,2% do PIB no mesmo período de
+2026. Em valores nominais, o saldo recuou de R$ 57,6 bilhões para R$ 22,8 bilhões.
+Essa redução decorreu, principalmente, das receitas não recorrentes líquidas, que
+passaram de R$ 87,2 bilhões para R$ 40,2 bilhões. Entre as principais alterações, destacam-
+se:
+• as antecipações de dividendos, que diminuíram de R$ 38,0 bilhões para R$ 15,6
+bilhões;
+• as concessões e outorgas, que passaram de R$ 12,2 bilhões para zero;
+• a transação tributária decorrente da adesão da Petrobras ao Edital PGFN/RFB nº
+6/2024, de R$ 8,5 bilhões para zero;
+• o efeito do diferimento de contribuições previdenciárias e de recolhimentos do
+Simples Nacional em razão da calamidade no Rio Grande do Sul, de R$ 8,0 bilhões
+para zero; e
+• a transferência de depósitos judiciais mantidos na Caixa Econômica Federal para a
+Conta Única do Tesouro Nacional, nos termos da Lei nº 14.9735, de 2024, de R$ 6,2
+bilhões para zero.
+No período encerrado em junho de 2026, destacaram-se ainda o recolhimento atípico de
+IRPJ e CSLL, de R$ 11,0 bilhões, e o imposto sobre a exportação de petróleo, de R$ 4,8
+bilhões. Esses ingressos compensaram parte da redução das demais receitas não
+recorrentes. As transferências por repartição de receitas associadas aos recolhimentos
+extraordinários foram estimadas pela IFI em R$ 3,4 bilhões, reduzindo seu efeito líquido
+sobre o resultado do governo central.
+As despesas não recorrentes também diminuíram, de R$ 29,6 bilhões para R$ 17,4 bilhões.
+No período encerrado em junho de 2025, destacavam-se R$ 22,6 bilhões em despesas
+relacionadas à calamidade no Rio Grande do Sul. No período encerrado em junho de 2026,
+os principais eventos foram:
+• antecipação do décimo terceiro dos beneficiários do INSS - R$ 5,1 bilhões;
+5 Lei nº 14.973, de 16 de setembro de 2024. Disponível em: https://www.planalto.gov.br/ccivil_03/_ato2023-
+2026/2024/lei/l14973.htm.
+8 | Relatório de Acompanhamento Fiscal – Agosto de 2026
+
+=== página 9 ===
+• ressarcimento por descontos indevidos nos benefícios do INSS - R$ 3,2 bilhões;
+• auxílio financeiro a estados e ao Distrito Federal - R$ 2,6 bilhões;
+• subvenção à comercialização do óleo diesel - R$ 2,1 bilhões;
+• integralização de cotas do Fundo Garantidor para Investimentos - R$ 2,0 bilhões; e
+• despesas relacionadas à calamidade no Rio Grande do Sul - R$ 1,9 bilhão.
+Portanto, o resultado do saldo não recorrente foi determinado, principalmente, pela queda
+das receitas atípicas. As receitas não recorrentes líquidas diminuíram em R$ 47,0 bilhões,
+enquanto as despesas não recorrentes recuaram R$ 12,2 bilhões. A redução das despesas
+compensou apenas parte da perda dessas receitas.
+Componente cíclico
+O componente cíclico procura identificar a parcela do resultado fiscal associada às
+oscilações da atividade econômica e do preço do petróleo. Depois de excluídos os eventos
+não recorrentes, as receitas sensíveis à atividade são ajustadas com base no hiato do
+produto e nas elasticidades estimadas para diferentes grupos de receitas. As elasticidades
+indicam como cada grupo de receitas tende a responder às variações da atividade
+econômica e seguem a metodologia apresentada no EE nº 166, de novembro de 2021. As
+receitas de royalties e participações especiais recebem tratamento específico, que
+considera a diferença entre o preço observado do petróleo e seu nível tendencial.
+O componente cíclico permaneceu positivo, mas diminuiu de 0,4% do PIB para 0,1% do PIB
+entre os acumulados em quatro trimestres até junho de 2025 e de 2026. O movimento foi
+compatível com a redução do hiato do produto, de 1,1% no segundo trimestre de 2025, para
+0,5% no segundo trimestre de 20267. A economia permaneceu acima do nível potencial
+estimado, embora a distância em relação a esse nível tenha diminuído.
+O hiato do produto não é uma variável diretamente observada e sua estimação está sujeita
+a incerteza. Conforme apresentado no RAF nº 1148, de julho de 2026, a IFI combina
+estimativas obtidas por métodos univariados, multivariados e de função de produção. A
+medida central corresponde à mediana dessas estimativas e é acompanhada por um
+intervalo de plausibilidade. Os resultados podem ser revisados à medida que novas
+informações surjam.
+6 Ver IFI. A elasticidade da receita em relação ao PIB. Estudo Especial nº 16, novembro de 2021. Disponível em:
+https://www2.senado.leg.br/bdsf/bitstream/handle/id/593776/EE16.pdf.
+7 Como os dados das Contas Nacionais Trimestrais referentes ao segundo trimestre de 2026 ainda não
+haviam sido divulgados na data de elaboração deste relatório, o hiato do produto para o período foi estimado
+com base no cenário macroeconômico da IFI.
+8 Ver IFI. Relatório de Acompanhamento Fiscal nº 114. Julho de 2026. Disponível em:
+https://www2.senado.leg.br/bdsf/bitstream/handle/id/935943/RAF114_JUL2026.pdf.
+Relatório de Acompanhamento Fiscal – Agosto de 2026 | 9
+
+=== página 10 ===
+A parcela associada ao petróleo atuou em sentido contrário ao fechamento do hiato. A
+elevação do preço observado do Brent em relação ao nível tendencial aumentou o
+componente cíclico associado às receitas de royalties e participações especiais.
+Resultado estrutural e impulso fiscal
+No acumulado em quatro trimestres até junho de 2026, o déficit primário estrutural
+alcançou 1,4% do PIB, piorando em relação ao 0,7% do PIB apurado em junho de 2025. A
+deterioração, de 0,6 p.p. do PIB representou a maior contribuição individual para a piora do
+resultado convencional.
+Outra forma de análise derivada do resultado primário estrutural consiste na observação do
+impulso fiscal. A IFI utiliza duas medidas complementares. Sob a ótica da sustentabilidade
+das contas públicas, o impulso corresponde ao negativo da variação do resultado estrutural
+entre dois períodos comparáveis. Sob a ótica da demanda agregada, corresponde ao
+negativo da variação do resultado convencional ajustado apenas pelo ciclo econômico.
+A primeira medida procura avaliar a orientação da política fiscal com base na evolução da
+posição fiscal subjacente. A segunda mantém os eventos não recorrentes e, por isso,
+considera de forma mais abrangente os fluxos fiscais com potencial de afetar a demanda
+agregada. Nas duas um valor positivo indica orientação expansionista, enquanto um valor
+negativo indica orientação contracionista da política fiscal.
+Pela ótica da sustentabilidade, a melhora de 0,8 p.p. do resultado estrutural, entre 2024 e
+2025, correspondeu a um impulso contracionista de igual magnitude. Na comparação entre
+os acumulados em quatro trimestres encerrados em março de 2025 e de 2026, o impulso
+foi expansionista em 0,2 p.p. do PIB. Entre os acumulados encerrados em junho, a
+deterioração do saldo estrutural correspondeu a um impulso expansionista de 0,6 p.p. do
+PIB.
+Pela ótica da demanda agregada, o impulso foi contracionista em 0,2 p.p. do PIB, entre 2024
+e 2025. Nas comparações anuais de 2026, foi expansionista em 0,6 p.p. do PIB no
+acumulado encerrado em março, e em 0,9 p.p. do PIB no acumulado encerrado em junho.
+Em conjunto, as duas medidas indicam que a orientação da política fiscal, contracionista
+em 2025, tornou-se expansionista nas comparações anuais dos períodos encerrados em
+março e junho de 2026.
+Considerações finais
+No acumulado em quatro trimestres, o resultado primário convencional passou de superávit
+de 0,1% do PIB, em junho de 2025, para déficit de 1,1% do PIB em junho de 2026. Essa piora
+de 1,2 ponto percentual (p.p.) decorreu do aumento do déficit estrutural e da redução das
+contribuições positivas dos componentes cíclico e não recorrente.
+10 | Relatório de Acompanhamento Fiscal – Agosto de 2026
+
+=== página 11 ===
+O déficit estrutural aumentou, de 0,7% do PIB para 1,4% do PIB no período analisado, e
+apresentou a maior contribuição individual para essa variação. A menor contribuição do
+componente cíclico foi compatível com a diminuição do hiato do produto, parcialmente
+compensada pelo aumento da parcela associada às receitas de royalties e participações
+especiais. No componente não recorrente, a redução decorreu principalmente da saída de
+receitas atípicas da janela de quatro trimestres.
+Do ponto de vista da orientação da política fiscal, as duas medidas de impulso utilizadas
+pela IFI - pela ótica da sustentabilidade e pela ótica da demanda agregada - convergem para
+o mesmo diagnóstico. A política fiscal, de caráter contracionista em 2025, tornou-se
+expansionista nas comparações anuais dos períodos encerrados em março e em junho de
+2026. Essa mudança ocorreu em um contexto de (i) maior execução de despesas
+discricionárias no primeiro semestre, em parte associada à antecipação de emendas
+parlamentares prevista no art. 72, § 21, da LDO 2026, conforme será detalhado na próxima
+seção deste RAF; e (ii) ações voltadas à mitigação dos efeitos do conflito no Irã.
+Os resultados devem ser interpretados considerando as ressalvas metodológicas. O
+resultado estrutural é uma estimativa, e não uma variável diretamente observável, e está
+sujeito a incertezas relacionadas à mensuração do produto potencial e do preço tendencial
+do petróleo, bem como à classificação dos eventos não recorrentes.
+Apesar dessas limitações, a deterioração do resultado estrutural e o impulso fiscal
+expansionista constituem pontos de atenção para o acompanhamento da trajetória fiscal.
+Também merece atenção a possibilidade de perda de intensidade dos componentes cíclico
+e não recorrente, que ainda contribuem positivamente para o resultado convencional. Entre
+os fatores que sustentam essas contribuições estão as receitas associadas à exploração
+de petróleo.
+Relatório de Acompanhamento Fiscal – Agosto de 2026 | 11
+
+=== página 12 ===
+Entre o cumprimento formal da meta e o risco de
+caixa: o 3º RARDP de 2026 e a restrição imposta
+pelos restos a pagar
+Alexandre Andrade e Gustavo Queiroz
+Considerações iniciais
+Em cumprimento ao disposto no art. 9º da Lei Complementar nº 101, de 2000 (Lei de
+Responsabilidade Fiscal), e na Lei de Diretrizes Orçamentárias de 2026 (Lei nº 15.321, de
+2025), o Poder Executivo divulgou, em 24 de julho, o Relatório de Avaliação de Receitas e
+Despesas Primárias (RARDP) referente ao 3º bimestre de 2026. O documento, elaborado
+em conjunto pela Secretaria do Tesouro Nacional, Secretaria de Orçamento Federal e
+Receita Federal do Brasil, reavalia as projeções de receitas e despesas do exercício e,
+quando necessário, determina o contingenciamento de despesas discricionárias para
+assegurar o cumprimento da meta fiscal.
+O 3º RARDP de 2026 confirma um cenário de cumprimento formal da meta fiscal: o
+resultado primário para fins de apuração da meta passou de um superávit de R$ 4,1 bilhões,
+projetado no 2º Bimestre, para R$ 10,8 bilhões, sem necessidade de contingenciamento e
+com reversão parcial do bloqueio de despesas discricionárias, que recuou de R$ 23,7
+bilhões para R$ 17,9 bilhões. Em uma primeira leitura, portanto, o quadro fiscal do terceiro
+bimestre é mais favorável do que o observado em maio.
+A leitura, contudo, exige qualificação em pelo menos duas dimensões que este RAF explora
+com maior profundidade. A primeira decorre da magnitude das deduções legais que
+sustentam o resultado apurado para fins de meta: a diferença de R$ 62,8 bilhões entre o
+resultado primário efetivo (correspondente a um déficit efetivo de R$ 52,0 bilhões) e o
+resultado obtido após os descontos legais (superávit de R$ 10,8 bilhões) mantém-se em
+patamar próximo ao observado no 2º Bimestre (R$ 64,4 bilhões). O que reforça o argumento
+– já explorado pela IFI em edições anteriores do RAF — de que o cumprimento formal da
+meta convive com a realização de déficits primários efetivos.
+A segunda dimensão refere-se à restrição imposta pelo estoque de restos a pagar sobre a
+capacidade de pagamento do Poder Executivo em 2026. Como será detalhado adiante, o
+descompasso entre o limite de pagamento de despesas discricionárias (R$ 225,4 bilhões)
+e o total de obrigações passíveis de pagamento no exercício, somados o orçamento do ano
+e os restos a pagar inscritos (R$ 330,9 bilhões), resulta em uma restrição de R$ 105,5
+bilhões — cerca de seis vezes o valor do bloqueio de despesas anunciado no RARDP do 3º
+Bimestre. Esse é um risco fiscal contingente que as métricas tradicionais de
+acompanhamento da meta não capturam.
+12 | Relatório de Acompanhamento Fiscal – Agosto de 2026
+
+=== página 13 ===
+À luz dessas duas dimensões, o presente texto está organizado da seguinte forma: a
+próxima seção detalha o resultado primário do governo central nos sete primeiros meses
+de 2026, com foco nas variações entre receitas e despesas ante o ano anterior; a seção
+seguinte apresenta alguns números do RARDP do 3º Bimestre, com a evolução do bloqueio
+ao longo do ano e o faseamento dos limites de empenho e pagamento; por fim, uma
+subseção examina a interação entre os limites de pagamento de 2026 e o estoque de restos
+a pagar, processados e não processados, como medida complementar de risco fiscal.
+Considerações sobre o primário do governo central entre janeiro e julho de
+2026 e projeções (RARDP e IFI)
+De acordo com dados da Secretaria do Tesouro Nacional (STN) e do Portal Siga Brasil9, o
+governo central, que inclui o Tesouro, o INSS e o Banco Central, acumulou déficit primário
+de R$ 81,2 bilhões entre janeiro e julho de 2026, ante déficit de R$ 70,3 bilhões em igual
+período de 2025. Como mostra a Tabela 2, a receita primária líquida cresceu 6,0% em
+termos reais no período, enquanto a despesa primária avançou 6,3%. Assim, embora a
+arrecadação tenha apresentado desempenho mais forte do que no ano anterior, quando
+havia crescido 3,0%, a aceleração das despesas — de 2,0% para 6,3% — levou à ampliação
+do déficit em R$ 10,9 bilhões.
+TABELA 2. RESULTADO PRIMÁRIO DO GOVERNO CENTRAL – 2025 E 2026 (R$ BILHÕES E
+VAR. REAL %)
+jan-jul 2025 jan-jul 2026 Diferença
+entre 2026
+Discriminação
+e 2025
+R$ bilhões var. % real R$ bilhões var. % real
+(R$ bilhões)
+1. Receita primária total 1.667,6 3,5% 1.839,5 5,6% 171,9
+2. Transferências por repartição
+327,9 5,7% 357,2 4,3% 29,3
+de receita
+3. Receita primária líquida [1-2] 1.339,7 3,0% 1.482,3 6,0% 142,6
+4. Despesa primária 1.410,0 2,0% 1.563,5 6,3% 153,5
+5. Resultado primário [3-4] -70,3 - -81,2 - -10,9
+Fonte: Secretaria do Tesouro Nacional e Siga Brasil. Elaboração: IFI.
+O Gráfico 2 permite observar a dinâmica desse resultado ao longo do ano. A trajetória de
+2026 se deteriorou de forma mais pronunciada entre março e junho, ampliando a distância
+em relação a 2025. Em julho, contudo, houve melhora do resultado acumulado, com
+redução do déficit em relação a junho. Os dados foram deflacionados pelo IPCA com base
+em julho de 2026. O pior resultado primário registrado no acumulado de 2026,
+comparativamente a 2025, deveu-se à maior execução de despesas discricionárias,
+9 Disponível em: https://www12.senado.leg.br/orcamento/sigabrasil.
+Relatório de Acompanhamento Fiscal – Agosto de 2026 | 13
+
+=== página 14 ===
+influenciada pela antecipação do pagamento de emendas parlamentares, prevista no § 21
+do art. 72 da Lei nº 15.32110, de 31 de dezembro de 2025 (LDO 2026). O dispositivo
+considera o pagamento de 65% das dotações previstas na Lei nº 15.34611, de 14 de janeiro
+de 2026 (LOA 2026), para emendas individuais e de bancada de execução obrigatória,
+observados os requisitos da legislação orçamentária e fiscal, até o encerramento do
+primeiro semestre. A antecipação de 65% das emendas12 pressionou o fluxo de caixa do
+governo central no período coberto pelos dois primeiros decretos de programação
+orçamentária e financeira de 2026.
+GRÁFICO 2. RESULTADO PRIMÁRIO DO GOVERNO CENTRAL ACUMULADO DE JANEIRO A
+JULHO (2025 E 2026) - R$ BILHÕES A PREÇOS DE JUL/26
+150,0
+100,0 91,6 78,8
+59,6
+58,0
+89,7
+36,5
+50,0
+59,0
+10,2
+-9,8
+0,0
+-15,5
+-50,0
+-71,5
+-43,1
+-100,0 -80,3
+-91,3
+-150,0
+janeiro fevereiro março abril maio junho julho
+2025 2026
+Fonte: Secretaria do Tesouro Nacional, Siga Brasil, IBGE e IFI. Elaboração: IFI
+Pelo lado das receitas, a arrecadação primária total cresceu 5,6% em termos reais entre
+janeiro e julho de 2026, ante 3,5% no mesmo período de 2025 (Tabela 2). O desempenho foi
+sustentado pelas receitas administradas, com alta de 6,7%, e pela arrecadação líquida do
+RGPS, que avançou 6,2%.
+As receitas não administradas caíram, em termos reais, 1,9% no acumulado de janeiro a
+julho deste ano, mas apresentaram melhora expressiva em julho: no acumulado até junho,
+10 Disponível em: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/lei/l15321.htm.
+11 Disponível em: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15346.htm.
+12 O percentual de 65% no 1º semestre de 2026 não abarca todas as modalidades de emendas, apenas as
+emendas individuais e de bancada estadual (identificador de resultado primário RP6 e RP7), entre as quais,
+especificamente, as transferências especiais, informalmente denominadas “emendas pix”, e as emendas
+voltadas a transferências automáticas para fundos de saúde e assistência social. As emendas de comissão
+(RP8) e as programações via convênio/plano de trabalho tradicional não estão no mesmo dispositivo.
+14 | Relatório de Acompanhamento Fiscal – Agosto de 2026
+
+=== página 15 ===
+a queda foi de 5,8%. Dentro desse grupo, enquanto os dividendos recuaram 58,0%, as
+receitas de exploração de recursos naturais cresceram 17,4%. A aceleração foi
+particularmente intensa nos últimos meses: o crescimento acumulado dessas receitas
+passou de 7,4%, até maio, para 14,3%, até junho, e 17,4% até julho.
+Esse movimento está em linha com os exercícios apresentados pela IFI no RAF nº 11113, de
+abril de 2026, que indicavam efeitos positivos, diretos e indiretos, do choque de petróleo
+sobre a arrecadação no curto prazo, o que, de fato, tem se verificado.
+A despesa primária do governo central cresceu 6,3%, em termos reais, no acumulado de
+sete meses em 2026, ante incremento de 2,0% registrado no ano passado. Determinam o
+comportamento da despesa neste ano: (i) o pagamento de benefícios previdenciários
+(+4,0%, ante acréscimo de 4,8% em 2025 até julho); (ii) a despesa de pessoal (+6,7%, ante
+3,7% de aumento em 2025); (iii) o pagamento do Benefício de Prestação Continuada (BPC),
+com elevação real de 5,1% em 2026, ante incremento de 10,9% registrado em igual período
+de 2025; (iv) a complementação da União ao Fundeb (+7,4%, ante 22,3% em 2025); (v)
+subsídios, subvenções e Proagro (-14,5% neste ano, ante aumento de 28,0% em 2025); e (vi)
+as despesas discricionárias, que registraram aumento real de 44,5% no acumulado deste
+ano até julho, ante queda de 20,9% no mesmo período de 2025. A maior execução de
+despesas discricionárias neste ano se explica pelo referido §21 do art. 72 da LDO 2026, que
+deu previsão para maior pagamento de emendas no primeiro semestre14.
+Para concluir esta primeira subseção, a Tabela 3 compara as projeções de 2026
+apresentadas pelo Poder Executivo no RARDP do 2º Bimestre e no RARDP do 3º Bimestre
+com as estimativas da IFI de junho de 202615. Em relação às projeções mais recentes da
+IFI, é importante destacar a estimativa do resultado primário para cumprimento da meta
+neste ano. Enquanto o Poder Executivo estima, a partir do RARDP do 3º Bimestre, uma folga
+de R$ 10,8 bilhões ante o limite inferior da meta, a projeção atual da IFI para essa folga é de
+R$ 18,2 bilhões.
+Entre o 2º e o 3º bimestres, o Executivo revisou para cima, em R$ 19,2 bilhões, a projeção
+da receita primária total de 2026, que passou de R$ 3.218,0 bilhões para R$ 3.237,2 bilhões.
+A atualização incorporou a arrecadação observada até junho, além de revisões
+metodológicas e dos parâmetros macroeconômicos. Houve elevação na expectativa de
+realização de receitas administradas (+R$ 27,8 bilhões), parcialmente compensada por
+revisão para baixo na projeção para a arrecadação líquida para o RGPS (-R$ 4,3 bilhões) e
+para as receitas não administradas (-R$ 4,3 bilhões). Como as transferências por repartição
+13 Disponível em: https://www2.senado.leg.br/bdsf/bitstream/handle/id/864790/RAF111_ABR2026.pdf.
+14 Importante acrescentar que, a despeito do comando da LDO que autoriza a maior execução orçamentária
+no primeiro semestre deste ano, os dados indicam que, em anos eleitorais, o pagamento de emendas costuma
+ficar concentrado nos primeiros seis meses do ano.
+15 Ver o RAF nº 113, de junho de 2026. Disponível em
+https://www12.senado.leg.br/ifi/pdf/raf113_jun2026.pdf.
+Relatório de Acompanhamento Fiscal – Agosto de 2026 | 15
+
+=== página 16 ===
+de receitas foram elevadas em R$ 7,0 bilhões, a revisão para cima na receita primária líquida
+foi de R$ 12,3 bilhões.
+Pelo lado das despesas, a projeção do Executivo passou de R$ 2.641,7 bilhões para
+R$ 2.645,6 bilhões neste ano, aumento de R$ 4,0 bilhões em relação à projeção do 2º
+Bimestre. Esse acréscimo líquido refletiu um rearranjo orçamentário e metodológico, com
+decréscimos na despesa obrigatória (-R$ 2,9 bilhões) sendo compensados por aumento na
+estimativa de execução de despesas discricionárias e abertura de créditos extraordinários.
+TABELA 3. PROJEÇÕES DO PODER EXECUTIVO E DA IFI PARA O RESULTADO PRIMÁRIO
+DO GOVERNO CENTRAL EM 2026
+RARDP 2º bim e RARDP 3º bim e Diferença IFI
+Diferença
+Decreto nº Decreto nº (jun/26) e
+IFI (jun/26) RARDP 3º bim e
+12.990, de 29 de 13.085, de 30 de RARDP 3º
+RARDP 2º bim
+Discriminação maio de 2026 julho de 2026 bimestre
+R$ R$ R$ R$ R$ p.p. do
+% PIB % PIB % PIB % PIB
+bilhões bilhões bilhões bilhões bilhões PIB
+1. Receita primária total 3.218,0 23,6 3.237,2 23,7 3.229,1 23,6 19,2 0,1 -8,1 0,0
+2. Transferências por repartição de receita 636,7 4,7 643,6 4,7 649,9 4,8 7,0 0,0 6,3 0,1
+3. Receita primária líquida [1-2] 2.581,3 18,9 2.593,6 19,0 2.579,2 18,9 12,3 0,0 -14,4 -0,1
+4. Despesa primária 2.641,7 19,4 2.645,6 19,3 2.630,9 19,2 4,0 0,0 -14,7 -0,1
+5. Resultado primário governo central [3-4] -60,3 -0,4 -52,0 -0,4 -51,7 -0,4 8,3 0,1 0,3 0,0
+6. Meta de resultado primário (LDO 2026) 34,3 0,3 34,3 0,3 34,3 0,3 0,0 0,0 0,0 0,0
+7. Limite inferior da meta de resultado primário
+0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0
+(LDO 2026)
+8. Despesas não consideradas no resultado
+64,4 0,5 62,8 0,5 69,8 0,5 -1,6 0,0 7,1 0,1
+primário (EC 136, ADPF 1236 e LCs 221 e 223)
+9. Resultado primário para cumprimento da
+4,1 0,0 10,8 0,1 18,2 0,1 6,7 0,0 7,4 0,1
+LDO 2026 [5+8]
+10. Ajuste para a meta [6-9] 30,2 0,2 23,5 0,2 16,1 0,1
+11. Ajuste para o limite inferior da meta [7-9] -4,1 -0,0 -10,8 -0,1 -18,2 -0,1
+Fonte: RARDP do 2º e 3º Bimestres de 2026 e IFI. Elaboração: IFI.
+Entre as despesas obrigatórias, as principais revisões no RARDP do 3º Bimestre ocorreram
+nos seguintes agregados: (i) pessoal e encargos sociais (-R$ 4,3 bilhões), em razão da
+execução dessa despesa no primeiro semestre do ano; (ii) Benefício de Prestação
+Continuada (-R$ 3,2 bilhões), em função de refinamento nos modelos de projeção; (iii)
+benefícios previdenciários (-R$ 2,7 bilhões), pelo ritmo de expansão dos requerimentos dos
+benefícios ter ficado, no primeiro semestre, aquém do projetado no 2º RARDP, ainda que
+tenha havido maior agilidade na análise do estoque de requerimentos pendentes (redução
+16 | Relatório de Acompanhamento Fiscal – Agosto de 2026
+
+=== página 17 ===
+na fila do INSS); (iv) sentenças judiciais e precatórios (-R$ 2,1 bilhões), em razão de
+frustração e cancelamento de programações de precatórios que não foram efetivamente
+sacados, além de atualizações de execução financeira registrada no Siafi até junho; e (v)
+abono e seguro-desemprego (+R$ 1,6 bilhão), com a revisão de parâmetros
+macroeconômicos, que elevou a estimativa do número de beneficiários, refletindo a
+dinâmica do mercado de trabalho formal.
+Por outro lado, o RARDP do 3º Bimestre trouxe aumento na previsão de créditos
+extraordinários (+R$ 4,1 bilhões) em comparação com a avaliação de maio (2º bimestre).
+Essa revisão refletiu a edição de novas medidas provisórias e o andamento de projetos de
+relevância emergencial: (i) custeio de subvenção econômica (R$ 6,8 bilhões) a produtores
+e importadores de combustíveis derivados do petróleo16; (ii) ressarcimento de descontos
+indevidos a segurados do INSS17 (R$ 547,0 milhões) decorrente de nova decisão do STF,
+que presume a boa-fé de segurados em contestação; e (iii) subvenção a produtores
+independentes de cana-de-açúcar do Nordeste (R$ 270,0 milhões)18. Esses valores foram
+parcialmente compensados pela perda de eficácia da Medida Provisória (MP) nº 1.34419,
+de 2026, cuja dotação não utilizada reduziu a previsão de gastos em R$ 3,0 bilhões.
+O RARDP do 3º Bimestre apresentou também uma revisão para cima na estimativa das
+despesas obrigatórias com controle de fluxo, em R$ 3,5 bilhões neste ano, em razão da
+elevação das dotações para o cumprimento do piso constitucional de saúde (revisto para
+cima por causa da maior previsão para a receita corrente líquida anual), que ampliou as
+projeções de despesas de atenção primária no Ministério da Saúde.
+Contenções, desvios de receitas e despesas, e limites de empenho e
+pagamento
+A Tabela 4 apresenta uma comparação de valores de contenções de despesas
+discricionárias nas três avaliações bimestrais publicadas em 2026. São dois tipos de
+contenções possíveis: bloqueio e contingenciamento. De acordo com a Lei Complementar
+(LC) nº 20020, de 2023, o bloqueio incide quando as despesas obrigatórias sujeitas ao limite
+crescem além do esperado, tendendo a ultrapassar o limite individualizado estabelecido na
+norma, comprimindo o espaço das despesas discricionárias no orçamento.
+16 Via Medida Provisória nº 1.358, de 2026, e Medida Provisória nº 1.363, de 2026. Disponíveis em:
+https://www.congressonacional.leg.br/materias/medidas-provisorias/-/mpv/174149 e
+https://www.congressonacional.leg.br/materias/medidas-provisorias/-/mpv/174397, respectivamente.
+17 Via Medida Provisória nº 1.378, de 20 de julho de 2026. Disponível em:
+https://www.congressonacional.leg.br/materias/medidas-provisorias/-/mpv/175246.
+18 Via Medida Provisória nº 1.374, de 2026. Disponível em:
+https://www.congressonacional.leg.br/materias/medidas-provisorias/-/mpv/174924.
+19 Disponível em: https://www.congressonacional.leg.br/materias/medidas-provisorias/-/mpv/173213.
+20 Disponível em: https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp200.htm.
+Relatório de Acompanhamento Fiscal – Agosto de 2026 | 17
+
+=== página 18 ===
+O contingenciamento, por sua vez, disciplinado na LC nº 10121, de 2000, também
+denominada Lei de Responsabilidade Fiscal (LRF), é aplicado quando há frustração de
+receitas primárias que coloca em risco o cumprimento da meta fiscal. Como as estimativas
+do Poder Executivo para o resultado primário de 2026 mantiveram-se acima do limite
+inferior da margem de tolerância da meta, não houve necessidade de aplicação de
+contingenciamento até o momento.
+TABELA 4. CONTENÇÕES DE DESPESAS DISCRICIONÁRIAS NAS TRÊS AVALIAÇÕES
+BIMESTRAIS DE 2026 (R$ BILHÕES)
+Variação (3º
+RARDP 1º RARDP 2º RARDP 3º
+Discriminação LOA 2026 Bimestre -
+Bimestre Bimestre Bimestre
+2º Bimestre)
+1. Despesas obrigatórias sujeitas ao limite 2.154,2 2.156,3 2.178,6 2.172,9 -5,7
+2. Despesas discricionárias sujeitas ao limite 237,5 238,0 237,8 237,7 0,0
+3. Total de despesas sujeitas ao limite [1+2] 2.391,7 2.394,3 2.416,4 2.410,6 -5,7
+4. Limite de despesas (LC nº 200/2023) 2.392,7 2.392,7 2.392,7 2.392,7
+5. Folga orçamentária inicial da LOA 2026 1,0 0,0 0,0 0,0
+6. Contenção (bloqueio) de despesas obrigatórias
+0,0 1,6 23,7 17,9 -5,7
+necessária [3-4]
+Fonte: LOA 2026, RARDP 1º Bimestre 2026, RARDP 2º Bimestre 2026 e RARDP 3º Bimestre 2026. Elaboração:
+IFI.
+De acordo com a Tabela 4, o RARDP do 1º Bimestre registrou uma insuficiência marginal
+de R$ 1,6 bilhão em relação ao limite de despesas da LC nº 200. No 2º bimestre, a revisão
+para cima na projeção de despesas obrigatórias sujeitas ao limite (item 1 da tabela) forçou
+o Executivo a adotar um bloqueio de R$ 22,1 bilhões, resultando em um bloqueio
+acumulado, até aquele momento, de R$ 23,7 bilhões (item 6 da tabela). No 3º bimestre,
+houve uma reversão parcial dessa contenção, em R$ 5,7 bilhões, com a revisão, para baixo,
+nas despesas sujeitas ao limite, resultando em um bloqueio acumulado de R$ 17,9 bilhões,
+vigente no ano, até o momento.
+O Gráfico 3 apresenta desvios entre os valores de receita realizados e projetados nos
+decretos de programação orçamentária. As informações devem ser interpretadas da
+maneira como se segue. O Decreto nº 12.846, de 12 de fevereiro de 2026, foi editado após
+a sanção da LOA 2026. A partir das estimativas desse decreto e, por conseguinte, da LOA
+2026, houve frustração de receitas primárias ao longo do primeiro semestre do ano
+(primeiro, segundo e terceiro bimestres).
+No RARDP do 1º bimestre, as estimativas de receitas e despesas para o ano foram
+atualizadas pelo Poder Executivo, que editou, a partir dessa atualização, o Decreto nº
+21 Disponível em: https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp101.htm.
+18 | Relatório de Acompanhamento Fiscal – Agosto de 2026
+
+=== página 19 ===
+12.91422, em 30 de março. Na ocasião, os efeitos oriundos do choque sobre o preço do
+petróleo foram incorporados nas estimativas com a informação disponível até aquele
+momento. O Decreto nº 12.914 revisou para cima as projeções de receita para o ano. A
+partir dos valores ali constantes, a receita realizada ficou acima da projetada no 2º e no 3º
+bimestre de 2026.
+Por fim, a partir das projeções constantes do Decreto nº 12.99023, de 29 de maio de 2026,
+editado após a publicação do RARDP do 2º Bimestre, o desvio acumulado das receitas
+realizadas e estimadas alcançou R$ 16,2 bilhões no acumulado do primeiro semestre,
+indicando que o choque sobre o preço do petróleo, via efeitos diretos e indiretos, continuou
+a surpreender a arrecadação federal.
+GRÁFICO 3. DESVIOS ACUMULADOS DA RECEITA PRIMÁRIA EM RELAÇÃO AOS VALORES
+CONSTANTES DOS DECRETOS DE PROGRAMAÇÃO ORÇAMENTÁRIA E FINANCEIRA EM
+2026 (R$ BILHÕES)
+50,0
+40,0 37,7
+30,0
+20,0 16,2
+13,7
+10,0
+0,0
+-2,8
+-5,6
+-10,0
+-12,0
+-20,0
+1º bimestre 2º bimestre 3º bimestre
+Decreto nº 12.846/2026 Decreto nº 12.914/2026 Decreto nº 12.990/2026
+Fonte: Decretos de programação orçamentária e financeira de 2026, Secretaria do Tesouro Nacional, Siga Brasil
+e IFI. Elaboração: IFI.
+Ou seja, os números evidenciam que o comportamento das receitas no primeiro semestre
+do ano sustenta a ausência de necessidade de contingenciamento. No acumulado de
+janeiro a junho, as receitas primárias ficaram acima da arrecadação prevista no orçamento.
+O desvio de R$ 16,2 bilhões explica-se da seguinte forma: (i) surpresa de R$ 22,1 bilhões
+nas receitas administradas; (ii) parcialmente compensada por frustração de R$ 0,9 bilhão
+22 Disponível em: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/decreto/d12914.htm.
+23 Disponível em: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/decreto/d12990.htm.
+Relatório de Acompanhamento Fiscal – Agosto de 2026 | 19
+
+=== página 20 ===
+na arrecadação líquida para o RGPS; e (iii) outra frustração de R$ 5,0 bilhões nas receitas
+não administradas.
+O Gráfico 4 apresenta os desvios acumulados entre os valores realizados e os projetados
+para as despesas primárias do governo central em 2026. Os dados evidenciam desvios
+positivos e negativos entre janeiro e junho deste ano. No 3º bimestre, especificamente, a
+execução financeira das despesas primárias foi R$ 16,3 bilhões inferior ao estimado no já
+referenciado Decreto nº 12.990 (RARDP do 2º Bimestre de 2026).
+GRÁFICO 4. DESVIOS ACUMULADOS DA DESPESA PRIMÁRIA EM RELAÇÃO AOS
+VALORES CONSTANTES DOS DECRETOS DE PROGRAMAÇÃO ORÇAMENTÁRIA E
+FINANCEIRA EM 2026 (R$ BILHÕES)
+30,0
+22,8 22,4
+20,0
+10,0
+4,7
+0,0
+-10,0
+-16,3
+-20,0
+-26,0 -26,4
+-30,0
+1º bimestre 2º bimestre 3º bimestre
+Decreto nº 12.846/2026 Decreto nº 12.914/2026 Decreto nº 12.990/2026
+Fonte: Decretos de programação orçamentária e financeira de 2026, Secretaria do Tesouro Nacional, Siga Brasil
+e IFI. Elaboração: IFI.
+O desvio negativo de R$ 16,3 bilhões entre os valores executados de despesas primárias e
+os valores estimados se explica pelas seguintes razões: (i) execução, a menor, de R$ 9,2
+bilhões no pagamento de benefícios previdenciários em relação ao projetado; (ii) execução,
+a menor, de R$ 4,0 bilhões de outras despesas obrigatórias em relação ao estimado,
+principalmente no pagamento do Benefício de Prestação Continuada (BPC) e nos gastos
+com subsídios, subvenções e Proagro; e (iii) execução, abaixo do projetado, de R$ 2,3
+bilhões nas despesas com pessoal e encargos.
+As despesas com controle de fluxo somaram R$ 305,0 bilhões no primeiro semestre deste
+ano. O desvio entre o valor realizado e o projetado desses gastos ficou em: (i) -R$ 18,7
+bilhões em relação ao Decreto nº 12.846 (LOA 2026); (ii) -R$ 17,5 bilhões em relação ao
+Decreto nº 12.914 (RARDP 1º Bimestre); e (iii) -R$ 0,7 bilhão em relação ao Decreto nº
+12.990 (RARDP 2º Bimestre).
+20 | Relatório de Acompanhamento Fiscal – Agosto de 2026
+
+=== página 21 ===
+As despesas obrigatórias com controle de fluxo totalizaram R$ 189,6 bilhões no primeiro
+semestre do ano, enquanto as discricionárias somaram R$ 115,4 bilhões. Dentro das
+despesas discricionárias, o pagamento de emendas parlamentares de execução obrigatória
+e outras emendas correspondeu a R$ 31,9 bilhões no período, enquanto as demais
+despesas discricionárias somaram R$ 83,5 bilhões. Com base no Decreto nº 12.990
+(RARDP 2º Bimestre), os desvios nos primeiros seis meses do ano foram os seguintes: (i) -
+R$ 1,2 bilhão nas despesas obrigatórias com controle de fluxo; (ii) +R$ 4,7 bilhões nas
+emendas (obrigatórias e outras); e (iii) -R$ 4,2 bilhões nas demais despesas discricionárias.
+Os números evidenciam uma execução relativamente elevada de emendas parlamentares
+nos primeiros seis meses do ano.
+Assim como no ano passado, vigora o instrumento do faseamento na execução de
+despesas discricionárias no exercício de 2026. Esse instrumento é disciplinado pelos arts.
+71, 72 e 73 da LDO 2026, assim como pelos arts. 1º e 11 (I, “b”) do já referenciado Decreto
+nº 12.846, que efetivamente fixa e divide em períodos os limites de movimentação e
+empenho das despesas discricionárias neste ano.
+O empenho representa a primeira etapa da execução de uma despesa. A existência de um
+limite para empenho, como determinado nos decretos de programação orçamentária,
+configura uma limitação para sua realização. Na prática, significa que as unidades
+orçamentárias do Poder Executivo somente podem iniciar despesas discricionárias até o
+limite fixado.
+O Gráfico 5 apresenta os montantes de empenhos das despesas discricionárias de janeiro
+a julho de 2026. O limite fixado para junho e julho foi de R$ 159,6 bilhões, conforme o já
+referenciado Decreto nº 12.990. O empenho de discricionárias até julho foi de R$ 149,9
+bilhões, R$ 9,7 bilhões abaixo do limite estabelecido pelo faseamento. Aqueles R$ 159,6
+bilhões de limite correspondem a 70,5% das despesas discricionárias autorizadas em 2026.
+Importante mencionar que, caso surjam eventuais impedimentos para o empenho integral
+dessas despesas, os valores não poderão mais ser empenhados, resultando em uma
+economia de recursos e, consequentemente, melhora do resultado primário do exercício
+atual e do exercício seguinte, em razão de menor inscrição de restos a pagar.
+Relatório de Acompanhamento Fiscal – Agosto de 2026 | 21
+
+=== página 22 ===
+GRÁFICO 5. EMPENHO E LIMITES DE EMPENHO DE DESPESAS DISCRICIONÁRIAS (R$
+BILHÕES)
+250,0
+Decreto nº 13.085:
+226,3
+Decreto nº 13.085:
+Decreto nº 13.085: 196,8
+200,0 178,9
+Decreto nº 12.990:
+Decreto nº 12.914: 159,6
+142,1
+150,0 Decreto nº 12.846: 149,9
+115,7
+131,0
+107,9
+100,0
+80,4
+50,0 50,8
+27,8
+11,2
+0,0
+jan/26 fev/26 mar/26 abr/26 mai/26 jun/26 jul/26 ago/26 set/26 out/26 nov/26 dez/26
+Limite Vigente Empenhos realizados
+Fonte: Siga Brasil e DPOFs. Elaboração: IFI.
+* Considera as despesas discricionárias, as emendas parlamentares impositivas e as emendas de comissão.
+Outra restrição para a execução das despesas discricionárias neste ano decorre dos limites
+de pagamento, que correspondem a uma limitação para a execução financeira, de modo a
+compatibilizar o fluxo de desembolsos das despesas com controle de fluxo do Poder
+Executivo às projeções de receita primária do governo central para o cumprimento da meta
+de resultado primário24. Como ilustrado no Gráfico 6, até o fim do 3º bimestre de 2026, as
+despesas discricionárias superaram em R$ 0,5 bilhão (R$ 114,9 bilhões de limite de
+pagamento menos R$ 115,4 bilhões de valores pagos) o limite de pagamento estabelecido
+no Decreto de Programação Orçamentária e Financeira (DPOF)25.
+24 O art. 2º do Decreto nº 12.846, de 2026, já referenciado neste texto, estabelece: “Art. 2º O pagamento de
+despesas primárias sujeitas a controle de fluxo no exercício de 2026, inclusive dos restos a pagar de exercícios
+anteriores (...), observará os valores autorizados e os cronogramas de pagamento constantes deste Decreto”.
+25 O Decreto nº 12.990 foi editado em 29 de maio. Quando os valores realizados de junho foram considerados,
+o pagamento acumulado de R$ 115,4 bilhões ultrapassou o limite fixado pelo Decreto (R$ 114,9 bilhões). O
+Decreto nº 13.085, de 30 de julho, ao incorporar a execução realizada, elevou o limite acumulado do 3º
+bimestre para R$ 115,4 bilhões.
+22 | Relatório de Acompanhamento Fiscal – Agosto de 2026
+
+=== página 23 ===
+GRÁFICO 6. LIMITES DE PAGAMENTOS E DESPESAS DISCRICIONÁRIAS PAGAS (R$
+BILHÕES)
+250,0
+225,4
+200,0 186,5
+153,8
+150,0
+114,9
+115,4
+100,0
+77,4
+63,7
+50,0 40,5
+25,8
+0,0
+1º Bimestre 2º Bimestre 3º Bimestre 4º Bimestre 5º Bimestre 6º Bimestre
+Limite Vigente Valores pagos
+Fonte: Siga Brasil e DPOFs. Elaboração: IFI
+* Considera as despesas discricionárias, as emendas parlamentares impositivas e as emendas de comissão.
+Ainda de acordo com o Gráfico 6, os limites estabelecidos nos DPOFs mostram que, até o
+fim do 4º bimestre, o Poder Executivo pode pagar R$ 153,8 bilhões, o que corresponde a
+68,2% do limite de pagamento (R$ 225,4 bilhões) previsto para o exercício. Até o fim do 5º
+bimestre, o limite de pagamento é de R$ 186,5 bilhões (82,7%). Dessa forma, 17,3% das
+despesas discricionárias de 2026 podem ser pagas em apenas um bimestre (novembro e
+dezembro). Isso permitiria que, em caso de frustrações agudas nas receitas estimadas para
+o ano, ainda houvesse contenção de despesas em tempo hábil.
+Limites de pagamento de despesas discricionárias e restos a pagar
+Para concluir a presente subseção, apresentam-se algumas considerações a respeito dos
+limites de pagamento de despesas discricionárias, em 2026, com o estoque atual de restos
+a pagar inscritos (processados e não processados) em 31 de dezembro de 2025. A Tabela
+5 contém essas informações. A análise desses números é importante pelas razões a seguir.
+Primeira, o limite de pagamento (Anexos II-V do DPOF) representa quanto o Tesouro
+efetivamente vai liberar em recursos financeiros ao longo de 2026. O estoque de RAP
+constitui uma obrigação já assumida (empenhos realizados em exercícios anteriores), mas
+ainda não desembolsada. Assim, a comparação entre os valores de limite de pagamento e
+de restos a pagar (RAP) revela uma suficiência para pagamento de RAP.
+Segunda, o bloqueio anunciado no 3º Bimestre (R$ 17,9 bilhões) mede a compatibilidade
+entre a despesa primária projetada e o limite de despesas primárias da LC nº 200. O
+Relatório de Acompanhamento Fiscal – Agosto de 2026 | 23
+
+=== página 24 ===
+bloqueio não indica se existe caixa suficiente para pagar empenhos (RAP) de anos
+anteriores. O estoque atual de RAP inscritos em 2025 (R$ 105,5 bilhões) é cerca de seis
+vezes superior ao bloqueio de despesas vigente após o RARDP do 3º Bimestre.
+TABELA 5. LIMITE DE PAGAMENTO DE DESPESAS DISCRICIONÁRIAS EM 2026 (RARDP 3º
+BIMESTRE) E ESTOQUE ATUAL DE RESTOS A PAGAR (RAP) INSCRITOS EM 2025
+(R$ BILHÕES)
+Limite de RAP RAP não RAP/limite de
+Categoria RAP total
+pagamento processados processados pagamento (%)
+Despesas discricionárias (RP2/RP3) por órgão 180,5 9,0 61,2 70,1 38,8%
+Emendas individuais (RP6) 26,6 0,4 8,4 8,8 33,0%
+Emendas de bancada estadual (RP7) 8,7 0,3 10,5 10,8 124,3%
+Emendas de comissão (RP8) 9,7 0,3 11,7 12,0 123,6%
+Emendas de relator (RP9) 0,0* 1,5 2,4 3,9 -
+Total 225,5 11,5 94,1 105,5 46,8%
+* Emendas de relator não têm valor autorizado para pagamento no Anexo XVII do DPOF
+Fonte: Decreto nº 12.846/2026, Anexos VIII e XVII, alterado pelo Decreto nº 13.085/2026 (RARDP 3º Bimestre).
+Elaboração: IFI.
+Terceira, é importante distinguir os restos a pagar entre processados (R$ 11,5 bilhões) e
+não processados (R$ 94,1 bilhões), visto que nem todo o montante de R$ 105,5 bilhões
+pressionará o caixa do Tesouro neste ano. O pior cenário seria o de pagamento de todo o
+estoque de RAP não processados, os quais ainda estão sujeitos a liquidação, cancelamento
+ou pagamento diluído ao longo dos próximos anos. Ou seja, do montante de RAP inscritos
+no orçamento de 2026, R$ 11,5 bilhões correspondem a uma obrigação neste ano.
+Em suma, a comparação dos valores de limite de pagamento de despesas discricionárias
+com o estoque de restos a pagar permite mensurar o tamanho do descompasso entre
+obrigações assumidas e a capacidade de pagamento desses valores, uma medida
+subjacente de risco fiscal contingente.
+Os números da Tabela 5 indicam que os valores atuais de RAP inscritos em emendas de
+bancada (RP7) e de comissão (RP8) merecem atenção, visto que o estoque de RAP dessas
+emendas supera todo o limite de pagamento autorizado para 2026. Isso significa que,
+tecnicamente, não existe espaço em caixa para o pagamento de RAP dessas emendas.
+Nas despesas discricionárias de identificadores orçamentários RP2 e RP3 existe uma
+relação entre RAP e limite de pagamento mais folgada (38,8%). Historicamente, essas
+despesas têm maior previsibilidade de execução do que as emendas parlamentares.
+Uma última consideração diz respeito aos montantes de restos a pagar processados e não
+processados. Os números da Tabela 5 indicam que o percentual de RAP processados e não
+processados é mais ou menos estável entre os identificadores orçamentários. À exceção
+das emendas de relator, os restos a pagar não processados correspondem a percentuais
+24 | Relatório de Acompanhamento Fiscal – Agosto de 2026
+
+=== página 25 ===
+superiores a 85% do estoque de restos a pagar inscritos. Ou seja, a materialização da
+despesa depende de liquidação futura, reforçando o fato de que esse estoque não
+necessariamente configurará pressão de pagamento ainda em 2026.
+Considerações finais
+O 3º RARDP de 2026 indica um quadro de cumprimento formal da meta fiscal, neste ano,
+um pouco mais folgado que o observado nas duas avaliações bimestrais anteriores. O
+resultado primário apurado passou de R$ 4,1 bilhões para R$ 10,8 bilhões, além da reversão
+de R$ 5,7 bilhões no bloqueio de despesas discricionárias. Essa melhora reflete,
+majoritariamente, revisões para baixo nas projeções de despesas obrigatórias — pessoal e
+encargos sociais, benefícios previdenciários, BPC e precatórios —, e não uma reversão
+estrutural na trajetória do resultado primário efetivo, que permanece deficitário em R$ 52,0
+bilhões na projeção para o ano.
+A magnitude das deduções legais que sustentam o cumprimento da meta — R$ 62,8 bilhões
+no 3º Bimestre, nível próximo ao observado no 2º Bimestre (R$ 64,4 bilhões) — reforça a
+leitura de impossibilidade de cumprimento da meta fiscal na ausência dessas deduções. O
+cumprimento formal da meta, portanto, deve ser interpretado com a devida cautela: decorre,
+em parcela substancial, de descontos autorizados por lei que reduzem o resultado apurado
+sem alterar a trajetória do resultado primário efetivo.
+A esse quadro soma-se uma segunda camada de fragilidade: a restrição de capacidade de
+pagamento imposta pelo estoque de restos a pagar. A comparação entre o limite de
+pagamento de despesas discricionárias (R$ 225,4 bilhões) e o total de obrigações passíveis
+de pagamento em 2026 (R$ 330,9 bilhões) revela uma restrição de R$ 105,5 bilhões — cerca
+de seis vezes superior ao bloqueio oficialmente reportado. Ainda que parte relevante desse
+estoque (R$ 94,1 bilhões, ou 89% do total) corresponda a restos a pagar não processados,
+sujeitos a cancelamento ou diluição em exercícios futuros, a concentração da restrição em
+emendas de bancada e de comissão indica um ponto de tensão orçamentária que tende a
+se repetir, e possivelmente se agravar, nos próximos exercícios. O estoque dessas emendas
+já supera, isoladamente, todo o limite de pagamento disponível para essas rubricas em
+2026.
+Esse risco não é conjuntural. O estoque total de restos a pagar do governo federal cresceu
+de R$ 186,3 bilhões, há dez anos, para R$ 310,8 bilhões, no início de 2025, e R$ 391,6 bilhões
+no início de 2026. Trata-se de uma trajetória de acúmulo persistente que configura um
+estoque que compete por espaço financeiro com as despesas do próprio exercício corrente.
+Importante mencionar a necessidade de reforma da Lei nº 4.320, de 1964, para disciplinar,
+de forma mais rígida, a inscrição e o cancelamento de restos a pagar. Na ausência de
+mudanças no referido marco legal, esse componente de risco fiscal contingente permanece
+relevante para o acompanhamento das contas públicas nos próximos anos.
+Relatório de Acompanhamento Fiscal – Agosto de 2026 | 25
+
+=== página 26 ===
+Por fim, cabe destacar um fator específico de 2026 que tende a intensificar a pressão sobre
+os restos a pagar nos próximos exercícios: a antecipação, prevista no art. 72, § 21, da LDO
+2026, do pagamento de 65% das emendas individuais e de bancada estadual até o
+encerramento do primeiro semestre — um padrão típico de anos eleitorais. Essa execução
+concentrada no início do ano, embora explique parte da deterioração do resultado primário
+observada entre janeiro e julho deste ano ante 2025, também eleva o risco de que parcelas
+não executadas dentro do exercício sejam simplesmente inscritas como novos restos a
+pagar no orçamento de 2027. O acompanhamento das avaliações bimestrais
+remanescentes de 2026, em conjunto com a evolução do estoque de restos a pagar, será
+fundamental para avaliar se o quadro de fragilidade identificado neste relatório se
+aprofunda ou se estabiliza ao longo do restante do exercício.
+26 | Relatório de Acompanhamento Fiscal – Agosto de 2026
+
+=== página 27 ===
+PROJEÇÕES DA IFI
+CURTO PRAZO
+2026 2027
+Projeções da IFI
+Jul/26 Ago/26 Comparação Jul/26 Ago/26 Comparação
+PIB – crescimento real (% a.a.) 1,7 2,0 ▲ 2,0 1,8 ▼
+PIB – nominal (R$ bilhões) 13.432,1 13.667,1 ▲ 14.244,8 14.533,4 ▲
+IPCA – acum. (% no ano) 3,9 5,0 ▲ 3,5 4,0 ▲
+Taxa de câmbio - fim de período (R$/US$) 5,5 5,2 ▼ 5,5 5,2 ▼
+Ocupação - crescimento (%) 0,8 1,1 ▲ 0,5 0,7 ▲
+Massa salarial - crescimento (%) 3,6 5,1 ▲ 2,7 3,4 ▲
+Selic – fim de período (% a.a.) 12,0 14,0 ▲ 10,5 12,0 ▲
+Juros reais ex-ante (% a.a.) 7,0 7,5 ▲ 6,2 5,5 ▼
+Resultado Primário do Setor Público Consolidado
+-0,7 -0,5 ▲ -1,3 -0,7 ▲
+(% do PIB)
+dos quais Governo Central -0,7 -0,4 ▲ -1,3 -0,6 ▲
+Juros Nominais Líquidos (% do PIB) 7,9 8,6 ▲ 7,5 8,5 ▲
+Resultado Nominal (% do PIB) -8,6 -9,0 ▼ -8,8 -9,2 ▼
+Dívida Bruta do Governo Geral (% do PIB) 82,7 82,5 ▼ 86,2 86,4 ▲
+Relatório de Acompanhamento Fiscal – Agosto de 2026 | 27
+
+=== página 28 ===
+
+
+=== página 29 ===
+/ifibrasil
+@ifiBrasil
+@ifibrasil
+/company/ifibrasil
+/ifibrasil
+github.com/ifibrasil
+ifi@senado.leg.br
+61 3303 2875

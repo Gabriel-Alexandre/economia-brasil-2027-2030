@@ -1,0 +1,1391 @@
+# fonte: https://www12.senado.leg.br/ifi/pdf/raf105_out2025.pdf
+# capturado em: 2026-10-26
+
+
+=== página 1 ===
+Relatório de
+Acompanhamento
+Fiscal
+Nº 105
+23 de Outubro de 2025
+
+=== página 2 ===
+SENADO FEDERAL
+Presidente do Senado Federal
+Senador Davi Alcolumbre (União-AP)
+INSTITUIÇÃO FISCAL INDEPENDENTE
+Diretor-Executivo
+Marcus Vinícius Caetano Pestana da Silva
+Diretor
+Alexandre Augusto Seijas de Andrade
+Analistas
+Alessandro Ribeiro de Carvalho Casalecchi
+Lucas Vinícius Penha Martins Bomfim Leal
+Pedro Henrique Oliveira de Souza
+Rafael da Rocha Mendonça Bacciotti
+Assessora de Comunicação
+Carmensita Corso
+Estagiários
+Gustavo Marciel de Queiroz
+João Pedro Gama de Araujo Bottino
+Lukas Cortez de Medeiros Balogh Fagundes
+Márcio Eduardo Fernandes Domingos
+Secretária executiva
+Thuane Vieira Rocha
+Layout do relatório
+CODIV/SECOM e SEFPRO/SEGRAF
+
+=== página 3 ===
+Ajuste fiscal e decisões parlamentares
+A Instituição Fiscal independente (IFI) publica o 105º Relatório de Acompanhamento Fiscal (RAF),
+de outubro de 2025. O desafio de reequilibrar as contas públicas permanece como um dos pontos
+prioritários da agenda nacional. O equacionamento da política fiscal é missão compartilhada entre
+os Poderes Executivo e Legislativo. Mesmo o Poder Judiciário toma algumas decisões que têm
+impactos fiscais extremamente relevantes.
+O Poder Legislativo tem sido proativo na abordagem de temas de natureza fiscal. Recentemente
+aprovou e promulgou a Emenda Constitucional nº 136, de 2025, que institui limites para pagamentos
+anuais de precatórios por estados e municípios, cria regras para a renegociação de dívidas
+previdenciárias e contratuais dos municípios, e retira integralmente, a partir de 2027, o pagamento
+de precatórios dos limites de despesa da União, além de remover parcialmente essa despesa da
+apuração da meta fiscal do governo central.
+A Câmara dos Deputados posicionou-se contrária ao aumento de impostos (LCAs, LCIs, apostas
+eletrônicas, fintechs, controle de utilização de créditos tributários) propostos na Medida Provisória
+nº 1.303, de 2025, que perdeu validade em 8 de outubro passado. Os recursos derivados dos efeitos
+desta MP faziam parte das receitas esperadas pelo Ministério da Fazenda para cumprir as metas
+fiscais em 2025 e 2026. Novas negociações serão feitas com vistas a recompor o equilíbrio do
+orçamento público da União neste ano e no próximo.
+Paralelamente, a Comissão de Assuntos Econômicos (CAE) do Senado Federal iniciou a discussão
+da Proposta de Resolução do Senado nº 8, de 2025, que pretende regulamentar a Constituição
+Federal e a Lei de Responsabilidade Fiscal no tocante ao estabelecimento de limites para o
+endividamento público federal. O tema é abordado na última análise deste RAF nº 105.
+O Projeto de Lei (PL) nº 1.087, de 2025, avança no Congresso. A proposição isenta os contribuintes
+que recebem até cinco mil reais mensais, reduz a carga daqueles com renda entre cinco mil e sete
+mil trezentos e cinquenta reais e estabelece compensações por meio de tributação mínima para
+altas rendas, para que o efeito fiscal da iniciativa seja neutro.
+Como se vê, o debate fiscal continua a ocupar espaço central no processo decisório das instituições
+brasileiras.
+O RAF nº 105 analisa os impactos da reforma da tributação sobre a renda (PL 1.087/2025). As
+mudanças propostas não têm como objetivo contribuir para o ajuste fiscal via aumento de
+arrecadação, mas sim, aumentar a equidade tributária. O governo federal, proponente do projeto de
+lei, pretendeu que o impacto fiscal fosse neutro. O projeto de Lei sofreu alterações na Câmara dos
+Deputados. A IFI estima que o texto original provocaria algum ganho fiscal, efeito que foi reduzido
+pelas alterações introduzidas (i) no substitutivo da Comissão Especial na Câmara, e (ii) mais ainda,
+no texto aprovado em plenário.
+O impacto líquido positivo nas receitas do IRPF seria de, inicialmente, R$ 9 bilhões/ano, caiu para
+R$ 4 bilhões no texto da Comissão Especial, e, posteriormente, ainda mais, resultando em efeito
+líquido negativo de R$ 1 bilhão/ano no substitutivo aprovado pelo plenário da Câmara. A matéria
+Relatório de Acompanhamento Fiscal – Outubro de 2025 | 3
+
+=== página 4 ===
+agora tramita no Senado Federal e o detalhamento das projeções da IFI é apresentado no corpo
+deste RAF nº 105.
+O presente relatório analisa, ainda, as dificuldades existentes para o cumprimento das metas fiscais
+em 2025, a partir de um déficit primário acumulado de R$ 100,9 bilhões até setembro deste ano. O
+alcance das metas previstas nas diretrizes orçamentárias (LDO 2025) demandará um esforço fiscal
+adicional estimado pela IFI em R$ 27,1 bilhões no último trimestre do ano, consideradas as
+deduções legais previstas (precatórios e outros abatimentos) e a tolerância de 0,25% do PIB em
+relação ao centro da meta, como prevista na Lei Complementar nº 200. Pesaram neste quadro
+desafiador a perda de eficácia da Medida Provisória nº 1.303, de 2025, e a piora no déficit primário
+das empresas estatais.
+Boa leitura!
+Marcus Pestana
+Diretor-Executivo da IFI
+Alexandre Andrade
+Diretor da IFI
+4 | Relatório de Acompanhamento Fiscal – Outubro de 2025
+
+=== página 5 ===
+Destaques
+Impactos fiscais da reforma da tributação sobre a renda
+As estimativas da IFI indicam que o conjunto de medidas de alteração na tributação da renda gera
+ganho líquido médio anual de R$ 9 bilhões em 2026–2028. No substitutivo aprovado na Comissão
+Especial, a ampliação das desonerações e das exclusões na base do imposto mínimo reduz esse
+ganho para R$ 4 bilhões/ano. Já no texto final aprovado no plenário da Câmara, o efeito líquido
+estimado passou a ser ligeiramente negativo (–R$ 1 bilhão/ano). Neste RAF, a IFI analisa o Projeto
+de Lei nº 1.087, de 2025, de autoria do Poder Executivo, o substitutivo aprovado em julho na
+Comissão Especial da Câmara dos Deputados e a versão aprovada em outubro no plenário.
+Atualmente, o PL nº 1.087/2025 tramita no Senado Federal. (Página 6)
+MP 1.303 e estatais trouxeram riscos adicionais para cumprimento da meta de 2025
+A IFI aponta a necessidade de um esforço de R$ 27,1 bilhões no último trimestre do ano para o
+cumprimento formal da meta de resultado primário em 2025. Segundo informações do Tesouro
+Nacional e do Siga Brasil, o governo central acumulou déficit primário de R$ 100,9 bilhões no
+acumulado de 2025 até setembro. A perda de eficácia da Medida Provisória nº 1.303, que implicará
+em R$ 10,6 bilhões a menos em receitas neste ano, e a piora no déficit primário das empresas
+estatais impõem riscos adicionais ao cumprimento da meta fiscal de 2025. O faseamento na
+execução das despesas discricionárias pode aliviar o cenário e compensar, parcialmente, a
+frustração de receitas do governo central, ainda que evidencie as dificuldades para o cumprimento
+das metas fixadas nas diretrizes orçamentárias. (Página 13)
+O PRS 8/2025 e a regulamentação do limite global para a dívida consolidada da União
+A IFI analisa Proposta de Resolução do Senado nº 8/2025, que pretende regulamentar limites para o
+endividamento público federal, previstos na Constituição Federal e na Lei de Responsabilidade
+Fiscal. (Página 27)
+Primeira publicação em: 23 de outubro de 2025
+Arquivo atualizado em: 23 de outubro de 2025
+Confira erratas em: https://www12.senado.leg.br/ifi/publicacoes-1/relatorio/2025/outubro/erratas
+Relatório de Acompanhamento Fiscal – Outubro de 2025 | 5
+
+=== página 6 ===
+Impactos fiscais da reforma da tributação sobre a
+renda
+Rafael Bacciotti
+Introdução
+Em 2025, as mudanças no Imposto de Renda da Pessoa Física (IRPF) avançaram por duas
+frentes complementares. A primeira foi a atualização da faixa inicial de isenção da tabela
+progressiva, promovida pela Medida Provisória (MP) nº 1.294, de 20251, em vigor desde
+maio e posteriormente revogada pela Lei nº 15.1912, de 11 de agosto de 2025. A segunda
+frente corresponde ao Projeto de Lei (PL) nº 1.0873, de 2025, encaminhado pelo Poder
+Executivo para exame do Congresso em março, que institui redução do imposto para
+pessoas físicas de rendas mais baixas e tributação mínima para altas rendas.
+O objetivo é atenuar a baixa progressividade do IRPF, preservando a neutralidade fiscal —
+isto é, o alívio na base seria compensado por maior tributação sobre altas rendas e
+rendimentos pouco tributados atualmente.
+O texto original do PL zera o imposto de contribuintes com rendimentos mensais de até
+R$ 5.000 e reduz, gradualmente, o valor devido até R$ 7.000, com início previsto para 2026.
+Para compensar a renúncia de arrecadação, o projeto estabelece duas medidas principais:
+(i) criação de um imposto mínimo progressivo incidente sobre rendas anuais superiores
+a R$ 600 mil, com alíquotas variando de 0% a 10% (atingindo 10% a partir de quem
+recebe R$ 1,2 milhão ao ano); e
+(ii) retenção de 10% na fonte sobre lucros e dividendos remetidos ao exterior.
+O substitutivo4 aprovado na Comissão Especial da Câmara, em julho, ampliou a renúncia de
+arrecadação e reduziu o potencial das compensações. O plenário da Câmara5, em outubro,
+confirmou a essência do texto, tendo promovido ajustes adicionais que, na margem,
+1 MP nº 1.294/2025. Disponível em:
+https://legislacao.presidencia.gov.br/atos/?tipo=MPV&numero=1294&ano=2025&ato=176ITQE5UNZpWT6e
+b
+2 Disponível em: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/lei/l15191.htm.
+3 PL nº 1.087/2025 (texto do Executivo). Disponível em:
+https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2868788&filename=PL%201087
+/2025
+4 Substitutivo (parecer que substitui integralmente a proposição original, podendo trazer mudanças
+substanciais ou formais). Disponível em:
+https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2953859&filename=PRL+1+PL1
+08725+%3D%3E+PL+1087/2025.
+5 Redação aprovada em Plenário. Disponível em:
+https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3013869&filename=RDF+1+%3D
+%3E+PL+1087/2025.
+6 | Relatório de Acompanhamento Fiscal – Outubro de 2025
+
+=== página 7 ===
+também diminuem o potencial compensatório. Atualmente, a proposta encontra-se em
+exame no Senado Federal6.
+A versão substitutiva aprovada na Câmara manteve a lógica da proposta, mas ampliou o
+alcance da redução, elevando o teto da faixa gradual para R$ 7.350, além de expandir a lista
+de rendimentos e ativos excluídos da base do imposto mínimo – incluindo LCA, LCI, CRI,
+CRA, FII, Fiagro e títulos vinculados a projetos de investimento e infraestrutura. O plenário
+confirmou essas alterações e ampliou a base de exclusões do imposto mínimo ao
+considerar a parcela isenta da atividade rural (art. 16-A, § 1º).
+Como contribuição, este texto apresenta as simulações de impacto da proposta feitas pela
+IFI para o texto aprovado pela Câmara, permitindo comparar os efeitos fiscais oriundos do
+projeto original, do substitutivo e da versão aprovada no plenário da Câmara dos Deputados.
+As estimativas da IFI indicam que, no projeto original, o conjunto de medidas teria algum
+ganho líquido de arrecadação entre 2026 e 2028. No substitutivo, a ampliação da
+desoneração e das exclusões na base do imposto mínimo reduziu esse ganho. Enquanto o
+texto original indicou impacto líquido (soma de desoneração e compensações) de R$ 9
+bilhões/ano (0,1% do PIB), o substitutivo aprovado na Comissão Especial reduziria esse
+saldo para R$ 4 bilhões (0,0% do PIB). No texto final, aprovado em plenário, o efeito líquido
+encontrado foi ligeiramente negativo, em torno de R$ 1 bilhão (0,0% do PIB).
+Atualização da tabela progressiva
+A MP nº 1.294/2025 (revogada pela Lei nº 15.191/20257) promoveu atualização pontual da
+tabela progressiva mensal do IRPF, com efeitos a partir de maio deste ano. O limite da
+primeira faixa de isenção foi elevado em 7,5%, de R$ 2.259,20 para R$ 2.428,80, enquanto
+as demais faixas e parcelas a deduzir permaneceram inalteradas (Tabela 1).
+TABELA 1. TABELA PROGRESSIVA MENSAL (LEI Nº15.191, DE 11 DE AGOSTO DE 2025)
+Faixa Base de cálculo mensal Alíquota Parcela a Deduzir
+1 R$ - R$ 2.428,80 0,0% R$ -
+2 R$ 2.428,81 R$ 2.826,65 7,5% R$ 182,16
+3 R$ 2.826,66 R$ 3.751,05 15,0% R$ 394,16
+4 R$ 3.751,06 R$ 4.664,68 22,5% R$ 675,49
+5 R$ 4.664,68 27,5% R$ 908,73
+Fonte: Receita Federal do Brasil.
+6 Página de tramitação da matéria no Senado Federal disponível em:
+https://www//25.senado.leg.br/web/atividade/matéria /-/matéria/170775.
+7 Lei nº 15.191/2025. Disponível em: https://www2.camara.leg.br/legin/fed/lei/2025/lei-15191-11-agosto-
+2025-797839-publicacaooriginal-176105-pl.html
+Relatório de Acompanhamento Fiscal – Outubro de 2025 | 7
+
+=== página 8 ===
+Na prática, a isenção alcança rendas de até R$ 3.036,00 mensais, pois a Receita Federal
+aplica automaticamente o desconto simplificado mensal de R$ 607,20, que complementa
+a faixa formal de isenção e zera o imposto para quem recebe até dois salários mínimos.
+Segundo a Exposição de Motivos nº 00025/2025/MF8, que acompanhou a MP nº 1.294, a
+atualização da tabela reduz receitas em R$ 3,3 bilhões (2025), R$ 5,3 bilhões (2026) e R$ 5,7
+(2027). As simulações feitas pela IFI indicam impacto semelhante: R$ 3,4 bilhões, R$ 5,4
+bilhões e R$ 5,5 bilhões, respectivamente.
+O cálculo considerou as tabulações públicas da Receita Federal por centis de renda9,
+simulando o imposto devido em dois cenários — (i) tabela anterior e (ii) nova tabela —
+alterando apenas o limite da primeira faixa e mantendo constantes as demais alíquotas e
+parcelas a deduzir. Como os dados públicos estão disponíveis até 2023, a base tributável
+foi atualizada nominalmente para o período de 2024 a 2028 pela variação esperada da
+massa salarial10.
+Em síntese, a medida tem custo fiscal moderado, pois apenas eleva o limite da primeira
+faixa, preservando a estrutura da tabela (sem corrigir a defasagem acumulada).
+Isenção dos assalariados
+A elevação direta da tabela para quem recebe até R$ 5.000/mês teria alto custo e exigiria
+compensações permanentes. Por isso, o PL nº 1.087/2025 adotou um redutor “por fora” da
+tabela, que zera o imposto até R$ 5.000/mês e o reduz linearmente até R$ 7.000/mês, sem
+alterar faixas e alíquotas.
+A IFI estimou o impacto dessa medida com as tabulações públicas da RFB por centis
+(2017–2023), ordenando os declarantes pela renda tributável bruta (RTB), seguindo Gobetti
+(2025)11. Em cada centil, comparou-se o imposto devido nas regras vigentes com o imposto
+devido após a aplicação do redutor12. O benefício zera o imposto até R$ 5.000/mês
+8 Exposição de Motivos nº 00025/2025/MF. Disponível em: https://www.planalto.gov.br/ccivil_03/_ato2023-
+2026/2025/Exm/Exm-1294-25.pdf
+9 Distribuição de Renda por Centis- 2017 a 2023 (versão atualizada de abril de 2025). Disponível em:
+https://www.gov.br/receitafederal/pt-br/centrais-de-conteudo/publicacoes/estudos/distribuicao-da-
+renda/distribuicao-de-renda-por-centis-estudo-ampliado-2017-a-2023
+10 As variações nominais da massa salarial consideradas no exercício foram de 12,2% (2024), 10,0% (2025),
+8,0% (2026), 7,0% (2027) e 7,0% (2028). Os resultados se alteram apenas marginalmente quando utilizadas
+as projeções da grade de parâmetros da SPE.
+11 Gobetti, S. (2025), Nota Técnica do Observatório de Política Fiscal (IBRE/FGV). Disponível em:
+https://observatorio-politica-fiscal.ibre.fgv.br/reformas/tributacao/estimativas-de-impacto-das-mudancas-
+no-imposto-de-renda
+12 No texto original do PL, a função linear apresentada no CAPÍTULO II-A é 9.429,52 − 0,1122562 × RTB (anual).
+No substitutivo, a fórmula torna-se 8.429,73 − 0,095575 × RTB (anual).
+8 | Relatório de Acompanhamento Fiscal – Outubro de 2025
+
+=== página 9 ===
+(R$ 60.000/ano) e decresce linearmente até R$ 7.000/mês (R$ 84.000/ano)13. No
+substitutivo, o teto passa a 7.350/mês (R$ 88.200/ano).
+As estimativas oficiais indicam, para o desenho original (teto em R$ 7.000), renúncia média
+anual de R$ 27,7 bilhões, entre 2026 e 2028; no substitutivo (teto em R$ 7.350), a renúncia
+média sobe para R$ 33,6 bilhões ao ano no período considerado. As simulações da IFI
+resultam em valores próximos aos obtidos no desenho original (R$ 27,0 bilhões) e menores
+no substitutivo (R$ 28,6 bilhões). As discrepâncias podem decorrer de hipóteses sobre a
+evolução da massa salarial14 e do uso de base de dados distintas. Enquanto a Receita
+Federal usa suas bases de declarações do IRPF15, as simulações da IFI utilizam as
+tabulações públicas da Receita por centis de renda.
+Compensações
+A alteração da legislação sobre o imposto de renda foi concebida para combinar a
+desoneração e o desconto na base com mecanismos de compensação voltados às altas
+rendas — principalmente o imposto mínimo de até 10% sobre altas rendas e a incidência de
+IRRF sobre remessas de dividendos ao exterior.
+Imposto mínimo
+Para compensar a isenção e o desconto na faixa de transição, o projeto institui uma alíquota
+efetiva mínima para contribuintes com renda anual acima de R$ 600 mil. A regra é linear
+entre R$ 600 mil e R$ 1,2 milhão, alcançando 10% a partir desse valor16.
+O cálculo do impacto fiscal segue a metodologia de Gobetti (2025), a partir do agregado
+RB417 das tabulações por centis da Receita Federal. Essa base foi ajustada ao art. 16-A do
+PL, subtraindo-se os rendimentos recebidos acumuladamente, poupança, aposentadorias
+isentas por moléstia grave, indenizações trabalhistas e ganhos de capital na alienação de
+bens e direitos, e somando o IR retido exclusivamente na fonte sobre 13º salário, aplicações
+financeiras, juros sobre capital próprio (JCP), participações nos lucros e resultados (PLR) e
+ganhos líquidos em renda variável.
+13 O redutor também incide sobre o IR do 13º salário, de modo que o cálculo anual já contempla esse
+componente.
+14 Efeito relativamente baixo: assumindo as premissas de massa salarial da grade de parâmetros da SPE de
+julho, a diferença diminui em aproximadamente R$ 1 bilhão.
+15 A Nota Cetad/Coest nº 023/2025 apresentou a metodologia das estimativas de impacto fiscal do governo.
+Disponível em: https://www.gov.br/receitafederal/pt-br/centrais-de-conteudo/publicacoes/estudos/notas-
+cetad/notas-tecnicas/2025/nota-cetad-coest-no-023-2025/view.
+16 Conforme a fórmula: Alíquota (%) = (Rendimento anual / 60.000) − 10.
+17 RB4: agregado que soma a renda tributável bruta (RTB) aos rendimentos isentos e aos rendimentos sujeitos
+à tributação exclusiva ou definitiva, excluídas as transferências patrimoniais (doações e heranças). Adota-se
+o RB4 por alinhar-se ao escopo amplo do art. 16-A do PL, que considera também rendas isentas e de
+tributação exclusiva/definitiva.
+Relatório de Acompanhamento Fiscal – Outubro de 2025 | 9
+
+=== página 10 ===
+Com a RB4 ajustada, aplicou-se a alíquota mínima por centil e calculou-se o imposto
+mínimo requerido18. Em seguida, esse valor foi comparado ao IR efetivo já pago (composto
+pelo imposto devido na declaração, 13º salário, PLR, aplicações financeiras, JCP e ganhos
+líquidos em renda variável). A diferença positiva constitui o adicional devido, cuja soma por
+centis define o impacto fiscal agregado.
+No substitutivo da Comissão Especial da Câmara, foram excluídas da base do imposto
+mínimo as remunerações de títulos e valores mobiliários isentos — como LCI, LCA, CRI, CRA,
+debêntures, fundos de infraestrutura, FII e Fiagro. Na apreciação da proposta no plenário da
+Câmara, acrescentou-se ainda a parcela isenta da atividade rural, estreitando a base do
+imposto mínimo.
+Na ausência de comportamento estratégico do contribuinte, a IFI estima arrecadação
+média anual de R$ 41 bilhões/ano, entre 2026 e 2028, com o imposto mínimo. Admitindo
+redução de cerca de 50%19 na distribuição de dividendos, as receitas médias passariam a
+ser de R$ 25 bilhões (projeto original), R$ 24 bilhões (substitutivo da Comissão Especial) e
+R$ 19 bilhões (texto aprovado no plenário da Câmara dos Deputados).
+Lucros e dividendos
+A estimativa do impacto do IRRF de 10% sobre lucros e dividendos remetidos ao exterior
+parte do Balanço de Pagamentos (Banco Central), considerando as rubricas de rendas de
+investimento direto e em carteira, que registram, em dólares, os valores efetivamente
+transferidos por empresas no país a controladores e investidores estrangeiros. Convertidos
+para reais pelo câmbio médio anual, aplicou-se a alíquota de 10%, prevista no PL nº
+1.087/2025, para estimar o potencial de arrecadação - metodologia também utilizada pela
+Consultoria de Orçamentos, Fiscalização e Controle20 (Conorf) do Senado Federal.
+Para projetar os recolhimentos entre 2025 e 2028, adotaram-se hipóteses para a evolução
+da taxa de câmbio e de crescimento do PIB nominal. Reconhecendo reações à nova
+tributação, incorporou-se um redutor para base de incidência em torno de 50%. Com isso, a
+arrecadação estimada ficou em, aproximadamente, R$ 11 bilhões ao ano entre 2026 e 2028,
+valor compatível com as estimativas do Poder Executivo.
+A versão substitutiva encaminhada pela Câmara ao Senado determina que os lucros e
+dividendos calculados com base em resultados apurados a partir de 1º de janeiro de 2026
+18 Equivalente à alíquota mínima multiplicada pela RB4 ajustada.
+19 Como utilizado pelo Made-Usp (2025) - Martins, G. K.; Gomes, J. P. D. F.; Arthen, G. Reforma do IRPF:
+avanços, limites e caminhos para maior progressividade. São Paulo: Centro de Pesquisa em Macroeconomia
+das Desigualdades (Made/USP), 2025. (NPE 71). Disponível em:
+https://madeusp.com.br/en/publications/articles/reforma-do-irpf-avancos-limites-e-caminhos-para-maior-
+progressividade/
+20 Nota Técnica de Impacto Orçamentário e Financeiro nº 13/2025. Disponível em:
+https://www12.senado.leg.br/orcamento/documentos/estudos/tipos-de-estudos/notas-tecnicas-e-
+informativos/sto-2025-00465-nota-tecnica-de-impacto-orcamentario-e-financeiro-13-2025-317401-principal-
+346516-validado.pdf/view
+10 | Relatório de Acompanhamento Fiscal – Outubro de 2025
+
+=== página 11 ===
+estarão sujeitos ao IRRF de 10% quando pagos, creditados, entregues ou remetidos ao
+exterior. Foram ainda consideradas isenções específicas para governos estrangeiros (com
+reciprocidade), fundos soberanos (Lei nº 11.312/2006) e entidades estrangeiras de
+previdência, o que reduz a base efetiva do imposto.
+Síntese dos impactos fiscais
+A Tabela 2 apresenta as estimativas de impacto fiscal das principais medidas do PL nº
+1.087/2025 — tanto no texto original quanto no substitutivo aprovado pela Câmara dos
+Deputados — conforme cálculos do Poder Executivo e da IFI.
+TABELA 2. IMPACTOS FISCAIS DO PL 1.087/2025 (MÉDIA DE 2026 A 2028, R$ BILHÕES)
+Medida
+Projeto original Governo IFI
+1. Isenção de rendimentos até R$ 5 mil, desoneração entre R$ 5 mil e R$ 7 mil -27,7 -27,0
+d/q: Mudança na primeira faixa da tabela progressiva mensal -5,5 -5,5
+2. Imposto mínimo da pessoa física 28,2 25,4
+3. Dividendos para o exterior 9,5 10,8
+Impacto líquido total (1+2+3) 9,9 9,2
+% do PIB 0,1% 0,1%
+Substitutivo/ Comissão Especial
+1. Isenção de rendimentos até R$ 5 mil, desoneração entre R$ 5 mil e R$ 7,35 mil -33,6 -28,6
+d/q: Mudança na primeira faixa da tabela progressiva mensal -5,5 -5,5
+2. Imposto mínimo da pessoa física 25,4 24,2
+3. Dividendos para o exterior 7,6 8,6
+Impacto líquido total (1+2+3) -0,5 4,3
+% do PIB 0,0% 0,0%
+Fonte: IFI e Receita Federal.
+No projeto original, o conjunto das medidas resultaria em um ganho líquido de arrecadação
+médio anual de cerca de R$ 9 bilhões (0,1% do PIB) entre 2026 e 2028. A desoneração para
+rendas de até R$ 7.000 reduziria a arrecadação em cerca de R$ 27 bilhões anuais, já incluído
+o efeito da atualização da tabela progressiva. As compensações, sobretudo o imposto
+mínimo da pessoa física (R$ 25,4 bilhões/ano) e o IRRF sobre dividendos ao exterior
+(R$ 10,8 bilhões/ano), seriam suficientes para neutralizar o custo inicial, assegurando
+ligeiro superávit líquido na arrecadação21.
+21 De acordo com o art. 4º do PL, parte do ganho de arrecadação será utilizada para compensar eventuais
+perdas de Estados, DF e Municípios decorrentes da redução do IRRF sobre a folha de servidores e dos
+repasses dos Fundos de Participação, mediante aumento das receitas desses Fundos (FPE e FPM). Se esse
+acréscimo for insuficiente, a União realizará suplementação trimestral usando exclusivamente o excedente
+de arrecadação da própria lei em relação às estimativas de impacto orçamentário-financeiro. O art. 5º
+Relatório de Acompanhamento Fiscal – Outubro de 2025 | 11
+
+=== página 12 ===
+No substitutivo aprovado na Câmara dos Deputados, a elevação do teto do redutor para
+R$ 7.350 e a exclusão de novas fontes da base do imposto mínimo reduziram o potencial
+de compensação. Nessa versão, a IFI estima impacto líquido levemente positivo (R$ 4,3
+bilhões), enquanto as projeções oficiais indicam ligeira perda de arrecadação no horizonte
+(- R$ 0,5 bilhão). No texto aprovado em Plenário, as contas da IFI apontam impacto líquido
+de cerca de −R$ 1,0 bilhão, em razão da inclusão da parcela isenta da atividade rural entre
+as exclusões do imposto mínimo.
+De forma agregada, as estimativas sugerem que o conjunto de medidas do IRPF — no
+projeto original e na versão aprovada pela Câmara — tendem à neutralidade fiscal,
+condicionada à efetiva arrecadação das medidas compensatórias e ressalvando-se a
+elevada sensibilidade dos resultados às premissas comportamentais adotadas.
+Atualmente, o PL nº 1.087/2025 tramita no Senado Federal.
+estabelece que eventual superávit remanescente, após as compensações, servirá de fonte para neutralizar a
+alíquota de referência da CBS, nos termos do art. 18 da EC 132/2023.
+12 | Relatório de Acompanhamento Fiscal – Outubro de 2025
+
+=== página 13 ===
+MP 1.303 e estatais trouxeram riscos adicionais para
+cumprimento da meta de 2025
+Alexandre Andrade e Pedro Souza
+Considerações sobre o primário do governo central entre janeiro e setembro
+de 2025 e projeções
+De acordo com dados da Secretaria do Tesouro Nacional (STN) e do Portal Siga Brasil22, o
+governo central, que inclui o Tesouro, o INSS e o Banco Central, acumulou déficit primário
+de R$ 100,9 bilhões, de janeiro a setembro, ante déficit de R$ 103,6 bilhões em igual período
+de 2024, uma diferença de R$ 2,7 bilhões (Tabela 3). No acumulado de 12 meses, houve
+déficit de R$ 40,2 bilhões (0,3% do PIB) em setembro deste ano, contra déficit de R$ 239,4
+bilhões (2,1% do PIB) em setembro de 2024.
+A Tabela 3 apresenta o resultado primário do governo central no acumulado de janeiro a
+setembro de 2024 e 2025, com valores de receitas, transferências e despesa primária total.
+Pela tabela, percebe-se um menor crescimento das receitas neste ano na comparação com
+2024, ainda que o incremento, em termos reais, seja relativamente robusto. A despesa
+primária também exibe menor crescimento em 2025, de 2,8% nos primeiros nove meses do
+ano, contra aumento de 6,5% em igual período de 2024.
+TABELA 3. RESULTADO PRIMÁRIO DO GOVERNO CENTRAL – 2024 E 2025 (R$ BILHÕES E
+VAR. REAL %)
+jan-set 2024 jan-set 2025 Diferença
+entre 2025 e
+Discriminação
+2024
+R$ bilhões var. % real R$ bilhões var. % real
+(R$ bilhões)
+1. Receita primária total 1.926,6 7,2% 2.102,7 3,8% 176,2
+2. Transferências por repartição de receita 378,2 10,6% 416,9 4,8% 38,7
+3. Receita primária líquida [1-2] 1.548,4 6,4% 1.685,9 3,6% 137,5
+4. Despesa primária 1.652,0 6,5% 1.786,8 2,8% 134,8
+5. Resultado primário [3-4] -103,6 - -100,9 - 2,7
+Fonte: Secretaria do Tesouro Nacional e Siga Brasil. Elaboração: IFI.
+O Gráfico 1 apresenta o resultado primário do governo central no acumulado de nove meses
+de 2024 e 2025. Os dados foram deflacionados pelo IPCA com base em setembro de 2025.
+22 Disponível em: https://www12.senado.leg.br/orcamento/sigabrasil.
+Relatório de Acompanhamento Fiscal – Outubro de 2025 | 13
+
+=== página 14 ===
+O comportamento das curvas indica, claramente, um melhor resultado primário nos
+primeiros meses deste ano no confronto com o ano passado23.
+GRÁFICO 1. RESULTADO PRIMÁRIO DO GOVERNO CENTRAL ACUMULADO DE JANEIRO A
+SETEMBRO (2024 E 2025) - R$ BILHÕES A PREÇOS DE SET/25
+100,0
+88,0
+75,7
+57,3
+55,7
+86,0
+35,1
+50,0
+34,7
+-9,4
+23,5
+0,0
+22,4
+-29,5
+-50,0
+-70,5
+-68,8
+-84,5
+-99,3
+-100,0 -79,9
+-103,3
+-108,7
+-150,0
+janeiro fevereiro março abril maio junho julho agosto setembro
+2024 2025
+Fonte: Secretaria do Tesouro Nacional, Siga Brasil, IBGE e IFI. Elaboração: IFI
+Como sugerido pela IFI no Relatório de Acompanhamento Fiscal nº 102, já referenciado
+neste texto, o resultado primário de 2025 pioraria no segundo semestre do ano em razão
+do aumento na execução de algumas despesas com controle de fluxo (obrigatórias e
+discricionárias) e do pagamento de precatórios, o que ocorreu em julho. O Gráfico 1 ilustra
+a deterioração ocorrida no resultado primário, em 2025, a partir de junho.
+Como evidencia a Tabela 3, as receitas primárias do governo central registraram
+crescimento de 3,8%, em termos reais, nos primeiros nove meses de 2025, ante alta real de
+7,2% no mesmo período do ano passado. O aumento das receitas, em 2025, ganhou impulso
+com as receitas administradas, com incremento de 4,2% nessa base de comparação, e a
+arrecadação líquida para o RGPS, com acréscimo de 5,1%. As receitas não administradas
+registraram relativa estabilidade nos primeiros nove meses de 2025 (redução real de 0,5%).
+A despesa primária do governo central cresceu 2,8%, em termos reais, no acumulado de
+2025 até setembro, ante incremento de 6,5% registrado em igual período do ano passado.
+Determinam o comportamento da despesa neste ano (i) o pagamento de benefícios
+23 Para uma explicação mais detalhada a respeito do melhor desempenho do resultado primário no primeiro
+semestre de 2025 na comparação com igual período de 2024, ver o RAF nº 102, de julho de 2025. Disponível
+em: https://www2.senado.leg.br/bdsf/bitstream/handle/id/714955/RAF102_JUL2025.pdf.
+14 | Relatório de Acompanhamento Fiscal – Outubro de 2025
+
+=== página 15 ===
+previdenciários (+4,1%, ante acréscimo de 3,5% em 2024 até setembro); (ii) a despesa de
+pessoal (+3,9%, ante 1,1% de aumento em 2024 até setembro); (iii) o pagamento do
+Benefício de Prestação Continuada (BPC), com elevação real de 10,2% em 2025, ante
+incremento de 16,2% registrado em igual período de 2024; (iv) a complementação da União
+ao Fundeb (+19,6%, ante 20,2% em 2024); (v) subsídios, subvenções e Proagro (+30,2%
+neste ano, ante redução de 16,1% em 2024); e (vi) as despesas discricionárias, que
+registraram queda real de 3,3% no acumulado deste ano até setembro, ante aumento de
+11,5% ocorrido no mesmo período de 2024. As razões para a menor execução das despesas
+discricionárias neste ano serão melhor detalhadas adiante.
+Com base nas informações apresentadas na Tabela 3, atualizadas até setembro, a Tabela
+4 detalha o resultado primário requerido, entre outubro e dezembro, para o cumprimento da
+meta fiscal (resultado primário zero) neste ano.
+TABELA 4. EXERCÍCIO FEITO PELA IFI PARA AVALIAR O ESFORÇO FISCAL REQUERIDO
+PARA O CUMPRIMENTO DA META FISCAL DE 2025
+Discriminação Resultado (R$ bilhões)
+1. Meta de resultado primário para 2025 0,0
+2. Limite inferior da meta de resultado primário para 2025 -31,0
+3. Resultado primário acumulado de janeiro a setembro de 2025 -100,9
+4. Deduções da meta do ano (acumulado de janeiro a setembro)* 42,8
+5. Resultado primário para fim de cumprimento da meta (acumulado de janeiro a setembro) [3+4] -58,1
+6. Resultado primário requerido para cumprir o centro da meta entre outubro e dezembro 58,1
+7. Resultado primário requerido para cumprir o limite inferior da meta entre outubro e dezembro [2-5] 27,1
+* Os R$ 42,8 bilhões representam a soma das despesas voltadas à calamidade do RS, no montante de R$ 2,1
+bilhões, mais o crédito extraordinário de R$ 26,0 milhões disciplinado na Medida Provisória n° 1.238, de 2024, as
+despesas voltadas à emergência climática (disciplinadas na.ADPF 743/2024), o pagamento de R$ 38,6 bilhões
+em precatórios além dos limites definidos no art. 107-A do Ato das Disposições Constitucionais Transitórias
+(ADCT), e o pagamento de R$ 1,7 bilhão referente ao ressarcimento aos aposentados e pensionistas do INSS. Os
+valores constituem totais acumulados até setembro de 2025.
+Fonte: RARDP 4° Bimestre de 2025, Decreto n° 12.637, de 30 de setembro de 2025 e IFI. Elaboração: IFI.
+Considerando o resultado primário para fim de cumprimento da meta, no acumulado de
+janeiro a setembro, de R$ 58,1 bilhões, que deduz do déficit primário acumulado no período
+(R$ 100,9 bilhões) os abatimentos legais da meta (R$ 42,8 bilhões), serão necessários
+outros R$ 58,1 bilhões para o atingimento do centro da meta de resultado primário zero,
+definida na LDO 2025, nos últimos três meses do ano. Quando se considera o limite inferior
+da meta (-0,25% do PIB ou déficit de R$ 31,0 bilhões), o primário requerido para o
+cumprimento da meta fiscal deste ano passa a ser de R$ 27,1 bilhões entre outubro e
+dezembro. Ou seja, R$ 27,1 bilhões correspondem ao esforço fiscal necessário para o
+cumprimento formal da meta de resultado primário de 2025.
+Relatório de Acompanhamento Fiscal – Outubro de 2025 | 15
+
+=== página 16 ===
+Para concluir esta primeira subseção, a Tabela 5 compara as projeções de 2025
+apresentadas pelo Poder Executivo no RARDP do 4º Bimestre com as estimativas da IFI de
+junho de 202524, ajustadas em agosto25 para incorporar os efeitos dos decretos de elevação
+das alíquotas do IOF e da Medida Provisória (MP) nº 1.303, de 2025, que perdeu eficácia
+em razão da ausência de deliberação pelo Congresso.
+TABELA 5. PROJEÇÕES DO PODER EXECUTIVO E DA IFI PARA O RESULTADO PRIMÁRIO
+DO GOVERNO CENTRAL EM 2025
+Diferença IFI
+RARDP 4º bim e
+(jun/25 e
+Decreto nº 12.637,
+IFI (jun/25 e ago/25) ago/25) e
+de 30 de setembro
+Discriminação RARDP 4º
+de 2025
+bimestre
+R$ bilhões % PIB R$ bilhões % PIB R$ bilhões % PIB
+1. Receita primária total 2.924,2 22,9 2.891,6 22,8 -32,7 -0,1
+2. Transferências por repartição de receita 580,6 4,6 576,4 4,5 -4,2 0,0
+3. Receita primária líquida [1-2] 2.343,6 18,4 2.315,2 18,3 -28,4 -0,1
+4. Despesa primária 2.417,1 19,0 2.393,3 18,9 -23,8 -0,1
+5. Resultado primário governo central [3-4] -73,5 -0,6 -78,1 -0,6 -4,6 0,0
+6. Meta de resultado primário (LDO 2025) 0,0 0,0 0,0 0,0
+7. Limite inferior da meta de resultado primário (LDO 2025) -31,0 -0,25 -31,0 -0,25 0,0 0,0
+8. Despesas não consideradas no resultado primário (ADIs 7064/7047) 43,3 0,3 45,3 0,4 2,1 0,0
+9. Resultado primário para cumprimento da LDO 2024 [5+8] -30,2 -0,2 -32,7 -0,3 -2,6 0,0
+10. Ajuste para a meta [9-6] -30,2 -0,2 -32,7 -0,3
+11. Ajuste para o limite inferior da meta [9-7] 0,8 0,0 -1,8 0,0
+Fonte: RARDP do 4º Bimestre de 2025 e IFI. Elaboração: IFI.
+Ainda que a MP nº 1.303 não tenha sido deliberada pelo Poder Legislativo, vale mencionar
+alguns pontos importantes. O Poder Executivo considerava a aprovação da referida MP e o
+recolhimento de R$ 10,6 bilhões ainda neste ano na projeção de resultado primário do
+governo central para 2025, apresentada no RARDP do 4º Bimestre. Como a norma ficou em
+vigência entre 11 de junho e 8 de outubro, algum efeito deve ter produzido sobre a
+arrecadação federal no período.
+Levando em conta que praticamente todo o montante estimado de recolhimentos oriundo
+da MP nº 1.303 decorreria da limitação de compensações tributárias (R$ 10,0 bilhões dos
+R$ 10,6 bilhões previstos em 202526), e assumindo que o impacto sobre a receita primária
+líquida do governo central seria nesse montante (e desconsiderando o período de vigência
+da MP), haveria a necessidade de um esforço fiscal de R$ 9,8 bilhões para o cumprimento
+formal da meta neste ano. Este montante corresponderia a R$ 0,8 bilhão de sobra em
+relação ao limite inferior da meta menos os R$ 10,6 bilhões da estimativa de recolhimento
+24 Ver o RAF nº 101, de junho de 2025. Disponível em:
+https://www2.senado.leg.br/bdsf/bitstream/handle/id/703934/RAF101_JUN2025.pdf.
+25 Ver o RAF nº 103, de agosto de 2025. Disponível em:
+https://www2.senado.leg.br/bdsf/bitstream/handle/id/757438/RAF103_AGO2025.pdf.
+26 Vide a Tabela 2 do referenciado RAF nº 103, de agosto de 2025.
+16 | Relatório de Acompanhamento Fiscal – Outubro de 2025
+
+=== página 17 ===
+com a MP neste ano, e resultam de projeções do Poder Executivo. Com a perda de eficácia
+da MP nº 1.303, a IFI calcula a necessidade de um esforço fiscal de R$ 12,4 bilhões (menos
+R$ 1,8 bilhão menos R$ 10,6 bilhões) para compensar a perda de arrecadação prevista na
+MP nº 1.303.
+Ou seja, em um contexto de aperto no cenário de receitas e despesas projetadas para o
+ano, a perda de arrecadação contida na MP nº 1.303 prejudicará o cumprimento da meta
+fiscal de 2025. Como será melhor analisado adiante, a redução na arrecadação deste ano
+pode ser compensada com a limitação na execução das despesas discricionárias do
+exercício. De todo modo, surgiu um risco adicional para o cumprimento da meta de
+resultado primário deste ano (resultado primário zero) e de 2026 (superávit primário de
+0,25% do PIB, equivalente a R$ 34,3 bilhões, conforme o PLOA 2026).
+RARDP do 4º Bimestre de 2025
+Os dados relativos a receitas e despesas do governo central em 2025, até agosto, indicam
+desvios importantes em relação ao planejado e divulgado nos Relatórios de
+Acompanhamento de Receitas e Despesas Primárias (RARDP).
+De acordo com as informações levantadas pela IFI no Siga Brasil, nos Boletins Resultado
+do Tesouro Nacional (RTN), e nos dados apresentados no já referenciado Decreto nº 12.448,
+de 202527, editado após a sanção da Lei Orçamentária Anual (LOA) de 2025, a frustração
+acumulada nas receitas até o quarto trimestre do ano foi de R$ 19,7 bilhões. Ou seja, no
+acumulado de janeiro a agosto, as receitas primárias realizadas ficaram abaixo da
+arrecadação pretendida no orçamento.
+O Decreto nº 12.47728, publicado no fim de maio, após a divulgação do RARDP do 2º
+Bimestre de 2025, atestando a impossibilidade de realização de algumas receitas, reduziu
+a estimativa de arrecadação para o ano em mais de R$ 31,3 bilhões, o que provocou uma
+contenção de despesas da mesma ordem na época da publicação do decreto. Na ocasião,
+ainda não havia expectativa de aumento de arrecadação com as alterações de alíquotas do
+IOF e com a Medida Provisória (MP) nº 1303, de 202529, o que explica o desvio de R$ 9,9
+bilhões entre a arrecadação efetiva e a estimada.
+O Decreto nº 12.56630, editado em julho após a divulgação do RARDP do 3º Bimestre de
+202531, considerou o impacto conjunto dessas duas medidas, tornando possível uma
+revisão para cima da estimativa da receita primária em R$ 25,4 bilhões neste ano ante o
+apresentado no Decreto nº 12.477.
+27 Disponível em: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/decreto/D12448.htm.
+28 Disponível em: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/decreto/D12477.htm.
+29 Disponível em: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/mpv/mpv1303.htm.
+30 Disponível em: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/decreto/D12566.htm.
+31 Disponível em: https://www.tesourotransparente.gov.br/publicacoes/relatorio-de-avaliacao-de-receitas-e-
+despesas-primarias-rardp/2025/15.
+Relatório de Acompanhamento Fiscal – Outubro de 2025 | 17
+
+=== página 18 ===
+O Gráfico 2 apresenta os desvios acumulados de receitas primárias em relação aos valores
+constantes dos decretos de programação orçamentária e financeira. Mesmo com a
+incorporação de novas receitas na projeção do ano, feita na avaliação do 3º bimestre, houve
+uma frustração de R$ 1,9 bilhão na arrecadação ante o projetado naquela avaliação
+bimestral.
+Esse desvio de R$ 1,9 bilhão explica-se da seguinte forma: (i) frustração de R$ 1,5 bilhão
+nas receitas administradas; (ii) frustração de R$ 1,1 bilhão nas receitas não administradas;
+(iii) parcialmente compensados por desvio positivo (considerando os valores arrecadados
+e os projetados) na arrecadação líquida para o RGPS, de R$ 0,7 bilhão.
+GRÁFICO 2. DESVIOS ACUMULADOS DA RECEITA PRIMÁRIA EM RELAÇÃO AOS VALORES
+CONSTANTES DOS DECRETOS DE PROGRAMAÇÃO ORÇAMENTÁRIA E FINANCEIRA
+(R$ BILHÕES)
+15,0
+9,9
+10,0 7,6
+5,0
+0,0
+-5,0 -1,9
+-10,0 -6,7
+-15,0
+-14,9
+-15,8
+-20,0
+-19,7
+-25,0
+1º bimestre 2º bimestre 3º bimestre 4º bimestre
+Decreto nº 12.448/2025 Decreto nº 12.477/2025 Decreto nº 12.566/2025
+Fonte: Decretos de Programação Orçamentária e Financeira de 2025, Secretaria do Tesouro Nacional e Siga
+Brasil. Elaboração: IFI
+O Decreto nº 12.63732, publicado em 30 de setembro passado, após a divulgação do RARDP
+do 4º Bimestre de 202533, apresentou uma nova projeção para a receita primária do governo
+central neste ano, de R$ 2.924,2 bilhões, R$ 0,2 bilhão inferior à estimativa divulgada no
+Decreto nº 12.566 (RARDP 3º Bimestre). Houve uma revisão para baixo na projeção das
+receitas administradas, em R$ 12,0 bilhões, compensadas por uma revisão para cima na
+estimativa de ingresso de receitas não administradas, em R$ 12,3 bilhões. Essa alteração
+na estimativa de recolhimento de receitas não administradas deveu-se à expectativa de
+uma maior arrecadação em receitas de exploração de recursos naturais e dividendos e
+participações.
+32 Disponível em: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/decreto/D12637.htm.
+33 Disponível em: https://www.tesourotransparente.gov.br/publicacoes/relatorio-de-avaliacao-de-receitas-e-
+despesas-primarias-rardp/2025/16.
+18 | Relatório de Acompanhamento Fiscal – Outubro de 2025
+
+=== página 19 ===
+O Gráfico 3 apresenta os desvios acumulados entre os valores realizados e os projetados
+para as despesas primárias do governo central. Os dados evidenciam desvios negativos
+entre janeiro e agosto deste ano. No 4º bimestre, especificamente, a execução financeira
+das despesas primárias foi R$ 31,7 bilhões inferior ao estimado no Decreto nº 12.566
+(RARDP do 3º Bimestre de 2025).
+GRÁFICO 3. DESVIOS ACUMULADOS DA DESPESA PRIMÁRIA EM RELAÇÃO AOS
+DECRETOS DE PROGRAMAÇÃO ORÇAMENTÁRIA E FINANCEIRA (R$ BILHÕES)
+5,0 2,4
+0,0
+-5,0
+-3,8
+-10,0
+-15,0
+-14,0
+-20,0
+-20,3
+-21,9 -21,5
+-25,0
+-30,0
+-31,7
+-35,0
+1º bimestre 2º bimestre 3º bimestre 4º bimestre
+Decreto nº 12.448/2025 Decreto nº 12.477/2025 Decreto nº 12.566/2025
+Fonte: Decretos de Programação Orçamentária e Financeira de 2025, Secretaria do Tesouro Nacional e Siga
+Brasil. Elaboração: IFI
+O desvio negativo de R$ 31,7 bilhões entre os valores executados de despesas primárias e
+os valores estimados se explica pelas seguintes razões: (i) execução, a menor, de R$ 2,3
+bilhões na despesa de pessoal em relação ao projetado; (ii) pagamento, a menor, de R$ 4,9
+bilhões de benefícios previdenciários em relação ao estimado; (iii) execução abaixo do
+projetado de R$ 7,3 bilhões em despesas com sentenças judiciais e precatórios; e (iv)
+gastos com subsídios, subvenções e Proagro R$ 3,4 bilhões inferiores aos estimados.
+Houve um desvio negativo de R$ 3,3 bilhões na execução das despesas obrigatórias com
+controle de fluxo em relação aos valores apresentados no Decreto nº 12.566 (RARDP 3º
+Bimestre de 2025). Apesar de o Decreto de Programação Orçamentária e Financeira (DPOF)
+não apresentar estimativas por rubrica, informações referentes à execução financeira
+indicam um desempenho de R$ 351,7 bilhões em 2025 até agosto, configurando redução
+real de 0,4% ante o mesmo período de 2024.
+À exceção do Programa Bolsa Família, que teve um desembolso de R$ 108,0 bilhões entre
+janeiro e agosto (queda real de 8,5% em relação ao ano passado), as demais despesas
+obrigatórias com controle de fluxo registraram aumento real entre janeiro e agosto de 2025,
+na comparação com 2024. Como explicado no já referenciado RAF nº 102, de julho de 2025,
+a variação negativa da despesa voltada ao Programa Bolsa Família explica-se pela ausência
+Relatório de Acompanhamento Fiscal – Outubro de 2025 | 19
+
+=== página 20 ===
+de reajuste nos benefícios, que reduz o valor real em razão da inflação, e pela diminuição
+do número de famílias beneficiárias, que caiu de 20,8 milhões, em agosto de 2024, para
+19,2 milhões em agosto de 2025, uma diferença de 1,6 milhão.
+As despesas discricionárias registraram execução relativamente baixa nos nove primeiros
+meses do ano. As razões para isso são: (i) a sanção do orçamento34 de 2025 apenas em 10
+de abril; e (ii) o faseamento35 criado na execução dessas despesas em março.
+O empenho representa a primeira etapa da execução de uma despesa. A existência de um
+limite para empenho, como determinado no Decreto nº 12.416 (faseamento), configura uma
+limitação para sua realização. Na prática, isso significa que as unidades orçamentárias do
+Poder Executivo somente podem iniciar despesas discricionárias até o limite fixado.
+Como apresentado no Gráfico 4, o total de empenhos das despesas discricionárias ficou
+R$ 25,0 bilhões abaixo do limite fixado até setembro, conforme o Decreto nº 12.56636, de
+2025. Isso não significa que esses valores não serão executados, mas explica parte da
+baixa execução das despesas discricionárias até o momento. Esse faseamento não limitou
+o pagamento das emendas parlamentares, apesar de os empenhos de tais despesas terem
+sido relativamente baixos até o momento (66,1% do limite anual das emendas impositivas
+e 19,2% das emendas de comissão).
+O faseamento dos limites de empenho, em 2025, mostra que, até novembro, as unidades
+orçamentárias poderão empenhar até R$ 186,2 bilhões, o que corresponde a 90,5% das
+despesas discricionárias autorizadas no exercício, ficando a execução dos 9,5% restantes
+para dezembro. Caso surjam eventuais impedimentos para o empenho integral dessas
+despesas, os valores não poderão mais ser empenhados, resultando em uma economia de
+recursos e, consequentemente, em uma melhora do resultado primário do exercício atual e
+do exercício seguinte, em razão de menor inscrição de restos a pagar.
+34 O Projeto de Lei Orçamentária de 2025 (PLOA 2025), ou Projeto de Lei do Congresso Nacional (PLN) nº 26,
+de 2024, foi aprovado pelo Congresso em 20 de março passado (página para tramitação da matéria:
+https://www.congressonacional.leg.br/materias/pesquisa/-/materia/165205). A sanção do projeto ocorreu
+em 10 de abril, resultando na Lei nº 15.121, a lei orçamentária de 2025, que pode ser acessada no seguinte
+endereço: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/lei/L15121.htm.
+35 Em 21 de março de 2025, o Poder Executivo editou o Decreto nº 12.416 para dispor sobre a execução
+orçamentária dos órgãos, dos fundos e das entidades do Poder Executivo Federal. Esse decreto restringiu a
+execução das despesas discricionárias deste ano a 1/18 (um dezoito avos) das dotações previstas no PLOA
+2025, criando um faseamento nessa execução até dezembro. Página para acesso à norma:
+https://www.in.gov.br/en/web/dou/-/decreto-n-12.416-de-21-de-marco-de-2025-619281491. O referido
+Decreto foi revogado assim que publicado o Decreto nº 12.448, de 2025, que manteve a sistemática do
+faseamento nas despesas da LOA 2025. Página para acesso ao Decreto nº 12.448 (que dispõe sobre a
+programação orçamentária e financeira do exercício de 2025):
+https://www.planalto.gov.br/ccivil_03/_ato2023-
+2026/2025/decreto/Anexo/Anexo1a20_D12448.htm#anexo11.2.
+36 Disponível em: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/decreto/d12566.htm.
+20 | Relatório de Acompanhamento Fiscal – Outubro de 2025
+
+=== página 21 ===
+GRÁFICO 4. EMPENHOS DE DESPESAS DISCRICIONÁRIAS E LIMITES DE EMPENHO
+(R$ BILHÕES)
+250
+Decreto nº 12.637:
+186,2 Decreto nº 12.637:
+Decreto nº 12.566: 205,6
+200 157,7
+Decreto nº 12.477:
+129,0
+Decreto nº 12.448:
+150 99,6 132,7
+111,0
+92,2
+100
+70,7
+49,4
+40,0
+50
+24,0
+15,8
+6,1
+0
+jan/25 fev/25 mar/25 abr/25 mai/25 jun/25 jul/25 ago/25 set/25 out/25 nov/25 dez/25
+Limite Vigente Empenhos realizados
+Fonte: Siga Brasil e DPOFs.
+* Considera as despesas discricionárias, as emendas parlamentares impositivas e as emendas de comissão.
+Outra restrição para a execução das despesas discricionárias neste ano decorre dos limites
+de pagamento. O limite de pagamento corresponde a uma limitação para a execução
+financeira, de modo a compatibilizar o fluxo de desembolsos das despesas com controle
+de fluxo do Poder Executivo às projeções de receita primária do governo central para o
+cumprimento da meta de resultado primário37. Como ilustrado no Gráfico 5, até o fim do 4º
+bimestre, as despesas discricionárias permaneceram R$ 7,4 bilhões (R$ 114,7 bilhões de
+limite de pagamento menos R$ 107,3 bilhões de valores pagos) abaixo do limite de
+pagamento estabelecido no DPOF. Essa diferença é denominada de “empoçamento” de
+recursos.
+37 O art. 2º do Decreto nº 12.448, de 2025, já referenciado neste texto, estabelece: “Art. 2º O pagamento de
+despesas primárias sujeitas a controle de fluxo no exercício de 2025, inclusive dos restos a pagar de exercícios
+anteriores e daquelas relativas aos créditos suplementares e especiais abertos e aos créditos especiais
+reabertos neste exercício, observará os valores autorizados e os cronogramas de pagamento constantes deste
+Decreto”.
+Relatório de Acompanhamento Fiscal – Outubro de 2025 | 21
+
+=== página 22 ===
+GRÁFICO 5. LIMITES DE PAGAMENTO E DESPESAS DISCRICIONÁRIAS PAGAS
+(R$ BILHÕES)
+250,0
+210,1
+200,0
+155,9
+150,0
+114,7
+100,0 81,1
+107,3
+56,4
+50,0 70,7
+43,9
+0,0
+1º Bimestre 2º Bimestre 3º Bimestre 4º Bimestre 5º Bimestre 6º Bimestre
+Limite Vigente Valores pagos
+Fonte: Siga Brasil e DPOFs.
+* Considera as despesas discricionárias, as emendas parlamentares impositivas e as emendas de comissão.
+Ainda de acordo com o Gráfico 5, os limites estabelecidos nos DPOFs mostram que, até o
+fim do 5º bimestre, o Poder Executivo pode pagar R$ 155,9 bilhões, o que corresponde a
+74,2% do limite de pagamento (R$ 210,1 bilhões) previsto para o exercício. Dessa forma,
+25,8% das despesas discricionárias de 2025 podem ser pagas em apenas um bimestre
+(novembro e dezembro). Isso permitiria que, em caso de frustrações agudas nas receitas
+estimadas para o ano, ainda houvesse contenção de despesas em tempo hábil.
+É preciso ressaltar, no entanto, que o empoçamento não pode ser entendido como uma
+economia efetiva de recursos, diferentemente do que ocorre com o limite de empenho. Isso
+porque, caso os empenhos já tenham sido realizados, essas despesas possivelmente serão
+executadas, havendo um mero deslocamento do momento de pagamento, o que pode
+contribuir para o cumprimento da meta de resultado primário de 2025, podendo implicar,
+contudo, na inscrição de restos a pagar para o exercício de 2026.
+Riscos para o cumprimento da meta fiscal de 2025 (de resultado primário
+zero)
+No contexto das discussões a respeito do PLDO 2026 e do PLOA 2026, persistem alguns
+riscos para o cumprimento da meta de resultado primário zero em 2025. O primeiro risco
+indicado pela IFI se associa às receitas projetadas, tendo em vista a perspectiva de
+desaceleração da atividade econômica, neste segundo semestre, e a caducidade da MP nº
+1.303, com a qual o Poder Executivo pretendia arrecadar R$ 10,6 bilhões em 202538.
+38 Vide a Exposição de Motivos que acompanhou a referida medida provisória. Disponível em:
+https://legis.senado.leg.br/sdleg-getter/documento?dm=9973021&ts=1760031481889&disposition=inline.
+22 | Relatório de Acompanhamento Fiscal – Outubro de 2025
+
+=== página 23 ===
+O mencionado faseamento na execução de despesas discricionárias e a fixação de limites
+de pagamento e de empenho podem atenuar esse risco de materialização de receitas no
+exercício de 2025, embora não o afaste completamente.
+Um segundo risco para o cumprimento da meta fiscal de 2025 decorre do resultado
+primário das empresas estatais não dependentes. Como demonstrado no Gráfico 6, essas
+empresas têm apresentado déficit primário desde abril de 2024. No acumulado de 12
+meses até agosto de 2025, o déficit alcançou R$ 8,9 bilhões, segundo dados do Banco
+Central. O RARDP do 4º Bimestre piorou a projeção do resultado das empresas estatais
+para 2025, de um déficit de R$ 6,5 bilhões para outro de R$ 9,2 bilhões.
+GRÁFICO 6. RESULTADO PRIMÁRIO DAS EMPRESAS ESTATAIS FEDERAIS EM 12 MESES
+E PROJEÇÕES DOS RARDP (R$ BILHÕES)
+15,0
+10,0
+5,0
+0,0
+-5,0
+-10,0
+-8,93
+-15,0
+9 9 9 9 0 0 0 0 1 1 1 1 2 2 2 2 3 3 3 3 4 4 4 4 5 5 5 5
+1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+/ / / / / / / / / / / / / / / / / / / / / / / / / / / /
+n
+a j
+r
+b a
+lu
+j
+t
+u o
+n
+a j
+r
+b a
+lu
+j
+t
+u o
+n
+a j
+r
+b a
+lu
+j
+t
+u o
+n
+a j
+r
+b a
+lu
+j
+t
+u o
+n
+a j
+r
+b a
+lu
+j
+t
+u o
+n
+a j
+r
+b a
+lu
+j
+t
+u o
+n
+a j
+r
+b a
+lu
+j
+t
+u o
+Projeção para o ano - RARDP Resultado primário - 12 meses
+Fonte: Secretaria do Tesouro Nacional e Banco Central do Brasil. Elaboração: IFI.
+A análise do resultado primário das empresas estatais federais é importante porque o §2º
+do art. 3º da LDO 202539 possibilita a compensação entre as metas de resultado primário
+do governo central e das estatais federais, o que pode facilitar o cumprimento da meta de
+resultado primário fixada na LDO. Porém, com a piora do resultado das empresas estatais,
+como evidenciado no Gráfico 6, além de a margem para o cumprimento da meta ter se
+estreitado, caso a trajetória do resultado das estatais não seja revertida, é possível que a
+mencionada compensação tenha que ocorrer pelo resultado do governo central, elevando
+a eventual necessidade de esforço fiscal do Poder Executivo nos últimos meses de 2025.
+39 Disponível em: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/L15080.htm.
+Relatório de Acompanhamento Fiscal – Outubro de 2025 | 23
+
+=== página 24 ===
+A Tabela 6 demonstra as projeções de resultado primário das empresas estatais
+computadas na meta de resultado primário do Programa de Dispêndios Globais, que inclui
+as empresas estatais não dependentes, exceto as do setor financeiro, a Petrobras e a
+ENBPar.
+TABELA 6. PROJEÇÃO DE RESULTADO PRIMÁRIO DAS EMPRESAS ESTATAIS FEDERAIS
+(R$ MILHÕES)
+2º Bim 3º Bim 4º Bim
+1. Resultado estatais PDG -5.296,7 -6.480,7 -9.172,9
+EMGEPRON -2.888,7 -2.666,7 -2.668,3
+ECT 837,3 650,3 -2.379,8
+HEMOBRÁS -612,4 -981,2 -935,7
+EMGEA -541,9 -1.071,2 -915,0
+SERPRO -428,1 -522,5 -815,4
+Demais empresas estatais -1.662,9 -1.889,3 -1.458,8
+2. Ajuste Emgea -18,3 -18,3 -18,3
+3. Resultado com ajuste Emgea -5.315,0 -6.499,0 -9.191,3
+4. Deduções com o PAC 3.969,0 3.751,2 3.687,6
+5. Resultado para fins de cumprimento da meta fiscal
+-1.346,0 -2.747,8 -5.503,7
+(3+4)
+6. Meta da LDO -6.214,7 -6.214,7 -6.214,7
+7. Desvio da meta da LDO (7 = 5 - 6) 4.868,7 3.466,9 711,0
+Fonte: Relatório de Avaliação de Receitas e Despesas Primárias do 2º, 3º e 4º Bimestres de 2025. Elaboração:
+IFI.
+A projeção do RARDP do 4º bimestre de 2025 para o resultado primário das empresas
+estatais apresentou uma piora de R$ 2,7 bilhões ante a avaliação do 3º bimestre em razão,
+principalmente, do resultado esperado da Empresa de Correios e Telégrafos (ECT). A
+expectativa para o resultado da ECT passou de um superávit de R$ 0,7 bilhão, na avaliação
+do 3º bimestre, para um déficit de R$ 2,4 bilhões na avaliação do 4º bimestre. Com isso, a
+projeção para o déficit primário das estatais aumentou, de R$ 6,5 bilhões para R$ 9,2
+bilhões, entre julho e setembro.
+Considerando a possibilidade de deduções de despesas com o Programa de Aceleração do
+Crescimento, de R$ 3,7 bilhões40, o cumprimento da meta fiscal das empresas estatais,
+fixada na LDO em R$ 6,2 bilhões, seria possível por uma margem de R$ 0,8 bilhão (R$ 6,2
+bilhões, correspondentes à meta da LDO, menos R$ 5,5 bilhões do resultado para fins de
+cumprimento da meta fiscal), de acordo com o RARDP do 4º Bimestre de 2025, montante
+R$ 2,8 bilhões inferior à margem prevista na avaliação do 3º bimestre.
+40 O inciso III do §1º do art. 2º da LDO possibilita que até R$ 5 bilhões das despesas do Orçamento de
+Investimento destinadas ao Novo PAC sejam deduzidas da meta. O RARDP do 4º bimestre de 2025 projeta
+que essa dedução será de R$ 3,7 bilhões.
+24 | Relatório de Acompanhamento Fiscal – Outubro de 2025
+
+=== página 25 ===
+A trajetória do resultado das estatais, apresentado no Gráfico 6, assim como as projeções
+dispostas na Tabela 4, indicam alguns riscos. Embora um déficit primário das empresas
+estatais não represente necessariamente um prejuízo contábil, a sequência de déficits
+primários dessas empresas indica uma tendência preocupante.
+O resultado primário das estatais desconsidera as receitas e as despesas financeiras, o que
+significa que o conjunto dessas empresas tem apresentado menor capacidade de gerar
+receitas próprias. Isso pode levar à necessidade de financiamento via dívida ou de aportes
+do Tesouro Nacional para manter o funcionamento das empresas. Como esse aporte
+representa uma despesa primária, também sujeita aos limites individualizados da Lei
+Complementar (LC) nº 200, de 2023, a eventual realização dessa despesa poderia exigir
+uma contenção adicional de despesas primárias ainda em 2025. Até o 4º bimestre do ano,
+a contenção de despesas primárias vigente em razão do limite de gastos é de R$ 12,1
+bilhões.
+Considerações finais
+Os números do Tesouro e do Siga Brasil indicam um déficit primário do governo central de
+R$ 100,9 bilhões no acumulado de 2025 até setembro. O resultado é melhor do que o
+apurado no mesmo período do ano passado, mas existem riscos para o cumprimento
+formal da meta de resultado primário zero, definida na LDO 2025.
+Considerando exercício feito pela IFI, nos últimos três meses de 2025, seria necessário um
+esforço fiscal de R$ 27,1 bilhões para garantir o cumprimento da meta no limite inferior do
+intervalo definido na LC nº 200, de 2023, que disciplina o arcabouço fiscal. Esse esforço
+ficou dificultado pela perda de eficácia da MP nº 1.303, de 2025, não deliberada pelo
+Congresso Nacional e com a qual o Poder Executivo esperava gerar R$ 10,6 bilhões em
+receitas ainda no presente exercício.
+Apesar de a execução financeira das despesas primárias apresentar desvios negativos em
+relação aos montantes estimados até agosto, as receitas primárias também registram
+desvios negativos, indicando frustração de arrecadação. Com o fim dos efeitos da MP nº
+1.303, o Executivo pode ter que recorrer a um contingenciamento no próximo RARDP, a ser
+divulgado no fim de novembro, caso não ocorram compensações para essa perda de
+receitas.
+O faseamento dos limites de empenho e dos limites de pagamento podem contribuir para
+evitar contenções adicionais, visto que impedem a execução integral das despesas
+discricionárias antes do fim do exercício. No entanto, evidenciam um problema crônico em
+relação ao comportamento das despesas primárias e das seguidas frustrações na
+arrecadação.
+Aliado a esses elementos, o resultado primário das empresas estatais não dependentes
+pode trazer um risco adicional ao cumprimento da meta de resultado primário do governo
+central de 2025. Além de diminuir a margem para o cumprimento das metas fiscais por
+Relatório de Acompanhamento Fiscal – Outubro de 2025 | 25
+
+=== página 26 ===
+meio da compensação entre as metas (do Tesouro e das empresas estatais), o aumento do
+déficit das estatais pode demandar uma intervenção do Tesouro Nacional com aportes que
+garantam o funcionamento das empresas, o que aumentaria o esforço fiscal necessário no
+último trimestre do ano.
+26 | Relatório de Acompanhamento Fiscal – Outubro de 2025
+
+=== página 27 ===
+O PRS 8/2025 e a regulamentação do limite global
+para a dívida consolidada da União
+Marcus Pestana
+Uma das preocupações centrais da política fiscal é o crescimento acelerado do
+endividamento público, medido pela relação entre a Dívida Bruta do Governo Geral (DBGG)
+e o Produto Interno Bruto (PIB). Embora o indicador inclua os entes subnacionais da
+Federação brasileira, a dinâmica de expansão da dívida concentra-se na União.
+GRÁFICO 7. DÍVIDA LÍQUIDA DO SETOR PÚBLICO POR ESFERA DE GOVERNO (% DO PIB)
+60 2025
+55,72
+2020
+47,98
+50
+2002
+37,67
+40
+2008
+23,42 2013
+19,23
+30
+2025
+2002 2020 7,43
+20 17,33 11,41
+2008
+2013
+11,56
+9,06
+10 2002
+2,35 2008 2013 2020 2025
+1,78 1,62 1,13 0,70
+0
+2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5
+0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+Governo Federal Governos Estaduais Governos Municipais Empresas Estatais
+Fonte: Banco Central do Brasil. Elaboração: IFI.
+A Constituição Federal41, em seu art. nº 52, ao fixar as competências privativas do Senado
+Federal, prevê nos incisos VI e VII:
+“VI – fixar, por proposta do Presidente da República, limites globais para o montante
+da dívida consolidada da União, dos Estados, do Distrito Federal e dos Municípios;
+VII – dispor sobre limites globais e condições para as operações de crédito externo e
+interno da União, dos Estados, do Distrito Federal e dos Municípios, de suas autarquias
+e demais entidades controladas pelo Poder Público federal;”.
+41 Disponível em: https://www.planalto.gov.br/ccivil_03/Constituicao/ConstituicaoCompilado.htm.
+Relatório de Acompanhamento Fiscal – Outubro de 2025 | 27
+
+=== página 28 ===
+Já a Lei Complementar nº 101, de 200042 – a Lei de Responsabilidade Fiscal, no inciso I, do
+art. 30, dispõe:
+“Art. 30. No prazo de noventa de noventa dias após a publicação desta lei
+complementar presidente da República submeterá ao:
+I – Senado Federal, proposta de limites globais para o montante da dívida consolidada
+da União, estados e municípios, cumprindo o que estabelece o inciso VI do art. 52 da
+Constituição, bem como limites e condições relativos aos incisos VII, VIII e IX do
+mesmo artigo;”.
+As Resoluções nº 43/200143 e Nº 48/200744 do Senado Federal estabeleceram os termos
+para a regulação do endividamento dos entes subnacionais. Entretanto, 37 anos após a
+promulgação da Constituição Federal e 25 anos após a sanção da Lei de Responsabilidade
+Fiscal, permanece a lacuna na regulamentação dos dispositivos que dispõem sobre o limite
+global para o montante da dívida consolidada da União.
+Como é possível visualizar no Gráfico 8, a relação dívida/PIB de vinte e três países
+selecionados (países desenvolvidos, BRICS e latino-americanos), segundo o critério do
+Fundo Monetário Internacional (FMI)45, o Brasil apresentava um patamar de endividamento
+inferior aos países desenvolvidos como os EUA, o Japão, a Itália e a França – que possuem
+maior solidez econômica e condições de financiamento mais favoráveis; situa-se alinhado
+aos seus parceiros do BRICS – exceto Rússia, que possui endividamento relativamente
+baixo. O Brasil figura, ao lado da Argentina, entre os países da América Latina com maior
+razão dívida/PIB.
+42 Disponível em: https://www.planalto.gov.br/ccivil_03/LEIS/LCP/Lcp101.htm#art30.
+43 Disponível em: https://www2.camara.leg.br/legin/fed/ressen/2001/resolucao-43-21-dezembro-2001-
+429342-norma-pl.html.
+44 Disponível em: https://www2.camara.leg.br/legin/fed/ressen/2007/resolucao-48-21-dezembro-2007-
+567379-normaatualizada-pl.pdf.
+45
+28 | Relatório de Acompanhamento Fiscal – Outubro de 2025
+
+=== página 29 ===
+GRÁFICO 8. DÍVIDA BRUTA DO GOVERNO GERAL DE 23 PAÍSES SELECIONADOS EM 2024
+(% DO PIB)
+250,0
+236,1
+200,0
+154,8
+150,0
+135,3
+122,3
+113,1
+101,6101,2
+94,9
+100,0 88,3 87,3 84,7 81,6
+76,0
+68,7
+63,5 61,2 58,3
+53,8 50,7 49,8
+50,0 41,7
+32,2
+20,3
+0,0
+o
+ã p a J
+a
+ic é rG
+a
+ilá tI
+s
+o d in U s o d a ts
+E
+a
+ç n a rF
+a
+h n a p s E
+o
+d in U o n ie R
+la
+g u tro P
+a
+n ih C
+lis
+a rB
+a
+n itn e g rA
+a
+id n Í
+lu
+S o d a c irfÁ
+ia
+u g u rU
+a
+h n a m e lA
+a
+ib m ô lo C
+o
+c ix é M
+ro
+d a u q E
+a
+ilá rts u A
+lu
+S o d a ie ro C
+e
+lih C
+u
+re P
+a
+is s ú R
+Fonte: Fundo Monetário Internacional46. Elaboração: IFI.
+Na análise da dinâmica do endividamento público interessa mais o filme – a tendência
+esboçada a médio e longo prazos – do que propriamente a foto – o indicador estático da
+relação Dívida/PIB, em um determinado ano. A Grécia, por exemplo, vem implantando
+consistente programa de ajuste fiscal e sua dívida, que chegou a 209,9% do PIB, em 2020,
+observou uma acentuada queda para 154,8%, em 2024, e projeta uma relevante diminuição
+da relação dívida/PIB para os próximos anos, rumo a se adequar às regras fiscais da União
+Europeia, que preveem um limite para a dívida de 60% do PIB47. Em função disto, o país
+recuperou o grau de investimento, segundo as maiores agências internacionais de
+classificação de risco.
+Já o caso brasileiro indica um agravamento do processo de endividamento no futuro
+próximo. O Gráfico 9 demonstra a trajetória projetada pela Instituição Fiscal Independente
+(IFI) para a Dívida Bruta do Governo Geral (DBGG) até 2035 – que inclui o endividamento de
+estados e municípios – em percentual do PIB.
+46 Dados constantes do World Economic Outlook de outubro de 2025. Existem diferenças metodológicas entre
+a apuração da dívida bruta do governo geral entre o Banco Central do Brasil e o FMI. O conceito FMI inclui
+toda a dívida mobiliária do Tesouro Nacional na carteira do Banco Central. O conceito do Banco Central, por
+sua vez, exclui a dívida mobiliária do Tesouro Nacional na carteira do Bacen e inclui as operações
+compromissadas do Bacen. Para fins de comparação internacional, se utiliza o conceito do FMI. Para
+projeções, a IFI utiliza o conceito apurado pelo Banco Central do Brasil.
+47 Conforme estabelecido no art. 1º do Protocolo nº 12, constante do Anexo do Tratado sobre o
+Funcionamento da União Europeia, disponível em:
+https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=celex:12016ME/TXT.
+Relatório de Acompanhamento Fiscal – Outubro de 2025 | 29
+
+=== página 30 ===
+GRÁFICO 9. PROJEÇÕES DA IFI PARA A DBGG EM DE 2025 A 2035 (% DO PIB)
+140%
+2035:
+124,9%
+120%
+100%
+2030:
+100,0%
+80%
+2025:
+77,6%
+60% 2024:
+76,5%
+40%
+Cenário de jun/25:Média 2027-2035 = 105,0%
+do PIB
+20%
+0%
+3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5
+1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3
+0
+2
+0
+2
+0
+2
+0
+2
+0
+2
+0
+2
+0
+2
+0
+2
+0
+2
+0
+2
+0
+2
+0
+2
+0
+2
+0
+2
+0
+2
+0
+2
+0
+2
+0
+2
+0
+2
+0
+2
+0
+2
+0
+2
+0
+2
+Fonte: Banco Central (dados realizados) e IFI. Elaboração: IFI.
+A dinâmica do endividamento cotejado com o tamanho da economia nacional envolve três
+variáveis: crescimento do PIB, a taxa de juros real implícita da dívida e o resultado fiscal
+primário. Nas condições atuais, a IFI trabalha com um crescimento médio da economia de
+2,2% a.a. e juros reais implícitos da DBGG de 5,10% nos próximos dez anos. Sendo assim,
+como apresentado na Tabela 7, o superávit primário requerido para estabilizar a dívida bruta
+seria de 2,1%do PIB ao ano.
+TABELA 7. RESULTADO PRIMÁRIO ANUAL REQUERIDO PARA ESTABILIZAR A DÍVIDA
+BRUTA EM 76,5% DO PIB (NÍVEL DE 2024)
+DBGG em t Juros reais implícitos da DBGG
+76,50% 0,50% 1,00% 2,00% 3,50% 4,00% 4,50% 5,10%
+0,50% 0,00% 0,40% 1,10% 2,30% 2,70% 3,00% 3,50%
+1,00% -0,40% 0,00% 0,80% 1,90% 2,30% 2,70% 3,10%
+)
+.a
+.a 1,50% -0,80% -0,40% 0,40% 1,50% 1,90% 2,30% 2,70%
+%
+(
+la
+2,20% -1,30% -0,90% -0,20% 0,90% 1,30% 1,70% 2,10%
+e
+r
+B
+2,50% -1,50% -1,10% -0,40% 0,70% 1,10% 1,50% 1,90%
+IP
+3,00% -1,90% -1,50% -0,70% 0,40% 0,70% 1,10% 1,50%
+3,50% -2,20% -1,80% -1,10% 0,00% 0,40% 0,70% 1,20%
+Fonte: IFI.
+Considerando a lacuna regulatória do tocante à fixação do limite global para a dívida da
+União e o agravamento do endividamento brasileiro em proporção ao PIB, o Presidente da
+Comissão de Assuntos Econômicos do Senado Federal, Senador Renan Calheiros,
+30 | Relatório de Acompanhamento Fiscal – Outubro de 2025
+
+=== página 31 ===
+apresentou o PRS 8/202548, que regulamenta dispositivos constitucionais e da LRF, fixando
+parâmetros para limitar a expansão da Dívida Bruta do Governo Geral – Conceito Bacen,
+como percentual do PIB e proporção do PIB.
+O atual arcabouço fiscal estabelecido na Lei Complementar 200/202349 prevê, entre outras
+normas, que o regime fiscal perseguirá o equilíbrio orçamentário a partir de um teto de
+gastos e de metas de resultado primário. Não há menção, entretanto, ao controle do
+montante da dívida consolidada da União.
+A União Europeia rege sua política fiscal, válida para todos os países membros, por dois
+objetivos: um déficit nominal máximo de 3% do PIB e um teto para a dívida pública de 60%
+do PIB50. Já nos EUA, o Congresso americano controla diretamente a expansão do
+endividamento, aprovando ou não, as propostas de expansão de gastos feitas pela Casa
+Branca51. A não aprovação da ampliação do endividamento público resulta em
+consequências imediatas, como visto nas últimas semanas, com a entrada do governo em
+shutdown, com a paralização de serviços públicos considerados não essenciais e
+limitações orçamentárias para as funções indispensáveis.
+A legislação brasileira prevê o controle apenas das receitas e despesas primárias e do
+consequente resultado primário, mas não sobre o nível de endividamento da União. O PRS
+8/2025 tem como objetivo disciplinar esse aspecto. A política fiscal brasileira seria
+orientada não apenas pelas metas de desempenho primário e pelo teto de gastos primários,
+previstos na LC 200/2023, mas também por um limite para o endividamento público. A
+proposta original recebeu um substitutivo apresentado pelo relator, Senador Oriovisto
+Guimarães52.
+São quatro artigos. O art. 1º institui uma limitação no sentido de que a DBGG – conceito
+Bacen, não possa exceder 80% do PIB e nem ser superior a 6,5 vezes o valor da receita
+corrente líquida da União, acumulada nos doze meses imediatamente anteriores à sua
+apuração, excluídas da base de cálculo as obrigações dos entes subnacionais – matéria já
+regulamentada – e das operações compromissadas do Banco Central. A tentativa é não
+sobrepor as determinações da resolução a normas já existentes no caso de estados e
+municípios, e, por outro lado, não criar obstáculos indesejáveis para a política monetária.
+O art. 2º. dispõem sobre a proibição de a União realizar novas operações de crédito interna
+e externas, no caso de inobservância dos limites fixados pela Resolução, somada às
+vedações previstas nos incisos I a X do art. 167-A da Constituição Federal. Neste caso, o
+48 Página de tramitação disponível em: https://www25.senado.leg.br/web/atividade/materias/-
+/materia/167826.
+49 Disponível em: https://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp200.htm.
+50 Como referenciado anteriormente, previsão expressa no art. 1º do Protocolo nº 12, constante do Anexo do
+Tratado sobre o Funcionamento da União Europeia.
+51 Disponível em: https://home.treasury.gov/policy-issues/financial-markets-financial-institutions-and-fiscal-
+service/debt-limit.
+52 Disponível em: https://legis.senado.leg.br/sdleg-
+getter/documento?dm=10065795&ts=1759939847881&rendition_principal=S&disposition=inline.
+Relatório de Acompanhamento Fiscal – Outubro de 2025 | 31
+
+=== página 32 ===
+Poder Executivo Federal deverá encaminhar ao Senado Federal, no prazo máximo de 30 dias
+a contar da divulgação da extrapolação dos limites, relatório detalhado sobre as razões do
+descumprimento da regra legal e as medidas para o reenquadramento da dívida no prazo
+máximo de 12 meses. O Ministro do Estado da Fazenda comparecerá à Comissão de
+Assuntos Econômicos (CAE) do Senado Federal, em audiência pública, para prestar os
+esclarecimentos sobre a inobservância dos limites previstos no art. 1º. da Resolução. Há a
+previsão de que a CAE do Senado Federal possa, por solicitação do Ministério da Fazenda,
+autorizar a realização de operações de crédito para recompor a reserva de liquidez da dívida
+pública.
+O art. 3º do substitutivo do relator prevê que, em casos de instabilidade econômica ou
+alterações nas políticas monetária ou cambial, o Presidente da República poderá
+encaminhar solicitação, ao Senado Federal, de revisão dos limites fixados no art. 1º. O
+quarto e último artigo determina a vigência imediata da Resolução na data de sua
+publicação.
+No dia 08 de outubro de 2025, a CAE realizou audiência pública para debater o PRS nº
+8/2025 com a participação da Casa Civil da Presidência da República, da Secretaria do
+Tesouro Nacional, da Instituição Fiscal Independente e dos especialistas em política fiscal
+Felipe Salto, Jose Roberto Afonso e Manoel Pires53. Várias sugestões de aprimoramento ao
+texto foram feitas. O relator comunicou que vem mantendo interlocução ativa com a direção
+do Banco Central buscando assegurar que a regulamentação do limite do endividamento
+público não constranja a necessária flexibilidade da política monetária.
+O PRS 8/2025 segue em discussão no Senado Federal e, caso aprovado, acrescentará
+parâmetros relativos ao montante da dívida pública à legislação fiscal vigente.
+Como realçou o economista José Roberto Afonso na audiência pública de 08/10/2025,
+existem diversos modelos de regras fiscais: 102 países incluem no seu arcabouço fiscal
+metas de resultado fiscal, 100 países preveem regras sobre a dívida pública, 61 países
+dispõem de regras sobre despesas e 21 países normas sobre a receita. Alguns marcos
+regulatórios da política fiscal contemplam apenas uma das variáveis (resultado fiscal,
+dívida, despesa e receita), outros combinam mais de um indicador.
+O atual arcabouço fiscal brasileiro (LC 200/2023) combina essencialmente uma regra para
+o teto de despesas primárias e outra prevendo meta de resultado fiscal primário. A eventual
+aprovação do PRS 8/2025 adicionaria parâmetros referentes à dívida pública ao conjunto
+de regras fiscais existentes.
+53 Disponível em: https://legis.senado.leg.br/comissoes/reuniao?reuniao=14030&codcol=38.
+32 | Relatório de Acompanhamento Fiscal – Outubro de 2025
+
+=== página 33 ===
+PROJEÇÕES DA IFI
+CURTO PRAZO
+2025 2026
+Projeções da IFI
+set/25 out/25 Comparação set/25 out/25 Comparação
+PIB – crescimento real (% a.a.) 2,4 2,4 = 1,7 1,7 =
+PIB – nominal (R$ bilhões) 12.671,5 12.671,5 = 13.478,7 13.478,7 =
+IPCA – acum. (% no ano) 5,3 5,3 = 4,3 4,3 =
+Taxa de câmbio - fim de período (R$/US$) 5,8 5,8 = 5,9 5,9 =
+Ocupação - crescimento (%) 1,1 1,1 = 0,9 0,9 =
+Massa salarial - crescimento (%) 3,4 3,4 = 2,6 2,6 =
+Selic – fim de período (% a.a.) 14,8 14,8 = 12,5 12,5 =
+Juros reais ex-ante (% a.a.) 8,1 8,1 = 7,1 7,1 =
+Resultado Primário do Setor Público Consolidado (% do PIB) -0,7 -0,7 = -1,2 -1,2 =
+dos quais governo central -0,6 -0,6 = -1,0 -1,0 =
+Juros Nominais Líquidos (% do PIB) 8,4 8,4 = 8,3 8,3 =
+Resultado Nominal (% do PIB) -9,1 -9,1 = -9,5 -9,5 =
+Dívida Bruta do Governo Geral (% do PIB) 77,6 77,6 = 82,4 82,4 =
+Relatório de Acompanhamento Fiscal – Outubro de 2025 | 33
+
+=== página 34 ===
+
+
+=== página 35 ===
+/ifibrasil
+@ifiBrasil
+@ifibrasil
+/company/ifibrasil
+/ifibrasil
+github.com/ifibrasil
+ifi@senado.leg.br
+61 3303 2875

@@ -5,3 +5,5 @@ Projeto aberto de dados: o que o resultado da eleição de 2026 muda na economia
 **Estado:** pré-registro publicado (26/out/2026, antes da abertura da B3). As regras estão em [`docs/PRE_REGISTRO.md`](docs/PRE_REGISTRO.md) e foram escritas antes de qualquer conta.
 
 Análise feita pelo Claude (IA da Anthropic), a pedido de Gabriel Alexandre. Nada aqui é recomendação de investimento.
+
+**26/out, manhã:** coleta em andamento (séries do Banco Central, Focus, FMI, IFI, Tesouro e 191 achados com trecho conferido). Os números de `resultados/` são provisórios até o fechamento do mercado de 26/out.

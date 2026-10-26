@@ -1,0 +1,555 @@
+# fonte: https://www.bankofengland.co.uk/-/media/boe/files/quarterly-bulletin/2003/inflation-targeting-and-the-fiscal-policy-regime.pdf
+# capturado em: 2026-10-26
+
+
+=== página 1 ===
+Inflation targeting and the fiscal policy regime: the
+experience in Brazil(1)
+ByFrancesco Giavazzi, Houblon-Norman Fellow,(2)Professor ofEconomicsatBocconi University,
+Milan and Visiting Professor ofEconomicsatthe MassachusettsInstitute ofTechnology. The views
+expressed in thisarticle are the author’sand do notnecessarilyreflectthose ofthe BankofEngland
+or the MonetaryPolicyCommittee.
+This article reviews the recent experience of Brazil showing that credit risk is at the centre of the
+mechanism through which a central bank might lose control of inflation. Brazil during 2002 came close
+to a situation where fiscal policy hindered the effectiveness of monetary policy. But in early 2003 a
+change in investors’ perception of the long-run fiscal stance brought the economy back to normal
+conditions, reducing credit risk, stabilising the exchange rate and, through these two variables, inflation
+expectations, inflation and the dynamics of the public debt. Brazil’s experience could thus offer useful
+lessons for other emerging market economies, which consider adopting inflation targeting as their
+monetary policy rule.
+Introduction continued to be based on developments in inflation
+expectations, and the Selic rate rose to 26.5%. Since
+After the transition to a floating exchange rate, in
+early 2003, inflation expectations and actual inflation
+January 1999, Brazil adopted an inflation-targeting
+have declined, while the exchange rate has recovered
+regime. Analysis of monetary policy decisions since
+significantly.
+the floating of the currency shows that the central
+bank, the Banco Central do Brasil, has adjusted the The Brazilian case is interesting. Brazil’s public debt is
+short-term interest rate, the Selic, based on expected about 60% of GDP, a relatively high ratio for an
+developments in consumer price inflation. This regime emerging market, and total tax revenues are 30% of
+was initially a success. After a 60% devaluation in GDP. Brazil’s debt level is consequently more
+January 1999, consumer price inflation remained comparable with that of a European country where debt
+essentially stable: the yearly rate of increase of is around 100% of GDP, and taxes are close to 50% of
+consumer prices, measured by the IPCA index, was GDP. Brazil’s public debt, moreover, is either of very
+8.9% in 1999 and 6% in 2000. In 2001 the exchange short duration, or indexed to the dollar. In such an
+rate fell again, by 25%, but inflation remained below environment, an increase in interest rates could lead to
+8%. higher debt, higher credit risk, an exchange rate
+depreciation and, so, to higher rather than lower
+The honeymoon ended in early 2002. During that year inflation. This effect could dominate more traditional
+the exchange rate depreciated by 38% and consumer channels. In such an environment, fiscal policy and
+price inflation jumped to 12.5%. This was not the result perceptions of it have a prominent role to play in
+of a shift in monetary policy: interest rate decisions fighting inflation.
+(1) This article draws freely from recent research on monetary and fiscal policy in Brazil jointly conducted with
+Olivier Blanchard, Carlo Favero, Alessandro Missale and Charles Wyplosz (Blanchard (2003), Favero and Giavazzi
+(2002, 2003), Missale and Giavazzi (2003) and Wyplosz (2003)). I thank them for having allowed me to use here many
+of the arguments and results presented in those papers.
+(2) The Houblon-Norman Fund, a registered charity, was created in 1944 in commemoration of the Bank’s
+250th anniversary. It was named after Sir John Houblon, the first Governor of the Bank and Montagu Norman, the
+retiring Governor in 1944. Fellowships are awarded ‘to promote research into and disseminate knowledge and
+understanding of the working, interaction and function of financial business institutions in Great Britain and
+elsewhere and the economic conditions affecting them.’ George Fellowships were established within the Fund in
+June 2003, in recognition of the life-long achievements and service to the Bank of Sir Edward George and in
+particular his role as the first chair of the Monetary Policy Committee. The Houblon-Norman/George Fund is
+administered by Trustees, on the advice of an expert Committee. Senior Fellowships are awarded to distinguished
+researchers who have established a reputation in their field. Fellowships are also available for younger post-doctoral or
+equivalent applicants.
+334
+
+=== página 2 ===
+Inflation targeting and the fiscal policyregime: the experience in Brazil
+Fiscaldominance: theoryand lessonsfrom macroeconomic developments in these countries. The
+Brazil experience of Brazil shows, in particular, that credit risk
+is the channel through which international financial
+The difficulties of running monetary policy in an
+shocks can push an emerging market economy into a
+environment where financial markets think that
+regime of fiscal dominance.
+fiscal policy is unsustainable—in the sense that the
+expected sequence of future primary surpluses is
+Our illustration of how an inflation-targeting central
+considered, by investors, not to be large enough
+bank might lose control of inflation will thus start from
+given the level of the public debt and the cost of
+an analysis of the determinants of credit risk, and then
+debt service—are well known. Sargent and Wallace
+move on to study how this interacts with the exchange
+(1981) were among the first to point out that a reduction
+rate, inflation, domestic monetary policy and the
+in the growth rate of money can result in higher, rather
+dynamics of public debt.
+than lower, inflation if the government relies on
+seigniorage as a source of revenue, and the budget Creditrisk, the exchange rate, monetarypolicy
+surplus is not adjusted after the fall in seigniorage and the debt
+revenue.(1)
+The Brazilian economy has been heavily influenced by
+Sometimes, and often with specific reference to Latin the fluctuations in the emerging markets bond index
+America, this situation is referred to as a ‘regime of fiscal (EMBI) spread. This spread, which measures the
+dominance’.(2) More recently, the inability to control difference between the yield on a dollar-denominated
+inflation if fiscal policy is believed to be unsustainable bond issued by the Brazilian government and a
+has been mentioned as an example of the ‘fiscal theory corresponding one issued by the US Treasury, indicates
+of the price level’, a view according to which fiscal, rather the market assessment of the probability that Brazil
+than monetary, policy is the main determinant of might default on its debt obligations.(4) The Brazilian
+inflation.(3) EMBI spread was 700 basis points in February 2002 and
+reached a peak of 2,400 basis points in September;
+In the model analysed by Sargent and Wallace (1981), after the October election the spread has gradually
+the mechanism through which the central bank loses fallen, returning to around 670 basis points in
+control of inflation is the expectation that it will September 2003 (for reference, throughout this period
+eventually have to give in and finance the government the Mexican spread has fluctuated between 200 and
+budget through money creation. In models of the fiscal 400 basis points).
+theory of the price level, the mechanism is different but
+the final outcome is similar. In these models the price Fluctuations in the EMBI spread have been accompanied
+level is the only variable that can balance the by similar fluctuations in the exchange rate (see
+government’s intertemporal budget constraint. Chart 1). Capital flows are part of the reason for this
+Assuming that the sequence of future budget surpluses close correlation. An increase in the risk premium leads
+is given, there is only one price level that makes the to a sudden halt to capital flows and thus to a (real)
+stock of nominal bonds inherited from the past depreciation, which is needed to generate the trade
+consistent with the present value of those primary surplus required to offset the decline in capital inflows.
+surpluses. Consequently, it is the government’s Since half the Brazilian public debt is denominated in
+intertemporal budget constraint that determines the dollars, fluctuations in the exchange rate thus produce
+price level. corresponding fluctuations in the ratio of debt to GDP
+(see Chart 2 and Table A).
+While analytically elegant, these models are too simple
+to describe financial markets in emerging market Domestic interest rates at all maturities are also
+economies. That is because they typically overlook indirectly affected by fluctuations in the EMBI spread.
+credit risk, a variable that is at the centre of The policy rate, the Selic rate, is affected because
+(1) See also Drazen and Helpman (1987) for an example where the fall in money creation results from the decision to peg
+the exchange rate. Sims (2003) discusses the limits of inflation targeting also in relation to fiscal dominance.
+(2) See for instance Tanner and Ramos (2002) for a discussion of fiscal dominance in the Brazilian context in an earlier
+period. The difficulties of targeting inflation in the presence of fiscal dominance are also discussed in Fraga, Goldfajn
+and Minella (2003).
+(3) See Woodford (2001) and Loyo (1999) for a specific application to Brazil.
+(4) The EMBI is computed by JP Morgan.
+335
+
+=== página 3 ===
+BankofEngland QuarterlyBulletin: Autumn 2003
+Chart1 EMBI spread via two channels: indirectly, because
+Brazil, the EMBI spread and the exchange rate fluctuations in the Selic rate move the term structure,
+30 Percentage points Real per $ 4.0 and directly because domestic financial instruments of
+longer maturities are not immune from credit risk.
+3.5
+25
+3.0
+The bottom line is that the cost of servicing the public
+20 Exchange rate
+(right-hand scale) 2.5 debt, and the debt level itself, fluctuate very closely with
+EMBI spread
+15 (left-hand scale) 2.0 the EMBI spread. Understanding what determines the
+EMBI spread is thus central to any discussion of
+1.5
+10 macroeconomic policy in Brazil.
+1.0
+5
+0.5 Whatdeterminesthe Brazilian EMBI spread?
+0 0.0
+The empirical evidence documents a high correlation
+1991 93 95 97 99 2001 03
+between emerging market spreads and common
+Chart2
+international factors.(1) Calvo (2003), for instance, has
+Brazil, the exchange rate and the netpublic
+observed that changes in such spreads are correlated
+debt
+with worldwide measures of investors’ appetite for risk,
+Percentage of GDP Real per $
+70 4.0
+such as the spread between US corporate bonds and US
+60 3.5 Treasuries. In fact, Calvo goes as far as suggesting that
+once one accounts for the US corporate spread,
+3.0
+50 Net public debt
+(left-hand scale) domestic factors in emerging markets appear to be
+2.5
+40 irrelevant in explaining the spread.(2)
+2.0
+30
+1.5 In the case of Brazil one also finds a positive correlation
+20 between its EMBI spread and the US corporate spread.
+Exchange rate 1.0
+(right-hand scale) This correlation, however, is not constant over time (see
+10
+0.5
+Chart 3): it appears to depend on the state of domestic
+0 0.0 macroeconomic fundamentals, and fiscal fundamentals
+1991 93 95 97 99 2001 03
+in particular. When these are sound, the response of the
+Table A
+Composition ofthe Brazilian publicdebt, EMBI spread to the US corporate spread is muted
+December 2002 compared with periods when the fiscal fundamentals are
+Per cent relatively weak. Favero and Giavazzi (2003) find that the
+Dollar-denominated bonds issued abroad 25.8 elasticity of the EMBI spread with respect to the US
+Fixed-rate bonds 3.0
+Inflation-indexed bonds 8.5 corporate spread is about 0.4 for a ratio of debt to GDP
+Domestic bills indexed to the dollar 23.9
+Domestic floaters linked to the Selic rate 31.1 below 0.55, which increases asymptotically to 0.8 as the
+Other 7.7
+debt ratio rises.(3)
+exchange rate fluctuations affect inflation expectations,
+and the central bank looks at inflation expectations This finding has important implications for Brazil. It
+when deciding on the level of the Selic rate. Moreover, suggests that the ability of the economy to withstand
+an increase in the EMBI spread can affect inflation international financial shocks critically depends on
+expectations directly if it is accompanied by concerns investors’ perception of the country’s future fiscal
+about the possibility of future monetisation of part of stance. Our estimated threshold—a debt-to-GDP ratio
+the public debt. of 0.55—might capture the moment where investors’
+perceptions shift. The reason for such a shift could be
+Domestic interest rates at longer maturities (where the perception that beyond a given debt-to-GDP ratio,
+‘longer’ means one to six months) are affected by the fiscal policy is not flexible enough to respond to
+(1) Dungey et al (2000), for instance, find that most of the variability of world spreads is explained by a common
+international factor. There are, however, different views as to what such a factor might be. Arora and Cerisola (2001)
+find that the stance and predictability of US monetary policy are significant in determining capital market conditions
+in emerging markets. Kamin and von Kleist (1999) and Eichengreen and Mody (2000) report a negative relationship
+between the level of long-term US interest rates and emerging market spreads.
+(2) Calvo’s finding is confirmed in Herrera and Perry (2002).
+(3) See Blanchard (2003) for empirical results along the same lines.
+336
+
+=== página 4 ===
+Inflation targeting and the fiscal policyregime: the experience in Brazil
+Chart3 further, which again raises the cost of debt service, and
+Brazil, the EMBI spread and the UScorporate so on.
+bond spread
+Percentage points Percentage points There is one caveat in this description. An increase in
+5.0 30
+the Selic rate has two effects on the exchange rate. The
+4.5
+25 direct impact, related to interest rate arbitrage, is
+4.0
+positive: an increase in the Selic rate appreciates the
+3.5
+U ( S le c ft o - r h p a o n r d a t s e c a b l o e n ) d spread 20 exchange rate. But there is also a second effect: if an
+3.0
+increase in the Selic rate raises the debt level and credit
+2.5 15
+risk, the EMBI spread will rise and the exchange rate will
+2.0
+depreciate. The second channel explains why monetary
+10
+1.5
+policy may have perverse effects.
+1.0
+5
+EMBI spread
+0.5 (right-hand scale) Inflation targeting in Brazil
+0.0 0
+1991 93 95 97 99 2001 03
+The best way to describe Brazilian monetary policy since
+fluctuations in the debt. Consider, for example, the the adoption of a floating exchange rate regime is
+effects of an international shock that raises the risk through a simple monetary policy rule where the Selic
+premium and thus the cost of debt service—the more rate responds to one year ahead inflation expectations.
+so, the higher the debt ratio. The increase in the A measure of inflation expectations is available, in
+primary surplus required to keep the debt sustainable is Brazil, from the daily survey conducted by the central
+larger, the higher is the initial debt ratio. If fiscal policy bank.
+is not flexible enough, the initial increase in the risk
+premium is amplified, further widening the gap between Estimation of such a rule, over a sample period starting
+the country’s primary surplus and the level that would with the adoption of inflation targeting in early 1999,
+be necessary to stabilise the debt. finds that the response of the Selic rate to an increase in
+one year ahead (survey-based) inflation expectations is
+There might thus be two very different monetary policy greater than unity, a finding that suggests that monetary
+regimes, depending on the interaction between policy does not accommodate inflation and that real
+international factors (investors’ appetite for risk) and interest rates are raised when inflation expectations
+domestic fiscal policy. In the ‘good’ regime, the country increase. The Selic rate also appears to be rather
+is resilient enough to withstand international financial persistent, with an autocorrelation coeffcient of 0.84.
+shocks, credit risk is low and monetary policy works in Chart 4 shows the path of actual Selic rates since
+the usual way. Instead, when fiscal fundamentals are January 2000, and the Selic rate obtained through the
+weak—because the debt is high and/or fiscal policy is (dynamic) simulation of the estimated policy rule (see
+unsustainable—credit risk and the economy may shift to Favero and Giavazzi (2002) for a description). The chart
+a ‘bad’ equilibrium, where monetary policy can have shows that the estimated rule performs rather well. It is
+perverse effects.
+Chart4
+Brazil, actualpath ofthe Selicrate and path
+The dynamic effects of monetary policy in the bad simulated using estimatesfrom a policyrule
+equilibrium (the one characterised by fiscal dominance)
+Per cent
+30
+can be described as follows. With a short duration of
+the public debt, an increase in the Selic rate raises the 28
+cost of debt service: if the primary budget surplus Actual Selic rate 26
+remains unchanged, the debt level rises, and so does the
+24
+EMBI spread. The increase in the spread adds to the
+22
+initial increase in debt, because it is accompanied by a
+20
+depreciation of the exchange rate, which raises the value
+of dollar-denominated bonds in terms of domestic GDP. 18
+The exchange rate depreciation also affects inflation Simulated Selic rate 16
+expectations and, eventually, actual inflation. This
+14
+induces the central bank to increase the Selic rate 2000 01 02 03 0
+337
+
+=== página 5 ===
+BankofEngland QuarterlyBulletin: Autumn 2003
+interesting to note that if one augments this simple path announced by the central bank: 8.5% in 2003 and
+monetary policy rule by adding more explanatory 5.5% in 2004.
+variables, such as, for instance, the exchange rate or a
+measure of the output gap, none of them appears to be We keep the inflation target constant at 8.5%
+significant, suggesting that the Banco Central do Brasil throughout 2003. In 2004 we then allow the target to
+applies a rather ‘clean’ version of inflation-forecast fall gradually, reaching 5.5% in December. Moreover, we
+targeting. keep the federal funds rate and ten-year US interest rates
+fixed at their levels in January 2003 (of 1.25% and
+Inflation targeting under differentfiscalpolicy 3.36% respectively). The results are shown in Chart 5.
+rules
+The simple monetary policy rule brings the Selic rate as
+In this section, using a simple macroeconomic model of
+high as 32%, but the jump in the risk premium prevents
+Brazil, we illustrate how the economy might end up in a
+monetary policy from stabilising the exchange rate and
+regime where inflation targeting has perverse effects,
+the debt level rises. Although the debt does not spiral
+and what would be needed to return it to a normal
+out of control and inflation does not diverge from target,
+situation. The model is estimated in Favero and Giavazzi
+the risk premium effect has important consequences and
+(2003) and consists of two main equations: one for the
+monetary policy has a perverse effect on the exchange
+determinants of the EMBI spread, which we discussed
+rate. Inflation fluctuates at very high levels, despite the
+above, and another that specifies a fiscal rule. These are
+aggressive monetary policy. The increase in the debt
+complemented by three more equations, for the
+ratio induces a tighter fiscal stance, but the increase in
+exchange rate, for inflation, and for inflation
+the primary surplus from 3.9% to 4.1% of GDP is
+expectations.
+insufficient to stabilise the economy.(1)
+A regime of fiscal dominance is one in which the Monetarypolicywith a more aggressive fiscalrule
+primary budget surplus does not respond, or not
+Next, we ask what change in the fiscal rule would be
+enough, to fluctuations in the level of the debt and in
+necessary to make monetary policy effective. We
+the cost of debt service. The estimated fiscal policy
+experiment with rather mild modifications in the
+reaction function for Brazil over the period January 1999
+estimated fiscal rule, which we change in three ways.
+to January 2003 shows that the primary surplus is rather
+persistent (despite having increased from around 2% to
+" We increase the response of the primary deficit to
+just above 4% of GDP since 1998) and that neither the
+deviations of the ratio of debt to GDP from 55%.
+response to fluctuations in the debt, nor in the cost of
+debt service are very significant. In such a situation
+" We reduce the persistence of the primary deficit.
+even small international shocks, such as those that hit
+Brazil in 2002, might be enough to push the economy
+" We increase the long-run surplus from 4% to 5%.
+into a bad equilibrium.
+The results are reported in Chart 6. With the new fiscal
+Charts 5 and 6 help to understand the dynamics of the
+rule, a small increase in the Selic rate is enough to
+economy in the bad and the good equilibrium.
+appreciate the exchange rate. That is because the effect
+of the Selic rate now dominates in the exchange rate
+Monetarypolicywith the estimated fiscalrule
+equation, causing the exchange rate to appreciate. The
+We start from the macroeconomic conditions prevailing appreciation lowers the debt ratio immediately, and is
+at the beginning of 2003. At that time, the debt level accompanied by a fall in the EMBI spread. Inflation also
+was 57% of GDP, just above the estimated threshold; the falls.
+primary surplus was 4% of GDP, inflation was 12%, the
+central bank inflation target had just been raised to In this exercise a rather minor change in the fiscal rule
+8.5%, and the Selic rate was 25%. We then simulate the is sufficient to eliminate the perverse effect of monetary
+model from July 2003 onwards, using the inflation target policy. That is because the Brazilian debt level in early
+(1) This exercise does not display the explosive inflation behaviour described in Loyo (1999) and Sims (2003) in the case
+of a ‘non-Ricardian’ fiscal regime. That is because the estimated fiscal policy reaction function implies an increase in
+the primary surplus as the debt ratio rises: it is thus ‘Ricardian’, though only weakly so. However, the fact that the
+EMBI spread remains high prevents the monetary authority from bringing inflation back close to the target.
+338
+
+=== página 6 ===
+Inflation targeting and the fiscal policyregime: the experience in Brazil
+Chart5
+The simulated effectsoftargeting inflation with a lessaggressive fiscalpolicyrule
+Selicrate EMBI spread Swapsspread
+Per cent Percentage points Percentage points
+32 19.3 37
+31 19.2 36
+30
+19.1 35
+29
+19.0 34
+28
+18.9 33
+27
+18.8 32
+26
+25 18.7 31
+24 18.6 30
+0 0.0 0
+July Jan. July Jan. July July Jan. July Jan. July July Jan. July Jan. July
+2003 04 05 2003 04 05 2003 04 05
+Netpublicdebt Exchange rate Inflation
+Percentage of GDP Real per $ Per cent
+60.8 6.0 17.4
+60.4 17.2
+5.6
+17.0
+60.0
+5.2 16.8
+59.6
+16.6
+59.2 4.8
+16.4
+58.8
+16.2
+4.4
+58.4 16.0
+58.0 4.0 15.8
+July Jan. July Jan. July 0.0 July Jan. July Jan. July 0.0 July Jan. July Jan. July 0.0
+2003 04 05 2003 04 05 2003 04 05
+Inflation expectations Outputgap Primarydeficit
+Per cent Per cent Percentage of GDP
+12.8 1.10 -3.92
+12.6 1.05 -3.96
+12.4 1.00 -4.00
+12.2 0.95 -4.04
+12.0 0.90
+-4.08
+11.8 0.85
+-4.12
+11.6 0.80
+-4.16
+11.4 0.75
+0.0 0.00 -4.20
+July Jan. July Jan. July July Jan. July Jan. July July Jan. July Jan. July
+2003 04 05 2003 04 05 2003 04 05
+339
+
+=== página 7 ===
+BankofEngland QuarterlyBulletin: Autumn 2003
+Chart6
+The simulated effectsoftargeting inflation with a more aggressive fiscalpolicyrule
+Selicrate EMBI spread Swapsspread
+Per cent Percentage points Percentage points
+24 6.05 24
+22 6.00
+22
+20 5.95
+20
+18 5.90
+16 5.85 18
+14 5.80
+16
+12 5.75
+14
+10 5.70
+8 5.65 12
+0 0.00 0
+July Jan. July Jan. July July Jan. July Jan. July July Jan. July Jan. July
+2003 04 05 2003 04 05 2003 04 05
+Netpublicdebt Exchange rate Inflation
+Percentage of GDP Real per $ Per cent
+48 2.7 14
+47
+2.6 12
+46
+2.5 10
+45
+44
+2.4 8
+43
+2.3 6
+42
+41 2.2 4
+0 0.0 0
+July Jan. July Jan. July July Jan. July Jan. July July Jan. July Jan. July
+2003 04 05 2003 04 05 2003 04 05
+Inflation expectations Outputgap Primarydeficit
+Per cent Per cent Percentage of GDP
+10 0.8 -2.2
+9 -2.4
+0.6
+8 -2.6
+0.4
+-2.8
+7
+0.2 -3.0
+6
++
+-3.2
+5 0.0
+–
+-3.4
+4 0.2
+-3.6
+3
+July Jan. July Jan. July 0 July Jan. July Jan. July 0.4 July Jan. July Jan. July -3.8
+2003 04 05 2003 04 05 2003 04 05
+340
+
+=== página 8 ===
+Inflation targeting and the fiscal policyregime: the experience in Brazil
+2003 was very close to the point where investors’ from a regime of ‘monetary dominance’ to one of ‘fiscal
+perceptions of solvency shift, as estimated in Favero and dominance’.
+Giavazzi (2003).
+The literature, from Sargent and Wallace (1981) to the
+As discussed above, what we may be describing are the modern ‘fiscal theory of the price level’, has discussed
+effects of a shift in investors’ perceptions of the future how an unsustainable fiscal policy may hinder the
+fiscal stance induced by a small change in current fiscal effectiveness of monetary policy, to the point that
+policy. an increase in interest rates can have a perverse
+effect on inflation. We have shown that credit risk
+Fiscalpolicyunder the Lula government reinforces the possibility that a vicious circle might
+arise, making the fiscal constraint on monetary policy
+One of the first announcements of Brazil’s new
+more stringent.
+President, Ignacio Lula da Silva, was an increase in the
+target for the primary budget surplus, from 3.75% to
+Having analysed the recent experience of Brazil, we
+4.25%. The outcome for 2003 might actually be even
+believe that we have identified an interesting episode
+better, since the increase in inflation has improved the
+where this could have happened. But the episode also
+budget: revenues are indexed to GDP, while expenditure
+shows how critical the behaviour of fiscal policy is. The
+is generally fixed in nominal terms. The change in fiscal
+economy could have fallen into a bad equilibrium, where
+policy was apparently minor, but may have served to shift
+fiscal policy would have hindered the effectiveness of
+the economy to a ‘good’ equilibrium.
+monetary policy. But a small change in the fiscal stance
+in January 2003, coupled with a change in investors’
+Conclusions
+perceptions of long-run fiscal policy, appears to have
+We have reviewed the recent experience of Brazil to show been sufficient to bring the economy back to normal
+how credit risk can be at the centre of the mechanism conditions, stabilising the EMBI spread, the exchange
+through which a central bank that targets inflation rate, and, through these two variables, inflation
+might lose control of inflation—in other words, of the expectations, inflation and the dynamics of the public
+mechanism through which the economy might move debt.
+341
+
+=== página 9 ===
+BankofEngland QuarterlyBulletin: Autumn 2003
+References
+Arora, V and Cerisola, M (2001), ‘How does US monetary policy influence sovereign spreads in emerging markets?’,
+IMF Staff Papers, Vol. 48, No. 3, pages 474–98.
+Blanchard, O (2003), ‘Fiscal dominance and inflation targeting: lessons from Brazil’, MIT, May, mimeo.
+Calvo, G (2003), ‘Explaining sudden stop, growth collapse and BOP crisis: the case of distortionary output taxes’,
+2002 Mundell-Fleming Lecture, IMF Staff Papers, Vol. 50, special issue.
+Drazen, A and Helpman, E (1987), ‘Stabilization with exchange rate management’, Quarterly Journal of Economics.
+Dungey, M, Martin, V L and Pagan, A P (2000), ‘A multivariate latent factor decomposition of international bond
+yield spreads’, Journal of Applied Econometrics, Vol. 15, pages 697–715.
+Eichengreen, B and Mody, A (2000), ‘What explains changing spreads on emerging market debt?’, in Edwards, S (ed),
+Capital flows and the emerging economies: theory, evidence, and controversies, NBER Conference Report series, Chicago and
+London: University of Chicago Press, pages 107–34.
+Favero, C A and Giavazzi, F (2002), ‘Why are Brazilian interest rates so high?’, IGIER, Bocconi University, July, mimeo.
+Favero, C A and Giavazzi, F (2003), ‘Targeting inflation when debt and risk premia are high: lessons from Brazil’,
+IGIER, Bocconi University, May, mimeo.
+Fraga, A, Goldfajn, I and Minella, A (2003), ‘Inflation targeting in emerging market economies’, NBER Macroeconomics
+Annual, forthcoming.
+Herrera, S and Perry, G (2002), Determinants of Latin spreads in the new economy era: the role of US interest rates and other
+external variables, The World Bank, mimeo.
+Kamin, S B and von Kleist, K (1999), ‘The evolution and determinants of emerging market credit spreads in the
+1990s’, Board of Governors of the Federal Reserve System, International Finance Discussion Paper, No. 653.
+Loyo, E (1999), ‘Tight money paradox on the loose: a fiscalist hyperinflation’, J F Kennedy School of Government,
+Harvard University, mimeo.
+Missale, A and Giavazzi, F (2003), ‘Debt management in Brazil’, IGIER, Bocconi University, May, mimeo.
+Sargent, T and Wallace, N (1981), ‘Some unpleasant monetary arithmetic’, Federal Reserve Bank of Minneapolis Quarterly
+Review.
+Sims, C (2003), ‘Limits to inflation targeting’, Princeton University, mimeo.
+Tanner, E and Ramos, A M (2002), ‘Fiscal sustainability and monetary versus fiscal dominance: evidence from Brazil,
+1991–2000’, IMF Working Paper, No. 02/05.
+Woodford, M (2001), ‘Fiscal requirements for price stability’, Journal of Money, Credit and Banking, Vol. 33, No. 3, August,
+pages 669–728.
+Wyplosz, C (2003), ‘Debt sustainability in Brazil’, Geneva, mimeo.
+342

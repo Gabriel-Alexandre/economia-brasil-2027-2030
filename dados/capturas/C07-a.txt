@@ -1,0 +1,78 @@
+# fonte: https://econpapers.repec.org/paper/bcbwpaper/85.htm
+# capturado em: 2026-10-26
+
+EconPapers: Risk Premia for Emerging Markets Bonds: Evidence from Brazilian Government Debt, 1996-2002
+EconPapers Home
+About EconPapers
+Working Papers
+Journal Articles
+Books and Chapters
+Software Components
+Authors
+JEL codes
+New Economics Papers
+Advanced Search
+EconPapers FAQ
+Archive maintainers FAQ
+Cookies at EconPapers
+Format for printing
+The RePEc blog
+The RePEc plagiarism page
+Risk Premia for Emerging Markets Bonds: Evidence from Brazilian Government Debt, 1996-2002
+André Loureiro
+and
+Fernando Barbosa
+No 85,
+Working Papers Series
+from
+Central Bank of Brazil, Research Department
+Abstract:
+The goal of this paper is to identify the determinants of the risk premium on Brazilian government debt traded in the emerging markets bonds. The empirical evidence presented does not reject the hypotheses that fiscal solvency and the size of the public debt affect the risk premium as measured by the spread over treasury securities of the Brazilian C-bond.
+Date:
+2004-05
+References:
+View references in EconPapers
+View complete reference list from CitEc
+Citations:
+View citations in EconPapers
+(13)
+Downloads:
+(external link)
+https://www.bcb.gov.br/content/publicacoes/WorkingPaperSeries/wps85.pdf
+(application/pdf)
+Related works:
+This item may be available elsewhere in EconPapers:
+Search
+for items with the same title.
+Export reference:
+BibTeX
+RIS
+(EndNote, ProCite, RefMan)
+HTML/Text
+Persistent link:
+https://EconPapers.repec.org/RePEc:bcb:wpaper:85
+Access Statistics
+for this paper
+More papers
+in Working Papers Series from
+Central Bank of Brazil, Research Department
+Bibliographic data for series maintained by Rodrigo Barbone Gonzalez (
+).
+Share
+This site is part of
+RePEc
+and all the data displayed here is part of the RePEc data set.
+Is your work missing from RePEc? Here is how to
+contribute
+.
+Questions or problems? Check the
+EconPapers FAQ
+or send mail to
+.
+EconPapers is hosted by the
+School of Business
+at
+Örebro University
+.
+Page updated 2026-09-02
+Handle: RePEc:bcb:wpaper:85

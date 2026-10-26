@@ -1,0 +1,146 @@
+# fonte: https://www.aeaweb.org/articles?id=10.1257/aer.109.4.1197
+# capturado em: 2026-10-26
+
+Public Debt and Low Interest Rates - American Economic Association
+This website uses cookies.
+By clicking the "Accept" button or continuing to browse our site, you agree to first-party and session-only cookies being stored on your device to enhance site navigation and analyze site performance and traffic. For more information on our use of cookies, please see our
+Privacy Policy
+.
+Accept
+Menu
+Journals
+Annual Meeting
+Careers
+Resources
+EconLit
+Committees
+Ethics/Ombuds
+Membership
+About AEA
+Log In
+Home
+Journals
+American Economic Review
+April 2019
+Public Debt and Low Interest Rates
+American Economic Review
+ISSN 0002-8282 (Print)
+|
+ISSN 1944-7981 (Online)
+About the
+AER
+Editors
+Editorial Policy
+Annual Report of the Editor
+Editorial Process: Discussions with the Editors
+Research Highlights
+Contact Information
+Articles and Issues
+Current Issue
+All Issues
+Forthcoming Articles
+Information for Authors and Reviewers
+Submission Guidelines
+Accepted Article Guidelines
+Style Guide
+Reviewer Guidelines
+Menu
+About the
+AER
+Editors
+Editorial Policy
+Annual Report of the Editor
+Editorial Process: Discussions with the Editors
+Research Highlights
+Contact Information
+Articles and Issues
+Current Issue
+All Issues
+Forthcoming Articles
+Information for Authors and Reviewers
+Submission Guidelines
+Accepted Article Guidelines
+Style Guide
+Reviewer Guidelines
+Public Debt and Low Interest Rates
+Olivier Blanchard
+American Economic Review
+vol. 109,
+no. 4, April 2019
+(pp. 1197–1229)
+Download Full Text PDF
+Article Information
+Abstract
+This lecture focuses on the costs of public debt when safe interest rates are low. I develop four main arguments. First, I show that the current US situation, in which safe
+interest rates are expected to remain below growth rates for a long time, is more the historical norm than the exception. If the future is like the past, this implies that debt
+rollovers, that is the issuance of debt without a later increase in taxes, may well be feasible. Put bluntly, public debt may have no fiscal cost. Second, even in the absence
+of fiscal costs, public debt reduces capital accumulation, and may therefore have welfare costs. I show that welfare costs may be smaller than typically assumed. The
+reason is that the safe rate is the risk-adjusted rate of return to capital. If it is lower than the growth rate, it indicates that the risk-adjusted rate of return to capital is in
+fact low. The average risky rate however also plays a role. I show how both the average risky rate and the average safe rate determine welfare outcomes. Third, I look at
+the evidence on the average risky rate, i.e., the average marginal product of capital. While the measured rate of earnings has been and is still quite high, the evidence
+from asset markets suggests that the marginal product of capital may be lower, with the difference reflecting either mismeasurement of capital or rents. This matters for
+debt: the lower the marginal product, the lower the welfare cost of debt. Fourth, I discuss a number of arguments against high public debt, and in particular the existence
+of multiple equilibria where investors believe debt to be risky and, by requiring a risk premium, increase the fiscal burden and make debt effectively more risky. This is a
+very relevant argument, but it does not have straightforward implications for the appropriate level of debt. My purpose in the lecture is not to argue for more public debt,
+especially in the current political environment. It is to have a richer discussion of the costs of debt and of fiscal policy than is currently the case.
+Citation
+Blanchard, Olivier.
+2019.
+"Public Debt and Low Interest Rates."
+American Economic Review
+109 (4):
+1197–1229
+.
+DOI: 10.1257/aer.109.4.1197
+Choose Format:
+BibTeX
+EndNote
+Refer/BibIX
+RIS
+Tab-Delimited
+Additional Materials
+Replication Package
+Supplemental Appendix
+Author Disclosure Statement(s)
+JEL Classification
+E22
+Investment; Capital; Intangible Capital; Capacity
+E23
+Macroeconomics: Production
+E43
+Interest Rates: Determination, Term Structure, and Effects
+E62
+Fiscal Policy
+H63
+National Debt; Debt Management; Sovereign Debt
+Journals
+American Economic Review
+AER: Insights
+Journal of Economic Literature
+Journal of Economic Perspectives
+AEJ: Applied Economics
+AEJ: Economic Policy
+AEJ: Macroeconomics
+AEJ: Microeconomics
+AEA Papers and Proceedings
+Subscriptions
+Copyright and Permissions
+Policies
+Data and Code
+Journal Alerts
+Research Highlights
+Print on Demand
+Journals
+Annual Meeting
+Careers
+Resources
+EconLit
+Committees
+Membership
+About AEA
+Log In
+Contact the AEA
+Terms of Use
+Privacy Policy
+Copyright 2026 American Economic Association. All rights reserved.
+Follow us:

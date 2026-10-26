@@ -1,0 +1,321 @@
+# fonte: https://static.poder360.com.br/2025/05/Moodys-brasil-avaliacao-30mai2025.pdf
+# capturado em: 2026-10-26
+
+
+=== página 1 ===
+Rating Action: Moody's Ratings changes Brazil's outlook to
+stable from positive; affirms Ba1 ratings
+30 May 2025
+New York, May 30, 2025 -- Moody's Ratings (Moody's) has today changed the outlook on the
+Government of Brazil's to stable from positive and affirmed long-term local and foreign currency
+issuer rating and senior unsecured bond ratings at Ba1, the senior unsecured shelf rating was
+also affirmed at (P)Ba1.
+The change in outlook to stable reflects a tapering of upside credit risks in light of a pronounced
+deterioration in debt affordability and slower-than-expected progress in addressing spending
+rigidity and building credibility around fiscal policy, despite adherence to primary balance
+targets. The government's ability to materially reduce fiscal vulnerabilities and stabilize debt
+burden in the short run remains constrained by spending rigidity and rising borrowing costs.
+These challenges offset upside investment and GDP growth potential and continued economic
+reforms that are broadly supportive of Brazil's credit quality. At Ba1, we now assess the credit
+risks to be balanced.
+The affirmation of Brazil's Ba1 rating reflects sustained solid growth of the country's large and
+diversified economy, a demonstrated track record of reform implementation over successive
+administrations, and limited vulnerability to external shocks given a strong external position.
+These credit strengths are balanced against elevated and rising debt burden, high interest
+payments, and a rigid spending structure that limits the government's ability to respond to
+shocks.
+Brazil's country ceilings remain unchanged. The local-currency country ceiling is positioned four
+notches above the sovereign rating at A3, reflecting external stability, moderate political risk,
+against the government's relatively large footprint in the economy. The foreign-currency country
+ceiling is Baa1, one-notch below the local-currency country ceiling reflects large foreign
+exchange reserves, which reduces the risk of restrictions on transfer and convertibility in times
+of stress, and open capital account, balanced against exchange-rate volatility and some
+restrictions on short-term capital flows.
+RATINGS RATIONALE
+RATIONALE FOR THE STABLE OUTLOOK
+FISCAL CONSOLIDATION EFFORTS UNDERWAY, BUT POLICY CREDIBILITY GAP, WEAK
+AFFORDABILITY AND DEBT STRUCTURE WILL LEAD TO HIGHER DEBT LEVEL
+Over the past three years, Brazil's real GDP growth has remained strong around 3%, and the
+government has met its primary deficit targets as expected. However, a material increase in
+inflation and inflation expectations in the context of strong economic activity led the central bank
+to resume forceful monetary policy tightening. As the government debt structure is very sensitive
+to interest rate movement, interest payments will increase materially and lead to larger overall
+fiscal deficits and debt accumulation in 2025-26 than we previously expected. Market concerns
+over the direction of fiscal policy have also contributed to the rise in inflation expectations and
+risk premium on government debt.
+
+=== página 2 ===
+Because of reliance on variable-rate and inflation-linked debt, Brazil's fiscal profile is highly
+susceptible to interest rate movements, while shortcomings in monetary policy channels of
+transmission result in large and rapid shifts in the interest rate environment, weaking the impact
+of fiscal consolidation efforts during tightening cycles.
+Although the fiscal policy stance has not changed, we now expect Brazil's debt burden to
+stabilize around 88% of GDP in the next 5 years, up from 82% in October 2024, mostly driven by
+larger-than-expected interest payments. We estimate that the interest-to-revenue ratio will peak
+in 2025 close to 21%, up from around 15% in 2023.
+While we expect the government to achieve a primary balance, spending rigidity and rising
+interest payments limit the prospects of additional expenditure cuts to compensate for the impact
+of rising borrowing costs on the debt burden. Although successive governments took steps to
+improve fiscal management, revenue earmarking, a large share of mandatory spending, and
+susceptibility to interest rate movements constrain the scope for adjustments. The current
+administration introduced revenue measures to meet primary deficit targets and a cap on
+increasing minimum wage, in line with the fiscal framework, which will contribute to reducing
+mandatory spending overtime. However, deeper reforms, such as reducing revenue earmarking
+and de-linking social benefits from the minimum wage, would be needed to alleviate much of
+Brazil's spending rigidity and increase the government's ability to respond to shocks. Such
+structural spending reforms would also help lower inflation expectations and interest rates more
+broadly.
+Building consensus around the design and implementation of deeper spending reforms would
+involve the government, Congress, and the public more broadly, which will likely take time.
+Furthermore, the government aims to rebalance its debt structure towards fixed-rate
+instruments and extend debt maturity in the coming years. The strategy involves increasing the
+share of fixed-rate and inflation-linked instruments, extending debt maturity, smoothing the
+maturity profile, and maintaining liquidity buffers to manage short-term shocks effectively. Such
+changes to the debt profile will likely be gradual. As such we are not expecting significant
+change in the short run.
+RATIONAL FOR RATING AFFIRMATION
+The affirmation of the Ba1 ratings reflect Brazil's large economic size and diversification, and
+limited vulnerability to external shocks given its domestic-driven economy and strong external
+position. Brazil's economy has displayed more robust growth in recent years partly a result of
+structural reforms implemented over successive administrations and a growing track record of
+economic and fiscal reforms that lend resilience to the credit profile.
+The affirmation also reflects our view that ongoing fiscal consolidation efforts, although gradual,
+will stabilize debt burden in the medium term. However, limited progress on deeper structural
+reforms to address spending rigidity and the high sensitivity of fiscal outcomes to interest rate
+movements constrain upward rating momentum in the short term. Brazil has the potential to
+sustain higher GDP growth by attracting investment in renewable energy production and energy-
+intensive sectors and is relatively less impacted by global policy uncertainty, mitigating the risks
+related to elevated debt burden and borrowing costs.
+ENVIRONMENTAL, SOCIAL, GOVERNANCE CONSIDERATIONS
+Brazil's Credit Impact Score (CIS-3) reflects exposure to environmental and social risks, and
+moderately strong institutions. Social and environmental risks are driven by high income
+inequality and exposure to carbon transition risk.
+Brazil's exposure to environmental risks (E-3 issuer profile score) reflects carbon-transition risk,
+impacting its oil sector, and risks related to waste and pollution, water management and the
+depletion of natural capital. However, those risks are mitigated by Brazil's significant endowment
+of natural capital and its continental landmass, where any given climate shock impacts only part
+of the country.
+
+=== página 3 ===
+Exposure to social risks (S-3 issuer profile score) reflects high income inequality and some
+deficiency in the provision of basic services, notwithstanding a large social safety net. Future
+social pressure may arise if employment and wage growth were to persistently weaken, leading
+to deterioration in living standards.
+The influence of governance on Brazil's credit profile (G-2 issuer profile score) reflects the
+effectiveness of economic, political, and judicial institutions in enacting difficult reforms across
+multiple administrations and strong monetary policy framework set against our assessment of
+the impact of relatively weak governance indicators related to corruption and rule of law.
+GDP per capita (PPP basis, US$): 21,120 (2023) (also known as Per Capita Income)
+Real GDP growth (% change): 3.2% (2023) (also known as GDP Growth)
+Inflation Rate (CPI, % change Dec/Dec): 4.6% (2023)
+Gen. Gov. Financial Balance/GDP: -7.6% (2023) (also known as Fiscal Balance)
+Current Account Balance/GDP: -1.3% (2023) (also known as External Balance)
+External debt/GDP: 33.4% (2023)
+Economic resiliency: baa1
+Default history: At least one default event (on bonds and/or loans) has been recorded since 1983.
+On 27 May 2025, a rating committee was called to discuss the rating of the Brazil, Government
+of. The main points raised during the discussion were: The issuer's economic fundamentals,
+including its economic strength, have not materially changed. The issuer's institutions and
+governance strength, have not materially changed. The issuer's fiscal or financial strength,
+including its debt profile, has materially decreased. The issuer's susceptibility to event risks has
+not materially changed.
+FACTORS THAT COULD LEAD TO AN UPGRADE OR DOWNGRADE OF THE RATINGS
+Brazil's sovereign rating could be upgraded if a broad consensus among policy makers and
+Congress emerges to advance deeper spending reforms. For example, measures that would
+reduce earmarking of revenues, indexation of social benefits to the minimum wage, or reform to
+social security benefits would create fiscal space and improve the credit profile. More broadly,
+macroeconomic reforms that improve the monetary policy framework, leading to a more effective
+transmission of monetary policy would also contribute to reducing the vulnerability of Brazil's
+fiscal position to cycles of monetary policy tightening.
+The rating could face downward pressure if fiscal consolidation efforts were reversed or less
+effective than we currently assume, further weakening investor confidence and resulting in
+persistently weaker debt affordability and debt metrics. Signs of materially weaker growth would
+also weigh on Brazil's credit profile and could prompt a negative rating action.
+The principal methodology used in these ratings was Sovereigns published in November 2022
+and available at https://ratings.moodys.com/rmc-documents/395819. Alternatively, please see the
+Rating Methodologies page on https://ratings.moodys.com for a copy of this methodology.
+The weighting of all rating factors is described in the methodology used in this credit rating
+action, if applicable.
+Brazil' long-term issuer rating is Ba1, one notch below the final scorecard-indicated outcome of
+Baa1-Baa3. This reflects uncertainty around the government's debt trajectory in the context of
+high borrowing costs.
+REGULATORY DISCLOSURES
+For further specification of Moody's key rating assumptions and sensitivity analysis, see the
+
+=== página 4 ===
+sections Methodology Assumptions and Sensitivity to Assumptions in the disclosure form.
+Moody's Rating Symbols and Definitions can be found on https://ratings.moodys.com/rating-
+definitions.
+For any affected securities or rated entities receiving direct credit support/credit substitution
+from another entity or entities subject to a credit rating action (the supporting entity), and whose
+ratings may change as a result of a credit rating action as to the supporting entity, the associated
+regulatory disclosures will relate to the supporting entity. Exceptions to this approach may be
+applicable in certain jurisdictions.
+For ratings issued on a program, series, category/class of debt or security, certain regulatory
+disclosures applicable to each rating of a subsequently issued bond or note of the same series,
+category/class of debt, or security, or pursuant to a program for which the ratings are derived
+exclusively from existing ratings, in accordance with Moody's rating practices, can be found in
+the most recent Credit Rating Announcement related to the same class of Credit Rating.
+For provisional ratings, the Credit Rating Announcement provides certain regulatory disclosures
+in relation to the provisional rating assigned, and in relation to a definitive rating that may be
+assigned subsequent to the final issuance of the debt, in each case where the transaction
+structure and terms have not changed prior to the assignment of the definitive rating in a
+manner that would have affected the rating.
+Moody's does not always publish a separate Credit Rating Announcement for each Credit Rating
+assigned in the Anticipated Ratings Process or Subsequent Ratings Process.
+These ratings are solicited. Please refer to Moody's Policy for Designating and Assigning
+Unsolicited Credit Ratings available on its website https://ratings.moodys.com.
+Regulatory disclosures contained in this press release apply to the credit rating and, if
+applicable, the related rating outlook or rating review.
+The Global Scale Credit Rating(s) discussed in this Credit Rating Announcement was(were)
+issued by one of Moody's affiliates outside the EU and UK and is(are) endorsed for use in the EU
+and UK in accordance with the EU and UK CRA Regulation.
+Please see https://ratings.moodys.com for any updates on changes to the lead rating analyst and
+to the Moody's legal entity that has issued the rating.
+Please see the issuer/deal page on https://ratings.moodys.com for additional regulatory
+disclosures for each credit rating.
+Samar Maziad
+Vice President - Senior Analyst
+Ariane Ortiz-Bollin
+Associate Managing Director
+Releasing Office:
+Moody's Investors Service, Inc.
+250 Greenwich Street
+New York, NY 10007
+U.S.A.
+JOURNALISTS: 1 212 553 0376
+Client Service: 1 212 553 1653
+© 2025 Moody's Corporation, Moody's Investors Service, Inc., Moody's Analytics, Inc. and/or
+their licensors and affiliates (collectively, "MOODY'S"). All rights reserved.
+
+=== página 5 ===
+CREDIT RATINGS ISSUED BY MOODY'S CREDIT RATINGS AFFILIATES ARE THEIR
+CURRENT OPINIONS OF THE RELATIVE FUTURE CREDIT RISK OF ENTITIES, CREDIT
+COMMITMENTS, OR DEBT OR DEBT-LIKE SECURITIES, AND MATERIALS, PRODUCTS,
+SERVICES AND INFORMATION PUBLISHED OR OTHERWISE MADE AVAILABLE BY
+MOODY'S (COLLECTIVELY, "MATERIALS") MAY INCLUDE SUCH CURRENT OPINIONS.
+MOODY'S DEFINES CREDIT RISK AS THE RISK THAT AN ENTITY MAY NOT MEET ITS
+CONTRACTUAL FINANCIAL OBLIGATIONS AS THEY COME DUE AND ANY ESTIMATED
+FINANCIAL LOSS IN THE EVENT OF DEFAULT OR IMPAIRMENT. SEE APPLICABLE
+MOODY'S RATING SYMBOLS AND DEFINITIONS PUBLICATION FOR INFORMATION
+ON THE TYPES OF CONTRACTUAL FINANCIAL OBLIGATIONS ADDRESSED BY
+MOODY'S CREDIT RATINGS. CREDIT RATINGS DO NOT ADDRESS ANY OTHER RISK,
+INCLUDING BUT NOT LIMITED TO: LIQUIDITY RISK, MARKET VALUE RISK, OR PRICE
+VOLATILITY. CREDIT RATINGS, NON-CREDIT ASSESSMENTS ("ASSESSMENTS"), AND
+OTHER OPINIONS INCLUDED IN MOODY'S MATERIALS ARE NOT STATEMENTS OF
+CURRENT OR HISTORICAL FACT. MOODY'S MATERIALS MAY ALSO INCLUDE
+QUANTITATIVE MODEL-BASED ESTIMATES OF CREDIT RISK AND RELATED
+OPINIONS OR COMMENTARY PUBLISHED BY MOODY'S ANALYTICS, INC. AND/OR ITS
+AFFILIATES. MOODY'S CREDIT RATINGS, ASSESSMENTS, OTHER OPINIONS AND
+MATERIALS DO NOT CONSTITUTE OR PROVIDE INVESTMENT OR FINANCIAL
+ADVICE, AND MOODY'S CREDIT RATINGS, ASSESSMENTS, OTHER OPINIONS AND
+MATERIALS ARE NOT AND DO NOT PROVIDE RECOMMENDATIONS TO PURCHASE,
+SELL, OR HOLD PARTICULAR SECURITIES. MOODY'S CREDIT RATINGS,
+ASSESSMENTS, OTHER OPINIONS AND MATERIALS DO NOT COMMENT ON THE
+SUITABILITY OF AN INVESTMENT FOR ANY PARTICULAR INVESTOR. MOODY'S
+ISSUES ITS CREDIT RATINGS, ASSESSMENTS AND OTHER OPINIONS AND
+PUBLISHES OR OTHERWISE MAKES AVAILABLE ITS MATERIALS WITH THE
+EXPECTATION AND UNDERSTANDING THAT EACH INVESTOR WILL, WITH DUE
+CARE, MAKE ITS OWN STUDY AND EVALUATION OF EACH SECURITY THAT IS UNDER
+CONSIDERATION FOR PURCHASE, HOLDING, OR SALE.
+MOODY'S CREDIT RATINGS, ASSESSMENTS, OTHER OPINIONS, AND MATERIALS ARE NOT
+INTENDED FOR USE BY RETAIL INVESTORS AND IT WOULD BE RECKLESS AND
+INAPPROPRIATE FOR RETAIL INVESTORS TO USE MOODY'S CREDIT RATINGS,
+ASSESSMENTS, OTHER OPINIONS OR MATERIALS WHEN MAKING AN INVESTMENT
+DECISION. IF IN DOUBT YOU SHOULD CONTACT YOUR FINANCIAL OR OTHER
+PROFESSIONAL ADVISER.
+ALL INFORMATION CONTAINED HEREIN IS PROTECTED BY LAW, INCLUDING BUT NOT
+LIMITED TO, COPYRIGHT LAW, AND NONE OF SUCH INFORMATION MAY BE COPIED OR
+OTHERWISE REPRODUCED, REPACKAGED, FURTHER TRANSMITTED, TRANSFERRED,
+DISSEMINATED, REDISTRIBUTED OR RESOLD, OR STORED FOR SUBSEQUENT USE FOR
+ANY SUCH PURPOSE, IN WHOLE OR IN PART, IN ANY FORM OR MANNER OR BY ANY
+MEANS WHATSOEVER, BY ANY PERSON WITHOUT MOODY'S PRIOR WRITTEN CONSENT.
+FOR CLARITY, NO INFORMATION CONTAINED HEREIN MAY BE USED TO DEVELOP,
+IMPROVE, TRAIN OR RETRAIN ANY SOFTWARE PROGRAM OR DATABASE, INCLUDING, BUT
+NOT LIMITED TO, FOR ANY ARTIFICIAL INTELLIGENCE, MACHINE LEARNING OR NATURAL
+LANGUAGE PROCESSING SOFTWARE, ALGORITHM, METHODOLOGY AND/OR MODEL.
+MOODY'S CREDIT RATINGS, ASSESSMENTS, OTHER OPINIONS AND MATERIALS ARE NOT
+INTENDED FOR USE BY ANY PERSON AS A BENCHMARK AS THAT TERM IS DEFINED FOR
+REGULATORY PURPOSES AND MUST NOT BE USED IN ANY WAY THAT COULD RESULT IN
+THEM BEING CONSIDERED A BENCHMARK.
+All information contained herein is obtained by MOODY'S from sources believed by it to be
+accurate and reliable. Because of the possibility of human or mechanical error as well as other
+factors, however, all information contained herein is provided "AS IS" without warranty of any
+
+=== página 6 ===
+kind. MOODY'S adopts all necessary measures so that the information it uses in assigning a
+credit rating is of sufficient quality and from sources MOODY'S considers to be reliable
+including, when appropriate, independent third-party sources. However, MOODY'S is not an
+auditor and cannot in every instance independently verify or validate information received in the
+credit rating process or in preparing its Materials.
+To the extent permitted by law, MOODY'S and its directors, officers, employees, agents,
+representatives, licensors and suppliers disclaim liability to any person or entity for any indirect,
+special, consequential, or incidental losses or damages whatsoever arising from or in connection
+with the information contained herein or the use of or inability to use any such information, even
+if MOODY'S or any of its directors, officers, employees, agents, representatives, licensors or
+suppliers is advised in advance of the possibility of such losses or damages, including but not
+limited to: (a) any loss of present or prospective profits or (b) any loss or damage arising where
+the relevant financial instrument is not the subject of a particular credit rating assigned by
+MOODY'S.
+To the extent permitted by law, MOODY'S and its directors, officers, employees, agents,
+representatives, licensors and suppliers disclaim liability for any direct or compensatory losses or
+damages caused to any person or entity, including but not limited to by any negligence (but
+excluding fraud, willful misconduct or any other type of liability that, for the avoidance of doubt,
+by law cannot be excluded) on the part of, or any contingency within or beyond the control of,
+MOODY'S or any of its directors, officers, employees, agents, representatives, licensors or
+suppliers, arising from or in connection with the information contained herein or the use of or
+inability to use any such information.
+NO WARRANTY, EXPRESS OR IMPLIED, AS TO THE ACCURACY, TIMELINESS,
+COMPLETENESS, MERCHANTABILITY OR FITNESS FOR ANY PARTICULAR PURPOSE OF ANY
+CREDIT RATING, ASSESSMENT, OTHER OPINION OR INFORMATION IS GIVEN OR MADE BY
+MOODY'S IN ANY FORM OR MANNER WHATSOEVER.
+Moody's Investors Service, Inc., a wholly-owned credit rating agency subsidiary of Moody's
+Corporation ("MCO"), hereby discloses that most issuers of debt securities (including corporate
+and municipal bonds, debentures, notes and commercial paper) and preferred stock rated by
+Moody's Investors Service, Inc. have, prior to assignment of any credit rating, agreed to pay
+Moody's Investors Service, Inc. for credit ratings opinions and services rendered by it. MCO and
+all MCO entities that issue ratings under the "Moody's Ratings" brand name ("Moody's Ratings"),
+also maintain policies and procedures to address the independence of Moody's Ratings' credit
+ratings and credit rating processes. Information regarding certain affiliations that may exist
+between directors of MCO and rated entities, and between entities who hold credit ratings from
+Moody's Investors Service, Inc. and have also publicly reported to the SEC an ownership interest
+in MCO of more than 5%, is posted annually at ir.moodys.com under the heading "Investor
+Relations — Corporate Governance — Charter and Governance Documents - Director and
+Shareholder Affiliation Policy."
+Moody's SF Japan K.K., Moody's Local AR Agente de Calificación de Riesgo S.A., Moody's Local
+BR Agência de Classificação de Risco LTDA, Moody's Local MX S.A. de C.V, I.C.V., Moody's Local
+PE Clasificadora de Riesgo S.A., and Moody's Local PA Calificadora de Riesgo S.A. (collectively,
+the "Moody's Non-NRSRO CRAs") are all indirectly wholly-owned credit rating agency
+subsidiaries of MCO. None of the Moody's Non-NRSRO CRAs is a Nationally Recognized
+Statistical Rating Organization.
+Additional terms for Australia only: Any publication into Australia of this document is pursuant to
+the Australian Financial Services License of MOODY'S affiliate, Moody's Investors Service Pty
+Limited ABN 61 003 399 657AFSL 336969 and/or Moody's Analytics Australia Pty Ltd ABN 94
+105 136 972 AFSL 383569 (as applicable). This document is intended to be provided only to
+"wholesale clients" within the meaning of section 761G of the Corporations Act 2001. By
+continuing to access this document from within Australia, you represent to MOODY'S that you
+are, or are accessing the document as a representative of, a "wholesale client" and that neither
+you nor the entity you represent will directly or indirectly disseminate this document or its
+
+=== página 7 ===
+contents to "retail clients" within the meaning of section 761G of the Corporations Act 2001.
+MOODY'S credit rating is an opinion as to the creditworthiness of a debt obligation of the issuer,
+not on the equity securities of the issuer or any form of security that is available to retail
+investors.
+Additional terms for India only: Moody's credit ratings, Assessments, other opinions and
+Materials are not intended to be and shall not be relied upon or used by any users located in
+India in relation to securities listed or proposed to be listed on Indian stock exchanges.
+Additional terms with respect to Second Party Opinions and Net Zero Assessments (as defined in
+Moody's Ratings Rating Symbols and Definitions): Please note that neither a Second Party
+Opinion ("SPO") nor a Net Zero Assessment ("NZA") is a "credit rating". The issuance of SPOs
+and NZAs is not a regulated activity in many jurisdictions, including Singapore. JAPAN: In Japan,
+development and provision of SPOs and NZAs fall under the category of "Ancillary Businesses",
+not "Credit Rating Business", and are not subject to the regulations applicable to "Credit Rating
+Business" under the Financial Instruments and Exchange Act of Japan and its relevant
+regulation. PRC: Any SPO: (1) does not constitute a PRC Green Bond Assessment as defined
+under any relevant PRC laws or regulations; (2) cannot be included in any registration statement,
+offering circular, prospectus or any other documents submitted to the PRC regulatory authorities
+or otherwise used to satisfy any PRC regulatory disclosure requirement; and (3) cannot be used
+within the PRC for any regulatory purpose or for any other purpose which is not permitted under
+relevant PRC laws or regulations. For the purposes of this disclaimer, "PRC" refers to the
+mainland of the People's Republic of China, excluding Hong Kong, Macau and Taiwan.

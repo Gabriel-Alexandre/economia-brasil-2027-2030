@@ -1,0 +1,79 @@
+# fonte: https://www.econ.puc-rio.br/api/uploads/adm/trabalhos/files/260617_Valor_MGarcia.pdf
+# capturado em: 2026-10-26
+
+
+=== página 1 ===
+Valor Econômico
+Quarta-feira, 17 de junho de 2026
+A Aritmética Implacável da Dívida
+Márcio G. P. Garcia1
+Uma das aulas mais importantes e úteis da disciplina Teoria Macroeconômica II, no curso de
+graduação da PUC-Rio, é aquela na qual ensino como analisar a dinâmica da dívida pública.
+Aos alunos, apresento uma constatação que deveria ser óbvia, mas que frequentemente
+escapa ao debate político: quando um governo gasta sistematicamente mais do que arrecada e
+tenta postergar o ajuste, a conta não desaparece; só cresce. Quanto mais tempo se espera para
+corrigir o desequilíbrio, maior terá de ser o esforço fiscal exigido mais adiante.
+A medida consagrada para avaliar a saúde fiscal de um país é a razão entre a dívida pública e
+o PIB. Essa proporção aumenta mais rapidamente quanto maior for o déficit primário (que
+não inclui pagamentos de juros), quanto maior for a taxa real de juros e quanto menor for a
+taxa de crescimento da economia. É uma aritmética simples, mas implacável.
+O juro real no Brasil tem sido extraordinariamente elevado, com frequência superior a dois
+dígitos, enquanto o crescimento econômico permanece relativamente pequeno, com projeções
+inferiores a 2% para este ano, como indica o mais recente relatório Focus do Banco Central.
+Para que a razão dívida/PIB parasse de crescer, seria necessário que o governo estivesse
+gerando elevado superávit primário. Na prática, contudo, o que observamos é um déficit
+persistente e crescente.
+A mesma pesquisa Focus prevê um déficit primário de 0,5% do PIB para 2026. Com a Dívida
+Bruta do Governo Geral (DBGG) já tendo atingido alarmantes 80,2% do PIB em abril, a
+aritmética nos condena a ter de lidar com um crescimento substancial da dívida pública neste
+ano e nos seguintes. Estabilizar a dívida não significa zerá-la, mas apenas impedir que
+continue crescendo em relação ao tamanho da economia. No atual cenário, estamos muito
+longe até mesmo de parar de cavar o buraco.
+Para se ter uma ideia da magnitude do esforço exigido, considere a aritmética básica que
+ensino aos alunos de Economia na PUC-Rio: o superávit primário necessário para estabilizar
+a dívida como proporção do PIB é igual à diferença entre a taxa real de juros e a taxa de
+crescimento da economia, multiplicada pelo estoque atual da dívida. Considerando a dívida
+em torno de 80% do PIB, a tabela ilustra o superávit primário requerido sob diferentes
+cenários de juros e crescimento.
+Taxa de crescimento do PIB (g) → 1% 2% 3%
+Taxa real de Juros (r) ↓
+6% 4,0% 3,2% 2,4%
+8% 5,6% 4,8% 4,0%
+10% 7,2% 6,4% 5,6%
+1Professor Titular, Departamento de Economia da PUC-Rio, Pesquisador Afiliado da MIT Sloan School of Management, Pesquisador Sênior
+do CNPq e Cientista Nosso Estado da FAPERJ, escreve mensalmente neste espaço. (https://sites.google.com/view/mgpgarcia).
+
+=== página 2 ===
+No nosso cenário atual — com juros reais próximos a 8% e crescimento ligeiramente abaixo
+de 2% —, precisaríamos de um superávit primário ao redor de 4,8% do PIB apenas para
+impedir que a razão dívida/PIB continue subindo. A distância entre a nossa realidade de
+déficit primário de 0,5% e o superávit requerido é abissal, superior a 5 pontos percentuais do
+PIB. Uma mudança dessa dimensão jamais foi feita no Brasil. E as "viradas" precedentes em
+nossa história fiscal geralmente envolveram um significativo aumento da inflação, que corrói
+o valor real da dívida, mas empobrece a população — exatamente o que não queremos que
+ocorra.
+É claro que o problema seria menos grave se o juro real fosse mais baixo. Mas tal argumento,
+tomado isoladamente, é de pouca valia. Mesmo com a elevada taxa Selic vigente de 14,5% ao
+ano, a inflação acumulada em doze meses já supera o limite superior da banda ao redor da
+meta. O mercado projeta o IPCA em 5,30% para 2026, bem acima do teto de 4,5%. Assim,
+independentemente do que o Copom decida nesta quarta-feira — a previsão majoritária do
+mercado é de um corte modesto, 0,25 ponto percentual —, o problema da nossa dívida
+explosiva continuará muito agudo. A taxa básica de juros alta não é a causa do problema, mas
+o sintoma de um desequilíbrio estrutural que força o Banco Central a manter o pé no freio
+enquanto o governo pressiona com vontade o acelerador fiscal.
+É igualmente de pouca relevância prática afirmar que os Estados Unidos e outros países
+desenvolvidos também enfrentam problemas de dívida pública alta e crescente. Quando os
+mercados mudarem de ânimo, como de hábito, e começarem a punir mais acentuadamente os
+países mais endividados, exigindo juros ainda maiores para financiar suas emissões, os
+emergentes estarão fadados a sofrer muito mais. Se o prêmio de risco disparar, a estabilização
+da dívida exigirá superávits primários absurdos, que poderão redundar num ajuste recessivo
+muito doloroso. E, como a história brasileira já demonstrou repetidas vezes, as maiores
+vítimas dessas correções abruptas serão os mais pobres.
+É deplorável e assustador que o problema da dívida pública explosiva, inegavelmente o nosso
+maior desafio macroeconômico, não venha sequer sendo mencionado por nossas autoridades.
+O Presidente da República elogia seus novos ministros da área econômica por driblar a
+legislação, achando formas de aumentar significativamente o gasto fiscal e parafiscal em ano
+eleitoral. O Congresso ameaça aprovar pautas-bombas que apressariam o caos fiscal. Pior
+ainda, nem parece que o tema da dívida pública explosiva será objeto de discussão séria na
+campanha presidencial deste ano. Ignorar a aritmética implacável da dívida não a torna
+menos verdadeira; apenas garante que a conta a ser paga no futuro será muito mais alta ainda.

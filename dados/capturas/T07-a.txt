@@ -1,0 +1,1927 @@
+# fonte: https://www.erse.pt/media/cypbrvy1/boletim-commodities-2t2026.pdf
+# capturado em: 2026-10-26
+
+
+=== página 1 ===
+COMMODITIES
+2.º Trimestre 2026
+Julho | 2026
+SÍNTESE
+EVOLUÇÃO DOS MERCADOS SPOT ATÉ AO 2.º TRIMESTRE 2026
+Nota: A série de preços de GNL do Japão anteriormente utilizada foi descontinuada e substituída por uma nova série, pelo que os valores agora
+apresentados não são diretamente comparáveis com os publicados anteriormente. Na nova série, na ausência de uma cotação spot disponível,
+utilizou-se como proxy uma série de futuros a um mês.
+1
+O
+B
+C
+G
+G
+L
+T
+M IE - P o r t u g a l
+r e n t
+a r v ã o (A P I2 )
+á s N a t u r a l
+H H
+M IB G A S
+N B P
+P E G
+T T F
+Z E E
+N L
+A C E R N W
+A C E R S o u th
+Ja p ã o
+ic e n ç a s e m is s ã o
+a x a d e c â m b io
+C O 2
+EU R
+U SD
+EU R
+EU R
+EU R
+EU R
+EU R
+EU R
+EU R
+EU R
+EU R
+EU R
+EU R
+EU R
+/M W
+/b b l
+/to n
+/M W
+/M W
+/M W
+/M W
+/M W
+/M W
+/M W
+/M W
+/M W
+/to n
+/U SD
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+2 0 2 5
+T 2
+4 1 ,8
+7 1 ,5
+8 8 ,0
+8 ,9
+3 6 ,8
+3 4 ,8
+3 5 ,8
+3 6 ,3
+3 5 ,9
+3 5 ,7
+3 5 ,8
+3 8 ,6
+7 2 ,1
+1 ,1 5 3
+2 0 2 5
+T 3
+6 6 ,7
+6 9 ,1
+8 5 ,7
+8 ,7
+3 3 ,1
+3 1 ,5
+3 2 ,2
+3 2 ,4
+3 2 ,4
+3 1 ,7
+3 1 ,8
+3 4 ,6
+7 2 ,4
+1 ,1 6 9
+2 0 2 5
+T 4
+7 1 ,3
+6 3 ,7
+8 1 ,4
+1 0 ,8
+2 9 ,7
+2 9 ,4
+2 9 ,0
+3 0 ,0
+2 9 ,7
+2 8 ,8
+2 8 ,8
+3 1 ,8
+8 1 ,1
+1 ,1 6 4
+2 0 2 6
+T 1
+4 1 ,9
+8 1 ,0
+9 2 ,5
+1 4 ,4
+4 0 ,2
+3 9 ,7
+3 9 ,2
+4 0 ,0
+3 9 ,9
+3 7 ,0
+3 7 ,1
+3 8 ,6
+7 6 ,2
+1 ,1 7 0
+2 0 2 6
+T 2
+5 5 ,6
+1 0 4 ,7
+9 9 ,1
+8 ,6
+4 4 ,9
+4 4 ,6
+4 5 ,0
+4 5 ,5
+4 5 ,3
+4 5 ,7
+4 6 ,4
+5 1 ,7
+7 5 ,2
+1 ,1 6 2
+V a r . T r im e s
+2 0 2 6 T 1
+- >
+2 0 2 6 T 2
+3 2 ,7 %
+2 9 ,2 %
+7 ,0 %
+-4 0 ,1 %
+1 1 ,5 %
+1 2 ,1 %
+1 4 ,7 %
+1 3 ,8 %
+1 3 ,5 %
+2 3 ,4 %
+2 5 ,2 %
+3 3 ,7 %
+- 1 ,3 %
+- 0 ,7 %
+t r a l V a r . h o m ó lo
+2 0 2 5 T 2
+- >
+2 0 2 6 T 2
+3 3 ,0 %
+4 6 ,4 %
+1 2 ,5 %
+-2 ,5 %
+2 2 ,0 %
+2 8 ,1 %
+2 5 ,7 %
+2 5 ,5 %
+2 6 ,2 %
+2 7 ,8 %
+2 9 ,7 %
+3 3 ,7 %
+4 ,2 %
+0 ,8 %
+g a
+
+=== página 2 ===
+COMMODITIES
+2.º Trimestre 2026
+EVOLUÇÃO DOS MERCADOS DE FUTUROS PARA 2025-2026
+Var. Trimestral Var. homóloga
+2026T2 2026T2
+2026 2026 2026 2027 2027
+-> ->
+T2 T3 T4 T1 T2
+2026T3 2027T2
+OMIP - Portugal EUR/MWh 55,6 85,5 89,0 74,0 42,2 53,9% -24,0%
+Brent USD/bbl 104,7 81,1 78,6 76,9 75,7 -22,6% -27,7%
+Carvão (API2) EUR/ton 99,1 103,8 103,6 103,3 101,5 4,8% 2,5%
+Gás Natural
+HH EUR/MWh 8,6 9,6 10,6 11,3 9,0 10,8% 3,7%
+MIBGAS EUR/MWh 44,9 45,0 44,0 42,3 33,6 0,3% -25,1%
+NBP EUR/MWh 44,6 42,9 44,7 43,6 33,4 -3,8% -25,0%
+TTF EUR/MWh 45,5 44,9 44,5 42,3 34,2 -1,3% -25,0%
+GNL
+Japão EUR/MWh 51,7 49,6 46,8 42,4 35,4 -3,9% -31,4%
+Licenças emissão CO 2 EUR/ton 75,2 78,0 78,5 79,0 79,6 3,7% 5,9%
+Taxa de câmbio EUR/USD 1,162 1,152 1,157 1,161 1,165 -0,8% 0,2%
+2
+
+=== página 3 ===
+COMMODITIES
+2.º Trimestre 2026
+de fevereiro de 2026, observa-se uma trajetória
+ascendente significativa, atingindo um valor
+1 EVOLUÇÃO HISTÓRICA
+máximo de 145 USD/bbl, no início do mês de
+abril, superando o anterior recorde de 139
+USD/bbl, registado em 2008. Contudo, após este
+PETRÓLEO
+pico, as cotações iniciaram uma trajetória
+descendente, refletindo o alívio das tensões
+A Figura 1-1 identifica alguns dos principais geopolíticas e a diminuição do prémio de risco
+acontecimentos que marcaram a evolução do associado ao mercado petrolífero. Mesmo
+preço do petróleo desde 2000. Ao longo deste assim, o 2.º trimestre de 2026 registou um valor
+período, destaca-se um novo máximo histórico, médio de 104,7 USD/bbl, representando uma
+quando, em 7 de abril de 2026, as cotações do subida de quase 30 %, face ao trimestre
+Brent atingiram 145 USD/bbl. Este aumento anterior.
+resultou do agravamento do conflito entre
+EUA/Israel e o Irão, do encerramento do estreito
+Figura 1-2 Análise de médio prazo do preço spot
+de Hormuz e do consequente receio de do Brent
+interrupções significativas no abastecimento
+mundial de petróleo. Verifica-se que, desde o
+início deste conflito, os preços do petróleo
+registaram uma subida acentuada, atingindo
+uma cotação média no 1.º semestre de 2026 de
+93 USD/bbl.
+Figura 1-1 Principais eventos que marcaram a
+evolução do preço do petróleo Brent
+lbb/DSU 1 1 1 1 1 1 5 4 3 2 1 0 9 8
+7 6 5 4 3 2
+1
+0 0 0 0 0 0 0
+0 0 0 0 0 0
+0
+0
+0
+0002
+orbm
+eteS ed s e 1 u 1 qatA
+1002
+aleuzeneV an severG
+2002
+euqarI
+o m edavni AUE
+anirtaK ,sinneD ,navI seõcaruF
+3002
+Br
+ocixéM od o f o lo n G atiR
+e e
+4002
+nt (
+5002
+USD
+6002
+/
+seraelcuN setseT
+bb
+7002
+l
+etroN od aieroC ad
+)
+8002
+laidnuM ariecnan e iF sirC
+srehtorB nam heL a i a c d nêlaF
+9002
+azaG ed axiaf an seõsneT
+0102 1102 2102
+orue
+anoz an esirC
+3102 4102
+ed oãçudorp ad otnem uA
+5102
+arucorp ad oãçud li e o r e elahs
+6102 7102
+PEPO ad oãçudorp
+etroC
+8102
+e atrefo ed ossecxE
+9102
+aim onoce ad otnem iceferra
+0202
+D 91 IV - O C
+DIVO C s e e õ 9 ç 1 i - rtser sad oivílA
+1202
+PEPO ad oãçudorp ad setroc
+2202
+a a in is â s r ú c R U - otilfnoC
+3202
+s l a e m ar a s H I - otilfnoC
+4202 5202 6202
+lears o I/ ã A r U I- E otilfnoC
+1 0 0 0 0
+0 0 0 0 0
+0
+, , , ,
+, , , , ,
+9 8 7 6
+5 4 3 2 1
+F A
+p r p t
+e
+e e
+o
+r a
+d
+F n
+n f o n e
+t
+a
+i
+d d
+g e
+d r ê
+:
+u
+p
+u
+e e
+E
+n ç
+r
+r
+n m
+R
+o
+a
+ã c c
+S
+i i
+d
+o i
+1 E
+a a a
+u
+, -
+m l c d
+B 3
+ç
+o o
+l
+a
+ã
+u
+o m
+n
+o
+v
+o
+n C t a
+m o
+d O
+d
+í l n
+s b
+i o
+o
+V a
+t
+u
+e
+r
+r
+l I
+r
+p
+a
+a
+D
+g
+d d
+e
+d e - e
+a
+t
+1 e
+r
+j p
+e
+9
+ó
+a c
+v
+e , n
+l
+r
+e
+o
+t r e e r e
+o
+l
+s i ó
+u
+g r
+,
+c
+ç
+l o i
+c
+e i s
+ã
+m
+o
+o t d
+o
+o
+m
+, e e u
+d
+t n 2 e -
+t
+o
+t s
+r
+0 n o e
+a
+c
+2 d
+j
+o
+d u
+e
+0 o
+n
+o
+t
+m . c
+ó
+s
+A c o
+u
+a
+r
+o p
+i
+m
+m
+a
+n ó
+s
+o
+o
+s s u a
+e
+m
+d
+o
+a
+quase paralelas até ao 2.º trimestre de 2025.
+Fonte: ERSE, Bloomberg
+Nos dois últimos trimestres de 2025 a produção
+aumentou mais rapidamente do que o consumo,
+A Figura 1-2 apresenta a evolução do preço
+criando um excedente que se acentuou no 4.º
+diário do Brent no mercado spot. Entre janeiro
+trimestre desse ano. Nos dois primeiros
+de 2025 e o início do conflito entre os EUA/Israel
+trimestres de 2026 verificou-se uma redução
+e o Irão, o preço do Brent foi tendencialmente
+substancial na produção em resultado do
+estável, em torno dos 69 USD/bbl. A partir de 28
+encerramento do estreito de Hormuz pelo Irão.
+3
+lbb/DSU
+1
+1
+1
+1
+6
+4
+2
+0
+8
+6
+4
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5202
+.naj
+5202
+.vef
+5202
+.ram
+5202
+.rba
+5202
+.iam
+5202
+.nuj
+5202
+.luj
+5202
+.oga
+5202
+.tes
+5202
+.tuo
+5202
+.von
+5202
+.zed
+6202
+.naj
+6202
+.vef
+6202
+.ram
+6202
+.rba
+6202
+.iam
+6202
+.nuj
+
+=== página 4 ===
+COMMODITIES
+2.º Trimestre 2026
+Em resultado da subida dos preços nos trimestre anterior, de -29% e -2%,
+mercados internacionais, fruto do desfasamento respetivamente. A redução mais acentuada da
+entre a oferta e a procura do petróleo Brent, produção da OPEP reflete a maior influência das
+verificou-se uma redução do consumo mundial atuais tensões geopolíticas em alguns dos seus
+de menor dimensão do que a quebra da membros.
+produção. Deste modo, no 2.º trimestre de
+2026, a produção mundial passou a situar-se
+Figura 1-4 Evolução da produção de petróleo
+abaixo do consumo.
+OPEP e não-OPEP e das respetivas quotas2
+Figura 1-3 Evolução do consumo e da produção
+mundial de petróleo (jan. 2020 = 1001)
+110
+105
+100
+95
+90
+85
+Fonte: ERSE, EIA, Bloomberg
+80
+T1T2T3T4T1T2T3T4T1T2T3T4T1T2T3T4T1T2T3T4T1T2T3T4T1T2
+2020 2021 2022 2023 2024 2025 2026 Ainda na Figura 1-4 apresenta-se igualmente a
+evolução das quotas das produções OPEP e
+Fonte: ERSE, EIA, Bloomberg
+não-OPEP. Verifica-se que a quota de produção
+dos países não-OPEP é estável (e dominante) no
+A Figura 1-4 compara a evolução da produção
+ano de 2025, em torno dos 72%. No 2.º
+OPEP e da produção não-OPEP, com início em
+trimestre de 2026, a quota de produção dos
+2022. Em novembro de 2025, a OPEP+ decidiu
+países não-OPEP aumentou para 79,2%,
+aumentar a produção em 137 mil barris por dia
+refletindo a redução mais acentuada da
+para o mês de dezembro, mas suspendeu os
+produção dos países da OPEP, cuja quota
+aumentos programados para o 1.º trimestre de
+diminuiu para 20,8%3.
+2026 devido à sazonalidade e aos receios sobre
+o excesso de oferta. No entanto, em
+A Figura 1-5 apresenta a evolução do preço do
+consequência do conflito no Médio Oriente, a
+barril de petróleo, em dólares e em euros, e a
+produção OPEP e não-OPEP registaram, no
+cotação EUR/USD, de modo a avaliar o impacte
+2.º trimestre de 2026, uma diminuição face ao
+cambial no preço desta commodity.
+1 O valor do primeiro trimestre de 2020 resulta da média como produtor não OPEP ao longo de toda a série
+dos três meses, sendo apenas janeiro 2020 = 100. Devido analisada.
+à grande descida ocorrida em fevereiro e março de 2020,
+3 Caso fosse considerada a antiga série de dados da
+o valor médio do primeiro trimestre é significativamente
+Bloomberg (onde os EAU ainda faziam parte da OPEP), no
+inferior ao valor base 100.
+1 º trimestre de 2026, as quotas de produção dos países
+2 Os Emirados Árabes Unidos (EAU) abandonaram a OPEP e OPEP e não-OPEP, seriam de 31,3% e 68,7%,
+a OPEP+ com efeitos a partir de 1 de maio de 2026. A respetivamente.
+fonte de dados Bloomberg, passou a considerar os EAU
+4
+)001=0202
+.naj(
+ecidnÍ
+Produção Mundial (jan.2020=100)
+Consumo Mundial (jan.2020=100)
+
+=== página 5 ===
+COMMODITIES
+2.º Trimestre 2026
+No 2.º trimestre de 2026, a cotação EUR/USD Por sua vez, o HH registou no 2.º trimestre de
+diminuiu 0,7% face ao trimestre transato, para 2026 um valor médio de 8,6 EUR/MWh,
+um valor médio de 1,162 EUR/USD. representando um decréscimo, face ao
+trimestre anterior, de -40,1%, em resultado da
+normalização das condições de oferta no
+Figura 1-5 Evolução da taxa de câmbio EUR/USD
+mercado norte-americano e da redução da
+e preço do Brent em USD vs EUR
+procura sazonal após o inverno.
+Figura 1-6 Evolução do preço do gás natural nos
+mercados internacionais
+Fonte: ERSE, Bloomberg
+GÁS NATURAL
+A Figura 1-6 apresenta a evolução do preço do Fonte: ERSE, Bloomberg
+gás natural em seis mercados internacionais de
+referência: o Zeebrugge (ZEE), o Title Transfer A evolução dos preços do GNL5 é apresentada
+Facility (TTF), o Henry Hub (HH), o National na Figura 1-7. No que respeita ao preço de GNL
+Balancing Point (NBP), o Point d'échange de gaz no Japão6, registou-se um aumento de 33,7% no
+(PEGAS PEG) e o MIBGAS4. 2.º trimestre de 2026, com um valor médio na
+ordem dos 51,7 EUR/MWh.
+No 2.º trimestre de 2026, as cotações do gás
+natural nos hubs europeus foram igualmente
+condicionadas pelo conflito do Irão,
+aumentando para um valor médio do cabaz de
+45,1 EUR/MWh, cerca de 13,1% acima do valor
+no trimestre anterior.
+4 O ZEE, o NBP, o PEG e o TTF são hubs virtuais de compra e 5 Foram escolhidos os seguintes mercados representativos
+venda de gás natural localizados na Bélgica, no Reino de consumo e de exportação de GNL: Japão e na Europa
+Unido, França e na Holanda, respetivamente, e são considerados os preços de referência das entregas de
+constituem uma referência no mercado europeu de GNL na Europa determinados pela ACER para os
+compra e venda de gás natural. O HH é a referência para mercados North-West Europe e South Europe.
+contratos de futuros de gás natural, nos Estados Unidos.
+6 A referência do GNL do Japão diz respeito ao índice do
+O MIBGAS (Mercado Ibérico do gás) é o hub de gás na
+Japão e Coreia com entrega no mês seguinte.
+Península Ibérica, que iniciou a negociação de produtos
+de gás natural em 16 de dezembro 2015.
+5
+lbb/DSU
+;lbb/RUE
+1
+1
+1
+1
+6
+4
+2
+0
+8
+6
+4
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5202
+.naj
+5202
+.vef
+B
+5202
+.ram
+re n
+5202
+.rba
+t (E
+5202
+.iam
+U R
+5202
+.nuj
+/b b
+5202
+.luj
+l)
+5202
+.oga
+EU R /U SD
+B ren t (U SD /b b l)
+B ren t (EU R /b b l)
+5 5 5 5 6 2 2 2 2 2 0 0 0 0 0
+2 2 2 2 2
+. . . . . t t v n z e u e o a s o d n j
+B re n t (U SD /b b
+6202
+.vef
+l)
+6202
+.ram
+6202
+.rba
+6202
+.iam
+E U
+6202
+.nuj
+R /U SD
+1
+1
+0
+0
+0
+0
+0
+,2
+,0
+,8
+,6
+,4
+,2
+,0
+DSU/RUE
+hWM/RUE
+1
+1
+2
+0
+8
+6
+4
+2
+0
+0
+0
+0
+0
+0
+0
+5202
+.naj
+5202
+.vef
+5202
+.ram
+TTF
+M IB G
+N B P
+ZEE
+PEG A
+H H
+5202
+.rba
+A S PV B
+S PEG
+5 5
+2 20 0
+2 2
+. . i n a u m j
+5202
+.luj
+5202
+.oga
+5202
+.tes
+5202
+.tuo
+5202
+.von
+5202
+.zed
+6202
+.naj
+6202
+.vef
+6202
+.ram
+6202
+.rba
+6202
+.iam
+6202
+.nuj
+
+=== página 6 ===
+COMMODITIES
+2.º Trimestre 2026
+Relativamente ao preço de referência de GNL, Figura 1-8 Evolução do preço do gás natural no
+publicado pela ACER7, referente às importações MIBGAS e em Portugal9
+de GNL na Europa, no 2.º trimestre de 2026, o
+seu valor médio aumentou 24,3%, para cerca de
+46,0 EUR/MWh (média para as duas geografias).
+Figura 1-7 Evolução do preço do GNL nos
+mercados internacionais
+Fonte: ERSE, MIBGAS, Galp
+RELAÇÃO DO PREÇO DO GÁS NATURAL FACE
+AO DO PETRÓLEO
+Fonte: ERSE, Bloomberg8
+Neste capítulo, analisa-se a relação entre o
+Na Figura 1-8 mostra-se a evolução do preço de
+preço do petróleo e o preço do gás natural que
+gás natural no MIBGAS e do custo do gás natural
+sustenta os fornecimentos dos CUR.
+subjacente às aquisições do Comercializador de
+Último Recurso grossista (CURg), para A Figura 1-9 (em base trimestral) acrescenta à
+fornecimentos ao mercado regulado com tarifas Figura 1-6 a evolução do preço do Brent em
+transitórias de venda a clientes finais. EUR/bbl, com o objetivo de avaliar a correlação
+dos preços de GN com o preço do petróleo. No
+No 2.º trimestre de 2026, o diferencial médio de
+período em análise, os preços médios
+preço do gás entre as cotações no MIBGAS e o
+trimestrais dessas duas commodities
+custo médio de aquisição de gás pelos CUR
+apresentam uma correlação média de 75,6%10.
+aumentou, resultado da subida mais acentuada
+das cotações no MIBGAS neste trimestre.
+7 ACER NW (North West Europe): reflete o preço spot DES correspondem aos preços médios ponderados para todas
+de GNL para entregas na região Noroeste da Europa (por as transações organizadas para o dia em causa nas
+ex., portos do Benelux e Alemanha), calculado com base sessões já concluídas, pelo que não são totalmente
+em transações reportadas num determinado “rolling comparáveis com o custo do gás natural para os CUR. O
+window”. ACER South (South Europe): representa o preço preço para o CURg é calculado considerando os preços
+spot DES de GNL para entregas no Sul da Europa (por ex., dos contratos take-or-pay geridos pelo comercializador
+Espanha, Itália e Grécia), também derivado de dados do SNG, ponderados pelas quantidades anuais contratuais
+transacionados reportados via TERMINAL (QAC) definidas nesses contratos. Atualmente, existe um
+único contrato de GNL com origem na Nigéria.
+8 A referência do GNL do Japão diz respeito ao índice do
+Japão e Coreia com entrega no mês seguinte. 10 Esta correlação resulta da média das correlações entre os
+preços nos mercados internacionais apresentados na
+9 Os preços MIBGAS apresentados são os preços no Ponto
+figura e o Brent.
+Virtual de Balanço (PVB) com entrega em Espanha, que
+6
+hWM/RUE
+7
+6
+5
+4
+3
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0 5202
+.naj
+5202
+.vef
+….ram
+AAG C E R G N L N o rth -W
+C E R G N L So u th (E
+N L Ja p ã o (E U R /M…
+… 5 . . 5 5 i o a 2 2 2 g m 0 0 0 a 2 2 2
+. . . r l n u b u j a j
+e st (E
+U R /M
+W h )
+5202
+.tes
+UW
+5202
+.tuo
+R /M
+h )
+….von
+W h
+5202
+.zed
+)
+6202
+.naj
+6202
+.vef
+….ram 6202
+.rba
+….iam 6202
+.nuj
+hWM/RUE
+6
+5
+4
+3
+2
+1
+0
+0
+0
+0
+0
+0
+0
+5202
+.naj
+5202
+.vef
+5202
+.ram
+5202
+.rba
+5202
+.iam
+PP rere
+5202
+.nuj
+çoço m
+m
+5202
+.luj
+éé d io
+d io
+5202
+.oga
+m e
+m e
+5202
+.tes
+nn sasa
+5202
+.tuo
+l Ml
+p
+IB G A S
+a ra o C
+5 52
+20 0
+2 2
+. .v ze o d n
+(E U R /M
+U R g (E U
+6 62
+20 0
+2 2
+. . n ve a f j
+WR
+6202
+.ram
+h )
+/M W
+6202
+.rba
+h )
+6202
+.iam
+6202
+.nuj
+
+=== página 7 ===
+COMMODITIES
+2.º Trimestre 2026
+Figura 1-9 Evolução do preço do gás natural e do Figura 1-10 Correlação entre o custo do gás
+preço do petróleo nos mercados internacionais natural entrado em Portugal e o Brent
+Fonte: ERSE, Bloomberg
+CARVÃO
+Fonte: ERSE, Bloomberg A Figura 1-11 mostra a evolução do preço do
+carvão nos mercados do noroeste da Europa12,
+A Figura 1-10 compara a evolução do custo do desde janeiro de 2025. Uma das características
+GN em Portugal dos CUR e o preço do petróleo que se destaca é a tendência decrescente do
+Brent, em base trimestral, considerando um preço desta commodity durante o ano de 2025,
+desfasamento temporal de seis meses. Neste com um valor médio no último trimestre de
+caso, verifica-se que existe uma correlação de 2025 que rondava os 81 EUR/ton.
+80,2%, entre a média móvel de seis meses do
+preço do petróleo, desfasada um trimestre11, e a
+Figura 1-11 Evolução do Preço do Carvão13 (CIF)
+média móvel trimestral do preço médio do gás
+natural em Portugal para os CUR. Esta elevada
+correlação resulta dos preços dos contratos de
+GN de take-or-pay estarem indexados ao preço
+do petróleo Brent ou aos seus derivados, com
+um desfasamento, em média, de seis meses.
+Fonte: ERSE, Bloomberg
+11 O valor do Brent no trimestre resulta da média móvel dos 13 Benchmark API2, de preço de referência para o carvão
+dois trimestres anteriores. importado para o noroeste europeu, a um mês.
+12 Mercado a um mês.
+7
+hWM/RUE
+2
+2
+1
+1
+5
+0
+5
+0
+5
+0
+0
+0
+0
+0
+0
+5102
+C o rrela
+6102
+çã o m éd ia d o B
+TTF
+M IB G A S P V B N B P
+ZEE
+P EG A S P EG
+H H
+B ren t (EU R /b b
+7 8 9 1 1 1
+0 0 0
+2 2 2
+ren
+l)
+t co
+0202
+m to
+1202
+d o s o
+2202
+s h u b
+3202
+= 7 5 ,6
+4202
+%
+5202 6202
+1
+1
+8
+6
+4
+2
+0
+2
+0
+0
+0
+0
+0
+0
+0
+lbb/RUE
+hWM/DSU
+35
+30
+25
+20
+15
+10
+5
+0
+2T
+6102
+2T
+7102
+Correlação G N PT / Brent (U SD /bbl, M M
+C usto do gás em PT CU R g -> CU R r (U SD /M
+B rent (U SD /bbl, M M 6m )
+2 2 2 2 2 2 T T T T T T
+8 9 0 1 2 3 1 1 2 2 2 2 0 0 0 0 0 0 2 2 2 2 2 2
+6m ) = 80,2%
+W h)
+2 2 T T
+4 5 2 2 0 0 2 2
+2T
+6202
+120
+100
+80
+60
+40
+20
+0
+lbb/DSU
+150
+125
+100
+n o
+t/R
+75
+U E
+50
+25
+0
+5 55 5 5 5 5 5 5 5 5 5 6 66 6 6 6
+2 22 2 2 2 2 2 2 2 2 2 2 22 2 2 2
+0 00 0 0 0 0 0 0 0 0 0 0 00 0 0 0
+2 22 2 2 2 2 2 2 2 2 2 2 22 2 2 2
+.n
+a j
+.ve
+f
+.ra
+m
+.rb
+a
+.ia
+m
+.n
+u j
+.lu
+j
+.o
+g a
+.te
+s
+.tu
+o
+.vo
+n
+.ze
+d
+.n
+a j
+.ve
+f
+.ra
+m
+.rb
+a
+.ia
+m
+.n
+u j
+
+=== página 8 ===
+COMMODITIES
+2.º Trimestre 2026
+No 2.º trimestre de 2026, o preço médio do No 2.º trimestre de 2026, o preço médio das
+carvão situou-se em 92,5 EUR/ton, registando EUAs fixou-se em 75,2 EUR/ton, registando uma
+um aumento de 7,0% face ao trimestre anterior, diminuição de -1,3% face ao trimestre anterior
+invertendo a tendência de descida dos preços (preço médio de 76,2 EUR/ton). A ligeira
+verificada ao longo de 2025 nos mercados do redução do preço médio das EUAs refletiu a
+noroeste da Europa. redução da procura de licenças, associada ao
+abrandamento da atividade industrial europeia,
+LICENÇAS DE EMISSÃO DE CO 2 e ao aumento das expectativas de uma maior
+flexibilidade do regime EU ETS. Em particular, o
+debate crescente em torno da manutenção de
+Para além de ser influenciado pelos preços das
+mecanismos de proteção da indústria intensiva
+commodities, o preço da energia elétrica nos
+em carbono contribuiu para moderar as
+mercados grossistas é igualmente influenciado
+expectativas de escassez de licenças.
+pelo preço das licenças de emissão de CO ,
+2
+EUAs14. O seu preço é definido a nível europeu
+através do CELE15, no qual participam indústrias
+CONJUNTO DAS PRINCIPAIS COMMODITIES:
+que emitem CO de diferentes setores de
+2
+atividade, nomeadamente os produtores PETRÓLEO, CO 2 E GÁS NATURAL
+termoelétricos. O preço destas licenças
+reflete-se no custo da energia elétrica destes De seguida, comparam-se (ver Figura 1-13) as
+produtores. evoluções dos preços médios do GN do TTF, do
+GNL no Japão, do CO e do petróleo Brent em
+2
+A Figura 1-12 mostra a evolução do preço destas relação a janeiro de 2025. Após uma trajetória
+licenças desde janeiro de 2025. descendente ao longo da maior parte de 2025,
+os preços do TTF, do GNL no Japão e do Brent
+Figura 1-12 Evolução do preço das EUAs registaram uma recuperação acentuada durante
+o 2.º trimestre de 2026. Destaca-se a evolução
+120
+do Brent, que reflete sobretudo o agravamento
+100
+das tensões geopolíticas no Médio Oriente, que
+80
+n impulsionou as cotações internacionais do
+o
+t/R 60
+U petróleo. Por sua vez, o preço das licenças de
+E
+40
+emissão de CO₂, após atingir um máximo no
+20
+início de 2026, registou uma correção nos meses
+0
+5 55 5 5 5 5 5 5 5 5 5 6 66 6 6 6 seguintes, permanecendo ainda assim acima do
+2 22 2 2 2 2 2 2 2 2 2 2 22 2 2 2
+0 00 0 0 0 0 0 0 0 0 0 0 00 0 0 0
+2 22 2 2 2 2 2 2 2 2 2 2 22 2 2 2
+.n
+a j
+.ve
+f
+.ra
+m
+.rb
+a
+.ia
+m
+.n
+u j
+.lu
+j
+.o
+g a
+.te
+s
+.tu
+o
+.vo
+n
+.ze
+d
+.n
+a j
+.ve
+f
+.ra
+m
+.rb
+a
+.ia
+m
+.n
+u j
+nível observado em janeiro de 2025 no final do
+período analisado.
+Fonte: ERSE, Bloomberg
+14 EUAs - European Union Allowances. Protocolo de Quioto. Também conhecido por EU Emission
+Trading System (EU ETS).
+15 O CELE (Comércio Europeu de Licenças de Emissão de
+CO) é um mercado criado por iniciativa da Comissão
+2
+Europeia para cumprir com as metas definidas no
+8
+
+=== página 9 ===
+COMMODITIES
+2.º Trimestre 2026
+Figura 1-13 Comparação dos preços do Brent e 55,6 EUR/MWh em Portugal, representando um
+gás natural nos mercados spot aumento de 33%, em relação ao trimestre
+(2025 = índice base 100) anterior (41,9 EUR/MWh).
+Figura 1-14 – Evolução do preço médio diário de
+energia elétrica no mercado spot
+Fonte: ERSE, Bloomberg
+Fonte: ERSE, OMIE
+ENERGIA ELÉTRICA
+A Figura 1-15 mostra a evolução do preço médio
+A Figura 1-14 mostra a evolução do preço de mensal dos encargos de regulação imputados ao
+energia elétrica no mercado spot, desde janeiro consumo17.
+de 2025.
+O preço médio dos encargos de regulação
+Nos meses de março a maio de 2025 e em imputados ao consumo inclui os custos da banda
+fevereiro e março de 2026 registaram-se, em de Reserva de Restabelecimento de Frequência
+alguns dias, preços de energia elétrica próximos com Ativação automática (BaFRR), da banda de
+de zero, devido à abundância de produção de Reserva de Restabelecimento de Frequência
+eletricidade de origem renovável (hídrica, eólica com Ativação manual18 (BmFRR), os custos das
+e solar) a nível Ibérico. De acordo com a REN, restrições técnicas e os outros custos referentes
+em média, no 1.º semestre de 2026, 69% do à prestação de serviços de sistema.
+consumo em Portugal continental foi abastecido
+Desde o início de 2025, estes custos verificaram
+por produção proveniente de fontes renováveis,
+face a 77% no mesmo semestre16 do ano uma tendência crescente, tendo atingido, no 1.º
+trimestre de 2026, um valor médio de
+anterior. No segundo trimestre de 2026, os
+21,1 EUR/MWh, impulsionado, entre outros
+preços de energia elétrica no mercado grossista
+fatores, pelas consequências adversas da
+aumentaram, para um valor médio de
+16 Em termos anuais, 68% do consumo no ano de 2025 em oferta e procura na rede elétrica. Faz parte do
+Portugal continental foi abastecido por produção funcionamento estrutural do sistema elétrico nacional e
+proveniente de fontes renováveis, face a 69% no ano de decorre do quadro legal e regulatório em vigor para o
+2024. setor elétrico, designadamente das competências
+atribuídas ao gestor global do sistema no âmbito da
+17 O mercado de reserva de regulação, é uma parte
+operação da rede elétrica nacional.
+integrante do mercado de serviços de sistema e que
+garante que a cada segundo se mantém o equilíbrio entre 18 Corresponde à Reserva Terciária até 13-03-2024.
+9
+)m3MM
+,RUE
+me
+esab
+,001=5202
+.naJ(
+ecidnÍ
+1
+1
+1
+1
+6
+4
+2
+0
+8
+6
+4
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5202
+.naj
+5202
+.vef
+5202
+.ram
+B
+5202
+.rba
+re n
+5202
+.iam
+t
+5202
+.nuj
+5202
+.luj
+T
+5202
+.oga
+T F
+5202
+.tes
+5202
+.tuo
+5202
+.von
+LN
+5202
+.zed
+G , Ja
+6202
+.naj
+p ã
+6202
+.vef
+o
+6202
+.ram
+6202
+.rba
+6202
+.iam
+C O
+6202
+.nuj
+2
+hWM/RUE
+1
+1
+1
+1
+6
+4
+2
+0
+8
+6
+4
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5202
+.naj
+5202
+.vef
+5202
+.ram
+5202
+.rba
+5202
+.iam
+5202
+.nuj
+5202
+.luj
+5202
+.oga
+5202
+.tes
+5202
+.tuo
+5202
+.von
+5202
+.zed
+6202
+.naj
+6202
+.vef
+6202
+.ram
+6202
+.rba
+6202
+.iam
+6202
+.nuj
+
+=== página 10 ===
+COMMODITIES
+2.º Trimestre 2026
+Tempestade Kristin na gestão operacional do 2 PREVISÕES
+SEN. A tendência crescente destes custos resulta
+da necessidade de mobilização de centrais
+despacháveis, nomeadamente centrais
+PETRÓLEO
+termoelétricas de ciclo combinado a gás, por
+forma a mitigar problemas de gestão
+operacional do sistema que advêm de um 2.1.1 PREVISÕES PARA O CONSUMO E PRODUÇÃO
+diagrama de produção cada vez mais marcado
+pela produção de origem renovável não A evolução do preço do petróleo reflete a
+despachável. evolução da relação entre o consumo e a
+produção, sendo que esta se materializa na
+No 2.º trimestre de 2026, estes custos
+evolução das reservas de petróleo.
+registaram uma diminuição de 19% face ao
+trimestre anterior (17,2 EUR/MWh), refletindo a A Figura 2-1 apresenta as expectativas da EIA19
+normalização das condições de operação do relativamente ao consumo e à produção de
+sistema após os eventos excecionais observados petróleo para os próximos quatro trimestres.
+no início do ano.
+Figura 2-1 Relação entre o consumo e oferta
+Figura 1-15 Evolução do preço médio diário dos mundial de petróleo
+encargos de regulação imputados ao consumo
+Fonte: ERSE, REN
+Fonte: ERSE, EIA, Bloomberg
+No 1.º trimestre de 2026, a produção mundial
+de petróleo registou uma diminuição menos
+acentuado do que o consumo. No 2.º trimestre
+de 2026, verificou-se uma redução muito
+acentuada da produção mundial, enquanto o
+consumo registou uma redução mais ligeira face
+19 EIA - U.S. Energy Information Administration.
+10
+hWM/RUE
+60
+50
+40
+30
+20
+10
+0 5202
+.naj
+5202
+.vef
+5202
+.ram
+5202
+.rba
+5202
+.iam
+5202
+.nuj
+5202
+.luj
+5202
+.oga
+5202
+.tes
+5202
+.tuo
+5202
+.von
+5202
+.zed
+6202
+.naj
+6202
+.vef
+6202
+.ram
+6202
+.rba
+6202
+.iam
+6202
+.nuj
+Produção Mundial
+Previsões
+Consumo Mundial
+Tendência Produção Mundial
+110 Tendência Consumo Mundial
+a105
+id
+ro 100
+p
+sirra
+9
+90
+5
+b
+e 85 d
+se 80
+õ h liM 75
+70
+65
+60
+T1 T2 T3 T4 T1 T2 T3 T4 T1 T2 T3 T4 T1 T2 T3 T4 T1 T2
+2023 2024 2025 2026 2027
+
+=== página 11 ===
+COMMODITIES
+2.º Trimestre 2026
+ao trimestre anterior, refletindo os USD/bbl nos futuros a 6 meses e -26,6 USD/bbl
+constrangimentos geopolíticos e operacionais nos futuros a 12 meses.
+que afetaram alguns dos principais produtores.
+As previsões da EIA apontam para uma retoma
+Figura 2-2 Diferencial de preços dos futuros do
+gradual do consumo a partir do 3.º trimestre de
+Brent a 6 e 12 meses face ao spot
+2026, acompanhada por um aumento da
+produção mundial, tendência que deverá
+manter-se ao longo de 2027.
+A análise do mercado de futuros é também
+relevante, uma vez que reflete as expectativas
+dos agentes de mercado quanto à evolução dos
+preços dos combustíveis. O mercado de futuros
+inclui ainda os custos com o armazenamento e o
+transporte do produto, com os seguros e os
+custos de financiamento. Assim, para Fonte: ERSE, Bloomberg
+expetativas de nível de preços semelhantes, o
+A Figura 2-3 mostra a evolução dos preços
+preço final no mercado de futuros deverá ser
+médios mensais dos produtos anuais do Brent,
+ligeiramente superior ao do spot.
+com entrega a um (Y+1) e a dois (Y+2) anos.
+A Figura 2-2 apresenta as diferenças entre os No 2.º trimestre de 2026, verificou-se um
+preços do Brent no mercado de futuros e no aumento das cotações de ambos os produtos,
+mercado spot, no dia de negociação de ambos, com o produto com entrega em 2027 (Y+1) a
+desde janeiro de 2025. Os diferenciais apresentar uma cotação média trimestral de
+observados no final do 1.º trimestre de 2026 78,3 USD/bbl, ligeiramente superior à cotação
+agravaram-se significativamente durante o 2.º do produto a dois anos (Y+2=2028), de
+trimestre. Os contratos de futuros a 6 e a 12 74,5 USD/bbl, mantendo-se uma estrutura de
+meses mantiveram-se abaixo do preço spot mercado em backwardation.
+(backwardation), evidenciando que o mercado
+antecipou um caráter temporário do choque
+Figura 2-3 Cotação média mensal futuros para
+sobre a oferta de petróleo. Após o pico
+entrega anual Y+1 e Y+2 do Brent
+registado em meados de abril, os diferenciais
+reduziram-se gradualmente, acompanhando a descida dos preços spot. No 2.º trimestre registaram-se diferenciais médios de -21,2
+Fonte: ERSE, Bloomberg
+11
+lbb/DSU
+10
+0
+-10
+-20
+-30
+-40
+-50
+-60
+-70
+-80
+5202
+.naj
+5202
+.vef
+5202
+.ram
+5202
+.rba
+6 5 5 5 5 5 5 5 5 6 6 2 2 2 2 2 2 2 2 2 2 2 0 0 0 0 0 0 0 0 0 0 0 2 2 2 2 2 2 2 2 2 2 2
+. . . . . . . . . . . n t i l o v n r t z v a u e u a e o e u a g m j m s o d f n a j j
+D iferença futuros 6 m eses face a Spot (U SD /bbl)
+D iferença futuros 12 m eses face a spot (U SD /bbl)
+6202
+.rba
+6202
+.iam
+6202
+.nuj
+lb 5 ,1 7 7 ,9 6 1 ,0 7 7 ,8 6 6 ,7 6 9 ,6 6 1 ,4 6 7 ,4 6 2 ,3 6 4 ,4 6 5 ,6 6 5 ,6 6 6 ,6 6 5 ,6 6 6 ,5 6 5 ,5 6 0 ,6 6 8 ,5 6 1 ,3 6 7 ,3 6 0 ,3 6 3 ,4 6 4 ,1 6 0 ,3 6 6 ,2 6 7 ,3 6 3 ,5 6 3 ,5 6 3 ,5 7 4 ,2 7 3 ,7 7 8 ,3 7 0 ,1 8 3 ,6 7 5 ,6 7 5 ,3 7
+b
+/D
+S
+U
+5 5 5 5 5 5 5 5 5 5 5 5 6 6 6 6 6 6
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+.n
+a j
+.v
+e f
+.ra
+m
+.rb
+a
+.ia
+m
+.n
+u j
+.lu
+j
+.o
+g a
+.te
+s
+.tu
+o
+.v
+o n
+.ze
+d
+.n
+a j
+.v
+e f
+.ra
+m
+.rb
+a
+.ia
+m
+.n
+u j
+Y+1 Brent (USD/bbl) Y+2 Brent (USD/bbl)
+
+=== página 12 ===
+COMMODITIES
+2.º Trimestre 2026
+GÁS NATURAL LICENÇAS DE EMISSÃO DE CO 2
+Analisando o preço dos futuros de GN, na Figura A Figura 2-5 mostra a evolução dos preços de
+2-4, verifica-se que, para os principais hubs futuros das EUAs20, para entrega nos meses de
+europeus, após uma forte subida das cotações dezembro seguintes21. Considerando as
+desta commodity no final do 1.º trimestre de cotações médias dos três meses, de abril a junho
+2026, registou-se uma trajetória descendente ao de 202622, observa-se um valor das licenças de
+longo do 2.º trimestre. Ainda assim, a cotação CO de 76,4 EUR/ton, para entrega em
+2
+média do produto com entrega em 2027 (Y+1) dezembro de 2026, e de 79,1 EUR/ton, para
+nos dois hubs europeus situou-se em entrega em dezembro de 2027. Estas cotações
+36,4 EUR/MWh, acima da média de são 1,7% e 1,2% inferiores às cotações
+30,3 EUR/MWh registada no trimestre anterior. verificadas no trimestre anterior,
+O HH manteve uma evolução relativamente respetivamente.
+estável, apresentando uma cotação média de
+10,4 EUR/MWh, ligeiramente inferior aos
+Figura 2-5 Cotação média mensal futuros para
+11,0 EUR/MWh observados no 1.º trimestre de
+entrega dezembro Y e dezembro Y+1 das EUAs
+2026, para entregas em 2027 (Y+1).
+Figura 2-4 Cotação média mensal futuros para
+entrega anual Y+1 do TTF, do NBP e do HH
+Fonte: ERSE, Bloomberg
+TAXA DE CÂMBIO
+A figura seguinte apresenta a evolução da
+Fonte: ERSE, Bloomberg cotação média mensal dos futuros da taxa de
+câmbio EUR/USD para Q+1 e Q+4.
+As taxas de câmbio EUR/USD, com liquidação no
+trimestre seguinte (Q+1) e daqui a quatro
+trimestres (Q+4), registaram uma ligeira
+20 EUAs - European Union Allowances. 22 Últimos três meses de negociação dos respetivos
+produtos.
+21 A série dos futuros para entregas em dezembro podem
+ser tidos como preço de referência para o respetivo ano
+por terem, normalmente, maior liquidez.
+12
+hWM/RUE
+7,04
+3,93
+0,31
+5202
+.naj
+3,14
+2,04
+4,31
+5202
+.vef
+9, 9 5 , 3 33 0, 8 5 , 3 23
+8 5 ,3 ,2 1 1
+5 5 2 2 0 0 2 2
+. . r ra b m a
+TTF Y+1 (EU
+8,43 0,43
+1,31
+5202
+.iam
+R/M W
+1,63 4,53
+0,31
+5202
+.nuj
+h)
+5,43 0,43
+2,21
+5202
+.luj
+9,23 5,23
+4,11
+5202
+.oga
+N
+4 2 ,2 ,1 3 3 1 1 ,2 ,1 3 3
+6 3 , , 1 1 1 1
+5 5 2 2 0 0 2 2
+. . t t e u s o
+BP Y+1 (EU
+6,92 8,92
+2,21
+5202
+.von
+R/M W
+3,62 8,62
+4,11
+5202
+.zed
+h)
+5,52 8,52
+0,11
+6202
+.naj
+4,62 9,62
+8,01
+6202
+.vef
+H H
+5,
+4 8 , 3 63 0, 8 9 , 3 63
+3 5 ,1 ,0 1 1
+6 6 2 2 0 0 2 2
+. . r r a b m a
+Y+1 (EU R/M
+7,63 1,73
+2,01
+6202
+.iam
+W h)
+5,53 8,53
+4,01
+6202
+.nuj
+3 ,0 8 0 ,8 7 2 ,0 8 0 ,8 7 1 ,2 7 1 ,0 7 1 ,7 6 4 ,5 8 ,2 7 0 ,1 7 9 ,4 7 0 ,3 7 8 ,2 7 0 ,1 7 8 ,3 7 9 ,1 7 2 ,8 7 2 ,6 7 7 ,0 8 7 ,8 7 1 ,3 8 9 ,0 8 7 ,7 8 2 ,5 8 8 ,0 9 3 ,8 8 0 ,7 7 9 ,4 7 3 ,2 7 0 ,0 7 6 ,6 7 0 ,4 7 9 ,8 7 3 ,6 7 7 ,1 8 0 ,9 7
+6
+not/RU
+E
+5 5 5 5 5 5 5 5 5 5 5 5 6 6 6 6 6 6 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 .n a j .ve f .ra m .rb a .ia m .n u j .lu j .o g a .te s .tu o .vo n .ze d .n a j .ve f .ra m .rb a .ia m .n u j Futuro CO2 1º Dezembro seguinte (EUR/ton) Futuro CO2 2º Dezembro seguinte (EUR/ton)
+
+=== página 13 ===
+COMMODITIES
+2.º Trimestre 2026
+diminuição no 2.º trimestre de 2026 face ao trimestre anterior (67,9 EUR/MWh), de 21,5%.
+trimestre anterior (na ordem dos -0,7% e -0,8%, Numa perspetiva de mais longo prazo, a cotação
+respetivamente). média dos contratos de futuros para entrega no
+1.º trimestre de 2027 situou-se em 72,9
+Figura 2-6 Cotação média mensal futuros da EUR/MWh, acima da média de 65,6 EUR/MWh
+taxa de câmbio EUR/USD para Q+1 e Q+4 observada para o mesmo produto no trimestre
+anterior.
+Figura 2-7 – Evolução dos futuros eletricidade
+Fonte: ERSE, Bloomberg
+ENERGIA ELÉTRICA
+Nota: FPB é referente ao produto Base Load para Portugal e FTK é
+referente ao produto Peak Load para Espanha.
+No 2.º trimestre de 2026, a média das cotações
+dos futuros de eletricidade (Figura 2-7), para Fonte: ERSE, OMIP, Bloomberg
+entrega no 3.º trimestre de 2026
+(82,5 EUR/MWh), subiu face à média das
+cotações do mesmo produto verificada no
+13
+DSU/RUE
+350,1
+730,1
+5202
+.naj
+060,1
+340,1
+5202
+.vef
+890,1
+280,1
+5202
+.ram
+541,1
+721,1
+5202
+.rba
+051,1
+031,1
+5202
+.iam
+671,1
+651,1
+5202
+.nuj
+291,1
+371,1
+5202
+.luj
+581,1
+761,1
+5202
+.oga
+291,1
+671,1
+5202
+.tes
+281,1
+861,1
+5202
+.tuo
+371,1
+851,1
+5202
+.von
+881,1
+471,1
+5202
+.zed
+981,1
+671,1
+6202
+.naj
+891,1
+481,1
+6202
+.vef
+071,1
+851,1
+6202
+.ram
+381,1
+271,1
+6202
+.rba
+181,1
+961,1
+6202
+.iam
+561,1
+251,1
+6202
+.nuj
+Q+1 EUR/USD Q+4 EUR/USD
+hWM/RUE
+1 0987654321 00000000000
+5202
+.naj
+5 5 5
+2 2 2
+0 0 0
+2 2 2
+. . . r r v b a e m a fFP B Q 3 -2 6
+FTK YR -2 6
+5202
+.iam
+5202
+.nuj
+5202
+.luj
+5202
+.oga
+5202
+.tesFPFP BB
+5202
+.tuo Q
+Q
+41
+5202
+.von-2 6
+-2 7
+5202
+.zed
+6202
+.naj
+6202
+.vef
+6202
+.ram
+6202
+.rbaFPFP BB
+6 6
+2 20
+0
+2 2
+. . n ia u m j YR -2 6
+Q 2 -2 7
+
+=== página 14 ===
+COMMODITIES
+2.º Trimestre 2026
+SIGLAS E ABREVIATURAS
+bbl - Barril de petróleo
+CIF - Cost, Insurance and Freight
+CUR - Comercializador de último recurso
+CURg - Comercializador de último recurso grossista
+EIA - Energy Information Administration
+EUAs - European Union Allowances
+FPB – Produto Base Load OMIP para Portugal
+FTB – Produto Base Load OMIP para Espanha
+FTK – Produto Peak Load OMIP para Espanha
+GNL – Gás Natural Liquefeito
+HH – Henry Hub
+MM3m - Média móvel dos últimos três meses
+MM12m - Média móvel dos últimos doze meses
+MIBGAS - Mercado Ibérico do Gás
+MSR - Market Stability Reserve
+NBP - National Balancing Point
+OPEP - Organização dos Países Exportadores de Petróleo
+PVB - Ponto Virtual de Balanço
+QAC - Quantidade Anual Contratada dos contratos take-or-pay
+QREF - Quantidade Real Entrada à Fronteira dos contratos take-or-pay referentes ao CURg
+TTF - Title Transfer Facility
+ZEE - Belgian Natural Gas Zeebrugge Beach
+ACER - European Union Agency for the Cooperation of Energy Regulators
+Meses – os meses do ano encontram-se abreviados até à 3.ª letra
+REFERÊNCIAS
+Plataforma Bloomberg
+Banco Central Europeu
+U.S. Energy Information Administration
+Empresas reguladas (REN, GALP)
+Entidade Reguladora dos Serviços Energéticos
+Aviso (Disclaimer)
+O presente documento tem como único objetivo disponibilizar informação obtida a partir de diversas fontes, incluindo fontes
+oficiais, meios de informação especializados e outras fontes consideradas fidedignas e credíveis. Os valores ocorridos e as
+previsões, são meramente informativos apresentando uma tendência dos mercados e, quer os valores, quer as opiniões e análises,
+não podem, em qualquer circunstância, responsabilizar a ERSE pela informação, ou por análises, erros, omissões ou inexatidões
+destas informações constantes neste documento ou que resultem do uso dado a essa informação, designadamente, de decisões
+de negociação, investimento ou contratação que tenham sido tomadas tendo por base os elementos contidos neste documento.
+Cabe ao leitor tomar as suas decisões, à luz do seu perfil e objetivos de investimento, negociação e análise, e tendo em conta a
+legislação e regulamentação aplicável.
+14

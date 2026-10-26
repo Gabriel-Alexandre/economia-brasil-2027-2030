@@ -1,0 +1,3095 @@
+# fonte: https://cdn.tesouro.gov.br/sistemas-internos/apex/producao/sistemas/thot/arquivos/publicacoes/54970_2485091/RPF-jun26%2002_07_2026.pdf
+# capturado em: 2026-10-26
+
+
+=== página 1 ===
+2026
+Relatório de
+2
+1º Semestre
+Projeções Fiscais
+
+=== página 2 ===
+Ministro da Fazenda
+Dario Carnevalli Durigan
+Secretário-Executivo do Ministério da Fazenda
+Rogério Ceron de Oliveira
+Secretário do Tesouro Nacional
+Daniel Cardoso Leal
+Secretário Adjunto do Tesouro Nacional
+David Rebelo Athayde
+Subsecretário de Planejamento Estratégico da Subsecretário de Dívida Pública – SUDIP
+Política Fiscal – SUPEF Francisco Onivaldo de Oliveira Segundo
+Luiz Fernando Alves
+Coordenador-Geral de Planejamento Estratégico da
+Coordenadora-Geral de Planejamento e Riscos Dívida Pública – COGEP
+Fiscais – COPEF Fausto José Araújo Vieira
+Cristina Gonçalves Rodrigues
+Coordenadora de Suporte a Estudos e Inovações da
+Coordenador de Suporte ao Planejamento e Dívida Pública – CINOV
+Riscos Fiscais – CSPEF Raquel Lima Pereira de Araujo Leite
+Cristiano Beneduzi
+Equipe Técnica
+Coordenadora de Modelagem e Análises Fiscais – Eduardo Henrique Leitner
+COMAF Plínio Portela de Oliveira
+Poliana de Carvalho Pereira
+Thaís Riether Vizioli
+Vinicius Pinto de Menezes
+Coordenador-Geral de Estudos Econômico-
+Fiscais – CESEF
+Pedro Ivo Ferreira de Souza Junior
+Coordenador de Suporte aos Estudos
+Econômico-Fiscais – COEFI
+Alex Pereira Benício
+Coordenador de Suporte às Estatísticas Fiscais –
+Arte
+COEST
+Assessoria de Comunicação Social do Tesouro
+Rafael Perez Marcos
+Nacional
+Hugo Pullen
+Equipe Técnica
+Acauã Brochado
+Informações
+Alex Sander Ferreira da Silva
+Assessoria de Comunicação Social do Tesouro
+Ana Carolina Kanemaru Fetter
+Nacional
+André Luiz Greve Pereira
+Telefone: (61) 3412-1843
+Eduardo Brandão Curi
+Correio eletrônico ascom@tesouro.gov.br
+Elvis de Almeida Silva
+Disponível em: www.tesourotransparente.gov.br
+Flávia Fernandes Rodrigues Barbosa
+Jorge Luís Teixeira Ávila
+Natália Ayres Lopes
+*Permitida a reprodução total ou parcial desta
+Otávio José Guerci Sidone
+publicação desde que citada a fonte.
+Pedro Padilha Pontes
+Pedro Petronillio Hernandes
+Rodrigo André de Castro Souza Rêgo
+Sâmia Marques Russo
+Tiago Zaterka Segantini
+
+=== página 3 ===
+Sumário
+Sumário 3
+Prefácio 3
+Sumário Executivo 4
+1. Cenário Fiscal de Médio Prazo 7
+1.1. Cenário Macroeconômico ....................................................................................................... 8
+1.2. Cenário Inicial ........................................................................................................................ 9
+Receitas Primárias do Governo Central ............................................................................................... 9
+Despesas Primárias do Governo Central ........................................................................................... 13
+Resultado Primário do Governo Central ............................................................................................ 19
+1.3. Cenário de Referência ........................................................................................................... 21
+Receitas Primárias do Governo Central ............................................................................................. 22
+Despesas Primárias do Governo Central ........................................................................................... 30
+Resultado Primário do Governo Central ............................................................................................ 34
+1.4. Comparativo com Projeções de Outras Fontes ...................................................................... 37
+1.5. Resultado Primário do Setor Público ...................................................................................... 37
+1.6. Necessidade de Financiamento do Setor Público e Gasto com Juros ...................................... 38
+1.7. Juros e Receita do Governo Geral .......................................................................................... 39
+1.8. Dívida Bruta e Líquida do Governo Geral ................................................................................ 40
+2. Análise de Sensibilidade da Dívida a Cenários Alternativos 44
+2.1. Resultado Primário Requerido para Convergência da Dívida a Diferentes Parâmetros ............. 44
+2.2. Análise de Cenários: Perspectivas da Dívida com Cenários Fiscais Alternativos ...................... 46
+2.3. Análise de Cenários: Perspectivas da Dívida com Parâmetros Extraídos da Pesquisa Focus .... 48
+2.4. Análise de Cenários: Cenário de Referência com Parâmetros Extraídos da Pesquisa Focus .... 52
+2.5. Análise de Cenários: Comparativo com Projeções de DBGG de Outras Fontes ....................... 52
+2.6. Choque Selic, PIB e Resultado Primário ................................................................................. 53
+2.7. Simulações Estocásticas ...................................................................................................... 55
+Apêndices 59
+A. Parâmetros Macroeconômicos ............................................................................................. 59
+B. Tabelas Completas ............................................................................................................... 60
+C. Premissas de Projeção .......................................................................................................... 65
+D. Metodologia de projeção da DBGG ........................................................................................ 68
+
+=== página 4 ===
+Boxes
+Boxe 1 – Receitas da União: quais os efeitos do conflito no Irã? ............................................................. 25
+Lista de Tabelas
+Tabela 1 – Resumo das projeções fiscais no cenário de referência (% do PIB) ........................................... 4
+Tabela 2 – Comparativo de Grades de Parâmetros: novembro de 2025 e maio de 2026 ............................. 8
+Tabela 3 – Projeção de receitas administradas ex-RGPS do cenário inicial (% do PIB) ............................. 12
+Tabela 4 – Projeção de receitas não administradas do cenário inicial (% do PIB) ..................................... 12
+Tabela 5 – Crescimento do limite de despesa conforme projeção e parâmetros do cenário inicial ........... 14
+Tabela 6 – Evolução da despesa primária total – cenário inicial .............................................................. 14
+Tabela 7 – Projeção de despesas obrigatórias (% do PIB) ....................................................................... 15
+Tabela 8 – Esforço fiscal adicional do cenário de referência para cumprimento das metas fiscais (% do PIB)
+............................................................................................................................................................ 22
+Tabela 9 – Projeção do valor do Brent – Grade SPE de maio/2026 ........................................................... 26
+Tabela 10 – Receita de exploração de recursos naturais realizada – R$ milhões e variação nominal ........ 28
+Tabela 11 – Participação projetada da União na receita de exploração de petróleo (%) ........................... 28
+Tabela 12 – Crescimento do limite de despesa – cenário de referência ................................................... 31
+Tabela 13 – Evolução da despesa primária total – cenário de referência ................................................. 32
+Tabela 14 – Projeções para o resultado primário do setor público (% do PIB) .......................................... 38
+Tabela 15 – Cenário para os fatores de variação da DBGG/PIB (p.p. do PIB) ............................................ 42
+Tabela 16 – Primário requerido para que a DBGG atinja o nível de 2025 ao fim das projeções com um delta
+constante sobre o cenário de referência (% do PIB) ............................................................................... 46
+Tabela 17 – Mediana de Parâmetros Selecionados - Pesquisa FOCUS .................................................... 49
+Tabela 18 – Parâmetros macroeconômicos ........................................................................................... 59
+Tabela 19 – Projeção de Receitas Primárias do Governo Central (R$ bilhões) – Cenário de Referência ..... 60
+Tabela 20 – Projeção de Receitas Primárias do Governo Central (% do PIB) – Cenário de Referência ....... 61
+Tabela 21 – Projeção de Despesas Primárias do Governo Central (R$ bilhões) – Cenário de Referência ... 62
+Tabela 22 – Projeção de Despesas Primárias do Governo Central (% do PIB) – Cenário de Referência...... 62
+Tabela 23 – Projeção de Resultado Primário do Setor Público Não Financeiro (R$ bilhões) ...................... 63
+Tabela 24 – Projeção de Resultado Primário do Setor Público Não Financeiro (% do PIB) ........................ 63
+Tabela 25 – Projeção da Dívida Pública – Cenário de Referência (R$ bilhões) .......................................... 64
+Tabela 26 – Projeção da Dívida Pública – Cenário de Referência (% do PIB)............................................. 64
+Tabela 27 – Projeção da Dívida Pública – Cenário Inicial (R$ bilhões) ...................................................... 64
+Tabela 28 – Projeção da Dívida Pública – Cenário Inicial (% do PIB) ........................................................ 64
+
+=== página 5 ===
+Tabela 29 – Fatores de variação DPF + Compromissadas (% do PIB)....................................................... 69
+Tabela 30 – Dívida Bancária Federal (% do PIB) ...................................................................................... 70
+Tabela 31 – Dívida dos Governos Regionais (% do PIB) ........................................................................... 71
+Tabela 32 – Aplicações Intra - Governo Geral (% do PIB) ......................................................................... 71
+Lista de Gráficos
+Gráfico 1 – Projeção da receita primária total e da receita líquida no cenário inicial (% do PIB) ................ 10
+Gráfico 2 – Projeção dos componentes da receita total do cenário inicial (% do PIB) ............................... 11
+Gráfico 3 – Comparativo da receita líquida do cenário inicial entre Relatórios de Projeções Fiscais (% do
+PIB) ...................................................................................................................................................... 13
+Gráfico 4 – Projeção da despesa discricionária – cenário inicial (R$ bilhões a preços de 2026 e %PIB) ..... 18
+Gráfico 5 – Comparativo das projeções de despesa primária do cenário inicial entre RPFs (% do PIB) ..... 19
+Gráfico 6 – Projeção da receita líquida e da despesa total do cenário inicial (% do PIB) ........................... 20
+Gráfico 7 – Projeção do resultado primário do cenário inicial (% do PIB) ................................................. 21
+Gráfico 8 – Medidas de arrecadação do cenário de referência (% do PIB)................................................ 23
+Gráfico 9 – Projeção da receita líquida nos cenários inicial e referência (% do PIB) ................................. 24
+Gráfico 10 – Comparativo da receita líquida do cenário de referência entre Relatórios de Projeções Fiscais
+(% do PIB) ............................................................................................................................................ 24
+Gráfico 11 - Cenários de receitas de exploração de recursos naturais de petróleo para diferentes valores de
+Brent.................................................................................................................................................... 25
+Gráfico 12 – Impacto da elevação de US$ 10 no Brent - R$ bilhões ......................................................... 26
+Gráfico 13 – Receitas Administradas (exceto RGPS) proveniente de empresas com classificação CNAE
+associadas a petróleo e derivados e Dividendos da Petrobras (em R$ bilhões) e Brent médio (em US$/barril)
+............................................................................................................................................................ 29
+Gráfico 14 – Acréscimo projetado da arrecadação de IRPJ/CSLL decorrente do aumento de U$$ 10 no Brent
+(em R$ bilhões) .................................................................................................................................... 30
+Gráfico 15 – Projeção da despesa primária total (% do PIB) .................................................................... 32
+Gráfico 16 – Projeção da despesa discricionária – cenário de referência (R$ bilhões de 2026 e % do PIB) 33
+Gráfico 17 – Comparativo das projeções de despesa primária entre RPFs (% do PIB) ............................. 34
+Gráfico 18 – Projeção do resultado primário do Governo Central do cenário de referência (% do PIB) ...... 35
+Gráfico 19 – Projeção do resultado primário do Governo Central nos cenários inicial e referência (% do PIB)
+............................................................................................................................................................ 36
+Gráfico 20 – Comparativo do resultado primário do Governo Central com projeções externas (% do PIB) 37
+Gráfico 21 – Comparativo das projeções para o resultado primário do setor público (% do PIB) .............. 38
+Gráfico 22 – Necessidade de financiamento do setor público (% do PIB) ................................................ 39
+
+=== página 6 ===
+Gráfico 23 – Despesa com Juros Líquidos sobre Receita do Governo Geral (%) ....................................... 40
+Gráfico 24 – Projeções da dívida pública (% do PIB) ............................................................................... 41
+Gráfico 25 – Comparativo das projeções da Dívida (% do PIB) – Cenário de Referência ........................... 42
+Gráfico 26 – Decomposição do comparativo das projeções da DBGG (% do PIB) – Cenário de Referência43
+Gráfico 27 – Resultado primário do governo central requerido para estabilizar a DBGG/PIB (% do PIB) .... 45
+Gráfico 28 – Projeções da DBGG: utilizando o cenário fiscal inicial e o cenário de referência (% do PIB) .. 47
+Gráfico 29 – Projeções da DLGG: utilizando o cenário fiscal inicial e o cenário de referência (% do PIB) ... 47
+Gráfico 30 – Projeções da DBGG: adoção parcial das receitas adicionais 25%, 50% e 75% (% do PIB) ..... 48
+Gráfico 31 – Projeções do resultado primário do Setor Público: cenário de referência, FOCUS e utilizando
+previsões extraídas da pesquisa Focus (% do PIB)* ............................................................................... 50
+Gráfico 32 – Projeções da DBGG: utilizando previsões extraídas da pesquisa Focus (% do PIB)* ............. 51
+Gráfico 33 – Projeções da DBGG: Cenário de referência com parâmetros Focus (% do PIB)* ................... 52
+Gráfico 34 – Comparativo da Dívida Bruta do Governo Geral (DBGG) com projeções externas (% do PIB) 53
+Gráfico 35 – DBGG (% do PIB) – choques combinados* .......................................................................... 54
+Gráfico 36 – DLGG (% do PIB) – choques combinados* .......................................................................... 55
+Gráfico 37 – Cenários estocásticos para o resultado primário do Setor Público (% do PIB) ...................... 56
+Gráfico 38 – Cenários estocásticos para DBGG (% do PIB) ..................................................................... 57
+Gráfico 39 – Cenários estocásticos para DLGG (% do PIB) ..................................................................... 57
+
+=== página 7 ===
+Prefácio
+Trata-se da oitava edição do Relatório de Projeções Fiscais (RPF), publicação da Secretaria do Tesouro
+Nacional (STN), que tem como objetivo compartilhar com a sociedade reflexões relevantes para a maior
+compreensão do atual panorama das finanças públicas da União. Com esse propósito, busca-se expor o
+assunto de forma simples e acessível, democratizando o acesso à informação e permitindo avaliações que
+fomentem o debate sobre a trajetória e a sustentabilidade das contas públicas.
+Os resultados, premissas e metodologias aqui exibidos se baseiam em hipóteses adotadas para a
+elaboração de cenários fiscais de médio prazo e não refletem o posicionamento do Tesouro Nacional em
+relação às regras fiscais vigentes ou às escolhas de políticas públicas do governo.
+O presente relatório apresenta e discute projeções para as principais variáveis fiscais da União e está
+dividido em duas seções, além do Sumário Executivo. A primeira delas traz as projeções de receitas
+primárias, despesas primárias, resultado fiscal e endividamento. Nessa parte, apresentam-se também
+análises da trajetória da dívida pública e do primário requerido para estabilizar a dívida em diferentes
+cenários.
+Já a segunda seção traz uma análise de sensibilidade a cenários alternativos, em que é apresentada a
+projeção de dívida a partir do cenário inicial, bem como a evolução da DBGG com o uso da mediana das
+projeções contidas na pesquisa Focus do Banco Central para as variáveis macroeconômicas e resultado
+primário do Setor Público. Essa seção apresenta ainda o efeito de choques em variáveis econômicas e fiscais
+e uma análise estocástica em torno do cenário macroeconômico principal.
+Além do conteúdo recorrente deste relatório, apresentamos um boxe que aborda os efeitos das variações de
+preço do petróleo sobre as receitas da União, dadas as incertezas trazidas pelo conflito no Irã, considerando
+a relevância do Brasil como grande produtor desta commodity no mercado internacional e sua posição como
+um dos maiores exportadores mundiais.
+3
+
+=== página 8 ===
+Sumário Executivo
+A Tabela 1 sumariza os principais resultados desta edição do Relatório de Projeções Fiscais referentes às
+perspectivas de médio prazo para a situação fiscal brasileira no cenário de referência. As projeções,
+realizadas para o período de 2026 a 2036, consideram o cenário macroeconômico elaborado pela Secretaria
+de Política Econômica do Ministério da Fazenda (SPE/MF), de maio de 2026, a programação orçamentária do
+Relatório de Avaliação de Receitas e Despesas Primárias (RARDP) referente ao 2º bimestre de 2026, as metas
+de resultado primário do Projeto de Lei de Diretrizes Orçamentárias de 2027 e as regras do Regime Fiscal
+Sustentável - RFS (Lei Complementar nº 200, de 30 de agosto de 2023 – LC nº 200/2023).
+Tabela 1 – Resumo das projeções fiscais no cenário de referência (% do PIB)
+Fonte: Elaboração própria
+Discriminação 2025 2026 2027 2028 2029 2030 2031 2032 2033 2034 2035 2036
+Resultado Primário do Setor Público -0,4 -0,4 0,0 0,6 0,9 1,2 1,3 1,4 1,4 1,4 1,4 1,5
+Governo Central -0,5 -0,4 0,0 0,6 0,9 1,3 1,3 1,4 1,4 1,4 1,5 1,5
+Receita Líquida 18,3 18,9 19,0 19,4 19,4 19,6 19,6 19,6 19,1 18,7 18,3 18,0
+Despesa Total 18,8 19,4 18,9 18,7 18,5 18,4 18,3 18,2 17,6 17,2 16,8 16,5
+Governos Regionais 0,1 0,2 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0
+Estatais Federais -0,0 -0,1 -0,0 -0,0 -0,0 -0,0 -0,0 -0,0 -0,0 -0,0 -0,0 -0,0
+Juros Nominais 7,9 8,6 8,0 7,3 6,9 6,5 6,0 5,9 5,8 5,6 5,6 5,6
+Resultado Nominal do Setor Público -8,3 -9,0 -8,0 -6,7 -6,0 -5,2 -4,7 -4,5 -4,4 -4,2 -4,1 -4,1
+Dívida Líquida do Governo Geral 66,8 70,9 73,0 74,3 74,8 74,7 74,1 73,7 72,8 72,3 71,2 70,6
+Dívida Bruta do Governo Geral 78,6 83,5 85,9 87,3 87,9 87,4 86,9 86,2 85,5 84,7 83,9 83,1
+Nota: O resultado primário é apresentado pelo conceito “acima da linha”, mais relevante para a discussão dos seus componentes e dos eventos fiscais
+tratados neste relatório, enquanto o resultado nominal é apresentado pelo conceito “abaixo da linha”, pois é o mais adequado para confrontar com as
+estatísticas fiscais relativas à dívida pública. Eventuais divergências entre a soma do resultado primário com os juros nominais com relação ao resultado
+nominal serão em virtude discrepâncias estatísticas.
+O cenário macroeconômico que baseia este relatório projeta crescimento real médio do PIB de 2,8% ao ano
+entre 2026 e 2036. No mesmo horizonte, o IPCA converge para 3,0% a partir de 2028, enquanto o deflator do
+PIB permanece acima da inflação ao consumidor, com diferencial médio de 1,2 p.p. ao ano. Nesse contexto,
+a massa salarial - variável relevante para a dinâmica fiscal, em especial pelo seu efeito sobre receitas
+vinculadas ao mercado de trabalho – apresenta crescimento nominal médio de 11,0% ao ano, resultado da
+combinação de um crescimento da população ocupada com carteira de 4,5% ao ano e aumento salarial
+nominal médio de 6,3% ao ano. A taxa Selic, por sua vez, recua até 2032 e se estabiliza em 6,4% a.a..
+No cenário de referência deste relatório, a projeção da receita primária líquida parte das estimativas do
+Relatório de Avaliação de Receitas e Despesas Primárias (RARDP) referente ao 2º bimestre de 2026. Após
+atingir 18,9% do PIB em 2026, projeta-se uma trajetória crescente para a receita líquida até alcançar o
+patamar de 19,6% do PIB em 2030. A partir de então, inicia-se uma trajetória de queda, encerrando 2036 a
+18,0% do PIB. Essa evolução pressupõe que medidas adicionais de arrecadação devem ser implementadas
+para compatibilizar a receita com a trajetória delineada para as despesas primárias, garantindo o alcance
+das metas fiscais. O exercício estima, assim, o esforço adicional de arrecadação que pode ser necessário
+para concretizar o alcance das metas de resultado primário definidas no Projeto de Lei de Diretrizes
+Orçamentárias de 2027 - PLDO 2027 (Projeto de Lei do Congresso Nacional (PLN) nº 2/2026) a saber: 0,5%
+do PIB em 2027, 1,0% do PIB em 2028, 1,25% do PIB em 2029 e 1,5% do PIB em 2030, supondo-se que esse
+nível será mantido de 2031 em diante.
+4
+
+=== página 9 ===
+Quanto à despesa primária, a projeção também utiliza como base o 2º RARDP de 2026 e projeta-se sua
+evolução, entre outras hipóteses, conforme as regras do Regime Fiscal Sustentável (RFS), instituído pela Lei
+Complementar (LC) nº 200/2023. Isto é, o crescimento real do limite de despesa equivale a uma proporção
+do crescimento real da Receita Líquida Ajustada (RLA)1, resguardado um crescimento mínimo e máximo de
+0,6% e 2,5% a.a., respectivamente. A essa dinâmica, adicionam-se as projeções das despesas não sujeitas
+ao limite. Com efeito, no cenário de referência, a despesa primária parte de 19,4% do PIB em 2026 e reduz-
+se até atingir 16,5% do PIB em 2036. Essa redução da despesa se dá de maneira mais acentuada a partir de
+2033, com a redução do impacto do Fundo de Compensação de Benefícios Fiscais – FCBF, instituído no
+âmbito da Reforma Tributária, que não está sujeito ao limite de despesas.
+As despesas obrigatórias sujeitas ao limite apresentam crescimento real médio de 2,7% a.a. entre 2026 e
+2036, com destaque para a evolução crescente das despesas com benefícios previdenciários do Regime
+Geral de Previdência Social – RGPS, com Benefício de Prestação Continuada – BPC, com Seguro
+Desemprego e das despesas associadas aos mínimos de saúde e educação. Tal crescimento é superior ao
+projetado para o limite de despesas, tornando mais restritivo o espaço disponível para as despesas
+discricionárias sujeitas ao limite, que passam a requerer uma redução real de 3,2% ao ano.
+O cenário de referência apresenta resultado primário do Governo Central conforme o 2º RARDP para 2026,
+atingindo um déficit de 0,4% do PIB, tendo em vista as excepcionalizações, para fins de apuração das metas
+fiscais, dos gastos com precatórios (EC 136/2025), do gasto de R$ 2,5 bilhões em projetos estratégicos em
+defesa nacional (LC 221/2025), de R$ 3,5 bilhões com gastos temporários com saúde e educação com
+recursos do Fundo Social (LC 223/2025) e de R$ 0,5 bilhão relativo a restos a pagar do ressarcimento dos
+descontos indevidos de benefícios previdenciários (ADPF 1236). A partir de 2027, espera-se uma trajetória
+ascendente de superávits primários do Governo Central seguindo as metas fiscais, passando de 0,05% do
+PIB em 2027 a 1,5% do PIB em 2036.
+Quanto à evolução do endividamento público, as projeções do cenário de referência deste relatório indicam
+que a Dívida Bruta do Governo Geral – DBGG e a Dívida Líquida do Governo Geral - DLGG alcançam, ao final
+de 2026, 83,5% e 70,9% do PIB, respectivamente. A DBGG apresenta uma trajetória ascendente até atingir
+87,9% do PIB em 2029, reduzindo para 83,1% do PIB em 2036. Já a DLGG segue uma trajetória similar, com
+crescimento também até 2029, iniciando então uma trajetória de queda nos anos seguintes, e chega a 70,6%
+do PIB em 2036.
+A DBGG/PIB deve registrar aumento de 4,9 p.p. em 2026 em comparação com 2025, com os juros nominais
+sendo o principal fator explicativo dessa elevação. Ressalte-se que, em média, a trajetória atual da
+DBGG/PIB está 1,5 p.p. do PIB abaixo da trajetória do RPF de dezembro/2025 para o período de 2025 a 2035.
+O relatório traz, ainda, projeções de DBGG para cenários fiscais alternativos, como forma de mostrar como
+a projeção de dívida é sensível aos diferentes cenários fiscais e premissas macroeconômicas. O relatório
+complementa o cenário de referência com projeções alternativas baseadas nas medianas do Focus, além
+de exercícios de sensibilidade que mostram como choques em juros, crescimento e primário podem alterar
+significativamente a trajetória da dívida. Passamos a apresentar uma análise de sensibilidade da dívida a
+diferentes cenários de concretização das receitas adicionais. Por fim, são apresentadas simulações
+1 Receita primária de que trata o art. 5º da LC nº 200/2023, calculada conforme Portaria MF nº 1.165, de 5 de outubro
+de 2023.
+5
+
+=== página 10 ===
+estocásticas para DBGG e DLGG, evidenciando a incerteza associada ao endividamento público e
+reforçando a importância de uma gestão fiscal prudente e de fundamentos macroeconômicos sólidos.
+6
+
+=== página 11 ===
+1. Cenário Fiscal de Médio Prazo
+Nesta seção, apresentam-se projeções de receitas, despesas e resultado primário do Governo Central;
+resultado primário, despesa com juros e necessidade de financiamento do Setor Público; e dívidas bruta e
+líquida do Governo Geral, baseadas em hipóteses e diretrizes detalhadas a seguir. O cenário
+macroeconômico apresentado na seção 1.1, por sua vez, é oriundo das projeções oficiais, de maio de 2026,
+elaboradas pela Secretaria de Política Econômica do Ministério da Fazenda (SPE/MF).
+As projeções consideram as regras do Regime Fiscal Sustentável - RFS, instituído pela Lei Complementar n°
+200, de 30 de agosto de 2023, balizado por metas de resultado primário e limites de despesa atrelados à
+variação da Receita Líquida Ajustada - RLA. Ademais, o PLDO 2027 indicou as metas fiscais até 2030 e uma
+trajetória decenal para o resultado primário do Governo Central, que servem de referência para este
+relatório.
+Foram elaborados dois cenários: o cenário inicial e o cenário de referência, sendo que ambos partem do
+cenário de receitas, despesas e primário previsto no RARDP do 2º bimestre de 2026. O cenário inicial
+considera projeções de receitas baseadas em dados históricos e na legislação vigente. Por sua vez, para
+definir a trajetória de despesas, o cenário inicial segue o Regime Fiscal Sustentável - RFS, com o limite de
+despesas definido pela evolução da RLA e pela projeção de contingenciamento nos anos em que a evolução
+das receitas e despesas indicar descumprimento do limite inferior da meta de resultado primário até 2030.
+O segundo cenário, chamado cenário de referência, presume, a partir de 2027, o atingimento do centro das
+metas fiscais do PLDO 2027, isto é, metas de resultado primário de 0,5% do PIB em 2027, 1,0% do PIB em
+2028, 1,25% do PIB em 2029 e 1,5% do PIB em 2030. A partir de 2030, considera-se a manutenção deste nível
+de meta de resultado primário, conforme cenário decenal do PLDO 2027. Neste cenário de referência,
+incorporam-se os efeitos de medidas adicionais necessárias ao cumprimento dessas metas de resultado
+primário.
+Destaca-se que, para o alcance do centro das metas no cenário de referência, de 2027 a 2030, não são
+consideradas medidas de contingenciamento, diferentemente do cenário inicial, pois o cenário de referência
+pressupõe que o esforço fiscal necessário será alcançado por medidas adicionais de receitas. As diferentes
+hipóteses de receitas em cada cenário repercutem em evoluções distintas para as despesas, em virtude da
+vinculação da taxa de crescimento real do limite de despesas primárias à RLA e da própria indexação de
+algumas despesas à arrecadação.
+Cabe salientar que as projeções fiscais de receita deste relatório não levam em conta os efeitos da Reforma
+Tributária (EC nº 132/2023), tendo em vista a necessidade de regulamentação de vários de seus dispositivos,
+a exemplo da definição de alíquotas da Contribuição sobre Bens e Serviços (CBS) e do Imposto Seletivo
+(IBS).2 Por sua vez, do lado das despesas, incorporam-se os impactos do Fundo Nacional de
+Desenvolvimento Regional - FNDR e do Fundo de Compensação de Benefícios Fiscais ou Financeiro-Fiscais
+- FCBF, a partir de 2029.3
+2 Tendo em vista a necessidade de regulamentação posterior de vários itens previstos na Emenda, foram mantidas as
+metodologias de projeção de receita com base nos tributos atualmente vigentes.
+3 Outros dois Fundos, o Fundo de Sustentabilidade e Diversificação Econômica do Estado do Amazonas e o Fundo de
+Desenvolvimento Sustentável dos Estados da Amazônia Ocidental e do Amapá, ainda ficaram pendentes de
+regulamentação por Lei Complementar, inclusive quanto aos valores e momentos dos aportes da União.
+7
+
+=== página 12 ===
+1.1. Cenário Macroeconômico
+Nesta subseção, apresenta-se o cenário macroeconômico da Grade de Parâmetros da SPE/MF de maio de
+2026, comparado com a grade de novembro de 2025, que subsidiou a última edição do RPF. A Tabela 2,
+abaixo, mostra que a projeção oficial para o crescimento real do PIB foi revista para 2,3% em 2026, 0,1 p.p.
+abaixo do previsto em novembro. As previsões para os demais anos foram mantidas. De 2031 a 2036, o
+crescimento real do PIB apresenta média anual de 2,9%. A projeção para o deflator do PIB, por sua vez, variou
+positivamente até 2030, de 4,3% para 4,8% em 2026, de 4,9% para 5,2% em 2027, de 4,6% a 4,8% em 2028,
+de 4,5% para 4,7% em 2029, e de 4,3% para 4,7% em 2030, reduzindo-se gradualmente no período de 2031
+a 2036, com média de 4,0%.
+Quanto ao IPCA, a grade atual apresenta elevação em relação à grade anterior, especialmente nos anos de
+2026 (1,0 p.p.) e 2027 (0,4 p.p.), enquanto para os anos futuros foram mantidas previsões em nível similar ao
+estimado pela grade de novembro, estabilizando-se em 3,0% a partir de 2028. A conjugação desses efeitos
+faz com que o diferencial entre o deflator do PIB e o IPCA seja positivo ao longo período, com média de 1,2
+p.p., sendo o menor valor para 2026, de 0,3 p.p.. Em relação ao IGP-DI, a projeção para 2026 se reduziu
+significativamente, para 1,8% ante 4,1% da grade anterior, mas houve elevação nos anos seguintes. Esta
+revisão no cenário de inflação é acompanhada por um aumento nas previsões da taxa Selic, especialmente
+até 2030, com um horizonte mais longo até o fim do ciclo de aperto monetário. No período de 2031-2036, a
+taxa Selic cai para 6,4% a.a., ou 3,3% a.a. em termos reais, similar ao nível da grade utilizada no relatório
+anterior.
+Com relação à taxa de câmbio, percebe-se uma apreciação do real entre as grades de parâmetros, passando
+de R$ 5,48 para R$ 5,16 por US$ em 2026 e atingindo uma média de R$ 5,61 por US$ no período de 2031 a
+2036, levemente abaixo do parâmetro previsto em novembro (R$ 5,66 por US$). Quanto ao Brent, observa-se
+valorização da cotação em todo o horizonte, em função do conflito no Irã. Em 2026, a cotação foi projetada
+a US$ 91,25 o barril contra US$ 63,74 prevista em novembro de 2025, um aumento de 43,1%. A partir de 2027,
+a cotação reduz-se para uma média anual de US$ 74,35.
+Por fim, o crescimento nominal da massa salarial foi revisto para cima, especialmente a partir de 2027,
+elevando-se de 8,7% para 10,8%, continuando com uma dinâmica forte nos demais anos de projeção.
+Tabela 2 – Comparativo de Grades de Parâmetros: novembro de 2025 e maio de 2026
+Fonte: Elaboração própria
+Média Média
+2026 2027 2028 2029 2030 2030 - 2031 -
+Variável 2025 2035 2036
+nov/25 mai/26 nov/25 mai/26 nov/25 mai/26 nov/25 mai/26 nov/25 mai/26 nov/25 mai/26
+PIB Real 3,4% 2,4% 2,3% 2,6% 2,6% 2,6% 2,6% 2,6% 2,6% 2,7% 2,7% 2,9% 2,9%
+PIB (R$ bilhões) 11.745 13.590 13.650 14.622 14.725 15.693 15.830 16.827 17.000 18.013 18.269 21.432 23.399
+Deflator 3,8% 4,3% 4,8% 4,9% 5,2% 4,6% 4,8% 4,5% 4,7% 4,3% 4,7% 4,0% 4,0%
+IPCA (Acumulado) 4,8% 3,5% 4,5% 3,1% 3,5% 3,0% 3,0% 3,0% 3,0% 3,0% 3,0% 3,0% 3,0%
+Diferencial Deflator -
+-1,03 0,79 0,27 1,81 1,68 1,65 1,82 1,52 1,68 1,28 1,68 0,97 1,04
+IPCA (p.p.)
+IGP-DI (Médio) 1,8% 4,1% 1,8% 4,2% 4,5% 3,9% 3,9% 3,9% 3,8% 3,4% 3,8% 3,6% 3,8%
+Selic Acumulada 10,8% 13,2% 14,0% 10,2% 11,2% 8,3% 9,4% 7,3% 8,3% 6,5% 7,3% 6,4% 6,4%
+Selic Real 5,7% 9,4% 9,1% 6,9% 7,5% 5,2% 6,2% 4,2% 5,1% 3,4% 4,2% 3,3% 3,3%
+Câmbio (Média) 5,39 5,48 5,16 5,50 5,26 5,50 5,36 5,50 5,40 5,52 5,43 5,66 5,61
+Petróleo Brent (US$) 80,07 63,74 91,25 64,10 79,60 65,25 75,63 66,39 73,38 66,75 71,86 66,75 71,26
+Massa Nominal
+11,9% 10,6% 10,4% 8,7% 10,8% 8,4% 10,8% 7,5% 10,7% 5,6% 10,7% 8,3% 11,2%
+(cresc.)
+8
+
+=== página 13 ===
+1.2. Cenário Inicial
+O cenário inicial, que parte do 2º RARDP de 2026, é apresentado considerando apenas as medidas de receita
+vigentes, com as despesas evoluindo conforme o limite estabelecido pelo Regime Fiscal Sustentável e com
+a aplicação de medidas de contingenciamento. Esse cenário funciona como instrumento de comparação
+com o cenário de referência, que será apresentado posteriormente, o qual pressupõe o atingimento das
+metas fiscais do PLDO 2027. Assim, enquanto no cenário inicial discute-se mais pormenorizadamente as
+diferentes hipóteses e aspectos de modelagem que balizam as projeções dos agregados de receitas e
+despesas4, a seção dedicada ao cenário de referência traz maior foco à discussão sobre o esforço fiscal
+necessário para o cumprimento das metas de resultado primário e seus efeitos sobre as despesas
+vinculadas às receitas e sobre as despesas discricionárias.
+Receitas Primárias do Governo Central
+O cenário inicial considera, além da evolução dos parâmetros macroeconômicos e sua relação com as
+receitas públicas, a legislação vigente. Com relação a gastos tributários, supõe-se a manutenção das
+renúncias de acordo com suas respectivas vigências.
+Em 2025, as receitas primárias líquidas de transferências por repartição de receitas fecharam o ano a 18,3%
+do PIB, uma diminuição de 0,1 p.p. relativamente ao nível de 2024 (18,4% do PIB). Para 2026, o RARDP5
+referente ao 2º bimestre de 2026 prevê receita líquida 0,6 p.p. acima de 2025, atingindo 18,9% do PIB.
+A elevação das receitas frente a 2025 deve-se, além dos parâmetros macroeconômicos, à aprovação ou
+edição de medidas entre o final de 2025 e a publicação deste relatório, dentre as quais destacamos: i)
+aumento do imposto de importação sobre bens de capital, informática e telecomunicações; ii)
+estabelecimento de alíquota de 12% de imposto de exportação sobre óleos brutos de petróleo ou de minerais
+betuminosos (MP nº 1340/2026); iii) o aprimoramento no sistema de compensação de tributos (Lei nº
+15.265/2025); iv) alterações no IOF (Decretos nºs 12.466/2025, 12.467/2025 e 12.499/2025), que em 2025
+tiveram efeitos apenas em parte do exercício; v) efeitos da Lei Complementar nº 224/2025, que reduziu 10%
+dos benefícios federais de natureza tributária, elevou a CSLL paga por fintechs, sociedades de crédito, de
+empréstimo, de financiamento e de investimento, e instituições de capitalização; elevou a alíquota da
+contribuição social incidente sobre a receita bruta de jogo das apostas de quota fixa; e elevou a alíquota de
+imposto de renda sobre juros sobre capital próprio; vi) elevação do IPI e aumento do preço mínimo do fumo.
+À exceção da elevação do imposto de exportação (cujo impacto nas projeções foi limitado a 4 meses,
+conforme RARDP do 2º bimestre de 2026) e da elevação do IPI (que será parcialmente extinto a partir de 2027,
+em função da reforma tributária), o efeito das medidas elencadas é estrutural, impactando positivamente
+todo o horizonte de projeção deste relatório.
+Também contribui para a projeção de elevação da arrecadação os efeitos da reoneração gradual da folha de
+pagamentos, conforme Lei nº 14.973/2024, com impactos crescentes sobre a receita entre 2025 e 2028, bem
+4 As hipóteses e aspectos de modelagem descritos para o cenário inicial mantêm-se, de maneira geral, equivalentes
+para o cenário de referência, exceto quando destacado em contrário. As diferentes trajetórias para ambos os cenários
+decorrem da hipótese de cumprimento da meta de primário no cenário de referência por meio de medidas adicionais
+de receitas, o que condiciona a trajetória de despesa.
+5 Disponível em: Relatório de Avaliação de Receitas e Despesas Primárias (RARDP) - 2026 - 2° Bimestre — Tesouro
+Transparente. Acesso em 15/06/2026.
+9
+
+=== página 14 ===
+como medidas de recuperação de crédito e redução de litígios (a exemplo do Programa de Transação Integral
+– PTI e do Balcão Único). De outro lado, contribuem negativamente para a arrecadação: i) reduções de
+PIS/COFINS sobre o diesel, biodiesel e querosene de aviação em 2026 (Decretos nºs 18.875/2026,
+12.991/2026, 12.924/2026, 12.991/2026), adotadas como medidas temporárias de mitigação dos efeitos do
+conflito no Irã; ii) efeitos da LC 228/2026, que reduziu as alíquotas de PIS/COFINS sobre a indústria química
+e petroquímica em 2026; iii) o Acordo Mercosul-União Europeia, que reduz as alíquotas de imposto de
+importação de forma escalonada ao longo de 14 anos; iv) a revogação da tributação simplificada de imposto
+de importação sobre remessas internacionais de até US$ 50,00.
+As evoluções resultantes dos principais agregados de receitas estão dispostas no Gráfico 1 e no Gráfico 2.
+As receitas partem do nível realizado de 22,8% do PIB em 2025, para receita total, e de 18,3% do PIB, para
+receita líquida, elevam-se em 2026 e apresentam uma trajetória descendente até 2036, chegando a 21,1%
+do PIB para a receita total e 17,1% do PIB para a receita líquida.
+Gráfico 1 – Projeção da receita primária total e da receita líquida no cenário inicial (% do PIB)
+Fonte: Elaboração própria
+25
+23,6
+24 23,3
+22,8 22,9
+23 22,4
+22,2
+21,9
+21,7
+21,5
+22 21,4
+21,2 21,1
+21
+20
+18,9 18,8
+18,5
+19 18,3 18,2
+18,0
+17,8
+18 17,6 17,5 17,4
+17,2 17,1
+17
+16
+15
+2025 2026 2027 2028 2029 2030 2031 2032 2033 2034 2035 2036
+Receita Total Receita Líquida
+Conforme o Gráfico 2, as receitas administradas pela RFB, exclusive RGPS, atingem 15,1% do PIB em 2026
+e apresentam uma queda de 1,4 p.p. até 2036, chegando a 13,7% do PIB nesse ano, nível 0,9 p.p. do PIB
+abaixo do observado em 2025. A arrecadação líquida para o RGPS permanece relativamente estável, saindo
+de 5,8% do PIB em 2026 e chegando ao final do horizonte de projeção em 5,9% do PIB. As receitas não
+administradas pela RFB, por sua vez, caem de 2,8% do PIB em 2026 para 1,5% do PIB em 2036. A queda
+esperada tanto nas receitas administradas ex-RGPS quanto nas não administradas reflete, em parte, uma
+base de comparação elevada por medidas parcialmente transitórias em 2026, bem como a transição da
+conjuntura macroeconômica para uma situação de equilíbrio no médio prazo.
+10
+
+=== página 15 ===
+Gráfico 2 – Projeção dos componentes da receita total do cenário inicial (% do PIB)
+Fonte: Elaboração própria
+18
+15,1 15,2
+16 14,6 14,8 14,5 14,3 14,1 14,0 13,9 13,8 13,7 13,7
+14
+12
+10
+8
+5,6 5,8 5,8 5,7 5,7 5,7 5,8 5,8 5,8 5,8 5,8 5,9
+6
+4
+2
+0 2,6 2,8 2,4 2,3 2,2 2,1 2,0 1,9 1,8 1,7 1,6 1,5
+2025 2026 2027 2028 2029 2030 2031 2032 2033 2034 2035 2036
+Receita Adm. pela RFB ex. RGPS Arrecadação Líquida para o RGPS
+Receitas Não Adm. pela RFB
+Pela Tabela 3, percebe-se que alguns tributos tendem a apresentar uma evolução mais positiva: o imposto
+de importação e as outras receitas administradas6 crescem 0,2 p.p do PIB de 2026 a 2036, refletindo a
+dinâmica favorável nas importações e o crescimento econômico projetado. Prevê-se establidade para o IPI,
+IRPF, imposto retido na fonte relacionado a rendimentos do trabalho e outros rendimentos, e para o IOF.
+Outros tributos apresentam reduções em proporção do PIB no horizonte de projeção: i) PIS/COFINS tem
+queda de 1,0 p.p. do PIB; ii) IRRF – Capital de 0,4 p.p. do PIB, e iii) IRPJ/CSLL de 0,4 p.p. do PIB.
+Nas receitas não administradas (Tabela 4), as principais quedas em relação a 2026 referem-se à exploração
+de recursos naturais (-0,7 p.p.), dividendos e participações (-0,2 p.p.) e demais receitas (-0,2 p.p.). A evolução
+esperada das receitas de royalties, participação especial e comercialização de petróleo e gás natural, como
+nos relatórios anteriores, segue uma trajetória de queda a partir da metade do horizonte de projeção,
+refletindo a dinâmica na produção de petróleo a longo prazo, conforme projeções da Empresa de Pesquisa
+Energética (EPE) e da Pré-Sal Petróleo S/A (PPSA). Já no caso de dividendos e participações, eles dependem
+diretamente, dentre outros fatores, das políticas de distribuição das empresas estatais e sociedades de
+economia mista.
+6 A trajetórias das outras administradas segue a programação oficial (PLDO 2027) até 2030. A partir de então, crescem
+com PIB real e IPCA, de forma que o diferencial deflator-IPCA justifica sua redução em proporção do PIB.
+11
+
+=== página 16 ===
+Tabela 3 – Projeção de receitas administradas ex-RGPS do cenário inicial (% do PIB)
+Fonte: Elaboração própria
+Discriminação 2025 2026 2027 2028 2029 2030 2031 2032 2033 2034 2035 2036
+Receita Administrada ex-RGPS 14,6 15,1 15,2 14,8 14,5 14,3 14,1 14,0 13,9 13,8 13,7 13,7
+Imposto de Importação 0,7 0,8 0,8 0,8 0,8 0,9 0,9 0,9 0,9 0,9 1,0 1,0
+IPI 0,7 0,7 0,7 0,7 0,7 0,7 0,7 0,7 0,7 0,7 0,7 0,7
+IRPF 0,6 0,6 0,6 0,6 0,6 0,6 0,6 0,6 0,6 0,6 0,6 0,6
+IRPJ/CSLL 3,7 3,8 3,8 3,6 3,6 3,6 3,6 3,5 3,5 3,5 3,5 3,4
+IRRF - Rendimentos do Trabalho 1,7 1,5 1,5 1,5 1,5 1,5 1,5 1,5 1,5 1,5 1,5 1,5
+IRRF - Rendimentos do Capital 1,3 1,5 1,5 1,3 1,3 1,2 1,2 1,1 1,1 1,1 1,1 1,1
+IRRF - Remessas ao Exterior 0,7 0,7 0,7 0,8 0,8 0,8 0,8 0,8 0,8 0,8 0,8 0,8
+IRRF - Outros rendimentos 0,2 0,2 0,2 0,2 0,2 0,2 0,2 0,2 0,2 0,2 0,2 0,2
+IOF 0,7 0,8 0,7 0,7 0,7 0,7 0,7 0,7 0,7 0,7 0,7 0,7
+PIS/COFINS 3,9 3,9 3,7 3,6 3,5 3,4 3,3 3,2 3,1 3,0 2,9 2,8
+CIDE Combustíveis 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0
+Outras Administradas pela RFB 0,4 0,5 0,9 0,9 0,8 0,8 0,8 0,8 0,8 0,8 0,8 0,7
+Tabela 4 – Projeção de receitas não administradas do cenário inicial (% do PIB)
+Fonte: Elaboração própria
+Discriminação 2025 2026 2027 2028 2029 2030 2031 2032 2033 2034 2035 2036
+Receitas Não Administradas pela RFB 2,6 2,8 2,4 2,3 2,2 2,1 2,0 1,9 1,8 1,7 1,6 1,5
+Concessões e Permissões 0,1 0,0 0,1 0,1 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0
+Complemento para o FGTS 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0
+CPSS 0,1 0,1 0,1 0,1 0,1 0,1 0,1 0,1 0,1 0,1 0,1 0,1
+Contribuição do Salário-Educação 0,3 0,3 0,3 0,3 0,3 0,3 0,3 0,3 0,3 0,3 0,3 0,3
+Exploração de Recursos Naturais 1,1 1,3 1,2 1,1 1,0 1,0 0,9 0,8 0,8 0,7 0,6 0,6
+Dividendos e Participações 0,4 0,4 0,2 0,3 0,3 0,2 0,2 0,2 0,2 0,2 0,2 0,2
+Receita Própria e de Convênios 0,2 0,1 0,1 0,1 0,1 0,1 0,1 0,1 0,1 0,1 0,1 0,1
+Demais Receitas 0,4 0,5 0,4 0,4 0,3 0,3 0,3 0,3 0,3 0,3 0,3 0,3
+Comparação das projeções com o RPF de dezembro de 2025
+Conforme o Gráfico 3, o cenário inicial do último RPF projetava as receitas primárias líquidas de 2026 a 18,6%
+do PIB, com trajetória de queda a partir de 2027. Essa trajetória de queda ao longo do horizonte de projeção
+se mantém neste relatório, mas ocorre de maneira mais gradual.
+A elevação das receitas frente ao último RPF, especialmente entre 2026 e 2029, decorre em grande parte da
+aprovação de medidas entre dezembro de 2025 e a data de preparação deste relatório, muitas das quais não
+foram incorporadas ao cenário inicial do último relatório, por não terem sido aprovadas quando de sua
+elaboração. Dentre elas, destacamos a LC 224/2025 (que inclui corte de benefícios tributários, elevação da
+CSLL sobre instituições financeiras, elevação da tributação de bets, elevação do imposto de renda sobre
+juros sobre capital próprio) e a elevação do imposto de importação sobre bens de capital, tecnologia e
+informação. Ademais, deve-se destacar efeitos dos parâmetros macroeconômicos, com destaque para:
+elevação do preço do barril do petróleo (cujos efeitos são explorados no Boxe 1) e aumentos da inflação
+(deflator, IPCA e IGP-DI na maior parte dos anos) e da massa salarial nominal.
+12
+
+=== página 17 ===
+Gráfico 3 – Comparativo da receita líquida do cenário inicial entre Relatórios de Projeções Fiscais (%
+do PIB)
+Fonte: Elaboração própria
+21
+20
+18,9
+18,8
+19
+18,5
+18,3
+18,2 18,1
+17,9
+18,6 17,8
+18 18,4 17,6
+18,3 18,2 18,1 17,5
+18,0 17,3
+17,8
+17,6
+17 17,5 17,4
+17,2
+17,1
+16
+15
+2025 2026 2027 2028 2029 2030 2031 2032 2033 2034 2035 2036
+RPF dez/25 Cenário inicial
+Despesas Primárias do Governo Central
+Para a compreensão do cenário de despesas, é importante destacar que aproximadamente 90% das
+despesas primárias do Governo Central estão sujeitas ao limite do RFS. A evolução do limite, por sua vez, é
+determinada pela variação real da Receita Líquida Ajustada (RLA), derivada das projeções discutidas na
+seção anterior. Adicionalmente, conforme as regras do Regime Fiscal Sustentável (RFS), o cumprimento da
+meta de resultado primário do ano t impacta a proporção da variação real da receita a ser aplicada no
+crescimento do limite de despesa do ano t+2.7 A Tabela 5 apresenta o crescimento do limite de despesa
+definido a partir das receitas projetadas no cenário inicial e da projeção de cumprimento da meta de
+resultado primário.
+As projeções partem da programação oficial, constante do Relatório de Avaliação de Receitas e Despesas
+Primárias (RARDP) do 2º bimestre de 2026, ano em que o crescimento real do limite de despesas equivale a
+2,5%. Para os exercícios de 2027 a 2029, aplica-se 70% da variação real da RLA até junho, tendo em vista o
+cumprimento do limite inferior da meta de resultado primário em 2025 e a projeção de cumprimento em 2026
+e 2027. Já para os exercícios de 2030 a 2032, aplica-se a proporção de 50% da variação da RLA, tendo em
+vista a projeção, nesse cenário inicial, de não atingimento do limite inferior da meta de resultado primário no
+período de 2028 a 2030. A partir de 2033, projeta-se novamente a aplicação da proporção de 70%, tendo em
+vista que não há metas de resultado primário formalmente estabelecidas a partir de 2031, de forma que se
+7 Para entender as regras do RFS, consulte o Boxe 1 do Relatório de Projeções Fiscais do 1º semestre de 2023.
+13
+
+=== página 18 ===
+assume que o resultado primário projetado equivale à meta. Como resultado desta dinâmica, estima-se um
+crescimento real médio para o limite de despesas equivalente a 2,1% a.a. neste cenário.
+Tabela 5 – Crescimento do limite de despesa conforme projeção e parâmetros do cenário inicial
+Fonte: Elaboração própria
+2026 2027 2028 2029 2030 2031 2032 2033 2034 2035 2036
+Variação real da receita líquida ajustada (t-1) 6,4 4,1 7,4 3,5 2,2 2,8 3,1 3,2 3,3 3,4 3,4
+Cumprimento da meta de resultado primário1 Sim Sim Não Não Não Sim Sim Sim Sim Sim Sim
+Proporção aplicada à RLA 70% 70% 70% 70% 50% 50% 50% 70% 70% 70% 70%
+Valor da proporção aplicada à variação da RLA 4,5 2,9 5,2 2,5 1,1 1,4 1,6 2,3 2,3 2,4 2,4
+Crescimento real do limite de despesa considerando
+2,5 2,5 2,5 2,5 1,1 1,4 1,6 2,3 2,3 2,4 2,4
+parâmetros mínimo e máximo
+1 A aferição do cumprimento da meta de resultado primário considera o atingimento do intervalo de tolerância inferior.
+Como citado anteriormente, o cenário inicial considera contingenciamento de despesas em caso de
+projeção que indique descumprimento do limite inferior da meta de resultado primário. Para fins de projeção
+do montante a ser contingenciado, considera-se também o disposto no art. 7º da LC nº 200/2023, que
+estabelece nível mínimo de despesas discricionárias de 75% do valor autorizado na Lei Orçamentária Anual.
+As projeções da Tabela 6 indicam crescimento médio anual de 2,2% para a despesa sujeita ao limite,8 em
+termos reais, entre 2026 e 2036, abaixo do ritmo de crescimento médio da despesa primária total (2,3% a.a.)
+no mesmo período. Tal diferença se deve às despesas não sujeitas ao limite, que apresentam crescimento
+mais elevado, como precatórios, excluídos do limite de despesas pela Emenda Constitucional nº 136 (EC
+136/25), assim como os fundos da reforma tributária, que apresentam crescimento até 2032.
+Em relação ao PIB, a despesa primária sobe de 18,8% em 2025 para 19,4% do PIB em 2026, e a partir de então
+se reduz progressivamente, com exceção de uma alta temporária em 2031, por conta do FCBF,9 até alcançar
+16,3% do PIB em 2036.
+Tabela 6 – Evolução da despesa primária total – cenário inicial
+Fonte: Elaboração própria
+2025 2026 2027 2028 2029 2030 2031 2032 2033 2034 2035 2036
+Despesa primária total (R$ bilhões) 2.392,6 2.641,7 2.790,1 2.896,1 3.067,6 3.240,9 3.498,4 3.700,6 3.830,0 4.016,5 4.241,5 4.482,2
+Variação real da despesa primária
+4,1 5,7 2,0 0,8 2,8 2,6 4,8 2,7 0,5 1,8 2,5 2,6
+total (% a.a.)
+Variação real das despesas primárias
+3,1 2,5 3,9 3,0 2,1 1,1 1,4 1,5 2,2 2,3 2,4 2,4
+sujeitas ao limite (% a.a.)
+Despesa primária total (% do PIB) 18,8 19,4 18,9 18,3 18,0 17,7 17,9 17,6 17,0 16,7 16,5 16,3
+8 Enquanto o ajuste real do crescimento do limite de despesas apresentado na Tabela 5 decorre da simples aplicação
+da regra prevista na LC 200/23, a variação real da despesa primária sujeita ao limite, apresentada na Tabela 6, considera
+o IPCA acumulado até dezembro e outros fatores de variação, como os efeitos da EC 136/2025, a mudança de
+composição do limite e contingenciamento.
+9 A elevação na despesa total ocorre a despeito da evolução do limite de despesas porque as despesas do FCBF são
+excepcionalizadas do limite.
+14
+
+=== página 19 ===
+Despesas Obrigatórias
+Os principais componentes das despesas obrigatórias, considerando a programação do 2º RARDP de 2026,
+apresentam as seguintes participações relativas na despesa primária total: Benefícios Previdenciários do
+Regime Geral de Previdência Social (RGPS) (42,9%), Pessoal e Encargos Sociais (16,8%), Bolsa Família
+(8,1%), Benefício de Prestação Continuada (4,5%), Abono e Seguro Desemprego (3,7%), Complementação
+da União ao Fundeb (2,5%), Sentenças Judiciais e Precatórios de Custeio e Capital (1,8%), restando às
+demais despesas obrigatórias a participação de 11,2%. Ademais, a partir de 2029, destacam-se as despesas
+decorrentes do Fundo de Compensação de Benefícios Fiscais (FCBF) e do Fundo Nacional de
+Desenvolvimento Regional (FNDR), previstos na Reforma Tributária.
+A Tabela 7 sintetiza os resultados da projeção de despesas obrigatórias, apresentando as principais linhas
+conforme estrutura do Resultado do Tesouro Nacional (RTN), em percentual do PIB, para o período de
+projeção.
+Tabela 7 – Projeção de despesas obrigatórias (% do PIB)
+Fonte: Elaboração própria
+Discriminação 2025 2026 2027 2028 2029 2030 2031 2032 2033 2034 2035 2036
+Despesas Obrigatórias 17,2 17,7 17,2 16,9 16,7 16,6 16,6 16,6 16,1 15,8 15,7 15,6
+Benefícios Previdenciários 8,1 8,3 8,2 8,2 8,1 8,0 8,0 7,9 7,9 7,9 7,9 7,9
+Pessoal e Encargos Sociais 3,2 3,3 3,2 3,1 3,0 2,9 2,8 2,7 2,6 2,5 2,4 2,3
+Benefícios de Prestação Continuada da LOAS/RMV 1,0 1,1 1,1 1,1 1,1 1,1 1,2 1,2 1,2 1,2 1,2 1,3
+Bolsa Família 1,2 1,2 1,1 1,0 1,0 0,9 0,9 0,8 0,8 0,7 0,7 0,7
+Abono e Seguro Desemprego 0,7 0,7 0,7 0,7 0,7 0,7 0,7 0,7 0,8 0,8 0,8 0,8
+Fundef/Fundeb - Complementação da União 0,5 0,5 0,5 0,5 0,5 0,5 0,5 0,5 0,5 0,5 0,5 0,5
+Fundo de Compensação de Benefícios Fiscais - FCBF 0,1 0,2 0,4 0,5 0,1 0,0 0,0 0,0
+Fundo de Desenvolvimento Regional - FNDR 0,1 0,1 0,2 0,2 0,2 0,2 0,2 0,2
+Sentenças Judiciais e Precatórios (Custeio e Capital) 0,3 0,3 0,2 0,2 0,2 0,2 0,2 0,2 0,2 0,2 0,2 0,2
+Demais Despesas Obrigatórias 2,2 2,3 2,1 2,1 2,0 1,9 1,9 1,9 1,8 1,8 1,7 1,7
+A principal despesa do Governo Central é com benefícios previdenciários do RGPS, que atingiu 8,1% do PIB
+em 2025, e deve se elevar ligeiramente para 8,3% do PIB em 2026. A partir de 2027, observa-se uma trajetória
+de redução gradual e posterior estabilidade da despesa previdenciária, que converge para 7,9% do PIB em
+2036.
+A preços de 2026, a despesa do RGPS passa de R$ 1.135,7 bilhões em 2026 para R$ 1.606,9 bilhões em 2036,
+correspondendo a um crescimento real médio de 3,5% ao ano. Essa evolução da despesa previdenciária ao
+longo da próxima década reflete a combinação de fatores associados tanto ao valor médio dos benefícios
+(efeito-preço) quanto ao estoque de benefícios (efeito-quantidade). No que se refere ao efeito-preço,
+projeta-se crescimento dos valores médios dos benefícios em razão de dois fatores principais: (i) a política
+de valorização real do salário-mínimo, que estabelece o piso previdenciário;10 e (ii) a substituição gradual de
+10 A Lei n° 14.663/2023, estabelece valorização real do salário-mínimo equivalente à variação real positiva do PIB de dois
+anos anteriores. Adicionalmente, o art. 4º da Lei nº 15.077/2024 estabelece que, até 2030, tal aumento real não será
+inferior ao índice mínimo nem superior ao índice efetivamente apurado para a variação real do limite de despesas (art.
+15
+
+=== página 20 ===
+benefícios cessados por novos benefícios concedidos com valores médios superiores. Por sua vez, o efeito-
+quantidade decorre da expansão do estoque de benefícios em razão de: (i) crescimento das concessões,
+fruto da ampliação da cobertura previdenciária da população ocupada; e (ii) maior duração esperada dos
+benefícios, em decorrência da elevação da expectativa de sobrevida da população brasileira.
+Adicionalmente, a projeção incorpora a hipótese de aceleração das despesas com sentenças judiciais do
+RGPS (com crescimento real anual médio de 4,9%).
+Já as despesas de pessoal em relação ao PIB apresentam um pequeno aumento de 3,2% em 2025 para 3,3%
+em 2026, considerando os reajustes médios acordados para todos os Poderes, que entraram em vigência
+antes do período eleitoral. A partir de 2027, as projeções passam a considerar reajuste na remuneração dos
+servidores pela inflação. Considerando um cenário macroeconômico com crescimento real do PIB superior
+a 2,5% ao ano e diferencial positivo entre o deflator do PIB e o IPCA, projeta-se uma trajetória declinante de
+longo prazo para a despesa de pessoal em proporção do PIB, atingindo 2,3% ao final do horizonte. Em valores
+constantes de 2026, estima-se que essa despesa alcance R$ 473,1 bilhões em 2036, correspondendo a um
+crescimento real médio de 0,4% ao ano no período.
+Ainda sobre as despesas de pessoal, conforme descrito no Relatório de Avaliação de Cumprimento de Metas
+Fiscais do 3º Quadrimestre de 2025, tendo sido constatado déficit primário naquele ano, foi acionado o
+gatilho fiscal previsto no art. 6º-A da Lei Complementar nº 200, de 2023. Esse mecanismo proíbe aumentos
+reais acima de 0,6% para o exercício de 2027 para as despesas de pessoal exceto sentenças judiciais. Tal
+limitação permanece ativa até que seja constatado superávit primário ou até o ano de 2030, o que ocorrer
+primeiro. Dadas as premissas de reajustes equivalentes à inflação e manutenção no quantitativo de
+servidores ativos, tal limite é respeitado ao longo de toda a trajetória temporal. Ressaltamos, entretanto, que
+a evolução desta rubrica será definida pela política de pessoal a ser adotada no futuro, tanto em termos de
+contratação de novos servidores quanto de concessão de reajustes salariais.
+Em relação à projeção da despesa com o Benefício de Prestação Continuada (BPC), a Tabela 7 Tabela 7indica
+a sua contínua elevação ao longo do horizonte de projeção, passando de 1,0% do PIB em 2025 para 1,1% do
+PIB em 2026 e 1,3% do PIB em 2036. Tal como observado para o RGPS, a evolução da despesa do BPC reflete
+a combinação de um efeito-preço e de um efeito-quantidade. O primeiro decorre da política de valorização
+real do salário-mínimo, que define o valor do benefício. O segundo está relacionado ao crescimento do
+estoque de beneficiários, refletindo, sobretudo, a maior sobrevida esperada da população. Em valores
+constantes de 2026, a despesa com BPC cresce de R$ 148,0 bilhões em 2026 para R$ 255,8 bilhões em 2036,
+o que representa uma média anual de crescimento real de 5,6% para o período analisado, ritmo de
+crescimento bem superior ao das outras despesas.
+Quanto às despesas com o Programa Bolsa Família, projeta-se redução gradual de 1,2% do PIB em 2025 para
+0,7% do PIB em 2036, em decorrência das hipóteses adotadas para a sua projeção: manutenção da
+quantidade do número de famílias beneficiadas e reajuste do benefício médio pela inflação do ano anterior
+a cada dois anos, a partir de 2027, sob um cenário macroeconômico que prevê crescimento médio real anual
+do PIB superior a 2,5% e diferencial positivo entre deflator do PIB e IPCA durante todo o período de projeção.
+5º da LC nº 200/2023). Essa hipótese impacta significativamente a projeção da despesa com RGPS e demais despesas
+vinculadas ao salário-mínimo, tais como Benefício de Prestação Continuada (BPC), Abono Salarial e Seguro
+Desemprego.
+16
+
+=== página 21 ===
+As despesas com Abono e Seguro-Desemprego apresentam ligeira elevação em proporção do PIB ao longo
+do período, passando de 0,7% do PIB em 2026 para 0,8% do PIB em 2036. Se por um lado, a evolução do
+Abono Salarial é limitada pela recente alteração em sua elegibilidade promovida pela EC 135/2024, por
+outro, tanto o crescimento real do salário-mínimo quanto o expressivo crescimento real projetado para a
+massa salarial mencionado anteriormente, impactam positivamente tanto Abono Salarial quanto Seguro
+Desemprego.
+Também crescem no período as despesas com a complementação da União ao Fundeb, em função do
+crescimento projetado para as receitas que o compõem,11 com crescimento real médio de 3,2% a.a.. Em
+proporção do PIB, essas despesas mantêm-se em 0,5% em todo o horizonte de projeção.
+Já no que diz respeito às despesas com Sentenças Judiciais e Precatórios de Custeio e Capital, inicialmente
+há redução de 0,1 p.p. do PIB entre 2026 e 2027, por conta de menor expedição de precatórios para
+pagamentos em 2027. Para os anos seguintes, projeta-se crescimento real médio de 3,2% a.a. entre 2028 e
+2036, o que se traduz em uma despesa estável em 0,2% do PIB ao longo do período.
+Por fim, destacamos o impacto primário do FCBF e do FNDR. A EC 132/2023 prevê aportes ao FCBF desde
+2025, mas seu impacto primário ocorre apenas a partir de 202912 e estende-se até 203313. O impacto do FNDR
+também se inicia em 2029, mas tem caráter permanente. Destaca-se que tais despesas não se sujeitam ao
+limite de gastos, afetando diretamente a despesa primária total e o resultado primário. O impacto total dos
+fundos parte de 0,2% do PIB em 2029, atinge um pico de 0,7% do PIB em 2032 e retorna a 0,2% do PIB ao fim
+do horizonte de projeção.
+O restante das despesas obrigatórias apresenta tendência de redução em proporção do PIB ao longo do
+período, saindo de 2,2% do PIB em 2025 para 1,7% do PIB em 2036.
+Despesas Discricionárias do Poder Executivo
+As despesas discricionárias do Poder Executivo, projetadas como um resíduo entre o limite de despesas e
+as despesas obrigatórias a ele sujeitas,14 apresentam queda real de 4,2% a.a. entre 2026 e 2036. Assim,
+conforme se observa no Gráfico 4, o volume de despesas discricionárias sobe inicialmente de 1,6% do PIB
+em 2026 para 1,8% do PIB em 2027, com progressiva queda a partir desse ano, até atingir 0,7% do PIB em
+11 A complementação da União ao Fundeb, conforme regras estabelecidas pela EC 108/2020, pela Lei nº 14.113/2020 e
+pelo Decreto nº 10.656/2021, está vinculada ao volume de receitas do Fundo, de modo que o crescimento da
+arrecadação vinculada tende a elevar a despesa federal, ainda que parcialmente mitigado por critérios redistributivos
+baseados em valores mínimos por aluno. As projeções consideram complementação da União em patamar equivalente
+a 23% das receitas do Fundo, após crescer de 12% para 23% entre 2021 e 2026.
+12 Conforme § 2º, art. 12 da EC 132/2023 e § 1º do art. 128 do ADCT. O impacto se dá na mesma proporção da redução
+dos benefícios do ICMS de que trata o art. 128 do Ato das Disposições Constitucionais Transitórias (1/10 em 2029, 2/10
+em 2030, 3/10 em 2031 e 4/10 em 2032). As projeções consideram defasagem temporal entre competência e
+pagamento, de forma que apenas 9/12 da despesa é executada no ano da competência e os 3/12 restantes no exercício
+seguinte.
+13 Embora a EC 132/2023 preveja desembolsos apenas até 2032, conforme nota de rodapé anterior, há defasagem
+temporal entre competência e pagamento.
+14 Soma-se a esse valor, ainda, as despesas discricionárias não sujeitas ao limite. Adicionalmente, entre 2026 e 2031 é
+prevista excepcionalização ao limite, das despesas de capital em projetos estratégicos da defesa, no valor de até R$ 5
+bilhões anuais, nos termos da Lei Complementar nº 221/2025.
+17
+
+=== página 22 ===
+2036. A exceção é 2031, quando ocorre uma recuperação temporária, devido ao fim dos contingenciamentos
+previstos entre 2028 e 2030.15
+Gráfico 4 – Projeção da despesa discricionária – cenário inicial (R$ bilhões a preços de 2026 e %PIB)
+Fonte: Elaboração própria
+1,6 1,6 1,8 2,0
+1,3 1,3 1,3
+1,1 1,1 1,0
+0,9 0,8
+250 0,7
+1,0
+122 66
+92 26 11 0,0
+112 89 90 57
+100 152 159 168 177 187 196 -1,0
+101 127 129 111 115 121
+-2,0
+-11
+-28
+-53
+-50 -3,0
+2025 2026 2027 2028 2029 2030 2031 2032 2033 2034 2035 2036
+Discricionárias Rígidas Demais Discricionárias Discricionárias % PIB (eixo da direita)
+Adicionalmente, cabe salientar que o espaço para o custeio da máquina pública é afetado pela existência de
+“despesas discricionárias rígidas”, nome atribuído às despesas classificadas como discricionárias, mas
+que, em conjunto, estão associadas ao cumprimento de regras específicas. São elas: i) gastos mínimos em
+saúde e educação; e ii) emendas parlamentares;16 que apresentam crescimento real médio de 2,6% a.a. e
+1,8% a.a., respectivamente. No caso dos gastos mínimos de saúde e educação, cujo crescimento é superior
+ao do limite de despesa, seu cumprimento se dá tanto com a realização de despesas obrigatórias quanto
+discricionárias. No entanto, o crescimento projetado das despesas obrigatórias nessas áreas é menor que o
+crescimento dos respectivos mínimos constitucionais, levando à necessidade de maior expansão das
+discricionárias rígidas. Assim, projeta-se que, a partir de 2027, as despesas discricionárias relativas à saúde
+e à educação devam crescer, em média, 2,5% e 9,3% ao ano, respectivamente, em termos reais, para que
+sejam cumpridos os mínimos constitucionais.
+Como citado anteriormente, o cenário inicial considera também o contingenciamento de despesas em caso
+de projeção que indique descumprimento do limite inferior da meta de resultado primário. Para fins de
+projeção do montante a ser contingenciado, considera-se o disposto no art. 7º da LC nº 200/2023, que
+estabelece nível mínimo de despesas discricionárias de 75% do valor autorizado na Lei Orçamentária Anual.
+Assim, as projeções indicam contingenciamento de R$ 66,6 bilhões, R$ 68,4 bilhões e R$ 59,6 bilhões, de
+2028 a 2030, respectivamente, a preços de 2026, o que equivale, em média, a 0,4 p.p. do PIB. O
+contingenciamento projetado para 2028 a 2030, contudo, não é suficiente para atingir o limite inferior da
+15 Como não há metas formalmente definidas para além de 2030, utiliza-se a hipótese de não necessidade de
+contingenciamentos.
+16 Para fins de avaliação das discricionárias rígidas, tais despesas são consideradas em montante deduzido do valor
+contingenciável das emendas e do valor que possui intersecção com mínimos de saúde e educação. Considera-se
+evolução das emendas de acordo com as regras previstas na LC nº 210/2024.
+18
+
+=== página 23 ===
+meta estabelecida para esses anos, restando insuficiência de R$ 10,0 bilhões, R$ 80,6 bilhões e R$ 136,4
+bilhões naqueles anos, respectivamente, a preços de 2026.
+Como consequência da alta das despesas obrigatórias e das discricionárias rígidas, bem como da elevada
+necessidade de contingenciamento, observa-se progressiva compressão do espaço destinado às Demais
+Discricionárias, o qual se torna negativo a partir de 2034. Tal pressão se alivia temporariamente em 2031,
+com o fim dos contingenciamentos, mas volta a acelerar a partir desse ano. Na edição anterior do relatório,
+projetava-se uma evolução mais favorável do espaço para as Demais Discricionárias.
+Comparação das projeções com o RPF de dezembro de 2025
+Conforme pode ser observado no Gráfico 5, esta edição do relatório projeta níveis de despesa em proporção
+do PIB inicialmente superiores aos da edição anterior. A partir de 2030, no entanto, esses percentuais
+passam a ser inferiores em aproximadamente 0,5 p.p. ao longo de todo o período restante. Em 2030,
+especificamente, a mudança é explicada principalmente pelo contingenciamento de 0,4% do PIB, o qual não
+ocorria na edição anterior. A diferença é explicada, principalmente, por dois fatores. Por um lado, há uma
+maior projeção do limite de despesas, em termos nominais, no início do período, convergindo para os
+mesmos valores projetados na edição anterior ao final do período. Por outro lado, a projeção para o PIB
+nominal que serve de referência para esta edição é progressivamente maior do que no último RPF, o que
+reduz o limite e a despesa em proporção do PIB. Observou-se, ainda, redução da projeção das despesas não
+sujeitas ao limite, notadamente precatórios, em decorrência da surpresa positiva de expedição em 2027 com
+efeitos sobre a trajetória futura.
+Gráfico 5 – Comparativo das projeções de despesa primária do cenário inicial entre RPFs (% do PIB)
+Fonte: Elaboração própria
+20
+19,4
+19,0 18,9
+19
+19,0 18,3
+18,8 18,7 18,0 18,3 18,2 18,1
+18
+17,5
+18,1
+17,9 17,7 17,9 17,2
+17,6 17,0
+17
+17,0
+16,7
+16,5
+16 16,3
+15
+2025 2026 2027 2028 2029 2030 2031 2032 2033 2034 2035 2036
+RPF dez/25 Cenário inicial
+Resultado Primário do Governo Central
+O Gráfico 6 apresenta as trajetórias do cenário inicial para as receitas líquidas e as despesas totais ao longo
+do período. As receitas ultrapassam as despesas em 2028 e mantêm uma trajetória linear de redução,
+enquanto as despesas apresentam elevação em 2031, e caem de forma mais acentuada a partir de 2033.
+19
+
+=== página 24 ===
+Este pico se dá em função especialmente dos pagamentos do Fundo de Compensação de Benefícios Fiscais
+(FCBF), cujos efeitos são crescentes entre 2029 e 3032, mas limitados temporalmente.
+Gráfico 6 – Projeção da receita líquida e da despesa total do cenário inicial (% do PIB)
+Fonte: Elaboração própria
+21
+20
+19,4
+18,8 18,8
+19
+18,5
+18,9 18,9 18,2
+18,0
+17,9
+18 18,3 18,3 17,6 17,5
+18,0 17,4
+17,2
+17,8 17,1
+17,7
+17,6
+17
+17,0
+16,7
+16,5
+16
+16,3
+15
+2025 2026 2027 2028 2029 2030 2031 2032 2033 2034 2035 2036
+Receita Líquida Despesa Total
+Já o Gráfico 7 apresenta a evolução do resultado primário, comparado com as metas fiscais do PLDO 2027.
+Além das bandas de 0,25% do PIB ilustradas ao redor do centro da meta, apresenta-se ainda a banda inferior
+deduzidas das exceções à meta de resultado primário, valor ao qual o resultado primário deve ser
+comparado para fins de verificação do cumprimento da meta.
+As exceções à meta de resultado primário incluem: precatórios e RPVs (EC 136/2025), projetos estratégicos
+em defesa nacional (LC nº 221/2025), e despesas temporárias com saúde e educação custeadas pelo Fundo
+Social (LC nº 223/2025).17
+Considerando todas essas premissas do cenário inicial, os resultados mostram melhora gradual do
+resultado primário ao longo do horizonte, mas ainda insuficiente para assegurar o cumprimento da trajetória
+de metas em parte relevante do período. Na ausência de novas medidas fiscais – característica chave do
+cenário inicial – as projeções indicam um déficit primário de 0,4% do PIB em 2026, satisfazendo o limite
+inferior da meta de resultado primário deduzidas as exceções.18 Em 2027, espera-se um déficit primário de
+0,1% do PIB, resultado superior ao limite inferior da banda, que, já consideradas as deduções permitidas,
+17 Adicionalmente, para 2026, em linha com o apresentado no RARDP do 2º bimestre de 2026, são excepcionalizados
+restos a pagar relativos ao ressarcimento dos descontos indevidos de benefícios previdenciários (ADPF 1236).
+18 A banda para a meta de resultado primário é de 0,25% do PIB para cima ou para baixo do centro da meta. Em 2026, o
+centro da meta equivale a R$ 34,26 bilhões (0,25% do PIB), e o valor considerado para dedução é de até R$ 64,36 bilhões
+(0,5% do PIB) conforme o 2º RARDP de 2026. Logo, o limite inferior da meta, descontando as exceções, corresponde a
+-0,5 % do PIB.
+20
+
+=== página 25 ===
+corresponde a -0,2% do PIB. Entre 2028 e 2030, as receitas líquidas superam as despesas primárias em 0,3
+p.p., 0,2 p.p. e 0,3 p.p. do PIB, respectivamente, mas não atingem o limite inferior da meta, mesmo quando
+consideradas as deduções. Em 2031, há novamente projeção de déficit (0,1% do PIB), tendo em vista a
+mencionada elevação das despesas neste ano. Após receitas e despesas atingirem equilíbrio em 2032,
+projeta-se uma elevação gradual do resultado primário entre 2033 e 2036, com superávits em proporção do
+PIB de 0,5% em 2033, 0,7% em 2034, 0,8% em 2035 e 0,9% em 2036.
+Gráfico 7 – Projeção do resultado primário do cenário inicial (% do PIB)
+Fonte: Elaboração própria
+2,0
+1,5 1,5
+1,25
+1,0 1,0 0,9
+0,8
+1,0 0,7
+0,5
+0,5 0,5 0,7
+0,4
+0,3
+0,25
+0,2 0,2
+0,0
+0,0 -0,1
+-0,1
+-0,2
+-0,5
+-0,4
+-0,5 -0,5
+-1,0
+2025 2026 2027 2028 2029 2030 2031 2032 2033 2034 2035 2036
+Superávit Déficit Meta Bandas Banda inferior descontando exceções
+Cabe frisar que o cenário apresentado evidencia a necessidade de novas medidas fiscais para compatibilizar
+o desempenho fiscal com as metas traçadas no PLDO 2027, especialmente para os anos de 2028 a 2030,
+quando o contingenciamento máximo não é suficiente para o cumprimento do limite inferior da banda de
+resultado primário.
+1.3. Cenário de Referência
+O cenário de referência, que parte dos mesmos parâmetros macroeconômicos do cenário inicial e do 2º
+RARDP, traz as principais projeções deste relatório. Este cenário considera as metas estabelecidas na LDO
+2026 e no PLDO 2027, equivalentes a resultados primários do Governo Central de 0,25%, 0,5%, 1,0%, 1,25%
+e 1,5% do PIB em 2026, 2027, 2028, 2029 e 2030, respectivamente. Mais especificamente, o cenário de
+referência presume o cumprimento do centro da meta de resultado primário a partir de 2027, considerando
+as exceções vigentes, em especial a proporção de despesas com sentenças judiciais e precatórios
+excepcionalizada da meta a cada ano.
+A Tabela 8 resume o esforço fiscal necessário para o atingimento das metas de resultado primário, a partir
+de medidas adicionais de receita, isto é, além das receitas previstas com base na legislação vigente. Este
+esforço é obtido pela diferença entre as receitas do cenário de referência e do cenário inicial. No cenário de
+21
+
+=== página 26 ===
+referência, por construção, todo o esforço fiscal concentra-se em medidas de receita, enquanto a despesa
+ocupa todo o limite possibilitado pelo Regime Fiscal Sustentável.
+Relativamente ao cenário inicial, para que os centros das metas fiscais sejam atingidos sem a necessidade
+de contingenciamento, será necessário 0,2% do PIB em medidas adicionais de arrecadação em 2027 e uma
+média de 1,2% do PIB de 2028 a 2030, período para o qual as metas estão indicadas. Nota-se elevação do
+esforço fiscal necessário em 2030, ano em que houve aumento da meta prevista no PLDO 2027 em relação
+ao cenário decenal previsto do PLDO 2026, de 1,25% para 1,5% do PIB.
+De 2031 em diante, adotou-se o cenário decenal de resultado primário do PLDO 2027, que manteve o nível
+de 1,5% do PIB para o restante do horizonte. Para manter o resultado primário nesse patamar, o esforço fiscal
+necessário se eleva até 2032, quando atinge 1,9% do PIB, refletindo o auge dos gastos com o FCBF,
+excetuados do limite de despesas. Novamente, o impacto da elevação da meta prevista no cenário decenal,
+de 1,25% para 1,5% a partir de 2030, levou a um aumento médio do esforço fiscal necessário em relação ao
+RPF anterior. Também contribuiu para essa elevação a incorporação de precatórios e RPVs à meta de
+resultado primário em patamar superior ao projetado na última edição deste relatório. Dessa forma, o
+cenário de referência apresenta um esforço fiscal médio de 1,2% do PIB, considerando o período de 2027 a
+2036.
+Tabela 8 – Esforço fiscal adicional do cenário de referência para cumprimento das metas fiscais (% do
+PIB)
+Fonte: Elaboração própria
+Discriminação 2026 2027 2028 2029 2030 2031 2032 2033 2034 2035 2036
+Esforço de Receita Total (I) 0,0 0,2 0,8 1,2 1,6 1,8 1,9 1,6 1,3 1,0 0,8
+(-) Desconto de Transferências* 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0
+Esforço de Receita retido pelo Governo Central (I') 0,0 0,2 0,8 1,2 1,6 1,8 1,9 1,6 1,3 1,0 0,8
+Contingenciamento de despesas (II) 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0
+Esforço Fiscal Total (I + II) 0,0 0,2 0,8 1,2 1,6 1,8 1,9 1,6 1,3 1,0 0,8
+Esforço Fiscal Líquido (I' + II)* 0,0 0,2 0,8 1,2 1,6 1,8 1,9 1,6 1,3 1,0 0,8
+*Por simplicidade, as medidas adicionais de receita são inseridas no cenário de referência em termos líquidos, conforme se explicita no Apêndice. Dessa
+forma, por construção, não são computadas transferências decorrentes desse esforço de receita.
+Cabe reiterar que a trajetória estimada para as despesas não adota como hipótese execução de despesa em
+nível inferior ao limite de despesas estipulado pelo Regime Fiscal Sustentável e que a economia fiscal
+refletida na tabela acima poderia ser alcançada a partir de uma combinação de medidas de receita com
+outras ações, como revisões de gastos, redução das vinculações entre despesas e receitas, medidas de
+contingenciamento, além da própria subexecução natural das despesas previstas no orçamento
+(empoçamento).
+Receitas Primárias do Governo Central
+As receitas do cenário inicial incluem as medidas vigentes, tais como: i) aumento do imposto de importação
+sobre bens de capital, informática e telecomunicações; ii) instituição de imposto de exportação sobre
+petróleo; iii) aprimoramento no sistema de compensação de tributos; iv) alterações no IOF; v) alterações
+promovidas pela Lei Complementar nº 224/2025 (corte de benefícios tributários, elevação da CSLL sobre
+instituições financeiras, elevação da tributação de bets, elevação do imposto de renda sobre juros sobre
+22
+
+=== página 27 ===
+capital próprio); vi) elevação do IPI e aumento do preço mínimo do fumo; vii) reoneração gradual da folha de
+pagamentos; viii) alterações na tabela mensal do imposto de renda; ix) imposto de renda mínimo para
+contribuintes de alta renda e redução para quem ganha até R$ 7.350,00; e x) medidas de recuperação de
+crédito e redução de litígios. O cenário de referência, por sua vez, além dessas medidas, inclui receitas
+adicionais para que o centro das metas fiscais definidas no PLDO 2027 seja atingido ao longo do horizonte
+de projeção. O Gráfico 8 apresenta as medidas vigentes e as receitas adicionais projetadas.
+Gráfico 8 – Medidas de arrecadação do cenário de referência (% do PIB)
+Fonte: Elaboração própria
+3,0
+2,6
+2,5
+2,5 2,3 2,2
+1,9
+1,8
+2,0
+1,7
+1,4 1,4
+1,9
+1,5 1,8
+1,6 1,5
+1,3
+1,2
+0,8 1,0
+1,0 0,8 0,8
+0,2
+0,5
+0,6 0,6 0,6 0,6 0,7 0,7 0,7 0,7 0,6 0,6
+-
+2027 2028 2029 2030 2031 2032 2033 2034 2035 2036
+Medidas vigentes (cenário inicial) Receitas adicionais Total
+Por hipótese, o esforço fiscal do cenário de referência, apresentado na Tabela 8, concretiza-se mediante
+medidas de arrecadação, refletindo-se no gráfico acima como “receitas adicionais”. Serão necessárias
+receitas adicionais ao longo do horizonte 2027-2036 de 1,2% do PIB por ano, em média, ante média de 1,0%
+do PIB entre 2026-2035 da última edição deste relatório.
+O Gráfico 9 mostra a evolução esperada para a receita líquida no cenário de referência, comparada com o
+cenário inicial. Em 2026, ambos os cenários permanecem no mesmo nível, pois considera-se o cumprimento
+do limite inferior da meta de primário, conforme previsto no RARDP do 2º bimestre do ano corrente. A partir
+de 2027, o nível de receitas líquidas para o cenário de referência eleva-se até alcançar 19,6% do PIB de 2030
+a 2032, atingindo a maior diferença de 1,9 p.p. em relação ao cenário inicial no ano de 2032. De 2033 em
+diante, com a redução mais acelerada das despesas, permite-se que as receitas se reduzam até 18,0% do
+PIB em 2036.
+23
+
+=== página 28 ===
+Gráfico 9 – Projeção da receita líquida nos cenários inicial e referência (% do PIB)
+Fonte: Elaboração própria
+21
+20 19,6 19,6 19,6
+19,4 19,4
+19,0 19,1
+18,9
+19 18,7
+18,3 18,9 18,8 18,3
+18,0
+18,5
+18
+18,2
+18,3
+18,0
+17,8
+17,6
+17,5
+17 17,4
+17,2
+17,1
+16
+2025 2026 2027 2028 2029 2030 2031 2032 2033 2034 2035 2036
+Cenário Inicial Cenário de Referência
+Comparação das projeções com o RPF de dezembro de 2025
+Pelo Gráfico 10, percebe-se que, nesta edição, a receita líquida do cenário de referência de 2027 em diante
+se situa, em média, 0,2 p.p. do PIB acima da projeção publicada em dezembro de 2025.
+Gráfico 10 – Comparativo da receita líquida do cenário de referência entre Relatórios de Projeções
+Fiscais (% do PIB)
+Fonte: Elaboração própria
+21
+20
+19,6 19,6 19,6
+19,4
+19,4
+19,0 19,1
+18,9
+19 18,4 19,2 19,2 19,3 19,3 18,7
+19,0 19,0
+18,9 18,3
+18,7
+18,6 18,0
+18 18,3 18,4
+17
+16
+2025 2026 2027 2028 2029 2030 2031 2032 2033 2034 2035 2036
+RPF dez/25 Cenário de Referência
+24
+
+=== página 29 ===
+A elevação da receita no horizonte de projeção decorre, principalmente, da incorporação de precatórios e
+RPVs à meta de resultado primário em patamar superior ao projetado na última edição deste relatório. Mais
+especificamente, enquanto a projeção do RPF dez/2025 previa incorporação de apenas 10% dessas
+despesas na meta em 2027, crescendo 10 p.p. por ano, conforme mínimo estabelecido pela EC 136/2025,
+este relatório prevê incorporação de 39,4% da despesa projetada para 2027, conforme definido no PLDO
+2027, valor que cresce ao longo do horizonte de projeção, até atingir 100% em 2036. Assim, o menor nível de
+deduções à meta leva à maior necessidade de receitas adicionais. Ademais, também há necessidade de
+maiores receitas pela elevação da meta de resultado primário indicada no cenário decenal do PLDO 2027,
+que aumentou de 1,25% para 1,5% do PIB a partir de 2030.
+Boxe 1 – Receitas da União: quais os efeitos do conflito no Irã?
+Impactos do conflito no Irã sobre as receitas. O conflito no Irã trouxe um ambiente de elevada incerteza
+para o mercado internacional de petróleo, com efeitos imediatos sobre a trajetória do valor do Brent e, por
+consequência, sobre variáveis fiscais relevantes para o setor público. Para o Brasil, esse choque é
+particularmente relevante, pela condição do país de grande produtor e exportador líquido de petróleo.
+Nesse contexto, acompanhar os impactos do conflito é essencial para a avaliação de riscos das projeções
+de receita da União.
+Receitas de exploração de recursos naturais de petróleo. Entre os canais mais diretos de transmissão
+destacam-se as receitas associadas à exploração de recursos naturais, em especial royalties,
+participações especiais e receitas de comercialização do óleo da União. Adicionalmente, elevações do
+Brent não se transmitem apenas pelo aumento do valor unitário da produção, mas também por
+mecanismos que ampliam a base econômica sobre a qual incidem determinadas receitas. No caso
+brasileiro, a expansão da produção doméstica e o avanço das áreas do pré-sal reforçam a sensibilidade
+dessas rubricas às oscilações do preço internacional do petróleo. O Gráfico 11 apresenta diferentes
+cenários de arrecadação para cotações diferentes do Brent, revelando impactos significativos.
+Gráfico 11 - Cenários de receitas de exploração de recursos naturais de petróleo para diferentes
+valores de Brent
+Fonte: Elaboração própria.
+220.000
+200.000
+180.000
+160.000
+140.000
+120.000
+100.000
+2027 2028 2029 2030 2031 2032 2033 2034 2035 2036
+Brent SPE de Maio Brent SPE de Maio + US$ 10 Brent SPE de Maio - US$ 10 Contratos Futuros (29.Maio)
+Elevação de US$ 10 no Brent. A elevação de US$ 10 no preço do Brent, em relação à projeção da Grade
+SPE de maio/2026, tem impacto estimado de R$ 262,6 bilhões (em termos nominais) no acumulado entre
+25
+
+=== página 30 ===
+2027 e 2036, o que equivale a uma média de R$ 26,3 bilhões por ano, com pico de R$ 32,8 bilhões em 2031,
+conforme Gráfico 12. Esse impacto, além de depender da produção de petróleo brasileira, é diretamente
+afetado pelo valor baseline do Brent, que na Grade SPE apresenta valores médios anuais que iniciam em
+US$ 79,90 (2027) e decrescem gradualmente até US$ 71,26 (2031-36), conforme Tabela 9.
+Tabela 9 – Projeção do valor do Brent – Grade SPE de maio/2026
+Fonte: Secretaria de Política Econômica (SPE/MF) e investing.com para Brent – contratos futuros
+(cotações de 29/05/2026)
+2027 2028 2029 2030 2031 2032 2033 2034 2035 2036
+Brent baseline - SPE mai/26 - US$ 79,60 75,63 73,38 71,86 71,26 71,26 71,26 71,26 71,26 71,26
+Brent - contratos futuros - US$ 80,05 75,99 73,62 71,85 70,49 69,27 68,30 67,52 66,80 66,08
+Câmbio - SPE mai/26 (R$/US$) 5,26 5,36 5,40 5,43 5,48 5,53 5,59 5,64 5,70 5,75
+Produção petróleo (bbl/dia) 4,25 4,30 4,61 4,69 4,59 4,32 4,11 3,96 3,78 3,58
+Gráfico 12 – Impacto da elevação de US$ 10 no Brent - R$ bilhões
+Fonte: elaboração própria.
+35,0 32,8 35,0
+29,3
+28,5
+30,0 27,8 27,7 30,0
+25,4
+24,5 24,1
+25,0 22,0 25,0
+18,3 20,4
+15,2 12,8 12,7 15,0
+20,0 9,5 20,0
+12,7
+12,1
+10,7
+15,0 9,8 15,0
+10,0 5,6 5,4 4,6 4,2 3,8 3,3 2,9 2,5 2,2 1,9 10,0
+5,0 8,5 9,6 10,4 10,8 10,7 10,1 9,7 9,4 9,1 8,7 5,0
+- -
+2027 2028 2029 2030 2031 2032 2033 2034 2035 2036
+Royalties Participação especial Comercialização de óleo Total
+Diferenças entre royalties, participações especiais e comercialização de óleo. Embora
+frequentemente analisadas em conjunto, essas rubricas possuem naturezas distintas. Os royalties
+constituem compensação financeira devida pela exploração de petróleo e gás natural, incidindo de forma
+mais ampla sobre a produção. As participações especiais, por sua vez, correspondem a uma
+compensação adicional incidente sobre o lucro estimado dos campos nos regimes de concessão, com
+alíquotas progressivas, que variam de 10% a 40%, o que amplia sua sensibilidade às oscilações de preço19.
+Já a comercialização do óleo da União refere-se à receita obtida com a venda da parcela da produção que
+19 Conforme §1º do art. 50 da Lei nº 9.478/1997, a participação especial será aplicada sobre a receita bruta da produção,
+deduzidos os royalties, os investimentos na exploração, os custos operacionais, a depreciação e os tributos previstos
+na legislação em vigor. Conforme Decreto nº 2.705/1998, as alíquotas são progressivas e variam conforme a receita
+líquida de produção, consideradas as referidas deduções, e o volume de produção de cada campo. Nesse sentido,
+quanto maior a produção e, consequentemente, a rentabilidade do campo, maior a participação especial.
+26
+
+=== página 31 ===
+cabe à União nos contratos em que há direito ao óleo, no regime de partilha, de modo que essa rubrica não
+decorre de uma compensação paga pelo produtor, mas da alienação de ativo pertencente ao ente público.
+Impacto do Brent sobre essas diferentes receitas. A variação do Brent impacta de maneira distinta cada
+rubrica. No caso dos royalties, o efeito percentual tende a ser relativamente estável, pois a alíquota incide
+diretamente sobre o volume de produção. Já na Participação Especial (PE), o efeito percentual tende a ser
+superior à própria elevação percentual do Brent, dada a progressividade das alíquotas. Entretanto, o
+impacto nominal dessa rubrica tende a decrescer ao longo do horizonte projetado, em razão da redução
+esperada na produção dos principais campos pagadores de PE, muitos dos quais já se encontram em
+estágio de maturação. A comercialização do petróleo da União, por sua vez, apresenta impactos
+percentuais semelhantes aos observados na PE, mas é a rubrica que tende a concentrar os maiores efeitos
+absolutos. Isso ocorre porque, além do efeito-preço incidente sobre o valor do barril comercializado, a
+elevação do preço do petróleo também pode ampliar o volume destinado à União, em razão da sistemática
+de óleo-lucro dos contratos de partilha. Em outras palavras, o aumento do Brent não apenas eleva o valor
+unitário da parcela de óleo da União, mas também pode alterar a própria participação governamental em
+volume, reforçando a sensibilidade dessa receita às oscilações do mercado internacional de petróleo.
+Defasagem temporal entre variação do Brent e efeito na arrecadação. O efeito da variação do Brent na
+arrecadação da União não é imediato e ocorre com defasagens distintas entre as rubricas. No caso dos
+royalties, os efeitos sobre a receita tendem a ser observados no mês subsequente ao da produção, uma
+vez que os pagamentos devem ser realizados até o último dia útil do mês seguinte. Na PE, o efeito ocorre
+de forma mais lenta, pois a apuração é trimestral, gerando uma defasagem que pode variar entre um e três
+meses, a depender do período considerado: os recolhimentos ocorrem em janeiro, abril, julho e outubro,
+relativamente aos trimestres imediatamente anteriores. Já na comercialização do petróleo, o efeito-preço
+costuma ser observado entre um e dois meses - dado que o valor de referência do petróleo vendido
+corresponde à data do carregamento e, nos contratos vigentes para 2026, o pagamento é realizado em
+duas parcelas, em até dois meses – enquanto o efeito quantidade tende a ocorrer com defasagem mais
+longa, associada ao intervalo entre produção, programação de cargas (lifting) e efetiva comercialização do
+petróleo, podendo superar diversos meses, a depender das características operacionais e contratuais.
+Impactos observados em 2026. Como reflexo dessas defasagens, a receita acumulada no primeiro
+trimestre de 2026 apresentou queda em relação ao mesmo período de 2025, apesar da expressiva
+elevação dos preços do petróleo observada a partir do início de março. Conforme a dinâmica explicitada
+no parágrafo anterior, os impactos sobre a arrecadação passaram a ser percebidos apenas a partir de abril,
+mas ainda com efeitos parciais. Para o restante do ano, a elevação da cotação do Brent prevista20 entre o
+cenário da LOA 2026 e o 2º RARDP justificou uma elevação de cerca de R$ 38 bilhões21 na projeção de
+arrecadação de receitas de exploração de recursos naturais de petróleo.
+20 A elevação da cotação do Brent estimada entre o cenário da LOA 2026 e o 2º RARDP foi de R$ 341,8 para R$ 481,7,
+considerando a média ponderada do Brent em US$ e do câmbio utilizados pela PPSA (venda de óleo) e pela ANP
+(royalties e PE) em cada uma das projeções.
+21 Este impacto não considera variações decorrentes da exclusão no 2º RARDP dos efeitos do leilão de venda de óleo
+projetado na LOA 2026, no valor de R$ 31 bilhões, e da inclusão de R$ 4,9 bilhões a título de downpayment referente ao
+6º leilão de petróleo da União. A variação líquida observada entre a LOA 2026 e o 2º RARDP, considerando esses efeitos,
+foi de cerca de R$ 12 bilhões.
+27
+
+=== página 32 ===
+Tabela 10 – Receita de exploração de recursos naturais realizada – R$ milhões e variação nominal
+Fonte: Resultado do Tesouro Nacional. Observação: os valores realizados incluem receitas
+decorrentes da exploração de recursos hídricos e minerais, além de petróleo.
+janeiro fevereiro março abril
+2025 17.826,2 7.702,0 7.219,9 19.010,0
+2026 13.520,8 8.654,9 8.377,8 21.781,5
+Var. nom. mensal -24,2% 12,4% 16,0% 14,6%
+Var. nom. - acumulado no ano -24,2% -13,1% -6,7% 1,1%
+Transferências aos entes subnacionais e receita líquida da União. Estimamos que no período de 2027-
+36 a União ficará, em média, com 62,4% das receitas de exploração de petróleo e repassará 37,6% aos
+entes. Os percentuais variam ligeiramente ao longo do tempo em razão de alterações na composição da
+receita entre Royalties/PE/Comercialização22, conforme refletido na Tabela 11. O aumento esperado nas
+receitas de comercialização de óleo, destinadas integralmente à União, contribui para aumento desse
+percentual no período analisado.
+Tabela 11 – Participação projetada da União na receita de exploração de petróleo (%)
+Fonte: Elaboração própria.
+2027 2028 2029 2030 2031 2032 2033 2034 2035 2036
+57,1% 60,4% 58,8% 58,9% 60,2% 62,2% 64,1% 65,1% 64,3% 64,3%
+Demais receitas. Além dessas receitas diretamente vinculadas ao setor de óleo e gás, movimentos
+persistentes do Brent também podem repercutir sobre a arrecadação de receitas tributárias, sobre
+receitas de concessões23 e sobre os dividendos pagos pela Petrobras, mas os efeitos em geral são menos
+diretos do que o observado nas receitas de exploração de recursos naturais de petróleo.
+22 Royalties: A União fica com aproximadamente 30,4% da receita de royalties. O restante é repassado para Estados e
+Municípios. PE: 50% União, 40% para Estados e 10% para municípios. Comercialização: 100% União. A divisão de
+Royalties e PE é tema de julgamento da ADI 4917 em trâmite no STF e o presente cenário considera a continuidade da
+liminar concedida no processo pela Ministra Carmem Lúcia. A distribuição de royalties e participações especiais
+permanece regida, na prática, pelas regras anteriores à Lei nº 12.734/2012, uma vez que os dispositivos dessa lei que
+alteram os critérios de repartição encontram-se suspensos pela medida cautelar, ainda pendente de julgamento
+definitivo. Assim, permanecem aplicáveis as disposições da Lei nº 9.478/1997 (Lei do Petróleo) e, no que couber ao
+regime de partilha, da Lei nº 12.351/2010, sem a incidência das alterações introduzidas pela Lei nº 12.734/2012 no
+tocante à redistribuição dos percentuais entre entes federativos.
+23 As receitas de concessões (associadas ao setor de petróleo) apresentaram valores bastante expressivos em 2019 (R$
+84 bilhões) e em 2022 (R$ 12 bilhões), em decorrência dos leilões de excedentes de cessão onerosa. Entretanto, os
+valores previstos para 2026 são de cerca de R$ 0,5 bilhão.
+28
+
+=== página 33 ===
+Gráfico 13 – Receitas Administradas (exceto RGPS) proveniente de empresas com classificação
+CNAE associadas a petróleo e derivados24 e Dividendos da Petrobras (em R$ bilhões) e Brent médio
+(em US$/barril)
+Fonte: Resultado do Tesouro Nacional e Relatório de Arrecadação por Divisão Econômica da CNAE
+da RFB.
+160 120
+140
+100
+120
+s a 100 80 t
+t n
+ie 80 60 e
+c r
+e 60 B
+R 40
+40
+20
+20
+0 0
+2017 2018 2019 2020 2021 2022 2023 2024 2025
+Brent Dividendos Petrobras Receitas Adm. Exceto RGPS
+Impactos nos dividendos da Petrobras. O impacto do novo patamar de preços sobre os dividendos
+distribuídos depende da política comercial da companhia, do grau de repasse aos preços domésticos, dos
+custos operacionais e financeiros e das decisões de distribuição de resultados.
+Receitas tributárias. A elevação dos preços internacionais pode afetar a lucratividade das empresas da
+cadeia de petróleo e combustíveis, com reflexos em especial sobre IRPJ e CSLL, bem como influenciar a
+arrecadação de eventual imposto de exportação. Vale salientar que as alíquotas de PIS/COFINS e CIDE
+sobre os combustíveis são ad rem, ou seja, um valor fixo por litro, de forma que o aumento do preço dos
+combustíveis não sensibiliza diretamente a arrecadação desses tributos, embora esses tributos possuam
+participação importante na receita tributária relacionada aos setores de petróleo e derivados. O mesmo
+acontece para o ICMS dos estados desde 2023, mas há previsão de reajustes anuais das alíquotas de
+ICMS, com base na variação dos preços médios mensais dos combustíveis do ano anterior, de forma que
+o valor do Brent sensibiliza a arrecadação deste tributo, mas com defasagem de pelo menos um ano.
+IRPJ e CSLL. A elevação de US$ 10 no Brent, em relação à grade SPE, implica receitas adicionais de R$ 40
+bilhões ao longo do horizonte de projeção25, com impactos anuais refletidos no Gráfico 14. Vale notar,
+entretanto, que a arrecadação destes tributos depende diretamente da renda adicional auferida pelas
+empresas do setor de petróleo, sendo a Petrobras a maior delas, de forma que os condicionantes
+supracitados ao efeito da elevação dos preços do Brent sobre a arrecadação de dividendos também
+sensibilizam os efeitos dessa variação sobre o IRPJ e a CSLL. Por último, esta elasticidade é um efeito
+líquido sobre toda a arrecadação dos tributos em questão, indicando um ganho resultante nas receitas
+24 Considera a arrecadação de tributos das divisões CNAE F – Extração de Petróleo e Gás Natural e S – Fabricação de
+Coque, de Produtos Derivados do Petróleo e de Biocombustíveis.
+25
+A elevação de 1% no valor do Brent implica elevação de 0,04% nas projeções de IRPJ e CSLL, conforme elasticidade
+implícita nas projeções deste relatório. Essa elasticidade considera a arrecadação total de IRPJ e CSLL, e não apenas o
+incidente sobre os setores de petróleo e derivados, o que dilui o impacto da variação do Brent.
+29
+
+=== página 34 ===
+decorrentes do mix de contribuintes para tal movimento de alta da commodity, que pode afetar diferentes
+setores de maneiras distintas.
+Gráfico 14 – Acréscimo projetado da arrecadação de IRPJ/CSLL decorrente do aumento de U$$ 10 no
+Brent (em R$ bilhões)
+Fonte: Elaboração própria.
+6
+5,2
+4,9
+5 4,4 4,6
+4,1
+3,9
+4 3,3 3,6
+3,1
+2,8
+3
+2
+1
+-
+2027 2028 2029 2030 2031 2032 2033 2034 2035 2036
+Imposto de exportação. A Medida Provisória nº 1.340/2026 estabeleceu alíquota de 12% de imposto de
+exportação sobre óleos brutos de petróleo ou de minerais betuminosos, incidente sobre o valor total das
+exportações, com impacto estimado de R$ 15,6 bilhões para um período de 4 meses, conforme projeção
+constante do 2º RARDP. A variação do Brent em US$ 10 implica variação na arrecadação deste imposto de
+cerca de R$ 1,1 bilhão no mesmo período. O impacto do choque sobre este tributo dependerá da duração
+de sua vigência.
+Choque relevante, exposição limitada. O conflito no Irã evidencia a sensibilidade de determinadas
+receitas da União às oscilações do preço internacional do petróleo, sobretudo aquelas diretamente
+vinculadas à exploração de petróleo. Ainda assim, a exposição fiscal agregada da União a esse tipo de
+choque é limitada, tendo em vista que as receitas de exploração de recursos naturais (inclusive recursos
+hídricos e minerais) representaram, em média, 4,1% da receita total nos anos de 2016 a 2025. Já nas
+receitas administradas exceto RGPS, o setor de petróleo e derivados representou cerca de 5,8% da
+arrecadação no mesmo período. Dessa forma, embora o petróleo constitua um importante fator de
+sensibilidade para as projeções fiscais, seus efeitos sobre o conjunto das receitas da União devem ser
+interpretados como limitados. Ademais, usualmente os choques representam riscos fiscais positivos para
+o País.
+Mais informações a respeito de receitas de petróleo podem ser consultadas no Boxe 2 – Receitas
+Estruturais de Petróleo, da 1ª edição de 2023 do Relatório de Projeções Fiscais, disponível em: https://thot-
+arquivos.tesouro.gov.br/publicacao/47466
+Despesas Primárias do Governo Central
+As projeções de despesas no cenário de referência são afetadas pelas receitas adicionais incorporadas
+neste cenário. A evolução das receitas afeta principalmente o limite de despesas, mas também algumas
+despesas vinculadas. Mais especificamente, o crescimento do limite da despesa primária depende da
+30
+
+=== página 35 ===
+variação real da RLA, a qual apresenta média de 4,1% a.a. entre 2026 e 2036 no cenário de referência,
+superior à média de 3,6% observada no cenário inicial. Ademais, tendo em vista que o cenário de referência,
+por construção, possui medidas necessárias para o atingimento do centro da meta de resultado primário,
+aplica-se sempre a proporção de 70% da RLA para fins de projeção do limite de despesas, o que permite que
+cresça 2,5% em termos reais entre 2026 e 2033.26
+Observa-se, no entanto, uma redução no crescimento do limite de despesas a partir de 2034. Esse efeito se
+dá em razão dos menores níveis de receita necessários para atingimento do resultado primário, por conta da
+redução do impacto do FCBF a partir de 2033. Com a redução das receitas adicionais, há menor crescimento
+da RLA, impactando o crescimento do limite de despesa no período seguinte.
+Tabela 12 – Crescimento do limite de despesa – cenário de referência
+Fonte: Elaboração própria
+2026 2027 2028 2029 2030 2031 2032 2033 2034 2035 2036
+Variação real da receita líquida ajustada (t-1) 6,4 4,1 7,6 5,9 5,4 5,3 4,9 4,2 2,6 1,6 2,0
+Cumprimento da meta de resultado primário1 Sim Sim Sim Sim Sim Sim Sim Sim Sim Sim Sim
+Proporção aplicada à RLA 70% 70% 70% 70% 70% 70% 70% 70% 70% 70% 70%
+Valor da proporção aplicada à variação da RLA 4,5 2,9 5,3 4,2 3,8 3,7 3,4 2,9 1,8 1,1 1,4
+Crescimento real do limite de despesa considerando
+2,5 2,5 2,5 2,5 2,5 2,5 2,5 2,5 1,8 1,1 1,4
+parâmetros mínimo e máximo
+1 A aferição do cumprimento da meta de resultado primário considera o atingimento da banda inferior do intervalo de tolerância. Neste cenário de
+referência, o limite inferior da banda é atingido em 2026 e, nos demais anos, o resultado primário projetado atinge o centro da meta.
+Como consequência, entre 2026 e 2036, o crescimento real médio do limite de despesa passa de 2,2% a.a.
+no cenário inicial para 2,3% a.a. no cenário de referência. Dessa forma, os crescimentos da despesa primária
+sujeita ao limite e da despesa primária total no cenário de referência são maiores do que no cenário inicial.
+Com isso, a despesa primária total em proporção do PIB cai mais lentamente no cenário de referência,
+alcançando 16,5% do PIB em 2036, contra 16,3% do PIB no cenário inicial, conforme ilustra o Gráfico 15. No
+mesmo gráfico, observamos que a despesa do cenário inicial é inferior à do cenário de referência em todos
+os anos a partir de 2028. Entre 2028 e 2030, tal diferença se amplia, devido ao contingenciamento observado
+no cenário inicial, o qual atinge 0,4% do PIB nesse período. Adicionalmente, a partir de 2030, a diferença
+entre os cenários também se justifica pelo crescimento inferior do limite de despesa no cenário inicial.
+Menores receitas no cenário inicial também implicam menor despesa com FUNDEB e FCDF,
+excepcionalizados do limite de despesas.
+26 Vale lembrar que pelas regras no RFS, o limite de despesas tem crescimento real anual mínimo e máximo de 0,6% e
+2,5%, respectivamente.
+31
+
+=== página 36 ===
+Gráfico 15 – Projeção da despesa primária total (% do PIB)
+Fonte: Elaboração própria
+20,0
+19,4
+19,5
+18,9
+18,8 18,7
+19,0 19,4
+18,5
+18,4
+18,5 18,9 18,3 18,2
+18,8
+18,0 18,3 17,6
+18,0
+17,5 17,9 17,2
+17,7
+17,6
+16,8
+17,0
+16,5
+17,0
+16,5
+16,7
+16,5
+16,0
+16,3
+15,5
+15,0
+2025 2026 2027 2028 2029 2030 2031 2032 2033 2034 2035 2036
+Cenário Inicial Cenário de Referência
+A Tabela 13 mostra crescimento da despesa em proporção do PIB em 2026, seguido de uma queda
+progressiva até o final do período. A redução da despesa observada ao longo do horizonte de projeção deve-
+se também ao cenário macroeconômico, que contempla crescimento real médio do PIB superior a 2,5% a.a.
+e diferencial positivo entre deflator do PIB e IPCA (que corrige o limite de despesas).
+Tabela 13 – Evolução da despesa primária total – cenário de referência
+Fonte: Elaboração própria
+2025 2026 2027 2028 2029 2030 2031 2032 2033 2034 2035 2036
+Despesa primária total (R$ bilhões) 2.392,6 2.641,7 2.790,1 2.967,2 3.145,0 3.354,5 3.581,9 3.820,5 3.965,7 4.141,4 4.323,7 4.526,8
+Variação real da despesa primária
+4,1 5,7 2,0 3,3 2,9 3,6 3,7 3,6 0,8 1,4 1,4 1,6
+total (% a.a.)
+Variação real das despesas primárias
+3,1 2,5 3,9 3,0 2,1 2,5 2,5 2,5 2,5 1,8 1,1 1,4
+sujeitas ao limite (% a.a.)
+Despesa primária total (% do PIB) 18,8 19,4 18,9 18,7 18,5 18,4 18,3 18,2 17,6 17,2 16,8 16,5
+As despesas obrigatórias seguem a mesma dinâmica do cenário inicial, com alterações apenas nas
+projeções de despesas associadas a receitas. Em especial, destaca-se: i) a supracitada influência do cenário
+de receitas sobre o FUNDEB e o FCDF, que impactam a despesa total, tendo em vista serem despesas
+excepcionalizadas do limite de gastos; ii) o impacto do cenário de receitas sobre o salário-mínimo,27 que
+afeta diretamente as despesas com Previdência, BPC, Abono Salarial e Seguro-Desemprego, sensibilizando
+o espaço disponível para as despesas discricionárias; e iii) o impacto sobre os mínimos de saúde e
+27 Tendo em vista a regra imposta pelo art. 4º da Lei nº 15.077/2024, que restringe até 2030 o percentual de aumento
+real do salário-mínimo ao índice de correção real do limite da despesa, que, por sua vez, depende do crescimento das
+receitas.
+32
+
+=== página 37 ===
+educação, com repercussões sobre as discricionárias totais e as discricionárias rígidas. As despesas
+discricionárias, tratadas como variável de ajuste para cumprimento do limite de despesa, portanto, são
+diretamente afetadas pela evolução distinta das receitas em cada cenário, tanto pelo seu impacto direto
+sobre o limite de despesas, como pelo impacto sobre as despesas obrigatórias.
+O Gráfico 16 apresenta a evolução das despesas discricionárias do Poder Executivo no cenário de referência,
+que caem de 1,6% do PIB em 2025 para 0,8% em 2036, 0,1 p.p. do PIB acima do cenário inicial.
+Gráfico 16 – Projeção da despesa discricionária – cenário de referência (R$ bilhões de 2026 e % do PIB)
+Fonte: Elaboração própria
+400 1,8 1,7 2,0
+1,6 1,6 1,7
+1,5 1,5
+1,4 1,4
+1,2 1,5
+300 1,0
+0,8 1,0
+84 75 51 57 30 0,5
+200 109
+122
+134
+105
+127 0,0
+100 193 195 202 210 215
+166 178 -0,5
+133 147
+114 115
+87
+-1,0
+0
+-16
+-60 -1,5
+-100 -2,0
+2025 2026 2027 2028 2029 2030 2031 2032 2033 2034 2035 2036
+Discricionárias Rígidas Demais Discricionárias Discricionárias % PIB (eixo da direita)
+Observa-se que, apesar do nível de despesas discricionárias menos restrito, há progressiva compressão das
+Demais Discricionárias, embora com diferenças em relação ao cenário inicial, a depender do período
+considerado. De 2028 a 2030, o espaço disponível para as discricionárias livres é bastante superior no
+cenário de referência, devido à ausência de contingenciamentos. A partir desse último ano, no entanto, o
+espaço disponível converge progressivamente entre os dois cenários, de maneira que no último ano do
+período a diferença reduz-se a níveis marginais. Essa dinâmica decorre, principalmente, da redução na
+variação real do limite de despesas no final do horizonte de projeção, que é acentuada no cenário de
+referência devido à redução das receitas adicionais. Isso se soma ao fato de que o maior nível de receitas
+nesse cenário resulta em um maior nível de Discricionárias Rígidas, vinculadas à arrecadação. Além disso,
+deve-se ressaltar que, devido ao intervalo permitido de crescimento real do limite de despesa (de 0,6% a
+2,5%), taxas de crescimento da RLA inferiores a 0,9% e superiores a 3,6% não sensibilizam o limite.
+Entretanto, um crescimento da receita acima desses níveis continua afetando gastos indexados,
+possibilitando um descasamento entre o limite e as despesas a ele sujeitas e influenciando o espaço para
+as demais despesas discricionárias.
+33
+
+=== página 38 ===
+Comparação das projeções com o RPF de dezembro de 2025
+Conforme pode ser observado no Gráfico 17, esta edição do relatório projeta despesas ligeiramente maiores
+em proporção do PIB entre 2026 e 2028, e uma despesa menor para o restante do horizonte de projeção. A
+redução em relação à edição anterior, a partir de 2030, assim como no cenário inicial, decorre,
+principalmente, de um maior crescimento do PIB nominal na grade de parâmetros, em função de um
+aumento do deflator projetado. Apesar de o limite de despesas projetado nesta edição também estar acima,
+em valores nominais, dos valores projetados no RPF anterior, a diferença do PIB nominal é maior, reduzindo
+a razão despesa/PIB.
+Gráfico 17 – Comparativo das projeções de despesa primária entre RPFs (% do PIB)
+Fonte: Elaboração própria
+20,0
+19,4
+19,0 18,9
+18,7
+19,0
+19,2 18,5
+18,5 18,5 18,4
+18,8 18,9
+18,7 18,5 18,4 17,9
+18,0 18,3 18,2
+17,5
+17,2
+17,6
+17,0 17,2
+16,8
+16,5
+16,0
+15,0
+2025 2026 2027 2028 2029 2030 2031 2032 2033 2034 2035 2036
+RPF dez/25 Cenário de Referência
+Resultado Primário do Governo Central
+O resultado primário no cenário de referência reflete o esforço de implementação de medidas necessárias
+para consolidação fiscal. O Gráfico 18 mostra que o resultado primário efetivo assume trajetória crescente,
+saindo de -0,4% do PIB em 2026, para 1,5% do PIB em 2036, seguindo a referência oficial do PLDO 2027 de
+1,5% do PIB, deduzido das despesas excepcionalizadas para fins de avaliação do cumprimento da meta.
+Ressalta-se que a evolução projetada parte da premissa da efetivação do esforço fiscal necessário para
+cumprir essa trajetória, mediante receitas adicionais.
+34
+
+=== página 39 ===
+Gráfico 18 – Projeção do resultado primário do Governo Central do cenário de referência (% do PIB) 28
+Fonte: Elaboração própria
+2,0
+1,5 1,5 1,31 1,38 1,41 1,45 1,48 1,50
+1,25 1,26
+1,00
+0,93
+1,0
+0,62 1,0
+0,50
+0,5 0,7
+0,25
+0,05 0,4
+0,0
+-0,2
+-0,5
+-0,5 -0,4
+-0,5
+-1,0
+2025 2026 2027 2028 2029 2030 2031 2032 2033 2034 2035 2036
+Superávit Déficit Bandas Meta Banda inferior descontando exceções
+Conforme se vê no Gráfico 19, o cenário de referência apresenta uma recuperação mais acelerada e
+consistente do resultado primário do que o cenário inicial, em especial a partir de 2028. Em 2031 e 2032, o
+cenário inicial apresenta oscilações, principalmente devido a gastos excepcionalizados do limite de
+despesas do RFS, em particular referentes aos fundos da reforma tributária, evidenciando diferenças no
+resultado primário entre o cenário de referência e o inicial de 1,4 p.p. do PIB em 2031 e 2032. Em relação ao
+RPF anterior, destaca-se a elevação das metas fiscais implícitas no cenário decenal do PLDO 2027 a partir
+de 2030, em relação ao PLDO 2026, bem como a incorporação de maior nível de precatórios e RPVs na meta
+de primário, abordada anteriormente neste relatório.
+28 Conforme mencionado nas seções anteriores, os resultados primários do cenário de referência estão diferentes das
+metas estipuladas no PLDO 2027 em função da excepcionalização da meta de resultado primário de parcela das
+sentenças judiciais, em linha com o disposto na EC 136/2025.
+35
+
+=== página 40 ===
+Gráfico 19 – Projeção do resultado primário do Governo Central nos cenários inicial e referência (% do
+PIB)
+Fonte: Elaboração própria.
+2
+1,38 1,41 1,45 1,48 1,50
+1,31
+1,26
+0,93
+1 1,16
+1,08
+0,62 0,68 0,92 1,00
+0,82
+0,75 0,85
+0,76
+0,68
+0,34
+0,05 0,47
+0 -0,21 0,23 0,26
+0,17
+-0,13 0,01
+-0,61 -0,19 -0,07
+-0,44
+-0,46
+-0,44
+-1
+2025 2026 2027 2028 2029 2030 2031 2032 2033 2034 2035 2036
+Cenário Inicial Cenário de Referência RPF dez/25
+36
+
+=== página 41 ===
+1.4. Comparativo com Projeções de Outras Fontes
+O Gráfico 20 apresenta o comparativo das projeções de resultado primário do Governo Central para os
+cenários deste relatório com projeções externas, adicionando as previsões do Prisma Fiscal e o cenário base
+da Instituição Fiscal Independente (IFI)29. O Prisma traz uma projeção de déficit primário de 0,4% do PIB em
+2026, mesmo número que os cenários inicial e de referência deste relatório, conforme 2º RARDP de 2026. A
+IFI, por sua vez, projeta um déficit de 0,7% do PIB para 2026. O resultado primário do Prisma Fiscal é
+ascendente, mas inferior ao do cenário inicial. Por sua vez, a expectativa da IFI é uma trajetória de déficits
+primários cada vez maiores até 2032, com leve redução do déficit a partir de 2033. A IFI, em seu Relatório,
+aponta que o déficit primário estimado (tanto o efetivo quanto o considerado para efeito de cumprimento da
+meta) piora ao longo do tempo em razão do esgotamento de algumas medidas de recomposição da
+arrecadação e da convergência da elasticidade receita-PIB para 1, além do aumento das despesas
+obrigatórias.
+Gráfico 20 – Comparativo do resultado primário do Governo Central com projeções externas (% do PIB)
+Fonte: Elaboração própria
+2,5
+2,0
+1,26 1,31 1,38 1,41 1,45 1,48 1,50
+1,5
+0,93
+1,0 0,6
+0,5 0,0 0,9
+0,7 0,8
+0,0 -0,5 -0,4 0,2 0,2 0,3 0,5
+-0,1
+-0,5 -0,1 -0,1 0,0
+-0,4 -0,3
+-1,0
+-0,7
+-1,5
+-1,3 -1,3
+-2,0 -1,6
+-1,8 -1,8
+-1,9 -1,9
+-2,0
+-2,5
+-2,2
+2025 2026 2027 2028 2029 2030 2031 2032 2033 2034 2035 2036
+IFI maio/26 Prisma jun/2026 Cenário Inicial Cenário de Referência
+1.5. Resultado Primário do Setor Público
+Tendo como base o cenário de referência, o resultado primário do setor público apresenta, na Tabela 14 e no
+Gráfico 21, uma trajetória em linha com o resultado do Governo Central. Espera-se déficit primário de 0,4%
+do PIB para o setor público em 2026, com o desempenho dos Governos Regionais amenizando o resultado
+do Governo Federal em 0,2% do PIB. Para 2027, as projeções para Governos Regionais e Estatais Federais
+não chegam a impactar significativamente o resultado do Setor Público. Assim como o relatório anterior, o
+atual RPF apresenta níveis crescentes de resultado, porém, atingindo 1,5% do PIB em 2036.
+29 Relatório de Acompanhamento Fiscal nº 112, de 21 de maio de 2026, disponível em
+www12.senado.leg.br/ifi/pdf/raf112_mai2026.pdf/. Acesso em 17 de junho de 2026.
+37
+
+=== página 42 ===
+Tabela 14 – Projeções para o resultado primário do setor público (% do PIB)
+Fonte: Elaboração própria
+Discriminação 2025 2026 2027 2028 2029 2030 2031 2032 2033 2034 2035 2036
+Governo Federal -0,5 -0,6 0,0 0,6 0,9 1,2 1,3 1,3 1,4 1,4 1,4 1,5
+Governo Central -0,5 -0,4 0,0 0,6 0,9 1,3 1,3 1,4 1,4 1,4 1,5 1,5
+Estatais Federais* -0,0 -0,1 -0,0 -0,0 -0,0 -0,0 -0,0 -0,0 -0,0 -0,0 -0,0 -0,0
+Governos Regionais 0,1 0,2 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0
+Setor público não financeiro -0,4 -0,4 0,0 0,6 0,9 1,2 1,3 1,4 1,4 1,4 1,4 1,5
+Metas LDO para o Setor público** -0,0 0,2 0,5 1,0 1,2 1,5
+* O resultado primário das Estatais Federais incluir o Grupo ENBPar.
+** As metas formais ainda podem ser ajustadas por diversas exceções estabelecidas na legislação: para o Governo Central, descontos relacionados aos
+precatórios, despesas temporárias de saúde e educação com recursos do Fundo Social e despesas com projetos estratégicos de defesa; e para Estatais
+Federais, os resultados primários associados ao Grupo ENBPar, desembolsos do PAC, e despesas do programa de dispêndios globais das empresas que
+possuem plano de reequilíbrio econômico-financeiro.
+Gráfico 21 – Comparativo das projeções para o resultado primário do setor público (% do PIB)
+Fonte: Elaboração própria
+2,0
+1,36 1,39 1,42 1,44 1,47
+1,5 1,25 1,30
+0,91
+1,0
+1,11
+0,6 1,03
+0,95
+0,87
+0,5 0,70 0,77
+0,63
+0,0
+0,0 0,28
+-0,24
+-0,4
+-0,5 -0,24
+-0,4
+-0,53
+-1,0
+2025 2026 2027 2028 2029 2030 2031 2032 2033 2034 2035 2036
+RPF dez/25 Cenário de Referência
+1.6. Necessidade de Financiamento do Setor Público e Gasto com Juros
+No cenário de referência deste relatório, projeta-se que a necessidade de financiamento do setor público
+(NFSP) – ou déficit nominal – avance para 9,0% do PIB em 2026, aumento de 0,7 p.p. em relação a 2025, à
+medida que o efeito positivo do resultado de swaps obtido em 2025 se dissipa. A partir de 2027, a NFSP
+retoma uma trajetória de recuo lento e contínuo, acompanhando a melhora projetada do resultado primário
+e o cenário de juros.
+38
+
+=== página 43 ===
+Gráfico 22 – Necessidade de financiamento do setor público (% do PIB)
+Fonte: BCB e elaboração própria
+10
+9,0
+8,3
+8,0
+8 6,7
+6,0
+5,2
+4,7 4,5 4,4 4,2 4,1 4,1
+5
+8,6
+7,9
+8,0
+7,3
+6,9
+6,5
+6,0 5,9 5,8 5,6 5,6 5,6
+3
+0,4 0,4
+0
+-0,9
+0,0 -0,6 -1,2 -1,3 -1,4 -1,4 -1,4 -1,4 -1,5
+-3
+5 6 7 8 9 0 1 2 3 4 5 6
+2 2 2 2 2 3 3 3 3 3 3 3
+0 0 0 0 0 0 0 0 0 0 0 0
+2 2 2 2 2 2 2 2 2 2 2 2
+Déficit Primário Juros Nominais NFSP
+A trajetória de queda da NFSP, no médio prazo, pressupõe melhora gradual do resultado primário, apoiada
+no novo arcabouço fiscal, e redução estrutural das taxas de juros do País, que contribuiria para a diminuição
+das despesas de juros da dívida pública, impactando positivamente a trajetória do endividamento público.
+1.7. Juros e Receita do Governo Geral
+A razão entre as despesas com juros líquidos do Governo Geral (GG) e a receita do GG é uma outra forma de
+medir o peso dos juros para as finanças públicas. Juntamente com a relação juros/PIB, a razão juros
+líquidos/receita do GG é usada pelas agências de rating na ponderação da nota fiscal em suas metodologias.
+Nas avaliações mais recentes, em um contexto de taxa Selic mais alta e elevada participação de dívida
+indexada à Selic, as atenções das agências e de outros analistas têm recaído cada vez mais sobre a dinâmica
+do resultado nominal, de forma que as dinâmicas de juros GG/receita GG e juros GG/PIB têm sido
+acompanhadas mais de perto.
+Nesse sentido, na comparação com 2025, o gráfico abaixo mostra uma expectativa de elevação do peso dos
+juros em relação às receitas públicas em 2026, seguida de posterior redução no médio e longo prazo,
+alinhada à trajetória esperada para Selic e juros do setor público, mencionada na seção anterior.
+39
+
+=== página 44 ===
+Gráfico 23 – Despesa com Juros Líquidos sobre Receita do Governo Geral (%)
+Fonte: BCB e Elaboração própria
+20 18,8
+18,5
+17,6
+18 16,9 16,9
+16,4
+15,5
+16 15,1 15,0 15,0 15,0 15,1
+14
+12
+10
+8,6
+7,9 8,0
+7,3
+8 6,9
+6,5
+7,5 6,0 5,9 5,8 5,6 5,6 5,6
+6 6,7 7,3 6,9 6,6 6,3
+6,0 5,8 5,6 5,5 5,4 5,4
+4
+2025 2026 2027 2028 2029 2030 2031 2032 2033 2034 2035 2036
+Juros GG/RGG Juros GG/PIB Juros SP/PIB
+1.8. Dívida Bruta e Líquida do Governo Geral
+As projeções do cenário de referência deste relatório indicam que a DBGG e a DLGG alcançam, ao final de
+2036, 83,1% e 70,6% do PIB, respectivamente. Conforme o Gráfico 24, a DBGG apresenta uma trajetória
+crescente até 2029, quando atinge 87,9% do PIB. A partir de 2030, a dívida bruta apresenta uma trajetória
+decrescente até o fim do horizonte de projeções, encerrando 2036 em 83,1% do PIB. A DLGG também segue
+uma trajetória crescente até 2029 e passa a cair gradualmente a partir de 2030, atingindo 70,6% do PIB em
+2036.
+40
+
+=== página 45 ===
+Gráfico 24 – Projeções da dívida pública (% do PIB)
+Fonte: BCB e Elaboração própria
+90
+87,9
+87,3 87,4
+85 86,9
+85,9 86,2
+85,5
+84,7
+83,9
+83,5
+83,1
+80
+78,6
+75
+74,8 74,7
+74,3 74,1
+73,7
+73,0 72,8
+72,3
+70
+70,9 71,2 70,6
+65 66,8
+2025 2026 2027 2028 2029 2030 2031 2032 2033 2034 2035 2036
+DBGG DLGG
+Com isso, espera-se um aumento da DBGG/PIB de 4,9 p.p. em 2026 em comparação ao valor realizado em
+2025. Essa alta esperada se explica, principalmente, pelo nível dos juros nominais, que seguem
+pressionando a dívida nos anos seguintes, como se observa na Tabela 15, que traz os fatores de variação da
+dívida entre 2026 e 2036. A evolução do PIB nominal é o principal fator que atua reduzindo a razão dívida/PIB.
+As expectativas de resultados primários positivos e de redução dos juros/PIB serão determinantes para
+assegurar a trajetória de queda da DBGG/PIB no médio prazo para além das estimativas feitas no cenário de
+referência deste relatório. Em média, conforme Tabela 15, projeta-se um superávit primário de 1,0 p.p. do
+PIB do Governo Geral contra despesas de juros equivalentes a 6,8 p.p. do PIB por ano. Além disso, as
+projeções consideram um cenário para operações associadas com ações do Banco Central no âmbito da
+gestão de liquidez da economia, notadamente os fatores condicionantes da base monetária, como
+operações com moeda manual, depósitos (compulsórios ou voluntários) e linhas de liquidez. Nesse cenário,
+essas variáveis contribuiriam para uma redução de cerca de 0,3 p.p. do PIB por ano nas operações
+compromissadas e, por conseguinte, na DBGG30. Por fim, a evolução do PIB contribui para reduzir a razão
+dívida/PIB (via denominador) em 5,8 p.p. por ano, na média, sendo 2,3 p.p. associado ao PIB real e 3,5 p.p.
+referentes ao deflator do PIB.
+30 A premissa subjacente é de que a base monetária fique constante em relação ao PIB a partir de 2026. Esse fator,
+contudo, não afeta a DLGG, nem a DLSP. No caso da DLGG, isso acontece porque as compromissadas não integram o
+conjunto de passivos contido no indicador. Já para a DLSP, sua composição inclui passivos do BCB, como depósitos de
+instituições financeiras e a própria base monetária. Nesse sentido, as operações do BCB que afetam as operações
+compromissadas e a DBGG resultam em mudanças na composição desses passivos, sem alterar a DLSP em um
+primeiro momento, ainda que possa alterá-la ao longo do tempo, se houver diferencial de remuneração entre os
+passivos trocados.
+41
+
+=== página 46 ===
+Tabela 15 – Cenário para os fatores de variação da DBGG/PIB (p.p. do PIB)
+Fonte: Elaboração própria
+Fatores de variação da DBGG/PIB 2026 2027 2028 2029 2030 2031 2032 2033 2034 2035 2036
+DBGG Inicial 78,6 83,5 85,9 87,3 87,9 87,4 86,9 86,2 85,5 84,7 83,9
+1. Resultado Primário - Governo Geral 0,3 -0,1 -0,6 -1,0 -1,3 -1,4 -1,4 -1,4 -1,5 -1,5 -1,5
+2. Juros nominais 9,1 8,4 7,7 7,2 6,7 6,2 6,1 6,0 5,9 5,9 5,9
+3. Operações do BCB -0,5 -0,5 -0,2 -0,2 -0,2 -0,2 -0,2 -0,2 -0,2 -0,2 -0,2
+do quais: Swaps Cambiais -0,4 0,0 0,1 0,1 0,1 0,1 0,1 0,1 0,1 0,1 0,1
+4. Demais emissões líquidas 1,0 0,7 0,5 0,6 0,4 0,6 0,6 0,5 0,5 0,5 0,5
+5. Ajustes metodológicos 0,2 0,0 0,1 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0
+6. PIB real -1,8 -2,1 -2,1 -2,2 -2,3 -2,3 -2,4 -2,4 -2,5 -2,5 -2,4
+7. Deflator do PIB -3,5 -4,0 -3,9 -3,8 -3,8 -3,6 -3,4 -3,3 -3,1 -3,1 -3,0
+DBGG Final 83,5 85,9 87,3 87,9 87,4 86,9 86,2 85,5 84,7 83,9 83,1
+Em comparação com o relatório de dezembro, o cenário para a DBGG do presente relatório mostra trajetória
+deslocada para baixo, como ilustra o Gráfico 25. Em média, a trajetória da projeção atual está 1,5 p.p. do PIB
+abaixo da trajetória do RPF de dezembro/2025 para o período de 2025 a 2035. No entanto, essa diferença é
+de apenas 0,2 p.p. de 2025 a 2029, mas de 2,6 p.p. de 2030 a 2035.
+Gráfico 25 – Comparativo das projeções da Dívida (% do PIB) – Cenário de Referência
+Fonte: Elaboração própria
+90
+88,0 88,2 88,5 88,6 88,5 88,3 88,0
+87,4
+86,1
+87,9
+87,3 87,4
+86,9
+85 85,9 86,2
+83,6 85,5
+84,7
+83,9
+83,5
+83,1
+79,3
+80
+78,6
+75
+2025 2026 2027 2028 2029 2030 2031 2032 2033 2034 2035 2036
+RPF dez/25 RPF jul/26
+O deslocamento para baixo na trajetória da DBGG desde o último relatório se deve, em parte, à diferença na
+Grade de Parâmetros Macroeconômicos, como mostra a Tabela 2, em que as projeções apresentam, na
+média, taxa de juros mais altas, mas também maior crescimento nominal do PIB. No entanto, o principal
+fator que explica a queda nas projeções de dívida é o resultado fiscal do Setor Público deste relatório que é,
+na média, mais superavitário que o resultado fiscal do relatório anterior. Em especial, destaca-se os maiores
+percentuais de incorporação de precatórios e RPVs à meta de resultado primário a partir de 2027 e a elevação
+da meta de resultado primário prevista para 2030 em diante, de 1,25% para 1,5% do PIB.
+42
+
+=== página 47 ===
+No Gráfico 26 ,observa-se a relevância das variáveis macrofiscais para as projeções da dívida. A linha laranja
+corresponde à DBGG apresentada no relatório de dezembro de 2025. Ao substituir apenas a Selic do RPF
+dez/25 pela do RPF jun/26 — mais elevada — obtém-se a linha cinza, que indica um acréscimo de 2,6 p.p. ao
+final do período, efeito integralmente associado ao diferencial de juros. Na etapa seguinte, incorpora-se
+também o crescimento mais elevado da grade atual. Com um PIB nominal mais favorável, a dívida se desloca
+para baixo, conforme mostrado pela linha verde. Ainda assim, esse nível permanece acima do observado no
+RPF dez/25, indicando que o impacto positivo do maior PIB nominal não é suficiente para compensar o efeito
+da Selic mais alta. Por fim, adiciona-se ao RPF dez/25 o resultado primário do RPF jun/26 – mais superavitário
+–, em percentual do PIB. Com isso, a projeção da DBGG se aproxima significativamente daquela apresentada
+neste RPF jun/26. Dessa maneira, esse exercício que permite decompor a dinâmica da dívida, evidenciando
+as contribuições marginais de juros, crescimento e do resultado primário em sua evolução.
+Gráfico 26 – Decomposição do comparativo das projeções da DBGG (% do PIB) – Cenário de
+Referência
+Fonte: Elaboração própria
+95
+90,6 90,9 91,0 91,1 90,8 90,6
+89,9
+90 88,8 89,3 89,2 89,0 88,7
+88,3
+86,9
+88,6 88,5 88,3 88,0
+87,9
+87,3 87,4
+83,9 86,9 84,5
+85 86,2
+85,9
+85,5
+84,7
+83,9
+83,5
+83,1
+79,3
+80
+78,6
+75
+2025 2026 2027 2028 2029 2030 2031 2032 2033 2034 2035 2036
+RPF dez/25 Selic jun/26 RPF dez/25
+RPF dez/25 Selic e PIB jun/26 RPF dez/25 Selic, PIB e Primário jun/26
+RPF jun/26
+43
+
+=== página 48 ===
+2. Análise de Sensibilidade da Dívida a Cenários Alternativos
+2.1. Resultado Primário Requerido para Convergência da Dívida a Diferentes Parâmetros
+A realização de superávits primários, na maioria dos casos, é condição importante para estabilizar a relação
+dívida/PIB de um país, juntamente com o crescimento do PIB e taxas de juros mais baixas. Ao trazer o
+resultado primário das contas públicas para o campo positivo, o governo consegue reduzir a necessidade de
+financiamento e destinar esses recursos para pagar ao menos parte dos juros da dívida.
+Assim, uma pergunta frequente é qual seria o resultado primário requerido para estabilizar a dívida/PIB ou
+para conduzir essa razão para determinado patamar. A resposta não é trivial e depende de várias premissas,
+como o horizonte temporal e os parâmetros macroeconômicos subjacentes à análise. Além disso, é crucial
+saber de qual agregado de dívida estamos falando, pois a resposta pode mudar bastante se nos referimos à
+DBGG ou à DLGG, uma vez que estabilizar a DLGG geralmente requer um esforço fiscal maior ao longo do
+tempo.
+Feitas essas considerações, esta seção analisa o resultado primário necessário do Governo Central para a
+convergência da DBGG em diferentes cenários. Em um primeiro exercício, buscamos estabilizar a relação
+DBGG/PIB em cada ano. No Gráfico 27, o primário requerido em cada ano corresponde ao necessário para
+estabilizar a DBGG/PIB no patamar do ano anterior, considerando o cenário base até aquele período. Por
+exemplo, em 2030, um superávit primário de 0,9% do PIB estabiliza a DBGG no patamar projetado para 2029.
+Esse esforço depende sobretudo do diferencial entre juros e crescimento nominal, além do nível inicial da
+dívida. No cenário atual de juros reais, o primário requerido é mais alto no curto prazo, com convergência
+gradual do resultado efetivo compatível com a estabilização da dívida a partir de 2030.
+A partir de 2030, com a melhora do resultado primário acompanhada de redução dos juros, o primário
+requerido passa a ser menor do que o resultado primário do cenário de referência, provocando redução do
+nível de endividamento. Assim, o resultado primário necessário para estabilizar a DBGG/PIB no nível do
+período precedente é, por construção, inferior ao resultado primário projetado nesse cenário.
+44
+
+=== página 49 ===
+Gráfico 27 – Resultado primário do governo central requerido para estabilizar a DBGG/PIB (% do PIB)
+Fonte: Elaboração própria.
+Referência Requerido
+4,1
+Dívida estável ou decrescente
+2,3
+1,9
+1,5 1,3 1,3 1,4 1,4 1,4 1,5 1,5
+0,9
+0,6 0,9 0,7 0,8 0,7 0,7 0,7 0,8
+0,0
+-0,4
+2026 2027 2028 2029 2030 2031 2032 2033 2034 2035 2036
+Em um segundo exercício, apresentado na Tabela 16, aplicamos um delta constante ao resultado primário
+do cenário de referência, necessário para que a dívida convirja gradualmente ao patamar de 2025 (78,6% do
+PIB) - aperto fiscal de 0,4 p.p. ao ano em relação ao cenário de referência. Trata-se de um ajuste uniforme ao
+longo de todo o horizonte, que, embora não impeça o aumento inicial da DBGG, passa a gerar redução
+gradual da dívida no médio prazo
+45
+
+=== página 50 ===
+Tabela 16 – Primário requerido para que a DBGG atinja o nível de 2025 ao fim das projeções com um
+delta constante sobre o cenário de referência (% do PIB)
+Fonte: Elaboração própria.
+Delta constante sobre o
+Referência
+Referência
+Ano Primário GC DBGG Primário GC DBGG
+2026 -0,4 83,5 0,0 83,1
+2027 0,0 85,9 0,4 85,1
+2028 0,6 87,3 1,0 86,0
+2029 0,9 87,9 1,3 86,2
+2030 1,3 87,4 1,7 85,3
+2031 1,3 86,9 1,7 84,4
+2032 1,4 86,2 1,8 83,4
+2033 1,4 85,5 1,8 82,2
+2034 1,4 84,7 1,8 81,0
+2035 1,5 83,9 1,9 79,8
+2036 1,5 83,1 1,9 78,6
+PR Médio (2026-2036) 1,0 1,4
+PR Médio (2026-2029) 0,3 0,7
+PR Médio (2030-2036) 1,4 1,8
+2.2. Análise de Cenários: Perspectivas da Dívida com Cenários Fiscais Alternativos
+Em complemento à análise de resultado primário do cenário de referência explorado anteriormente neste
+relatório, esta seção busca mostrar como a projeção de dívida é sensível aos diferentes cenários fiscais.
+Assim, dentre os insumos usados para a projeção de dívida, alteramos apenas o resultado primário e
+mantivemos as demais variáveis nas projeções de dívida do cenário referência.
+O Gráfico 28 mostra que o cenário inicial é mais conservador, sobretudo na trajetória das receitas. Nesse
+cenário, a DBGG apresenta trajetória crescente até 2033. Além disso, a DBGG/PIB teria uma trajetória
+deslocada para cima, encerrando 2036 em 91,4% do PIB contra 83,1% do PIB no cenário de referência.
+46
+
+=== página 51 ===
+Gráfico 28 – Projeções da DBGG: utilizando o cenário fiscal inicial e o cenário de referência (% do PIB)
+Fonte: BCB e elaboração própria
+95
+91,5 91,7 91,6 91,5 91,4
+90,7
+89,9
+89,3
+90
+87,9
+86,1
+87,9
+87,3 87,4
+86,9
+85 83,5 85,9 86,2
+85,5
+84,7
+83,9
+83,5
+83,1
+80
+78,6
+75
+2025 2026 2027 2028 2029 2030 2031 2032 2033 2034 2035 2036
+Inicial Referência
+A DLGG, no cenário inicial, apresenta trajetória crescente até 2034 e fecha 2036 em 78,9% do PIB, 8,3 p.p.
+acima da DLGG no cenário de referência.
+Gráfico 29 – Projeções da DLGG: utilizando o cenário fiscal inicial e o cenário de referência (% do PIB)
+Fonte: BCB e elaboração própria
+85
+78,9 79,0 79,3 78,9 78,9
+80
+78,0
+77,2
+76,2
+74,9
+75 73,2 74,1 73,7 72,8
+72,3
+71,2
+70,6
+70
+65
+60
+2025 2026 2027 2028 2029 2030 2031 2032 2033 2034 2035 2036
+Inicial Referência
+47
+
+=== página 52 ===
+O Gráfico 30, por sua vez, apresenta projeções da DBGG para diferentes trajetórias de materialização das
+receitas adicionais incorporadas ao cenário de referência. O exercício é estático e não considera impactos
+da receita sobre a despesa ou eventuais medidas de ajuste, ou seja: para o mesmo nível de despesas do
+cenário de referência, projeta-se o resultado primário considerando a materialização de 25%, 50% ou 75%
+das receitas adicionais. A partir dessas trajetórias de resultado primário, projeta-se a DBGG, permitindo
+avaliar a sensibilidade da dívida a diferentes cenários de materialização das receitas adicionais.
+Nota-se que a DBGG, no cenário em que apenas 25% das receitas adicionais são materializadas, atinge
+valores superiores aos do cenário inicial, tendo em vista que aquele cenário prevê menores taxas de
+crescimento para o limite de despesas e contingenciamento em alguns exercícios. Nesse contexto, a dívida
+apresenta evolução crescente até 2034, quando alcança o pico de 92,7% do PIB.
+No cenário em que 50% das receitas adicionais são materializadas, a DBGG atinge seu ponto de inflexão um
+ano antes, em 2033, encerrando 2036 em 89,4% do PIB, 6,3 p.p. acima do cenário de referência. Por fim, no
+cenário em que 75% das receitas adicionais são materializadas, a DBGG cresce até 2029, mesmo ponto de
+inflexão do cenário de referência, atingindo 88,4% do PIB. A partir de 2030, a DBGG passa a apresentar
+trajetória decrescente, encerrando o horizonte de projeções em 86,2% do PIB, 3,1 p.p. acima do cenário de
+referência.
+Gráfico 30 – Projeções da DBGG: adoção parcial das receitas adicionais 25%, 50% e 75% (% do PIB)
+Fonte: BCB e elaboração própria
+95
+92,5 92,7 92,6 92,5
+92,1
+91,2
+90,4
+89,5 90,1 90,2 90,0 89,7 89,4
+90
+88,0
+86,0 88,3 88,2
+87,9 87,8
+87,3 87,4 87,3
+86,9 86,8
+85 83,5 85,9 86,2 86,2
+85,5
+84,7
+83,9
+83,5 83,1
+80
+78,6
+75
+2025 2026 2027 2028 2029 2030 2031 2032 2033 2034 2035 2036
+Receitas 25% Receitas 50% Receitas 75% Referência
+2.3. Análise de Cenários: Perspectivas da Dívida com Parâmetros Extraídos da Pesquisa Focus
+Como uma alternativa ao uso das projeções do cenário de referência, esta seção busca mostrar qual seria a
+evolução da DBGG com o uso da mediana das projeções contidas na pesquisa Focus do Banco Central para
+48
+
+=== página 53 ===
+as variáveis macroeconômicas e resultado primário do Setor Público31. Também foi explorado projetar o
+resultado primário do Setor Público com base nas variáveis macroeconômicas do FOCUS, mantendo-se a
+modelagem e hipóteses fiscais presentes no cenário de referência deste relatório.
+A utilização de projeções alternativas também auxilia na compreensão de como outros atores econômicos
+veem o comportamento da economia nos próximos anos. Nesse sentido, quanto maior a divergência entre
+os cenários de governo e Focus, mais relevante se torna a compreensão dessas diferenças pelo governo,
+para melhor decisão e comunicação de suas propostas de política pública. Importante mencionar que,
+considerando a grande influência destas projeções no direcionamento das decisões dos agentes
+econômicos, elas podem afetar as taxas de juros da economia e, consequentemente, o custo de
+financiamento das dívidas pública e privada.
+Com destaque, este cenário Focus é menos benigno para as taxas de juros e inflação e há uma perspectiva
+menos favorável ao crescimento econômico. O cenário Focus apresenta uma taxa Selic média de 9,7% a.a.,
+enquanto a média no cenário de referência é de 8,1% a.a.. Com relação ao PIB, o cenário Focus aponta um
+crescimento real do PIB, em média, 0,8 p.p. mais baixo que no cenário de referência deste relatório.
+Embora o deflator32 também possa influenciar a trajetória da dívida/PIB, seu nível maior normalmente é
+reflexo de maior inflação. No entanto, no médio prazo, as projeções de IPCA convergem para a meta. Apesar
+de convergir para 3,0% a.a. tanto na grade SPE quanto no cenário FOCUS, na média, o IPCA Focus é 0,3 p.p.
+mais alto. O resultado primário do Setor Público, por sua vez, é, em média, 0,7 p.p. mais baixo no cenário
+Focus33 na comparação com o cenário de referência.
+Tabela 17 – Mediana de Parâmetros Selecionados - Pesquisa FOCUS
+Fonte: BCB/FOCUS e cálculos próprios.
+Média
+Parâmetros 2026 2027 2028 2029 2030 2031 2032 2033 2034 2035 2036 2026-
+2036
+Câmbio - final do período (R$/US$) 5,2 5,3 5,4 5,4 5,4 5,5 5,6 5,6 5,7 5,7 5,8 5,5
+Crescimento real do PIB (% a.a.) 1,9 1,8 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0
+Deflator do PIB (% a.a.) 5,0 4,7 4,3 4,1 4,1 4,1 3,9 3,7 3,6 3,6 3,6 4,1
+IPCA (% a.a.) 4,9 4,0 3,6 3,5 3,5 3,7 3,3 3,0 3,0 3,0 3,0 3,5
+IGP-M (% a.a.) 5,6 4,0 3,8 3,7 3,7 3,8 3,5 3,1 3,1 3,1 3,1 3,7
+Selic média (% a.a.) 14,2 12,1 10,6 10,0 10,0 9,3 8,4 8,0 8,0 8,0 8,0 9,7
+Primário do Setor Público (% PIB) -0,5 -0,4 -0,3 -0,1 0,0 0,2 0,5 0,7 0,8 1,0 0,2
+* Média 2026-2035 para o Primário do Setor Público (% PIB)
+O cenário Focus considera as projeções Focus até o momento em que estejam disponíveis34. A partir de
+então, projeta-se a convergência (i) da inflação para a meta de inflação estabelecida pelo CMN, (ii) da Selic
+31 A Pesquisa Focus é uma pesquisa realizada pelo Banco Central, na qual as instituições informam suas projeções para
+diversas variáveis macroeconômicas e fiscais. Como data de corte, foram utilizadas as estimativas apuradas no dia 08
+de maio de 2026.
+32 Como o deflator não é uma das variáveis abarcadas pela pesquisa Focus, projetou-se essa variável com base em
+modelos internos que usam os valores previstos pela pesquisa Focus e outras variáveis com previsão realizada pelo
+FMI.
+33 Mediana das projeções da Pesquisa Focus para o resultado primário do Setor Público. Média do período 2026 a 2035.
+34 As projeções Focus estão disponíveis até 2030 para os parâmetros macroeconômicos (câmbio, crescimento real do
+PIB, IPCA, IGP-M e Selic) e até 2035 para as estatísticas fiscais (primário do Setor Público e DBGG).
+49
+
+=== página 54 ===
+para taxa de juros neutra e (iii) do crescimento do PIB para o crescimento potencial. Nesses últimos dois
+casos, consideramos os patamares indicados pelo questionário pré-COPOM de dezembro/2025.
+Consideramos, ainda, o câmbio depreciando pela paridade do poder de compra após o horizonte
+contemplado pela pesquisa Focus.
+O Gráfico 31 compara as projeções para o resultado primário do Setor Público do cenário de referência deste
+relatório com o cenário “Grade FOCUS/Primário STN”, mantendo as premissas fiscais do cenário de
+referência, tais como as receitas adicionais e o cumprimento do limite de despesas do RFS, porém
+substituindo os parâmetros macroeconômicos pela mediana das expectativas FOCUS. Nesse cenário, os
+níveis mais altos para inflação e Selic, tendem a favorecer a evolução das receitas. Contudo, o maior nível
+de inflação também impacta diretamente as despesas primárias, principalmente pelo limite de despesas,
+além de impactar indiretamente, via aumento da arrecadação, os gastos vinculados às receitas. A trajetória
+resultante é um resultado primário mais baixo, chegando a 0,5% do PIB em 2036, aproximadamente um terço
+do cenário de referência, baseado na grade da SPE.
+O mesmo gráfico também apresenta o resultado primário do Setor Público diretamente extraído da Pesquisa
+FOCUS, que exibe uma evolução menos favorável até 2032, passando por um ponto mínimo de 0,5% do PIB
+de déficit primário em 2026 e atingindo equilíbrio apenas em 2030. A despeito disso, as projeções de
+mercado indicam uma tendência positiva no médio prazo, chegando a cruzar o cenário Grade FOCUS /
+Primário STN em 2033, com último ano de projeção disponível em 2035, a 1,0% do PIB.
+Gráfico 31 – Projeções do resultado primário do Setor Público: cenário de referência, FOCUS e
+utilizando previsões extraídas da pesquisa Focus (% do PIB)*
+Fonte: BCB e elaboração própria
+2,0
+1,4 1,4 1,4 1,4 1,5
+1,5 1,3
+1,2
+0,9 1,0
+1,0 0,8 0,8 0,8
+0,7
+0,7
+0,6 0,6
+0,5 0,5 0,5
+0,5
+0,2
+0,5 0,5 0,5
+00,,00 0,0
+0,0
+-0,3
+--00,,44
+-0,1
+-0,4
+-0,3
+-0,5
+-0,4
+-0,4 -0,5
+-1,0
+2025 2026 2027 2028 2029 2030 2031 2032 2033 2034 2035 2036
+Primário FOCUS Grade FOCUS / Primário STN Cenário de Referência
+*O cenário “Primário FOCUS” refere-se à mediana das projeções da Pesquisa Focus para o resultado primário, enquanto o cenário
+“Grade FOCUS / Primário STN” refere-se a projeções a partir do modelo da STN para o resultado primário, utilizando-se dos parâmetros
+macroeconômicos da Pesquisa FOCUS.
+50
+
+=== página 55 ===
+Com tais previsões para as variáveis macroeconômicas e utilizando o primário STN e o Primário FOCUS, por
+meio do modelo de projeções de dívida da STN, foram projetadas duas trajetórias Focus para a DBGG.
+Ambas as projeções apresentam trajetórias crescentes da DBGG em todo o horizonte de projeções. No
+cenário “Grade FOCUS/Primário STN”, a DBGG atinge 112,3% do PIB em 2035 e fecha o último ano das
+projeções em 115,5 % do PIB. No cenário “Grade FOCUS Completa”, a DBGG atinge 115,7% do PIB em 2035,
+último ano para o qual há estatísticas fiscais disponíveis na Pesquisa Focus.
+A título de comparação, as expectativas Focus para a DBGG35 – aqui chamada de “DBGG FOCUS” – também
+foram adicionadas. Em 2035, as expectativas Focus para a DBGG atingem 98,5% do PIB. As três trajetórias
+de DBGG seguem parelhas até 2027, quando as projeções de DBGG nas trajetórias “Grade FOCUS/Primário
+STN” e “Grade FOCUS Completa” passam a crescer mais rapidamente, embora sigam bastante próximas.
+Gráfico 32 – Projeções da DBGG: utilizando previsões extraídas da pesquisa Focus (% do PIB)*
+Fonte: BCB e elaboração própria
+120
+115,7
+113,0
+110,3
+115,5
+107,5
+110
+112,3
+104,4
+109,2
+100,7
+106,2
+100 96,7 103,3
+100,5
+92,6
+98,0 98,5
+97,0
+95,8
+88,5 94,6
+90 93,7
+92,0
+83,9
+89,3
+86,8
+80 83,4
+78,6
+70
+2025 2026 2027 2028 2029 2030 2031 2032 2033 2034 2035 2036
+Grade FOCUS Completa Grade FOCUS/Primário STN DBGG FOCUS
+*O cenário “DBGG FOCUS” refere-se à mediana das projeções da Pesquisa Focus para a DBGG, enquanto o cenário “Grade FOCUS /
+Primário STN” refere-se a projeções a partir do modelo da STN para DBGG, utilizando-se dos parâmetros macroeconômicos (tais como
+juros, inflação, câmbio e PIB) da Pesquisa Focus e resultado primário para o Setor Público produzido pela STN. No cenário “Grade
+FOCUS Completa” o primário STN é substituído pelo resultado primário para o Setor Público da Pesquisa Focus.
+Os diferentes cenários reforçam a importância do aperfeiçoamento do ambiente macroeconômico nos
+próximos anos, indicando que o tamanho da dívida pública dependerá da magnitude futura da taxa de juros
+e do crescimento econômico, duas variáveis importantes para uma trajetória de dívida decrescente no médio
+prazo.
+35 Mediana das expectativas das projeções para a DBGG coletadas pelo Focus. O Focus não tem projeções para a DLGG.
+51
+
+=== página 56 ===
+2.4. Análise de Cenários: Cenário de Referência com Parâmetros Extraídos da Pesquisa Focus
+As projeções da dívida pública apresentam elevada sensibilidade aos parâmetros macrofiscais —
+especialmente juros, crescimento e resultado primário. Nesta subseção, comparamos o cenário de
+referência ao Grade FOCUS Completa, que substitui esses parâmetros pelas medianas da pesquisa Focus.
+Como mencionado, essa mudança gera uma diferença de mais de 30 p.p. do PIB na DBGG ao final do
+horizonte, evidenciando o peso dos fundamentos macrofiscais sobre a dinâmica da dívida.
+O Gráfico 33 detalha esse contraste ao decompor a transição entre os cenários em quatro trajetórias. A linha
+de referência é a mais baixa; quando substituímos apenas a Selic da grade SPE pela Focus, ocorre um
+primeiro salto relevante — superior a 10 p.p. do PIB ao final de 2035 — efeito integralmente associado ao
+diferencial de juros. Na sequência, ajustamos também o crescimento do PIB (apenas efeito denominador)
+conforme a pesquisa Focus: a trajetória resultante eleva-se em mais 11,3 p.p. ao fim do horizonte de
+projeções (2035), revelando o impacto conjunto desses dois fatores. Em seguida, ao substituirmos o primário
+do cenário de referência pelo primário FOCUS, a trajetória resultante aproxima-se de forma marcante do
+cenário Grade FOCUS Completa. Por fim, o cenário Grade FOCUS Completa adiciona as demais variáveis
+macro, gerando a projeção mais elevada. Trata-se, assim, de um exercício que isola e evidencia o peso
+incremental de juros, PIB e demais condicionantes fiscais na evolução futura da dívida.
+Gráfico 33 – Projeções da DBGG: Cenário de referência com parâmetros Focus (% do PIB)*
+Fonte: BCB e elaboração própria
+120
+115,7
+113,0
+115
+110,3
+115,1
+110 107,5
+112,5
+104,4
+109,8
+105
+100,7 107,0
+105,8
+100 96,7 104,0 104,0
+100,4 102,2
+92,6 98,5
+95
+90 88,5 91,5 92,6 93,3 93,8 94,1 94,5
+85 85,9 87,3 87,9 87,4 86,9 86,2 85,5
+84,7
+80 83,5 83,9
+75 78,6
+70
+2025 2026 2027 2028 2029 2030 2031 2032 2033 2034 2035
+Grade FOCUS Completa Referência com Selic, PIB e Primário FOCUS
+Referência com Selic e PIB Focus Referência com SELIC FOCUS
+Referência
+2.5. Análise de Cenários: Comparativo com Projeções de DBGG de Outras Fontes
+O Gráfico 34 amplia a comparação ao confrontar o cenário de referência e o cenário inicial deste relatório
+com as projeções da pesquisa Prisma e da Instituição Fiscal Independente (IFI). As trajetórias permanecem
+relativamente próximas no curto prazo, até 2027, mas passam a se distanciar no médio prazo. No caso do
+Prisma, embora as projeções se situem um pouco acima do cenário de referência até 2029, há indícios de
+52
+
+=== página 57 ===
+convergência rumo à estabilidade. Já o cenário da IFI incorpora premissas que resultam em crescimento
+mais acentuado da dívida no médio prazo.
+Gráfico 34 – Comparativo da Dívida Bruta do Governo Geral (DBGG) com projeções externas (% do PIB)
+Fonte: Elaboração própria
+120 117,7
+113,5
+115
+109,4
+110
+105,4
+105
+101,1
+100 97,1
+93,4
+95 91,5 91,7 91,6 91,5 91,4
+90,7
+90,1 89,9
+90,8
+90
+86,2
+85 82,7 85,9 87,3 87,9 87,4 86,9 86,2 85,5
+84,7
+80 83,5 83,9 83,1
+75 78,6
+2025 2026 2027 2028 2029 2030 2031 2032 2033 2034 2035 2036
+IFI mai/26 Prisma jun/26 Inicial Referência
+2.6. Choque Selic, PIB e Resultado Primário
+Choques nas variáveis econômicas podem mudar consideravelmente a trajetória futura da dívida. Os
+exercícios de estática comparativa36, a seguir, servem para ilustrar como as projeções do endividamento
+público se modificam quando variáveis-chave, como o crescimento real do PIB, o resultado primário e a taxa
+de juros se desviam do cenário de referência ao longo de todo o horizonte.
+Alterações na taxa de juros sensibilizam o custo da dívida e a transmissão de mudanças na taxa Selic para o
+custo da dívida tende a ser rápida, uma vez que existe elevada proporção de instrumentos de financiamento
+expostos às mudanças nos juros de curto prazo. Por outro lado, redução estrutural nas taxas de juros,
+contribuem decisivamente para um endividamento mais baixo no médio prazo.
+A geração de superávit primário é essencial para uma dívida mais baixa no futuro, como já vimos nas seções
+anteriores. Como o Gráfico 35 e o Gráfico 3637 evidenciam, ao adicionarmos maior crescimento econômico
+a um cenário de melhora fiscal, o indicador de endividamento declina mais rapidamente e, por último, o
+prospecto fica ainda mais favorável se esses movimentos ocorrem com taxas de juros mais baixas.
+36 Exercícios de estática comparativa mostram como a variável principal, a dívida/PIB neste relatório, se altera quando
+uma ou mais variáveis do cenário de referência são modificadas, enquanto as demais são mantidas constantes.
+37 O impacto da variação do PIB é unicamente via denominador neste exercício, uma vez que não se considera
+correlações entre as distintas variáveis macroeconômicas.
+53
+
+=== página 58 ===
+Gráfico 35 – DBGG (% do PIB) – choques combinados*
+Fonte: BCB e elaboração própria
+105
+101,1
+100,1
+99,1
+98,3
+100 97,3
+96,2
+95,1
+93,9
+95
+91,6
+88,7
+90
+88,7
+84,7
+85
+83,1
+80 83,3 83,1
+82,3 82,1
+80,2 77,4
+75 78,6 78,2
+76,1
+74,0
+70
+71,8
+69,6 67,5
+65
+2025 2026 2027 2028 2029 2030 2031 2032 2033 2034 2035 2036
++Selic -primário -PIB -primário Referência +primário -Selic +primário +PIB
+*O exercício de sensibilidade aplica choques de +/- 0,5 p.p. no primário; +/- 0,5 p.p. na taxa de crescimento do PIB real; +/- 1 p.p. na taxa
+de juros Selic, sempre em relação ao cenário de referência.
+Em outra direção, contudo, a manutenção de déficits primários por tempo mais prolongado resultaria em
+trajetórias com níveis mais elevados para a dívida/PIB. Nesse contexto, choques que comprometam o ritmo
+da atividade econômica e elevem as taxas de juros colocariam pressão adicional ao nível de endividamento,
+gerando as trajetórias superiores nas figuras citadas. Em um cenário mais adverso, com juros mais altos,
+menor crescimento do PIB e resultado primário mais baixo, a DBGG e a DLGG poderiam chegar ao fim do
+horizonte de projeções 18 e 16,1 p.p. do PIB, respectivamente, mais altas que no cenário de referência.
+54
+
+=== página 59 ===
+Gráfico 36 – DLGG (% do PIB) – choques combinados*
+Fonte: BCB e elaboração própria.
+90
+86,7
+85,2 85,6
+84,1
+83,4
+85 82,3
+81,4
+80,0
+78,1
+80
+75,3
+76,2
+75
+70 70,6
+70,7 70,7
+69,9 69,8
+65 68,4 64,9
+66,8
+66,5
+64,7
+60 62,6
+60,8
+55 58,5
+56,6
+50
+2025 2026 2027 2028 2029 2030 2031 2032 2033 2034 2035 2036
++Selic -primário -PIB -primário Referência +primário -Selic +primário +PIB
+*O exercício de sensibilidade aplica choques de +/- 0,5 p.p. no primário; +/- 0,5 p.p. na taxa de crescimento do PIB real; +/- 1 p.p. na taxa
+de juros Selic, sempre em relação ao cenário de referência.
+Dessa forma, a estabilização da dívida em patamares historicamente mais elevados, como projetado no
+cenário de referência deste relatório, poderia deixar o país com pouca margem para absorver o impacto de
+choques econômicos não esperados, sem comprometer a trajetória de sustentabilidade fiscal.
+Em resumo, políticas que favoreçam o crescimento econômico sustentado e a manutenção de taxas de juros
+baixas por mais tempo, combinadas com uma política fiscal responsável, são essenciais para a preservação
+de níveis prudentes de endividamento.
+2.7. Simulações Estocásticas
+No Gráfico 37, apresenta-se um exercício de simulação de Monte Carlo38, construída a partir de uma
+distribuição multivariada em torno da Grade de Parâmetros fornecida pela SPE. O gráfico apresenta uma
+faixa de 50% de probabilidade em volta do resultado primário do Setor Público do cenário de referência, entre
+os percentis 25 a 75, e outra de 80%, entre os percentis 10 a 90. Os cenários estocásticos foram construídos
+supondo que as medidas de receita estão fixas nominalmente, de modo a refletir a incerteza puramente
+macroeconômica em torno do cenário de referência. Além disso, não se modela nenhuma reação fiscal à
+situação macroeconômica e se parte da premissa de que as despesas primárias preencherão todo o limite
+disponível em cada simulação.
+38 Modelo probabilístico (estocástico) para previsão de variados resultados possíveis.
+55
+
+=== página 60 ===
+Gráfico 37 – Cenários estocásticos para o resultado primário do Setor Público (% do PIB)
+Fonte: Elaboração própria
+6,0
+5,6
+5,0
+4,0
+3,9
+3,0
+2,0
+1,0 1,2 1,3 1,4 1,4 1,4 1,4 1,5
+0,9
+0,0 0,6 0,1
+0,0
+-1,0 -0,4 -0,4
+-2,0 -2,1
+-3,0
+2025 2026 2027 2028 2029 2030 2031 2032 2033 2034 2035 2036
+10-25 25-50 50-75 75-90 Cenário de Referência
+Os resultados apontam que o resultado primário do Setor Público tem 50% de chance de terminar 2026 no
+intervalo entre um déficit de 0,9% do PIB e um superávit de 0,2% do PIB, a depender da evolução dos
+parâmetros macroeconômicos. Essa banda de 50% se expande gradativamente à medida que a incerteza
+estocástica se compõe ao longo dos anos, de modo que, em 2036, há 50% de probabilidade de o resultado
+primário se situar entre um déficit de 0,1% do PIB e um superávit de 3,9% do PIB. No intervalo de 80%, os
+limites são um déficit de 2,1% do PIB e um superávit de 5,6% do PIB.
+Cabe notar que o intervalo ao redor do cenário central é assimétrico, com maior probabilidade de resultados
+melhores do que o cenário de referência. Em 2030, a mediana das simulações aponta para um superávit de
+1,4% do PIB e em 2036, a mediana é de 2,0% do PIB, contra 1,2% do PIB em 2030 e 1,5% do PIB em 2036 para
+o cenário de referência. Tal resultado decorre do funcionamento do arcabouço fiscal do RFS, pois o
+crescimento real do limite de despesas já está projetado no seu valor máximo de 2,5% a.a. no cenário de
+referência até 2033, além de se repassar apenas 70% do crescimento da receita. Assim, a simulação revela
+robustez do arcabouço face a choques macroeconômicos, na medida em que cenários muito positivos que
+aumentam a receita líquida em termos reais não se refletem plenamente em aumentos de despesas,
+favorecendo a consolidação fiscal. Importa destacar que o limite mínimo de 0,6% para o crescimento real
+do limite de despesas também induz uma assimetria, em sentido contrário, garantindo espaço para as
+despesas mesmo em situações de baixa arrecadação, esse efeito não é tão significativo no exercício pois o
+centro da simulação está mais próximo do limite superior do arcabouço que do limite inferior.
+A incerteza por trás das trajetórias de dívida reside, sobretudo, na dinâmica do PIB, do resultado primário e
+das taxas de juros. O Gráfico 38 e o Gráfico 39 trazem fan charts contendo os resultados de simulações
+estocásticas para a DBGG e a DLGG, no formato de intervalos de confiança, diante de choques
+correlacionados no PIB, nos juros e no primário ao longo do tempo, mantendo-se constantes as demais
+variáveis.
+56
+
+=== página 61 ===
+Gráfico 38 – Cenários estocásticos para DBGG (% do PIB)
+Fonte: BCB e elaboração própria
+125
+120,5
+115
+108,1
+105
+100,1
+100,1
+95
+85
+83,5 85,9 87,3 87,9 87,4 86,9 86,2 85,5 84,7 83,9 83,1
+75
+78,6 76,6
+65 69,0 63,3
+55
+48,7
+45
+2025 2026 2027 2028 2029 2030 2031 2032 2033 2034 2035 2036
+10-25 25-50 50-75 75-90 Referência
+Gráfico 39 – Cenários estocásticos para DLGG (% do PIB)
+Fonte: BCB e elaboração própria
+105 104,7
+95 92,8
+85,3
+85 85,3
+75
+73,0 74,3 74,8 74,7 74,1 73,7 72,8 72,3
+65 70,9 71,2 70,6
+66,8
+64,5
+55
+56,3
+50,1
+45
+35,5
+35
+2025 2026 2027 2028 2029 2030 2031 2032 2033 2034 2035 2036
+10-25 25-50 50-75 75-90 Referência
+Os intervalos superiores dos fan charts aqui apresentados para a trajetória da dívida/PIB fornecem uma
+visualização dos riscos e incertezas associados à sustentabilidade da dívida pública. Partindo de um cenário
+central no qual o endividamento ainda se mostra elevado, as simulações desta seção mostram uma
+57
+
+=== página 62 ===
+exposição da dívida/PIB a choques nas variáveis relevantes para sua dinâmica. Tal análise remete à
+importância de uma gestão fiscal prudente, políticas macroeconômicas sólidas e da adoção de medidas
+para mitigar esses riscos, incluindo os esforços para melhorar o balanço fiscal e promover a redução da
+dívida, e garantir a estabilidade financeira a longo prazo.
+58
+
+=== página 63 ===
+Apêndices
+A. Parâmetros Macroeconômicos
+Tabela 18 – Parâmetros macroeconômicos
+Fonte: Secretaria de Política Econômica
+Parâmetro 2025 2026 2027 2028 2029 2030 2031 2032 2033 2034 2035 2036
+Câmbio - final período (R$/US$) 5,50 5,25 5,30 5,39 5,40 5,45 5,50 5,56 5,61 5,67 5,72 5,78
+Câmbio - médio (R$/US$) 5,59 5,16 5,26 5,36 5,40 5,43 5,48 5,53 5,59 5,64 5,70 5,75
+Crescimento nominal do PIB (% a.a.) 8,1 7,2 7,9 7,5 7,4 7,5 7,3 7,1 7,1 7,1 7,0 6,9
+Crescimento real do PIB (% a.a.) 2,3 2,3 2,6 2,6 2,6 2,7 2,7 2,8 2,9 3,0 3,0 3,0
+PIB (R$ bilhões) 12.739 13.650 14.725 15.830 17.000 18.269 19.595 20.994 22.479 24.066 25.744 27.516
+Deflator do PIB (% a.a.) 5,7 4,8 5,2 4,8 4,7 4,7 4,4 4,2 4,1 3,9 3,9 3,8
+IPCA acumulado (% a.a.) 4,3 4,5 3,5 3,0 3,0 3,0 3,0 3,0 3,0 3,0 3,0 3,0
+INPC acumulado (% a.a.) 3,9 4,6 3,6 3,0 3,0 3,0 3,0 3,0 3,0 3,0 3,0 3,0
+IGP-DI médio (% a.a.) 4,1 1,8 4,5 3,9 3,8 3,8 3,8 3,8 3,8 3,8 3,8 3,8
+Taxa Selic média (% a.a.) 14,3 14,0 11,2 9,4 8,3 7,3 6,5 6,4 6,4 6,4 6,4 6,4
+Selic - final de período (% a.a.) 14,9 12,4 10,4 8,9 7,9 6,9 6,4 6,4 6,4 6,4 6,4 6,4
+Petróleo Brent médio (US$) 68,39 91,25 79,60 75,63 73,38 71,86 71,26 71,26 71,26 71,26 71,26 71,26
+Crescimento nominal da Massa Salarial
+11,0 10,4 10,8 10,8 10,7 10,7 10,8 11,0 11,1 11,4 11,4 11,4
+(% a.a.)
+59
+
+=== página 64 ===
+B. Tabelas Completas
+Tabela 19 – Projeção de Receitas Primárias do Governo Central (R$ bilhões) – Cenário de Referência
+Fonte: Elaboração própria
+Discriminação 2025 2026 2027 2028 2029 2030 2031 2032 2033 2034 2035 2036
+RECEITA TOTAL 2.902 3.218 3.464 3.751 4.023 4.351 4.643 4.960 5.187 5.448 5.722 6.024
+Receita Administrada pela RFB ex. RGPS 1.860 2.052 2.232 2.341 2.465 2.617 2.768 2.938 3.122 3.320 3.533 3.761
+Imposto de Importação 90 112 121 131 143 156 168 185 203 224 246 273
+IPI 88 96 104 108 115 123 130 139 148 159 171 184
+Imposto sobre a Renda 867 941 1.007 1.059 1.118 1.195 1.271 1.356 1.449 1.549 1.656 1.771
+IR - Pessoa Física 78 84 91 96 104 111 120 128 136 145 154 164
+IR - Pessoa Jurídica 294 323 344 357 378 410 435 462 491 522 556 591
+IR - Retido na Fonte 495 533 572 606 637 674 717 766 822 882 947 1.016
+IRRF - Rendimentos do Trabalho 213 205 219 239 256 275 295 317 341 367 395 426
+IRRF - Rendimentos do Capital 164 204 214 212 214 221 228 241 258 276 295 316
+IRRF - Remessas ao Exterior 92 96 109 123 133 144 155 168 181 195 210 226
+IRRF - Outros Rendimentos 26 28 30 31 33 35 39 41 42 44 46 49
+IOF 86 106 106 119 124 133 141 150 160 169 180 190
+COFINS 392 414 435 450 468 486 505 526 547 569 592 616
+PIS/PASEP 106 110 115 119 123 128 133 138 143 149 155 161
+CSLL 178 196 210 217 230 246 261 277 295 313 333 354
+CIDE Combustíveis 3 4 4 4 4 5 5 5 5 5 6 6
+Outras Administradas pela RFB 49 73 130 135 140 145 154 163 172 183 194 206
+Incentivos Fiscais 0 0 0 0 0 0 0 0 0 0 0 0
+Arrecadação Líquida para o RGPS 710 788 849 904 974 1.048 1.128 1.213 1.304 1.401 1.506 1.618
+Receitas Não Administradas pela RFB 333 378 353 370 373 386 389 396 407 412 411 418
+Concessões e Permissões 7 7 8 8 8 9 9 9 10 10 10 11
+Complemento para o FGTS 0 0 0 0 0 0 0 0 0 0 0 0
+CPSS 19 20 21 21 21 21 21 22 22 22 22 22
+Contribuição do Salário-Educação 36 40 43 46 49 53 57 61 66 71 77 83
+Exploração de Recursos Naturais 139 173 173 178 172 181 176 175 177 172 161 157
+Dividendos e Participações 50 55 34 42 46 45 47 48 50 51 53 54
+Receita Própria e de Convênios 24 18 17 17 18 18 18 19 19 20 20 21
+Demais Receitas 57 65 58 58 58 58 60 62 64 66 68 70
+Receitas Adicionais 0 0 30 136 211 301 358 413 354 314 272 228
+TRANSF. POR REPARTIÇÃO DE RECEITA 570 637 667 685 719 766 804 850 903 958 1.019 1.085
+Cide combustíveis 1 1 1 1 1 1 1 1 1 1 1 1
+Exploração de Recursos Naturais 70 89 84 77 77 82 77 74 73 69 67 66
+Contribuição do Salário Educação 21 24 26 27 29 31 34 36 39 42 45 49
+FPE/FPM/IPI-EE 455 495 531 559 591 631 671 716 766 819 876 937
+Fundos Constitucionais 19 23 22 21 20 20 21 23 25 27 29 31
+Repasse Total 29 31 33 35 37 40 42 45 48 51 55 59
+Superávit Fundos -10 -7 -11 -14 -17 -20 -21 -22 -23 -24 -26 -27
+Demais 4 5 4 0 0 0 0 0 0 0 0 0
+RECEITA LÍQUIDA 2.333 2.581 2.797 3.065 3.304 3.585 3.839 4.110 4.284 4.490 4.703 4.940
+60
+
+=== página 65 ===
+Tabela 20 – Projeção de Receitas Primárias do Governo Central (% do PIB) – Cenário de Referência
+Fonte: Elaboração própria
+Discriminação 2025 2026 2027 2028 2029 2030 2031 2032 2033 2034 2035 2036
+RECEITA TOTAL 22,8 23,6 23,5 23,7 23,7 23,8 23,7 23,6 23,1 22,6 22,2 21,9
+Receita Administrada pela RFB ex. RGPS 14,6 15,0 15,2 14,8 14,5 14,3 14,1 14,0 13,9 13,8 13,7 13,7
+Imposto de Importação 0,7 0,8 0,8 0,8 0,8 0,9 0,9 0,9 0,9 0,9 1,0 1,0
+IPI 0,7 0,7 0,7 0,7 0,7 0,7 0,7 0,7 0,7 0,7 0,7 0,7
+Imposto sobre a Renda 6,8 6,9 6,8 6,7 6,6 6,5 6,5 6,5 6,4 6,4 6,4 6,4
+IR - Pessoa Física 0,6 0,6 0,6 0,6 0,6 0,6 0,6 0,6 0,6 0,6 0,6 0,6
+IR - Pessoa Jurídica 2,3 2,4 2,3 2,3 2,2 2,2 2,2 2,2 2,2 2,2 2,2 2,1
+IR - Retido na Fonte 3,9 3,9 3,9 3,8 3,7 3,7 3,7 3,6 3,7 3,7 3,7 3,7
+IRRF - Rendimentos do Trabalho 1,7 1,5 1,5 1,5 1,5 1,5 1,5 1,5 1,5 1,5 1,5 1,5
+IRRF - Rendimentos do Capital 1,3 1,5 1,5 1,3 1,3 1,2 1,2 1,1 1,1 1,1 1,1 1,1
+IRRF - Remessas ao Exterior 0,7 0,7 0,7 0,8 0,8 0,8 0,8 0,8 0,8 0,8 0,8 0,8
+IRRF - Outros Rendimentos 0,2 0,2 0,2 0,2 0,2 0,2 0,2 0,2 0,2 0,2 0,2 0,2
+IOF 0,7 0,8 0,7 0,7 0,7 0,7 0,7 0,7 0,7 0,7 0,7 0,7
+COFINS 3,1 3,0 3,0 2,8 2,8 2,7 2,6 2,5 2,4 2,4 2,3 2,2
+PIS/PASEP 0,8 0,8 0,8 0,7 0,7 0,7 0,7 0,7 0,6 0,6 0,6 0,6
+CSLL 1,4 1,4 1,4 1,4 1,4 1,3 1,3 1,3 1,3 1,3 1,3 1,3
+CIDE Combustíveis 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0
+Outras Administradas pela RFB 0,4 0,5 0,9 0,9 0,8 0,8 0,8 0,8 0,8 0,8 0,8 0,7
+Incentivos Fiscais 0 0 0 0 0 0 0 0 0 0 0 0
+Arrecadação Líquida para o RGPS 5,6 5,8 5,8 5,7 5,7 5,7 5,8 5,8 5,8 5,8 5,8 5,9
+Receitas Não Administradas pela RFB 2,6 2,8 2,4 2,3 2,2 2,1 2,0 1,9 1,8 1,7 1,6 1,5
+Concessões e Permissões 0,1 0,0 0,1 0,1 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0
+Complemento para o FGTS 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0
+CPSS 0,1 0,1 0,1 0,1 0,1 0,1 0,1 0,1 0,1 0,1 0,1 0,1
+Contribuição do Salário-Educação 0,3 0,3 0,3 0,3 0,3 0,3 0,3 0,3 0,3 0,3 0,3 0,3
+Exploração de Recursos Naturais 1,1 1,3 1,2 1,1 1,0 1,0 0,9 0,8 0,8 0,7 0,6 0,6
+Dividendos e Participações 0,4 0,4 0,2 0,3 0,3 0,2 0,2 0,2 0,2 0,2 0,2 0,2
+Receita Própria e de Convênios 0,2 0,1 0,1 0,1 0,1 0,1 0,1 0,1 0,1 0,1 0,1 0,1
+Demais Receitas 0,4 0,5 0,4 0,4 0,3 0,3 0,3 0,3 0,3 0,3 0,3 0,3
+Receitas Adicionais 0,0 0,0 0,2 0,9 1,2 1,6 1,8 2,0 1,6 1,3 1,1 0,8
+TRANSF. POR REPARTIÇÃO DE RECEITA 4,5 4,7 4,5 4,3 4,2 4,2 4,1 4,0 4,0 4,0 4,0 3,9
+Cide combustíveis 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0
+Exploração de Recursos Naturais 0,6 0,7 0,6 0,5 0,5 0,5 0,4 0,4 0,3 0,3 0,3 0,2
+Contribuição do Salário Educação 0,2 0,2 0,2 0,2 0,2 0,2 0,2 0,2 0,2 0,2 0,2 0,2
+FPE/FPM/IPI-EE 3,6 3,6 3,6 3,5 3,5 3,5 3,4 3,4 3,4 3,4 3,4 3,4
+Fundos Constitucionais 0,1 0,2 0,2 0,1 0,1 0,1 0,1 0,1 0,1 0,1 0,1 0,1
+Repasse Total 0,2 0,2 0,2 0,2 0,2 0,2 0,2 0,2 0,2 0,2 0,2 0,2
+Superávit Fundos -0,1 -0,1 -0,1 -0,1 -0,1 -0,1 -0,1 -0,1 -0,1 -0,1 -0,1 -0,1
+Demais 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0
+RECEITA LÍQUIDA 18,3 18,9 19,0 19,4 19,4 19,6 19,6 19,6 19,1 18,7 18,3 18,0
+61
+
+=== página 66 ===
+Tabela 21 – Projeção de Despesas Primárias do Governo Central (R$ bilhões) – Cenário de Referência
+Fonte: Elaboração própria
+Discriminação 2025 2026 2027 2028 2029 2030 2031 2032 2033 2034 2035 2036
+DESPESAS PRIMÁRIAS 2.393 2.642 2.790 2.967 3.145 3.355 3.582 3.820 3.966 4.141 4.324 4.527
+Benefícios Previdenciários (RGPS) 1.026 1.136 1.210 1.296 1.373 1.463 1.559 1.665 1.778 1.900 2.030 2.171
+Pessoal e Encargos Sociais 402 454 475 492 509 526 543 561 580 599 618 639
+Outras despesas obrigatórias 391 455 449 488 541 623 701 800 781 820 875 950
+BPC/LOAS 127 148 163 179 193 210 228 248 269 293 318 346
+Abono e Seguro Desemprego 88 97 103 111 122 132 144 156 170 185 202 221
+Fundef/Fundeb - Complementação da União 60 68 73 79 84 89 95 100 106 112 119 126
+Sentenças e Precatórios (custeio e capital) 43 45 31 32 32 32 35 38 41 45 49 54
+Subsídios, Subvenções e Proagro 25 31 32 32 31 31 32 33 33 34 35 36
+Fundo de Compensação de Benefícios Fiscais - FCBF 0 0 0 0 17 42 71 103 28 0 0 0
+Fundo Nacional de Desenvolvimento Regional - FNDR 0 0 0 0 10 20 31 42 54 59 63 68
+Demais Despesas Obrigatórias 47 67 48 56 52 66 66 79 79 92 89 101
+Despesas Obrigatórias com Controle de Fluxo 370 377 398 419 440 461 483 502 516 528 545 557
+das quais Bolsa Família 158 158 165 165 170 170 175 175 180 180 185 185
+Despesas Discricionárias do Executivo 204 219 258 272 282 283 295 293 311 295 255 209
+Despesas não sujeitas ao limite 160 251 220 240 276 326 385 445 402 403 431 462
+Despesas sujeitas ao limite 2.232 2.391 2.570 2.727 2.869 3.029 3.197 3.376 3.564 3.738 3.893 4.065
+Tabela 22 – Projeção de Despesas Primárias do Governo Central (% do PIB) – Cenário de Referência
+Fonte: Elaboração própria
+Discriminação 2025 2026 2027 2028 2029 2030 2031 2032 2033 2034 2035 2036
+DESPESAS PRIMÁRIAS 18,8 19,4 18,9 18,7 18,5 18,4 18,3 18,2 17,6 17,2 16,8 16,5
+Benefícios Previdenciários (RGPS) 8,1 8,3 8,2 8,2 8,1 8,0 8,0 7,9 7,9 7,9 7,9 7,9
+Pessoal e Encargos Sociais 3,2 3,3 3,2 3,1 3,0 2,9 2,8 2,7 2,6 2,5 2,4 2,3
+Outras despesas obrigatórias 3,1 3,3 3,1 3,1 3,2 3,4 3,6 3,8 3,5 3,4 3,4 3,5
+BPC/LOAS 1,0 1,1 1,1 1,1 1,1 1,1 1,2 1,2 1,2 1,2 1,2 1,3
+Abono e Seguro Desemprego 0,7 0,7 0,7 0,7 0,7 0,7 0,7 0,7 0,8 0,8 0,8 0,8
+Fundef/Fundeb - Complementação da União 0,5 0,5 0,5 0,5 0,5 0,5 0,5 0,5 0,5 0,5 0,5 0,5
+Sentenças e Precatórios (custeio e capital) 0,3 0,3 0,2 0,2 0,2 0,2 0,2 0,2 0,2 0,2 0,2 0,2
+Subsídios, Subvenções e Proagro 0,2 0,2 0,2 0,2 0,2 0,2 0,2 0,2 0,1 0,1 0,1 0,1
+Fundo de Compensação de Benefícios Fiscais - FCBF 0,0 0,0 0,0 0,0 0,1 0,2 0,4 0,5 0,1 0,0 0,0 0,0
+Fundo Nacional de Desenvolvimento Regional - FNDR 0,0 0,0 0,0 0,0 0,1 0,1 0,2 0,2 0,2 0,2 0,2 0,2
+Demais Despesas Obrigatórias 0,4 0,5 0,3 0,4 0,3 0,4 0,3 0,4 0,3 0,4 0,3 0,4
+Despesas Obrigatórias com Controle de Fluxo 2,9 2,8 2,7 2,6 2,6 2,5 2,5 2,4 2,3 2,2 2,1 2,0
+das quais Bolsa Família/ 1,2 1,2 1,1 1,0 1,0 0,9 0,9 0,8 0,8 0,7 0,7 0,7
+Despesas Discricionárias do Executivo 1,6 1,6 1,8 1,7 1,7 1,5 1,5 1,4 1,4 1,2 1,0 0,8
+Despesas não sujeitas ao limite 1,3 1,8 1,5 1,5 1,6 1,8 2,0 2,1 1,8 1,7 1,7 1,7
+Despesas sujeitas ao limite 17,5 17,5 17,5 17,2 16,9 16,6 16,3 16,1 15,9 15,5 15,1 14,8
+62
+
+=== página 67 ===
+Tabela 23 – Projeção de Resultado Primário do Setor Público Não Financeiro (R$ bilhões)
+Fonte: Elaboração própria
+Discriminação 2025 2026 2027 2028 2029 2030 2031 2032 2033 2034 2035 2036
+RECEITA TOTAL 2.902 3.218 3.464 3.751 4.023 4.351 4.643 4.960 5.187 5.448 5.722 6.024
+Receita Administrada pela RFB, exceto RGPS 1.860 2.052 2.232 2.341 2.465 2.617 2.768 2.938 3.122 3.320 3.533 3.761
+Arrecadação Líquida para o RGPS 710 788 849 904 974 1.048 1.128 1.213 1.304 1.401 1.506 1.618
+Receitas Não Administradas pela RFB 333 378 353 370 373 386 389 396 407 412 411 418
+Receitas Adicionais 0 0 30 136 211 301 358 413 354 314 272 228
+TRANSF. POR REPARTIÇÃO DE RECEITA 570 637 667 685 719 766 804 850 903 958 1.019 1.085
+RECEITA LÍQUIDA 2.333 2.581 2.797 3.065 3.304 3.585 3.839 4.110 4.284 4.490 4.703 4.940
+DESPESA TOTAL 2.393 2.642 2.790 2.967 3.145 3.355 3.582 3.820 3.966 4.141 4.324 4.527
+Benefícios Previdenciários 1.026 1.136 1.210 1.296 1.373 1.463 1.559 1.665 1.778 1.900 2.030 2.171
+Pessoal e Encargos Sociais 402 454 475 492 509 526 543 561 580 599 618 639
+Outras Despesas Obrigatórias 391 455 449 488 541 623 701 800 781 820 875 950
+Despesas Obrigatórias com Controle de Fluxo 370 377 398 419 440 461 483 502 516 528 545 557
+Despesas Discricionárias do Executivo 204 219 258 272 282 283 295 293 311 295 255 209
+PRIMÁRIO GOV. CENTRAL -59 -60 7 98 159 230 257 289 318 348 380 413
+Primário Governos Regionais 9 21 1 1 2 4 4 3 2 0 0 1
+Primário Empresas Estatais Federais -5 -15 -5 -5 -6 -6 -6 -7 -7 -8 -8 -9
+PRIMÁRIO SETOR PÚBLICO NÃO FINANCEIRO -55 -55 3 95 155 228 255 286 312 341 372 405
+*As despesas realizadas de 2025 são apresentadas neste quadro pelo critério de pagamento efetivo.
+Tabela 24 – Projeção de Resultado Primário do Setor Público Não Financeiro (% do PIB)
+Fonte: Elaboração própria
+Discriminação 2025 2026 2027 2028 2029 2030 2031 2032 2033 2034 2035 2036
+RECEITA TOTAL 22,8 23,6 23,5 23,7 23,7 23,8 23,7 23,6 23,1 22,6 22,2 21,9
+Receita Administrada pela RFB, exceto RGPS 14,6 15,0 15,2 14,8 14,5 14,3 14,1 14,0 13,9 13,8 13,7 13,7
+Arrecadação Líquida para o RGPS 5,6 5,8 5,8 5,7 5,7 5,7 5,8 5,8 5,8 5,8 5,8 5,9
+Receitas Não Administradas pela RFB 2,6 2,8 2,4 2,3 2,2 2,1 2,0 1,9 1,8 1,7 1,6 1,5
+Receitas Adicionais 0,0 0,0 0,2 0,9 1,2 1,6 1,8 2,0 1,6 1,3 1,1 0,8
+TRANSF. POR REPARTIÇÃO DE RECEITA 4,5 4,7 4,5 4,3 4,2 4,2 4,1 4,0 4,0 4,0 4,0 3,9
+RECEITA LÍQUIDA 18,3 18,9 19,0 19,4 19,4 19,6 19,6 19,6 19,1 18,7 18,3 18,0
+DESPESA TOTAL 18,8 19,4 18,9 18,7 18,5 18,4 18,3 18,2 17,6 17,2 16,8 16,5
+Benefícios Previdenciários 8,1 8,3 8,2 8,2 8,1 8,0 8,0 7,9 7,9 7,9 7,9 7,9
+Pessoal e Encargos Sociais 3,2 3,3 3,2 3,1 3,0 2,9 2,8 2,7 2,6 2,5 2,4 2,3
+Outras Despesas Obrigatórias 3,1 3,3 3,1 3,1 3,2 3,4 3,6 3,8 3,5 3,4 3,4 3,5
+Despesas Obrigatórias com Controle de Fluxo 2,9 2,8 2,7 2,6 2,6 2,5 2,5 2,4 2,3 2,2 2,1 2,0
+Despesas Discricionárias do Executivo 1,6 1,6 1,8 1,7 1,7 1,5 1,5 1,4 1,4 1,2 1,0 0,8
+PRIMÁRIO GOV. CENTRAL -0,5 -0,4 0,0 0,6 0,9 1,3 1,3 1,4 1,4 1,4 1,5 1,5
+Primário Governos Regionais 0,1 0,2 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0
+Primário Empresas Estatais Federais -0,0 -0,1 -0,0 -0,0 -0,0 -0,0 -0,0 -0,0 -0,0 -0,0 -0,0 -0,0
+PRIMÁRIO SETOR PÚBLICO NÃO FINANCEIRO -0,4 -0,4 0,0 0,6 0,9 1,2 1,3 1,4 1,4 1,4 1,4 1,5
+*As despesas realizadas de 2025 são apresentadas neste quadro pelo critério de pagamento efetivo.
+63
+
+=== página 68 ===
+Tabela 25 – Projeção da Dívida Pública – Cenário de Referência (R$ bilhões)
+Fonte: Elaboração própria
+Discriminação 2025 2026 2027 2028 2029 2030 2031 2032 2033 2034 2035 2036
+Necessidade de Financiamento do Setor Público 1.063 1.224 1.177 1.067 1.017 957 919 945 980 1.016 1.064 1.123
+Juros Nominais - DLSP 1.008 1.169 1.180 1.162 1.172 1.185 1.174 1.230 1.293 1.357 1.436 1.527
+Juros Nominais - DBGG 1.128 1.242 1.237 1.214 1.218 1.232 1.225 1.287 1.357 1.427 1.512 1.611
+Dívida Líquida do Setor Público 8.311 9.636 10.801 11.846 12.861 13.805 14.712 15.642 16.610 17.612 18.664 19.772
+10.01
+Dívida Bruta do Governo Geral 11.398 12.654 13.819 14.937 15.975 17.020 18.107 19.218 20.377 21.590 22.863
+8
+Dívida Líquida do Governo Geral 8.513 9.678 10.750 11.768 12.714 13.652 14.522 15.467 16.373 17.402 18.324 19.417
+Tabela 26 – Projeção da Dívida Pública – Cenário de Referência (% do PIB)
+Fonte: Elaboração própria
+Discriminação 2025 2026 2027 2028 2029 2030 2031 2032 2033 2034 2035 2036
+Necessidade de Financiamento do Setor Público 8,3 9,0 8,0 6,7 6,0 5,2 4,7 4,5 4,4 4,2 4,1 4,1
+Juros Nominais - DLSP 7,9 8,6 8,0 7,3 6,9 6,5 6,0 5,9 5,8 5,6 5,6 5,6
+Juros Nominais - DBGG 8,9 9,1 8,4 7,7 7,2 6,7 6,2 6,1 6,0 5,9 5,9 5,9
+Dívida Líquida do Setor Público 65,2 70,6 73,4 74,8 75,7 75,6 75,1 74,5 73,9 73,2 72,5 71,9
+Dívida Bruta do Governo Geral 78,6 83,5 85,9 87,3 87,9 87,4 86,9 86,2 85,5 84,7 83,9 83,1
+Dívida Líquida do Governo Geral 66,8 70,9 73,0 74,3 74,8 74,7 74,1 73,7 72,8 72,3 71,2 70,6
+Tabela 27 – Projeção da Dívida Pública – Cenário Inicial (R$ bilhões)
+Fonte: Elaboração própria
+Discriminação 2025 2026 2027 2028 2029 2030 2031 2032 2033 2034 2035 2036
+Dívida Líquida do Setor Público 8.311 9.636 10.829 11.941 13.099 14.252 15.468 16.745 18.005 19.287 20.638 22.057
+Dívida Bruta do Governo Geral 10.018 11.398 12.682 13.915 15.176 16.422 17.776 19.211 20.614 22.053 23.564 25.148
+Dívida Líquida do Governo Geral 8.513 9.678 10.778 11.863 12.953 14.099 15.278 16.571 17.768 19.078 20.299 21.702
+Tabela 28 – Projeção da Dívida Pública – Cenário Inicial (% do PIB)
+Fonte: Elaboração própria
+Discriminação 2025 2026 2027 2028 2029 2030 2031 2032 2033 2034 2035 2036
+Dívida Líquida do Setor Público 65,2 70,6 73,5 75,4 77,1 78,0 78,9 79,8 80,1 80,1 80,2 80,2
+Dívida Bruta do Governo Geral 78,6 83,5 86,1 87,9 89,3 89,9 90,7 91,5 91,7 91,6 91,5 91,4
+Dívida Líquida do Governo Geral 66,8 70,9 73,2 74,9 76,2 77,2 78,0 78,9 79,0 79,3 78,9 78,9
+64
+
+=== página 69 ===
+C. Premissas de Projeção
+Com relação à edição anterior do Relatório de Projeções Fiscais, não houve alterações significativas na
+metodologia de projeção de receitas primárias e do resultado dos governos regionais. Entretanto, devido à
+constante evolução dos cenários político e fiscal no que tange às incertezas associadas a políticas públicas
+que implicam despesas primárias para o Governo Central, relata-se a seguinte atualização de premissas.
+Premissas para projeções de despesas
+Valores de 2026 consideram a despesa projetada no âmbito do Relatório de Avaliação de Receitas e
+Despesas Primárias do 2º bimestre de 2026.
+No presente relatório, foram apresentados dois cenários de despesas: o cenário inicial e o cenário de
+referência, que seguem o limite de despesa definido pelo Regime Fiscal Sustentável, instituído pela LC nº
+200, de 2023. O limite de despesa depende da receita líquida ajustada (RLA), que é diferente para cada um
+dos cenários: no cenário inicial, a RLA considera apenas medidas de receitas previstas na legislação ou já
+em vigor, enquanto o cenário de referência incorpora medidas de receita adicionais com o objetivo de atingir
+o centro das metas de resultado primário do PLDO 2027, ajustadas pelas excepcionalizações. Em ambos os
+cenários, as despesas discricionárias são projetadas em forma de resíduo, a partir do espaço fiscal
+disponível após a projeção do limite de despesas e das despesas obrigatórias.
+Para cada um dos cenários apresentados neste relatório, o processo de projeção das despesas primárias do
+Governo Central parte da projeção individual das rubricas que compõem a Necessidade de Financiamento
+do Governo Central (NFGC), conforme apresentado no Resultado do Tesouro Nacional (RTN). Cada uma
+dessas rubricas tem regras de evolução próprias, em geral baseadas na dinâmica das políticas públicas em
+vigor ou já anunciadas e na evolução do cenário macroeconômico considerado.
+Em relação à projeção das rubricas da NFGC que compõem a despesa primária, apresentamos a seguir um
+maior detalhamento para os principais agregados. Para a grande parte das demais despesas, assume-se
+correção pela inflação. Por hipótese, assume-se que não há abertura de créditos extraordinários no período.
+Para a projeção das despesas relativas ao Regime Geral de Previdência Social (RGPS), que representam a
+maior despesa primária do Governo Central, são consideradas as regras de acesso, dados administrativos
+históricos e as mudanças demográficas projetadas pelo IBGE para calcular a quantidade de benefícios pagos
+por ano39. Para a projeção do valor dos benefícios, utilizam-se projeções oficiais sobre o crescimento real da
+massa salarial e assume-se variação real do salário-mínimo com base no menor valor entre a variação real
+do limite de despesas e a variação do PIB de dois anos antes, conforme as Leis n° 14.663/2023 e nº
+15.077/2024, desde que não inferior a 0,6% ou superior a 2,5% (regra em vigor até 2030). A mesma
+metodologia é aplicada para projetar as despesas com os Benefícios Assistenciais (Benefício de Prestação
+Continuada - BPC e Renda Mensal Vitalícia - RMV).
+Para a projeção da despesa com pessoal, a segunda maior despesa do governo, assume-se, de maneira
+simplificada, a incorporação dos reajustes salariais já definidos pela legislação e reajuste pela inflação para
+o período posterior. Neste relatório, conforme mencionado, a despesa de 2026 é idêntica ao relatório do 2º
+bimestre de 2026, para os períodos posteriores, para todos os Poderes da União e também para FCDF
+(servidores do Distrito Federal pagos pela União), em que ainda não há reajustes acordados, as projeções
+39 A estrutura do modelo de projeção usado neste relatório é semelhante ao utilizado pelo Ministério da Previdência
+Social, cujo detalhamento é apresentado no Anexo IV.10 do PLDO 2027.
+65
+
+=== página 70 ===
+utilizam a inflação do RFS, medida pela variação do IPCA acumulada em 12 meses até junho do ano anterior.
+Para as quantidades, considera-se aumento de 1% no número de servidores inativos (aposentados e
+reformados) e manutenção do quantitativo de servidores ativos e de pensionistas. Dados esses
+pressupostos, é respeitado o limite de crescimento real da despesa de pessoal, de 0,6% a.a., conforme
+vedação prevista no art. 6º-A da LC nº 200/2023, válida para o ano de 2027 e enquanto perdurar a apuração
+de déficit primário pelo Governo Central, ou até 2030.
+Para o Abono Salarial e o Seguro Desemprego, as projeções são feitas utilizando-se modelos de preços e
+quantidades: a variação dos preços considera o valor projetado do salário-mínimo e, no caso do Seguro
+Desemprego, também o salário médio recebido pelo trabalhador enquanto empregado; as quantidades são
+estimadas de acordo com a quantidade de trabalhadores formais, número de demissões e média de meses
+trabalhados, dados pela dinâmica do mercado de trabalho, além da inflação e do crescimento populacional.
+Adicionalmente, para o Abono Salarial, considera-se a nova regra de elegibilidade estabelecida pela EC nº
+135/2024.
+Para a projeção das despesas do Programa Bolsa Família, assume-se atualização do benefício médio a cada
+dois anos pela inflação do ano anterior, a partir de 2027. Assume-se também a manutenção do quantitativo
+de famílias beneficiárias implícito na programação do 2º RARDP de 2026.
+Para as despesas com a complementação da União ao Fundo de Manutenção e Desenvolvimento do Ensino
+(Fundeb), assume-se manutenção das regras definidas pela Emenda Constitucional nº 108, de 26 de agosto
+de 2020, que ampliou gradualmente o percentual de complementação do Governo Federal de 12% em 2021
+até 23% em 2026, tornando-se o percentual constante a partir de então. Trata-se de despesa
+excepcionalizada do limite de estabelecido pela LC nº 200, de 2023.
+Quanto às hipóteses relativas às Sentenças Judiciais, a partir de 2027, projeta-se crescimento real médio de
+4,9% a.a. para o pagamento de precatórios (já considerando a expedição observada para 2027), 5,8% para
+as requisições de pequeno valor e 0,1% para o restante das sentenças judiciais. A partir de 2028, não há
+projeção de expedição de precatórios de FUNDEF e de grande valor, embora ainda haja pagamentos de
+precatórios do FUNDEF de maneira parcelada até 2029.
+A despesa de custeio e capital com o Fundo Constitucional do Distrito Federal (FCDF) é projetada como
+resíduo, considerando que a despesa de pessoal do FCDF, como mencionado anteriormente, cresce pela
+inflação, ao passo que a despesa total do FCDF segue a variação da receita corrente líquida (RCL) da União
+no período acumulado em doze meses até junho do exercício anterior. Esses gastos não são computados no
+limite de despesas.
+Os impactos decorrentes do Fundo Nacional de Desenvolvimento Regional (FNDR) e do Fundo de
+Compensação de Benefícios Fiscais (FCBF) são estimados conforme regramento constitucional. O impacto
+primário do FNDR equivale aos aportes anuais previstos no art. 13 da EC 132/2023, atualizados pela inflação.
+Quanto ao FCBF, embora a EC nº 132/2023 tenha definido os montantes a serem alocados ao Fundo entre
+2025 e 2032, os desembolsos do fundo passarão a ocorrer apenas a partir de 2029, e seu impacto se dá na
+mesma proporção da redução dos benefícios do ICMS de que trata o art. 128 do Ato das Disposições
+Constitucionais Transitórias (1/10 em 2029, 2/10 em 2030, 3/10 em 2031 e 4/10 em 2032). As projeções
+consideram defasagem temporal entre competência e pagamento, de forma que apenas 9/12 da despesa é
+executada no ano da competência e os 3/12 restantes no exercício seguinte. A projeção toma como base o
+valor de renúncias de receitas do ICMS constante do Boletim de Finanças dos Entes Subnacionais de 2025
+(ano-base 2024), publicado pela STN, de R$ 229,9 bilhões, deduzido de 36,1% de renúncias para atividades
+comerciais não elegíveis à compensação do FCBF, atualizado pela variação do PIB nominal. Eventual saldo
+66
+
+=== página 71 ===
+financeiro decorrente da diferença entre os aportes e as compensações pagas pelo FCBF será transferido ao
+FNDR, e caso o montante aportado não seja suficiente para fazer face às compensações, aportes adicionais
+serão necessários.
+A projeção das despesas com saúde e educação tidas como Obrigatórias com Controle de Fluxo evoluem de
+acordo com os respectivos mínimos, vinculados à variação da RCL e da RLI.
+As despesas discricionárias são calculadas como resíduo entre o limite de despesas e as despesas
+obrigatórias a ele sujeitas, além das despesas discricionárias não sujeitas ao limite (como despesas com
+projetos socioambientais custeadas com recursos de doações ou decorrentes de ações judiciais, despesas
+de instituições federais de ensino custeadas com recursos próprios ou de doações, e execução de obras e
+serviços de engenharia custeadas com recursos de transferências40). Entretanto, como o limite estabelecido
+pela LC 200/2023 é orçamentário, considera-se a existência de um float, decorrente de diferenças entre a
+execução orçamentária e financeira41.
+Projetam-se, ainda, as “despesas discricionárias rígidas”, que equivalem à parcela das despesas com os
+gastos mínimos em saúde e educação alocada nas despesas discricionárias e às emendas parlamentares42
+(conforme proporção não contingenciável). As projeções consideram as interseções entre essas despesas.
+Por fim, a projeção do montante contingenciado no cenário inicial (em que as receitas não são suficientes
+para o atingimento do limite inferior da meta de resultado primário nos anos de 2028, 2029 e 2030)
+consideram o limite de 75% das despesas discricionárias – contingenciamento máximo de 25% das
+discricionárias. Assim, de 2028 a 2030, a despesa sujeita ao limite no cenário inicial atinge montante inferior
+ao limite de despesas.
+40 Para essas despesas, considera-se a programação prevista no 2º RARDP de 2026, atualizada pelo IPCA do ano
+anterior.
+41 Essas diferenças derivam, por exemplo, do espaçamento no tempo entre o empenho e o pagamento de determinadas
+despesas, em especial de benefícios previdenciários, BPC, pessoal e encargos e subsídios.
+42 Seguem evolução prevista na LC nº 210/2024, ou seja: as emendas individuais e de bancada partem do valor previsto
+para 2026 e são atualizadas pela correção do limite de despesa, e as emendas não impositivas equivalem a R$ 11,5
+bilhões de 2025, atualizados pelo IPCA.
+67
+
+=== página 72 ===
+D. Metodologia de projeção da DBGG
+A projeção da Dívida Bruta do Governo Geral (DBGG) pelo modelo utilizado pela Secretaria do Tesouro
+Nacional tem como principais blocos: a Dívida Pública Federal (DPF), as operações compromissadas do BCB
+(Compromissadas), o reconhecimento de passivos contingentes (ER), a dívida bancária federal (DBF), a
+dívida bancária de governos regionais (DBGR), a dívida externa de governos regionais (DERG) e aplicações
+intra governo geral (Aplicações).
+DBGG = DPF + Compromissadas + ER + DBF+DBGR+ DEGR– Aplicações
+Cada um desses blocos tem um tratamento específico para as projeções dentro do modelo, que será
+explicado na sequência.
+Dívida Pública Federal, Compromissadas e Reconhecimento de Passivos Contingentes
+Dívida Pública Federal
+Principal item da DBGG, as projeções da DPF seguem as mesmas definições e metodologias utilizadas nas
+estatísticas divulgadas pelo Tesouro Nacional. A projeção envolve simular o valor do estoque de cada título
+público ao final de cada período, com base em três insumos principais: o estoque atual da DPF, a estratégia
+de emissões no médio prazo e o cenário macroeconômico e financeiro.
+O sistema de projeções de dívida projeta os fluxos de caixa futuros e calcula o valor presente esperado,
+utilizando a taxa interna de retorno média dos títulos, conforme as taxas do momento em que os títulos foram
+emitidos. Os valores são corrigidos pelos indexadores até a data definida. No caso da dívida em moeda
+estrangeira, os cálculos iniciais são feitos na moeda de origem e depois convertidos para reais, conforme o
+cenário para a taxa de câmbio.
+O estoque da DPF em determinada data corresponderá ao somatório dos estoques dos instrumentos
+remanescentes na data projetada. Além do estoque, o sistema também projeta os fluxos financeiros de
+emissões e resgates. Essa informação será utilizada para o cálculo dos juros da DPF e para as projeções das
+compromissadas, como explicaremos mais à frente. Por fim, o custo médio da DPF é calculado com base
+nas taxas de retorno dos títulos individualmente.
+Operações compromissadas do Banco Central (BCB)
+A projeção das operações compromissadas envolve os principais fatores determinantes da DBGG
+identificados no modelo. É importante destacar que a Conta Única do Tesouro (CTU) está depositada no
+BCB, de forma que o ingresso e a saída de recursos na CTU afetam o excesso de liquidez em mercado e,
+portanto, o montante de compromissadas. Isso vale para o resultado primário do governo central e para as
+emissões líquidas da Dívida Pública Mobiliária Federal interna (DPMFi) em mercado, entre outros fluxos.
+Operações do Tesouro Nacional. O modelo de projeção da DBGG considera que o resultado primário afeta o
+volume de operações compromissadas por meio da Conta Única do Tesouro (CTU): superávits primários
+reduzem as compromissadas, enquanto déficits as aumentam. As emissões líquidas da DPMFi no mercado
+interno aumentam a DPF, mas reduzem as compromissadas, sendo, portanto, neutras para o total da DBGG
+— alteram apenas sua composição.
+Além disso, o modelo incorpora outros fluxos financeiros que impactam a CTU, como o retorno de créditos
+da União (ex.: pagamentos de entes subnacionais ou do BNDES), que reduzem as compromissadas, e as
+despesas financeiras do Tesouro, que as aumentam.
+68
+
+=== página 73 ===
+Operações do Banco Central. Do lado do Banco Central, o modelo considera os principais determinantes da
+base monetária, que influenciam as compromissadas do BCB. Entre eles estão: operações cambiais
+(compra de dólares aumenta compromissadas; venda reduz); moeda manual, que corresponde a variação
+do papel moeda emitido (PME); depósitos e outras operações bancárias, como a variação das reservas
+bancárias, depósitos compulsórios e voluntários; resultado de swaps cambiais (dependente da taxa de
+câmbio); e outras operações que afetam a liquidez em mercado.
+Por fim, os juros sobre compromissadas são calculados com base na taxa Selic aplicada ao estoque do
+período anterior. Os cálculos são mensais, respeitando a sazonalidade, e depois agregados para projeções
+anuais.
+Reconhecimento de Passivos Contingentes
+A previsão de reconhecimento de passivos contingentes é uma variável que aumenta a DBGG. A rigor, esse
+reconhecimento aumenta a DPF, mas o modelo atual projeta esse item em separado, por conveniência,
+dadas as particularidades desse fluxo.
+Para incorporar essa variável à projeção da DBGG, inicia-se com uma variável com estoque inicial zero. A
+cada período, acrescenta-se o valor reconhecido no ano e, a partir do ano 2, corrige-se o valor acumulado
+em estoque até o ano anterior por uma taxa de juros definida.
+Tabela 29 – Fatores de variação DPF + Compromissadas (% do PIB)
+Fonte: Elaboração própria
+Fatores de variação DPF + Compromissadas 2026 2027 2028 2029 2030 2031 2032 2033 2034 2035 2036
+Estoque inicial* 75,6 80,6 82,8 84,0 84,4 83,8 83,0 82,3 81,3 80,3 79,2
+Emissões líquidas do TN sem impacto na
+0,7 0,2 0,0 0,2 -0,0 0,1 0,1 0,0 0,1 0,0 0,0
+liquidez**
+Fluxos de liquidez via CTU 1,0 0,3 -0,3 -0,7 -1,0 -1,0 -1,1 -1,1 -1,1 -1,2 -1,2
+Resultado primário do GC** 0,4 -0,0 -0,6 -0,9 -1,3 -1,3 -1,4 -1,4 -1,4 -1,5 -1,5
+Outros fluxos 0,6 0,4 0,3 0,3 0,3 0,3 0,3 0,3 0,3 0,3 0,3
+Operações BCB -0,5 -0,5 -0,2 -0,2 -0,2 -0,2 -0,2 -0,2 -0,2 -0,2 -0,2
+Operações cambiais 0,2 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0
+Moeda manual -0,5 -0,3 -0,2 -0,2 -0,2 -0,2 -0,2 -0,2 -0,2 -0,2 -0,2
+Depósitos e outras op. bancárias 0,3 -0,2 -0,1 -0,1 -0,1 -0,1 -0,1 -0,1 -0,1 -0,1 -0,1
+Swaps cambiais 0,0 -0,4 -0,1 -0,0 -0,0 -0,0 0,0 0,0 0,0 0,0 0,0
+Outros -0,4 0,4 0,2 0,1 0,1 0,1 0,1 0,1 0,1 0,1 0,1
+Juros DPF*** 7,6 7,2 6,7 6,3 6,1 5,7 5,7 5,6 5,6 5,5 5,4
+Juros DPMFi 7,5 7,1 6,6 6,2 5,9 5,5 5,5 5,4 5,4 5,3 5,2
+Juros DPFe 0,1 0,1 0,1 0,2 0,2 0,2 0,2 0,2 0,2 0,2 0,2
+Variação cambial - DPF -0,1 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0
+Juros sobre as compromissadas 1,2 0,9 0,7 0,6 0,4 0,3 0,1 0,1 0,0 0,0 0,1
+Efeito crescimento PIB**** -5,0 -5,9 -5,8 -5,8 -5,9 -5,7 -5,5 -5,4 -5,4 -5,2 -5,1
+Estoque final 80,6 82,8 84,0 84,4 83,8 83,0 82,3 81,3 80,3 79,2 78,2
+* O estoque inicial da DPF em 2026 nesta tabela segue a base das estatísticas de DBGG e DLSP do Banco Central, que tem pequena diferença
+metodológica em relação aos números do Relatório Mensal da Dívida. Essa diferença no ponto de partida, contudo, não afeta as projeções futuras.
+**Inclui reconhecimento de passivos contingentes.
+*** Os juros incluem o efeito de variação cambial.
+**** Considera a variação da relação dívida/PIB e compromissadas/PIB devidas ao crescimento verificado no PIB, calculada pelas fórmulas: DPFt-
+1/(PIBt/PIBt-1) - DPFt-1 e Ct-1/(PIBt/PIBt-1) - Ct-1.
+69
+
+=== página 74 ===
+Dívida bancária federal
+Assume-se que a dívida bancária federal (DBF) evolua no tempo apenas em função do seu custo de
+carregamento. Isto é, a premissa é de que não há emissão líquida para esse agregado.
+Tabela 30 – Dívida Bancária Federal (% do PIB)
+Fonte: Elaboração própria
+Dívida Bancária Federal 2026 2027 2028 2029 2030 2031 2032 2033 2034 2035 2036
+Estoque inicial 0,13 0,14 0,14 0,15 0,15 0,15 0,14 0,14 0,14 0,14 0,14
+Juros 0,02 0,01 0,01 0,01 0,01 0,01 0,01 0,01 0,01 0,01 0,01
+Efeito crescimento do PIB* -0,01 -0,01 -0,01 -0,01 -0,01 -0,01 -0,01 -0,01 -0,01 -0,01 -0,01
+Estoque final 0,14 0,14 0,15 0,15 0,15 0,14 0,14 0,14 0,14 0,14 0,14
+* Considera a variação da relação dívida/PIB devida ao crescimento verificado no PIB, calculada pela fórmula: DBFt/(PIBt/PIBt-1) - DBFt-1
+Dívida dos Governos Regionais (% do PIB)
+Dívida bancária dos governos regionais
+Supõe-se que a dívida bancária dos governos regionais evolua em função do seu custo de carregamento
+(juros) mais as emissões líquidas dos entes subnacionais ou nova dívida. Estes entes possuem dívidas com
+a União, que implicam em pagamentos periódicos ao Tesouro Nacional. Assim, o modelo utiliza a variável de
+emissões líquidas para estabelecer uma ligação entre a dívida dos governos regionais com a União e a dívida
+bancária. O modelo identifica três possíveis fontes para pagamento de dívidas pelos governos regionais: (a)
+superávit primário; (b) disponibilidades de caixa de períodos anteriores (variação do ativo); (c) nova dívida.
+Se os governos regionais gerarem superávit primário superior aos pagamentos de dívida ao Tesouro Nacional
+(e a variação de caixa for igual a zero), as emissões líquidas serão negativas, indicando redução da dívida
+bancária. Por outro lado, se os governos regionais apresentarem déficit primário ou superávit primário
+inferior aos pagamentos ao Tesouro Nacional (e a variação de caixa for igual a zero), isso significa que eles
+precisarão aumentar sua dívida bancária por meio de emissões líquidas. A redução do caixa pelos governos
+regionais diminui a necessidade de nova dívida por parte destes entes.
+Por fim, o pagamento de dívida pelos governos regionais ao Tesouro Nacional reduz a DBGG quando os
+recursos ingressarem na conta única do Tesouro, pois esse ingresso reduz o excesso de liquidez em mercado
+e, portanto, reduz as operações compromissadas do Banco Central. Este, portanto, será o principal canal
+pelo qual o resultado primário dos governos regionais reduz DBGG43.
+Dívida Externa de Governos Regionais
+Assume-se que a dívida externa dos governos regionais (DEGR) evolua no tempo apenas em função do seu
+custo de carregamento, incluindo aqui o efeito da variação cambial sobre o estoque dessa dívida. Isto é, a
+premissa é de que não haja emissão líquida para esse agregado.
+43 Posteriormente, o Tesouro Nacional usará a fonte de recursos oriunda do pagamento de dívida pelos governos
+regionais para pagar DPF, mas esse movimento vai se refletir indiretamente nas emissões líquidas da DPF e, assim, não
+ficará explícito no modelo de DBGG.
+70
+
+=== página 75 ===
+Tabela 31 – Dívida dos Governos Regionais (% do PIB)
+Fonte: Elaboração própria
+Dívida dos Governos
+2026 2027 2028 2029 2030 2031 2032 2033 2034 2035 2036
+Regionais
+Estoque inicial 3,4 3,4 3,6 3,8 4,0 4,2 4,4 4,7 4,9 5,1 5,4
+Emissões Líquidas -0,1 0,1 0,1 0,1 0,1 0,1 0,1 0,1 0,1 0,1 0,1
+Resultado primário dos GR* -0,2 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0
+Redução de caixa pelos GR** -0,1 -0,1 -0,1 -0,1 -0,1 -0,1 -0,1 -0,1 -0,1 -0,1 -0,1
+Pagamento de dívidas ao TN 0,2 0,2 0,3 0,3 0,3 0,3 0,3 0,3 0,2 0,2 0,2
+Variação cambial 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0
+Juros 0,3 0,4 0,3 0,3 0,4 0,4 0,4 0,4 0,4 0,4 0,5
+Efeito crescimento PIB *** -0,2 -0,2 -0,2 -0,3 -0,3 -0,3 -0,3 -0,3 -0,3 -0,3 -0,3
+Estoque final 3,4 3,6 3,8 4,0 4,2 4,4 4,7 4,9 5,1 5,4 5,6
+* Valores negativos indicam redução de dívida por meio de superávit primário.
+** Hipótese ad hoc; o caixa dos governos regionais aumentou significativamente após 2021; assim, assume-se que há margem para a redução
+desse ativo nos primeiros anos da projeção.
+*** Considera a variação da relação dívida/PIB devida ao crescimento verificado no PIB, calculada pela fórmula: DBGRt/(PIBt/PIBt-1) - DBGRt-1 .
+Aplicações Intra - Governo Geral
+A consolidação da DBGG deve levar em conta que há aplicações intra-governo geral em títulos públicos, que
+precisam ser descontadas para que a estatística de DBGG reflita apenas o passivo do governo geral com o
+mercado. Assume-se que não haja emissão líquida para essas aplicações.
+Tabela 32 – Aplicações Intra - Governo Geral (% do PIB)
+Fonte: Elaboração própria
+Aplicações intra-GG 2026 2027 2028 2029 2030 2031 2032 2033 2034 2035 2036
+Estoque inicial -0,5 -0,6 -0,6 -0,7 -0,7 -0,7 -0,8 -0,8 -0,8 -0,9 -0,8
+Juros -0,1 -0,1 -0,1 -0,1 -0,1 -0,1 -0,1 -0,1 -0,1 -0,1 -0,1
+Efeito crescimento PIB * 0,0 0,0 0,0 0,0 0,0 0,0 0,1 0,1 0,1 0,1 0,0
+Estoque final -0,6 -0,6 -0,7 -0,7 -0,7 -0,8 -0,8 -0,8 -0,9 -0,9 -0,8
+71

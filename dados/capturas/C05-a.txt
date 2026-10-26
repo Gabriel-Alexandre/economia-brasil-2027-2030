@@ -1,0 +1,804 @@
+# fonte: https://www.bcb.gov.br/content/publicacoes/WorkingPaperSeries/WP637v3.pdf
+# capturado em: 2026-10-26
+
+
+=== página 1 ===
+(cid:25)(cid:22)(cid:26)
+(cid:44)(cid:54)(cid:54)(cid:49)(cid:3)(cid:20)(cid:24)(cid:20)(cid:27)(cid:16)(cid:22)(cid:24)(cid:23)(cid:27)
+(cid:39)(cid:72)(cid:93)(cid:72)(cid:80)(cid:69)(cid:85)(cid:82)(cid:3)(cid:21)(cid:19)(cid:21)(cid:24)
+(cid:39)(cid:72)(cid:87)(cid:72)(cid:85)(cid:80)(cid:76)(cid:81)(cid:68)(cid:81)(cid:87)(cid:86)(cid:3)(cid:82)(cid:73)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:53)(cid:76)(cid:86)(cid:78)(cid:3)(cid:51)(cid:85)(cid:72)(cid:80)(cid:76)(cid:88)(cid:80)(cid:3)(cid:76)(cid:81)(cid:3)(cid:37)(cid:85)(cid:68)(cid:93)(cid:76)(cid:79)(cid:76)(cid:68)(cid:81)(cid:3)(cid:49)(cid:82)(cid:80)(cid:76)(cid:81)(cid:68)(cid:79)(cid:3)
+(cid:44)(cid:81)(cid:87)(cid:72)(cid:85)(cid:72)(cid:86)(cid:87)(cid:3)(cid:53)(cid:68)(cid:87)(cid:72)(cid:86)(cid:3)
+(cid:42)(cid:88)(cid:86)(cid:87)(cid:68)(cid:89)(cid:82)(cid:3)(cid:54)(cid:76)(cid:79)(cid:89)(cid:68)(cid:3)(cid:36)(cid:85)(cid:68)(cid:88)(cid:77)(cid:82)(cid:15)(cid:3)(cid:45)(cid:82)(cid:86)(cid:112)(cid:3)(cid:57)(cid:68)(cid:79)(cid:72)(cid:81)(cid:87)(cid:76)(cid:80)(cid:3)(cid:48)(cid:68)(cid:70)(cid:75)(cid:68)(cid:71)(cid:82)(cid:3)(cid:57)(cid:76)(cid:70)(cid:72)(cid:81)(cid:87)(cid:72)(cid:15)(cid:3)(cid:58)(cid:68)(cid:74)(cid:81)(cid:72)(cid:85)(cid:3)(cid:51)(cid:76)(cid:68)(cid:93)(cid:93)(cid:68)(cid:3)
+(cid:42)(cid:68)(cid:74)(cid:79)(cid:76)(cid:68)(cid:81)(cid:82)(cid:81)(cid:72)
+
+=== página 2 ===
+ISSN 1518-3548
+CGC 00.038.166/0001-05
+Working Paper Series Brasília no.(cid:25)(cid:22)(cid:26) (cid:39)(cid:72)(cid:93)(cid:72)(cid:80)(cid:69)(cid:85)(cid:82) 202(cid:24) p.(cid:22)(cid:16)(cid:21)(cid:24)
+
+=== página 3 ===
+Working Paper Series
+Edited bytheResearch Department (Depep)–E-mail:workingpaper@bcb.gov.br
+Editor:(cid:53)(cid:82)(cid:71)(cid:85)(cid:76)(cid:74)(cid:82)(cid:3)(cid:37)(cid:68)(cid:85)(cid:69)(cid:82)(cid:81)(cid:72)(cid:3)(cid:42)(cid:82)(cid:81)(cid:93)(cid:68)(cid:79)(cid:72)(cid:93)
+Co-editor:(cid:40)(cid:88)(cid:85)(cid:76)(cid:79)(cid:87)(cid:82)(cid:81)(cid:3)(cid:36)(cid:79)(cid:89)(cid:72)(cid:86)(cid:3)(cid:36)(cid:85)(cid:68)(cid:88)(cid:77)(cid:82)(cid:3)(cid:45)(cid:85)
+Head oftheResearch Department:(cid:40)(cid:88)(cid:79)(cid:72)(cid:85)(cid:3)(cid:51)(cid:72)(cid:85)(cid:72)(cid:76)(cid:85)(cid:68)(cid:3)(cid:42)(cid:82)(cid:81)(cid:111)(cid:68)(cid:79)(cid:89)(cid:72)(cid:86)(cid:3)(cid:71)(cid:72)(cid:3)(cid:48)(cid:72)(cid:79)(cid:79)(cid:82)
+DeputyGovernor for EconomicPolicy:(cid:39)(cid:76)(cid:82)(cid:74)(cid:82)(cid:3)(cid:36)(cid:69)(cid:85)(cid:92)(cid:3)(cid:42)(cid:88)(cid:76)(cid:79)(cid:79)(cid:72)(cid:81)
+The Banco Central do Brasil Working Papers are evaluated in double(cid:16)blind referee process.
+Although the Working Papers often represent preliminarywork, citationof source is required when used or reproduced.
+The views expressed in this Working Paperare those of the authors and do not necessarily reflect those of the Banco Central
+do Brasil.
+As opiniões expressas neste trabalho são exclusivamente do(s) autor(es) e não refletem, necessariamente, a visão do Banco
+Central do Brasil.
+Citizen Service Division
+Banco Central do Brasil
+Deati/Diate
+SBS – Quadra 3 – Bloco B – Edifício-Sede – 2º subsolo
+70074-900 Brasília – DF – Brazil
+Toll Free: 0800 9792345
+Fax: +55(61) 3414-2553
+Internet: http//www.bcb.gov.br/?CONTACTUS
+
+=== página 4 ===
+Non-Technical Summary
+This study examines the factors that influence the risk premium embedded in Brazilian
+nominal interest rates. The risk premium represents the additional compensation investors
+require for holding long-term bonds instead of rolling over short-term bonds. Understanding
+this component is crucial because it affects borrowing costs for governments, companies,
+and households, and plays an important role in monetary policy decisions.
+Using the ACM model developed by Adrian, Crump, and Moench (2013), we estimate the
+term premium from January 2007 to April 2025 based on Brazilian government bond yields.
+We then analyze how this premium relates to a broad set of macroeconomic and financial
+variables, including inflation expectations, domestic interest rates, fiscal indicators, U.S.
+interest rates, exchange rates, and global risk measures.
+Our results show that the term premium is highly volatile and accounts for a significant
+share of movements in long-term interest rates. Domestic factors, such as the Selic monetary
+policy rate, long-term financing costs, and inflation expectations, are the main drivers, but
+external conditions, including U.S. interest rates and global financial volatility, also play an
+important role, especially during periods of international stress. Fiscal indicators, such as
+public debt levels, become more relevant in times of political or economic uncertainty.
+These findings highlight that changes in long-term interest rates do not solely reflect
+expectations about future monetary policy but also incorporate risk compensation linked to
+macroeconomic uncertainty. For policymakers, monitoring these dynamics is essential to
+monitor financial conditions. For investors, understanding the determinants of the risk
+premium helps interpret market signals and manage exposure to interest rate risk.
+3
+
+=== página 5 ===
+Sumário Não Técnico
+Este estudo analisa os fatores que influenciam o prêmio de risco presente nas taxas de juros
+nominais brasileiras. Esse prêmio representa a compensação adicional exigida pelos
+investidores para manter títulos de longo prazo em vez de renovar sucessivamente títulos
+de curto prazo. Compreender o comportamento desse componente é essencial, pois ele afeta
+os custos de financiamento de governos, empresas e famílias, além de desempenhar papel
+relevante nas decisões de política monetária.
+O modelo desenvolvido por Adrian, Crump e Moench (2013) é utilizado para estimar o
+prêmio a termo no período de janeiro de 2007 a abril de 2025, com base nos títulos públicos
+federais brasileiros prefixados. Em seguida, analisa-se a relação desse prêmio com um
+amplo conjunto de variáveis macroeconômicas e financeiras, incluindo expectativas de
+inflação, taxas de juros domésticas, indicadores fiscais, taxas de juros dos Estados Unidos,
+taxa de câmbio e medidas globais de risco.
+Os resultados indicam que o prêmio de risco é altamente volátil e responde por parcela
+significativa das variações nas taxas de juros de longo prazo. Fatores domésticos, como a
+taxa Selic, os custos de financiamento de longo prazo e as expectativas de inflação, são os
+principais determinantes. Contudo, condições externas, incluindo as taxas de juros dos
+Estados Unidos e a volatilidade financeira global, também exercem influência relevante,
+especialmente em períodos de estresse internacional. Indicadores fiscais, como o nível da
+dívida pública, ganham importância em momentos de incerteza política ou econômica.
+Esses achados evidenciam que as variações nas taxas de juros de longo prazo não refletem
+apenas expectativas sobre a política monetária futura, mas também incorporam uma
+compensação pelo risco associada à incerteza macroeconômica. Para os formuladores de
+política econômica, acompanhar essas dinâmicas é essencial para monitorar as condições
+financeiras. Para os investidores, compreender os determinantes do prêmio de risco auxilia
+na interpretação dos sinais de mercado e na gestão da exposição ao risco de taxa de juros.
+4
+
+=== página 6 ===
+Determinants of the Risk Premium
+*
+in Brazilian Nominal Interest Rates
+Gustavo Silva Araujo †
+José Valentim Machado Vicente ‡
+Wagner Piazza Gaglianone §
+Abstract
+This article investigates the determinants of the risk premium in Brazilian nominal interest
+rates. The risk premium reflects the compensation investors require for holding long-term
+bonds instead of sequentially investing in short-term bonds. The study estimates risk
+premiums embedded in the Brazilian yield curve and analyzes their relationship with a
+comprehensive set of domestic and external macroeconomic variables. This is, to our
+knowledge, the first application of the ACM model to Brazil using such a comprehensive
+macro-financial variable set. Regression results reveal that the policy rate, long-term public
+financing cost, inflation expectations, public debt indicators, U.S. interest rates, USD/BRL
+exchange rate, and global volatility measures are statistically significant drivers. The time-
+series decomposition highlights the predominance of domestic interest rates and the increasing
+role of external shocks in periods of heightened global uncertainty. These findings contribute
+to the understanding of long-term interest rate dynamics in emerging markets.
+Keywords: Yield Curve; Risk Premium; Term Premium; Interest Rate Expectations.
+JEL Codes: E43; E44; E52; G12; H63.
+* The opinions expressed in this paper do not necessarily reflect the views of the Banco Central do Brasil. We thank André
+Minella, Angelo Marsiglia Fasolo, and Diogo Abry Guillen for useful comments and suggestions. We are also grateful to the
+anonymous referee of the Working Paper Series of the Banco Central do Brasil for their valuable review. The views expressed
+here are those of the authors and do not necessarily reflect those of the Banco Central do Brasil.
+† Banco Central do Brasil and FGV-EPGE. E-mail: gustavo.araujo@bcb.gov.br
+‡ Banco Central do Brasil E-mail: jose.valentim@bcb.gov.br
+§ Banco Central do Brasil and FGV Crescimento & Desenvolvimento. E-mail: wagner.gaglianone@bcb.gov.br
+1
+
+=== página 7 ===
+1. Introduction
+Risk aversion is the individual’s reluctance to invest in assets that may lead to changes in
+their future income or consumption. Therefore, individuals ask for compensation for
+exposing themselves to uncertain events when compared with a more stable scenario. For
+example, individuals invest their savings in equities only if the expected return on these
+speculative assets is higher than the return on a risk-free asset. Thus, there should always
+be a positive risk premium in equity returns to induce risk-averse investors to buy these
+financial instruments instead of holding their money in safer assets. In this case, one may
+interpret the premium as an excess of expected returns to compensate the investor for the
+uncertainty of the equity market. Risk premium is also present in fixed-income securities,
+including government bonds.
+Fixed-income investors face different kinds of risk. Hence, there is more than one risk
+premium embedded in these securities. Regarding Treasury bonds, it is possible to
+decompose the nominal yield into three components: (i) a rate to compensate for expected
+inflation; (ii) a risk-free real rate of return; (iii) a real rate risk premium; and (iv) an inflation
+risk premium, which represents a reward to hold risk associated with an increase in the
+prices of goods and services (see, for instance, Durham, 2006). However, one can also look
+at the nominal interest rate from another perspective: a decomposition into two components,
+the cumulative expectation of short-term interest rates and the term premium (see, for
+instance, Adrian, Crump, and Moench, 2013, Cochrane and Piazzesi, 2008). The first is the
+long-term interest rate that would prevail if investors were risk neutral. The second is
+compensation to the investor for holding long-term security instead of consecutively
+investing in short-term securities.
+In this paper we focus on the second decomposition presented in the previous paragraph. In
+particular, we investigate the main drivers of movements of the Brazilian nominal rates term
+premium (or risk premium). The motivation stems from the need to deepen our
+understanding of yield curve dynamics in emerging markets, where the interplay between
+monetary, fiscal, and external factors tends to be more intricate and less predictable than in
+developed countries.1 We estimate the term premium using the methodology of Adrian,
+Crump, and Moench (2013), referred here as the ACM model, and the nominal yield curve
+1 This effort complements recent work by Carvalho and Teles (2019), who analyze the yield curve in Brazil from a monetary
+policy transmission perspective.
+2
+
+=== página 8 ===
+from Brazilian fixed-rate government bonds using Svensson (1995) interpolation method.
+Our sample spans from January 2007 to April 2025.
+ACM model belongs to the class of affine term structure models studied by Duffie and Kan
+1996). Nowadays, affine term structure models are the workhorse of the yield curve pricing.
+However, as pointed out by Hamilton and Wu (2012), the estimation of the parameters of
+such models is tremendously challenging due to highly non-linear and badly behaved
+likelihood surfaces. To circumvent these problems, Adrian, Crump, and Moench (2013)
+propose a three-step linear regression approach, which made the estimation fast and reliable.
+The analysis of the term premium is directly connected to the expectation hypothesis which
+states that the n period yield is the average of expected future one-period yields plus a
+constant risk premium
+(1)
+(𝑛𝑛) 1 (1) (1) (𝑛𝑛)
+𝑦𝑦𝑡𝑡 = 𝑛𝑛𝐸𝐸𝑡𝑡�𝑦𝑦𝑡𝑡 +⋯+𝑦𝑦𝑡𝑡+𝑛𝑛−1�+𝑇𝑇𝑇𝑇
+The term on the left refers to the long-term spot interest rate; the first term on the right is
+the expectation of the cumulative short-term rates (unit size period rates); finally, the last
+term is the term premium for period n. Equation (1) is known as augmented expectation
+hypothesis. There is another version of the expectation hypothesis in which the term
+premium is not present, known as pure version. Numerous works have rejected the
+expectation hypothesis. Shiller and McCulloch (1990) presented a collection of studies that
+refuse the expectations hypothesis. Campbell and Shiller (1991) also found evidence against
+the expectations hypothesis using data from US yield curve between 1952 and 1987. For
+the Brazilian case, several studies show that the expectations hypothesis fail. Among others,
+we can cite Tabak and Andrade (2003), Brito, Duarte and Guillén (2004) and Marçal and
+Pereira (2007). Therefore, to reconcile theory and data, we allow a time-varying risk
+premium in Equation (1).
+For investors, knowing the risk premium and, as a result, nominal interest rate expectations
+is crucial because they may compare their own expectations with market expectations.
+Moreover, an increase in interest rate expectations indicates a prospect of a higher monetary
+policy rate in the economy, usually linked to a rise in inflation (which may reflect economic
+activity growth above its potential output). On the other hand, risk premium influences
+interest rates to which companies, households, and governments are exposed. Therefore,
+3
+
+=== página 9 ===
+central banks should monitor and understand long-term interest rates movements that
+embed risk premium when assessing financial conditions.
+Term premium is related to several types of uncertainty, both external and internal.
+Knowing the factors that influence the risk premium helps explain why part of the long-
+term interest rates move. It allows investors and policymakers to identify whether changes
+are driven by fundamentals, like inflation expectations, fiscal conditions or global risk, or
+by temporary shocks. This study explores the key factors influencing changes in the risk
+premium.
+The results indicate that most of the volatility in Brazilian nominal interest rates stems from
+the term premium, which is influenced by both domestic and external factors. Specifically,
+the monetary policy rate, long-term public financing cost, inflation expectations, public
+debt, U.S. interest rates, exchange rate (U.S. dollar against the Brazilian Real) and VIX
+exert a positive and statistically significant impact on the term premium. The time series
+decomposition further reveals that interest rate variables are the primary drivers of the term
+premium, followed by inflation, fiscal conditions, and external factors, reflecting the
+Brazilian market’s sensitivity to the macroeconomic environment.
+Some papers analyze the determinants of the term premium. Aguilar-Argaez et al. (2022)
+study the Mexican case and find that the main determinants of the term premium are the
+compensation for foreign exchange risk, the real compensation, and the U.S. term premium.
+Özbek and Talasli (2020) estimated the term premium for 16 emerging market economies
+(including Brazil) and evaluate the impacts of country specific and global factors on the
+term premia of the emerging countries The authors find that market liquidity, inflation,
+macroeconomic uncertainty and global market risk are the main drivers of the term
+premium. Iania et al. (2021) examine bond risk premia dynamics in Brazil, China, Mexico
+and Russia, evidencing that global factors play a key role, whereas domestic factors have
+limited explanatory power to explain the risk premium in Brazil. Iskrev (2018) analyzes the
+relationship between term premia in euro area and US government bond yields. He finds
+that only a small fraction of the co-movements of these two premia is due to the connection
+between the US and Euro economy. Our work contributes to this literature by focusing
+specifically on Brazil and incorporating a set of macroeconomic and financial factors that,
+4
+
+=== página 10 ===
+to our knowledge, have not been previously examined using the ACM model.2
+The work follows this structure: in section 2, we present a short discussion of the ACM
+model; in section 3, we describe the methodology and sample; in section 4, we present the
+results; and section 5 brings the final considerations of the article.
+2. The ACM model
+Estimation of risk premia embedded in yield curves has more commonly been based on
+affine models (see Duffie and Kan, 1996). The idea is to specify the dynamics of yield
+curves as linear combinations of stochastic factors (latent or observable). The connection
+between the physical and risk-neutral distribution of rates takes place by using a risk-
+premium process to exclude arbitrage opportunities.
+Although affine models are widely used in modern fixed-income literature, the estimation
+of parameters that govern the evolution of factors is not straightforward.3 There are some
+alternative solutions to circumvent this difficulty. This study adopts the ACM model. ACM
+propose a novel and computationally efficient method for modeling the term structure of
+interest rates using a three-step linear regression approach. Their method allows for the
+estimation of term structure models with a large number of pricing factors, avoiding the
+complexity of traditional maximum likelihood estimation.4 Several papers, such as Ramos-
+Francia, García-Verdú, and Sánchez-Martínez (2020) and Cohen, Hördahl and Xia (2018),
+have shown that curves estimated by the ACM model are in line with more general affine
+models, such as the one by Kim and Wright (2005), as well as Hördahl and Tristani (2021),
+who examine inflation risk premia in developed markets using similar no-arbitrage
+frameworks.
+The ACM model considers the first five principal components of interest rates as observable
+2 Costa Filho (2023) also investigates the determinants of the Brazilian term premium. However, he estimates the term
+premium using an Affine Term Structure Model (ATSM) following the approach of Kaminska et al. (2021), rather than the
+ACM framework. This implementation is an application of an ATSM based on Joslin, Singleton, and Zhu (2011),
+employing a Bayesian estimation method via Markov Chain Monte Carlo (MCMC).
+3 As reported by Hamilton and Wu (2012), flat regions around the likelihood function prevent proper convergence, especially
+of the risk premium.
+4 Alternatively, Joslin, Singleton, and Zhu (2011) propose a framework for Gaussian dynamic term structure models that
+incorporate macroeconomic factors explicitly.
+5
+
+=== página 11 ===
+factors.5 These factors evolve as a Vector Autoregression (VAR) process with shocks
+following a normal distribution:
+,
+𝑋𝑋𝑡𝑡+1 = 𝜇𝜇 +Φ 𝑋𝑋𝑡𝑡 + 𝑣𝑣𝑡𝑡+1, 𝑣𝑣𝑡𝑡+1 ∼ 𝑁𝑁 (0,Σ)
+where is a vector of the first five principal components of interest rates.
+5
+𝑋𝑋𝑡𝑡 ∈ 𝑅𝑅
+The no-arbitrage assumption implies the existence of a pricing kernel. In the affine class, the
+pricing kernel is exponentially affine:
+.
+1 ′ ′ −1/2
+𝑀𝑀𝑡𝑡+1 = exp�−𝑟𝑟𝑡𝑡 −2λ𝑡𝑡λ𝑡𝑡 −λ𝑡𝑡Σ 𝑣𝑣𝑡𝑡+1�
+Therefore, the zero-coupon bond price with maturity n at time t is given by
+(𝑛𝑛) ′ (𝑛𝑛)
+ln𝑇𝑇𝑡𝑡 = 𝐴𝐴𝑛𝑛 +𝐵𝐵𝑛𝑛𝑋𝑋𝑡𝑡 +𝑢𝑢𝑡𝑡 ,
+where the coefficients A and B follow recursive equations.
+ACM follow Duffee’s (2002) proposal and assume that the market prices of risk are
+essentially affine:
+−1/2
+λ𝑡𝑡 = Σ (λ0+λ1𝑋𝑋𝑡𝑡).
+Thus, the excess bond return can be decomposed into expected return, convexity adjustment,
+priced return innovation, and pricing error:
+′ ′ ′
+𝑛𝑛−1 (𝑛𝑛−1) 1 (𝑛𝑛−1) (𝑛𝑛−1) 2 (𝑛𝑛−1) 𝑛𝑛−1
+𝑟𝑟𝑟𝑟𝑡𝑡+1 = 𝛽𝛽 (λ0 + λ1 𝑋𝑋𝑡𝑡)− �𝛽𝛽 Σ𝛽𝛽 +𝜎𝜎 �+ 𝛽𝛽 𝑣𝑣𝑡𝑡+1 + 𝑒𝑒𝑡𝑡+1 ,
+2
+where the return pricing errors ( are conditionally independently and identically
+𝑛𝑛−1
+distributed (i.i.d.) with variance
+𝑒𝑒
+a𝑡𝑡+n1d
+,)
+2
+𝜎𝜎
+(𝑛𝑛−1) 𝑛𝑛−1 −1
+𝛽𝛽 = 𝐶𝐶𝐶𝐶𝑣𝑣𝑡𝑡[𝑟𝑟𝑟𝑟𝑡𝑡+1,𝑣𝑣𝑡𝑡+1′]Σ .
+Next, the excess returns are regressed on lagged factors and their contemporaneous
+innovations (errors from the first regression). In the third step, the risk premium parameters
+5 ACM show that a model using five principal components of yields as factors performs better in out-of-sample forecasts
+than the well-known Cochrane-Piazzesi (2008) model, while producing similar in-sample dynamics.
+6
+
+=== página 12 ===
+arise from a cross-section regression of the lagged factor returns on the contemporaneous
+factors’ innovations.
+3. Methodology and Sample
+A set of OLS regressions is estimated for the monthly average of daily risk premiums on 5-
+year nominal interest rate, as estimated by the ACM model, over the period from January
+2007 to April 2025. The risk premiums are estimated from the Brazilian nominal yield curve,
+which is constructed using fixed-rate federal government securities (both without coupons,
+as the National Treasury Bills – LTNs –, and with coupons, as the National Treasury Notes
+– NTN-Fs) and the Svensson (1995) interpolation method.
+The series begins in 2007 since government bonds started to exhibit greater market liquidity
+from that point onward. Regarding the interest rate horizon, we adopt the 5-year yield as the
+long-term rate because it shows higher liquidity compared to the traditional 10-year bond,
+especially at the beginning of the sample period. Nevertheless, this choice does not influence
+the study’s results, as the time series of risk premiums across different maturities exhibit high
+correlations.6
+Multiple specifications are tested to identify statistically significant predictors. Standard
+errors, robust to heteroskedasticity and autocorrelation (HAC), are computed using the
+Newey-West correction.
+The reduced-form model for the risk premium is described below:
+∗
+𝐴𝐴𝐶𝐶𝑀𝑀𝑡𝑡 = 𝛼𝛼+𝛽𝛽1𝜋𝜋𝑡𝑡−1 +𝛽𝛽2𝑖𝑖𝑡𝑡−1 + 𝛽𝛽3𝑖𝑖𝑡𝑡−1 +𝛽𝛽4𝑓𝑓𝑡𝑡−1 +𝛽𝛽5𝑦𝑦𝑡𝑡−1 +𝛽𝛽6𝑠𝑠𝑡𝑡−1 +𝛽𝛽7𝐸𝐸𝑡𝑡−1 + (2)
+w h e r e : 𝛽𝛽8𝐶𝐶𝑡𝑡−1 +𝛽𝛽9𝑉𝑉𝑡𝑡−1 +𝜀𝜀𝑡𝑡
+• ACM is the risk premium;
+• π represents variables related to inflation, either actual or expected;
+• i represents variables associated with the domestic interest rate;
+6 Among the risk premium time series for maturities from 1 to 10 years, the lowest correlation is between the 1-year and 10-
+year series, with a value of 0.60. The correlations between the 5-year series and the others are as follows: 0.667 (1 year),
+0.861 (2 years), 0.968 (3 years), 0.996 (4 years), 0.999 (6 years), 0.997 (7 years), 0.994 (8 years), 0.991 (9 years), and 0.998
+(10 years).
+7
+
+=== página 13 ===
+• i* refers to U.S. interest rates;
+• f represents fiscal variables;
+• y corresponds to economic activity variables;
+• s represents stock market variables;
+• E refers to exchange rate variables;
+• C represents commodity-related variables; and
+• V refers to the volatility index.
+As shown in Equation (2), the explanatory variables are included with a one-month lag to
+mitigate potential endogeneity issues. These variables aim to capture key macroeconomic
+and financial factors that may influence the risk premium on nominal interest rates in an
+emerging economy such as Brazil. It is important to note that we do not include Brazilian
+fixed interest rates as regressors, since these rates were used in the construction of the risk
+premium itself. The explanatory variables used in the regressions are detailed below:
+• Inflation: Broad National Consumer Price Index (IPCA), IPCA Services, IPCA Food at
+Home, IPCA Industrial Goods, and IPCA Administered Prices– all measured as 12-month
+accumulated variations;
+• Inflation expectations: Median survey expectation for IPCA inflation one year ahead, as
+published in the Focus Report (only the 1-year horizon is used, since longer-term
+expectations in rolling-horizon format were not collected at the beginning of the sample
+period);
+• Domestic interest rates: Effective Selic rate and the Long-Term Rate (TLP), both expressed
+in annual terms;7
+• External interest rates: Nominal yields on 2- and 10-year U.S. Treasury bonds and 5-year
+Treasury Inflation-Protected Securities (TIPS);
+• Fiscal indicators: Primary balance, general government gross debt as a % of GDP (GGGD),
+and public sector net debt as a % of GDP;
+• Economic activity: Output gap, constructed using the HP filter on the seasonally adjusted
+monthly IBC-Br index;
+• Equity indices: Returns on the Ibovespa index and on the MSCI index for developed
+countries;
+• Exchange rates: Return on the U.S. dollar against the Brazilian Real and on the DXY index
+(U.S. dollar against a basket of developed country currencies);
+7 TLP replaced the Long-Term Interest Rate (TJLP) as of January 2018. For data prior to that date, the TJLP is used.
+8
+
+=== página 14 ===
+• Commodities: Returns on the CRB index and on WTI crude oil prices; and
+• Volatility: VIX index, which measures the implied volatility of the S&P 500.
+4. Results
+Figure 1 presents the daily series of the 2-, 5-, and 10-year risk premia from January 2007 to
+April 2025, estimated by the ACM model. The model’s input data are the nominal rates
+constructed by the Svensson (1995) interpolation method for maturities from one to ten years
+and the effective Selic rate. Estimated premia generally corroborate the theory: i) the 10-year
+is the highest in almost the entire sample, while the 2-year is the lowest; ii) the risk premium
+is almost always positive; and iii) the risk premium increases around turmoil periods, such
+as the 2008 Global Financial Crisis, the 2013 street manifestations,8 the 2016 presidential
+impeachment, the 2022 elections and in the more recent period (the beginning of President
+Trump's second term in the U.S.). The sample’s median 10-year premium is 1.59%, much
+higher than that of U.S securities for the same term, of 0.40%.9
+Figure 1 –Nominal Risk Premium
+% p.a.
+8%
+6%
+4%
+2%
+0%
+-2%
+-4%
+2 years 5 years 10 years
+Estimated risk premia seemed to have followed an unusual trajectory during the Covid-19
+pandemic, especially in 2020: risk premia are negatives and short-term premia are larger
+than long-term ones. However, these unusual behaviors were also observed in other
+8 The 2013 protests in Brazil were mass demonstrations triggered by a rise in public transport fares, which quickly grew to
+reflect broader dissatisfaction with corruption, public services, and government spending.
+9 The term premium by the ACM model for U.S. securities is available at the Federal Reserve Bank of New York’s website
+https://www.newyorkfed.org/research/data_indicators/term-premia-tabs
+9
+
+=== página 15 ===
+markets, such as in the U.S. and Chilean markets.10
+Figure 2 shows the daily series of the nominal spot rate and the estimated expectation
+component, both for the 5-year term. One may observe that the expectation is much less
+volatile than the spot rate.11 Therefore, the large variation in the interest rate is mainly due
+to significant changes in the magnitude of the risk premium. For example, the substantial
+increase in the 5-year spot rate during the 2008 Global Financial Crisis was almost entirely
+due to the increase in the risk premium rather than to the increase in interest rate
+expectations.
+Figure 2 –5-year nominal spot rate and estimated
+expectation component
+% p.a.
+18%
+16%
+14%
+12%
+10%
+8%
+6%
+Nominal Rate Expectation
+Figure 3 illustrates the decomposition of the nominal interest rate, expressed in percentage
+terms, into its risk premium and expectation component to show how the share of the risk
+premium in the nominal interest rate varied over time. For instance, in April 2025, the nominal
+rate was comprised of 25.8% risk premium. Within the time series, certain intervals exhibit a
+negative risk premium (the expectation is greater than the nominal rate), most notably during
+the COVID-19 pandemic, as previously discussed. We can observe that the relative
+contribution of the risk premium to the nominal interest rate was notably higher during
+episodes of financial and political stress, such as the subprime mortgage crisis in 2008 and
+Brazil’s political turmoil in 2016. At the outset of 2025, the risk premium component exhibited
+10 The 10-year term premium by the ACM model for the Chilean securities market is available at the Cemla’s website
+https://www. cemla.org/DatosSelectosMacroeconomicos/Term premium estimates eng.html
+11 The coefficient of variation of the nominal rate is 0.19, while those of the expected nominal rate and the risk premium are
+0.08 and 1.11, respectively.
+10
+
+=== página 16 ===
+renewed growth, potentially driven by trade policy shocks, including tariffs imposed by the
+United States on multiple countries and products.
+Note: The maximum value on the scale is 100%. Thus, when expectation reaches 100% in
+the figure, the risk premium is negative.
+Table 1 presents the results of seven specifications to identify statistically significant
+predictors of the term premium.12 Regression 1 uses one representative variable for each group
+of factors presented in Section 3. Variables related to inflation, monetary policy, external
+interest rates, fiscal policy, exchange rates, and volatility are statistically significant at usual
+levels. The adjusted R² is 0.75.
+In Regression 2, inflation expectations from the Focus Report are added, while non-significant
+variables are removed. As a result, the IPCA loses statistical significance, whereas the Focus
+expectation is significant at the 1% level.13 The gross debt-to-GDP ratio (GGGD) and the
+USD/BRL exchange rate (USD/BRL) also lose significance. The adjusted R² increases to 0.78,
+and the Schwarz Information Criterion (SIC) likewise indicates an improvement in model
+quality.
+12 The variables in the regressions are expressed in percentage terms, except for the Primary Balance, which was divided by
+100,000.
+13 An alternative specification was also tested, using the components of the IPCA (administered prices, services, industrial
+goods, and food at home) as regressors instead of the headline IPCA. However, none of the components are statistically
+significant.
+11
+
+=== página 17 ===
+In Regression 3, only the non-significant variables are excluded, except for the USD/BRL.14
+The results of this regression are robust to replacing the nominal U.S. interest rate variable
+with the 5-year U.S. real rate (TIPS), including in terms of the estimated coefficient’s
+magnitude. Regression 4 combines the level of the U.S. real rate with the slope of the U.S.
+nominal yield curve, measured by the difference between the 10- and 2-year rates. This
+combination leads to a further improvement in the SIC and raises the adjusted R² to 0.81.
+In Regression 5, several variables are added to the previous model to assess their statistical
+significance. Variables that were already significant remain relevant. The USD/BRL, which
+was no longer significant in Regressions 2 to 4, becomes statistically significant again at the
+1% level. Among the new variables, only the TLP is statistically significant. The adjusted R²
+increases again, and the SIC becomes even more favorable.
+Regression 6 maintains a structure similar to the previous one, with substitutions in fiscal,
+equity market, and commodity variables, as well as the inclusion of the DXY index. There is
+an improvement in the SIC, and the gross debt-to-GDP ratio (GGGD) becomes significant
+again, but this time with a positive sign.
+Finally, Regression 7 preserves the structure of the previous model, excluding variables that
+did not show statistical significance. The adjusted R² remains similar, but the SIC improves
+substantially due to the model’s greater parsimony, making it the best-fitting model for the
+sample among all those evaluated.15, 16
+14 The specification of Regression 3 was also run including the GGGD/GDP ratio, but this variable remained insignificant
+and was therefore discarded.
+15 In conducting the regressions, we avoid including variables from the same category to reduce the risk of multicollinearity.
+Table A in Appendix A reports the correlation matrix for the variables used in Regression 7, which was chosen for detailed
+analysis. Nearly 90% of the correlations are below 0.5, and about half are low (under 0.15). The highest absolute correlation
+is 0.69, between the Brazilian fiscal variable (GGGD) and the slope of the U.S. yield curve (USPRE10 – USPRE2).
+16 A more exhaustive specification could include volatility or lagged terms in the explanatory variables. However, we chose
+not to do so because this would shift the economic focus and increase dimensionality without clear theoretical justification.
+The high adjusted R² (0.84) also suggests limited additional explanatory gains.
+12
+
+=== página 18 ===
+Table 1: Regressions of the 5-year nominal interest rate risk premium (ACM) against various
+factors
+Dependent Variable: ACM
+(1) (2) (3) (4) (5) (6) (7)
+C -0.02** -0.06*** -0.05*** -0.04*** -0.06*** -0.08*** -0.08***
+(-2.3) (-4.59) (-9.5) (-6.53) (-7.29) (-8.24) (-8.02)
+IPCA 0.18*** 0.01
+(3.03) (0.22)
+Focus 0.54*** 0.54*** 0.46*** 0.6*** 0.56*** 0.54***
+(3.79) (5.59) (3.37) (4.78) (5.01) (4.65)
+Selic 0.2*** 0.18*** 0.18*** 0.18*** 0.09* 0.16*** 0.16***
+(5.49) (5.6) (5.63) (5.1) (2.22) (3.54) (3.47)
+TLP 0.4*** 0.28** 0.27*
+(3.39) (2.31) (2.17)
+TIPS_5 0.6*** 0.63*** 0.65*** 0.64***
+(6.19) (7.02) (7.78) (7.1)
+USPRE10 0.51*** 0.57*** 0.55***
+(3.79) (6.1) (5.99)
+USPRE10 - USPRE2 0.41*** 0.51*** 0.69*** 0.71***
+(5.08) (6.79) (6.84) (6.94)
+Primary balance -0.15
+(-1.29)
+GGGD -0.02** 0 0.03*** 0.03***
+(-2,25) (0,3) (2.84) (3.07)
+IBC-BR -0.08 0
+(-1,45) (-1.26)
+IBOV 0 -0.01
+(-0,26) (-0.94)
+MSCI_Desenv. 0.01
+(0.72)
+USD/BRL 0.05*** 0.04 0.04 0.03 0.04*** 0.04** 0.03**
+(2.98) (1.81) (1.79) (1.8) (2.68) (2.53) (2.49)
+DXY -0.02
+(-0.72)
+CRB 1.88 0.03
+(0.67) (1.24)
+WTI 0
+(0.98)
+VIX 0.02* 0.04*** 0.04*** 0.02** 0.02** 0.02** 0.02*
+(2.07) (4.29) (4.06) (2.27) (2.34) (2.5) (2.2)
+Adjusted R2 0.75 0.78 0.78 0.81 0.84 0.84 0.84
+SIC 2.37 2.22 2.18 2.05 2 1.95 1.89
+Observations 220 220 220 220 220 220 220
+t-statistic in parentheses (computed using the Newey–West HAC variance estimator)
+*** p < 0.01, ** p < 0.025, * p < 0.05
+From this regression, it is observed that the risk premium on Brazilian nominal interest rates
+is positively associated with the public sector gross debt-to-GDP ratio, inflation expectations,
+Brazil’s policy interest rate (Selic), and the TLP, which represents the cost of long-term
+financing provided by the Brazilian Development Bank (BNDES).17
+Additionally, the risk premium is also positively related to external factors such as the slope
+of the U.S. nominal yield curve, the U.S. real interest rate, the VIX, and the exchange rate of
+17 The robustness of the results is maintained even when the fiscal variable used, public sector gross debt as a share of GDP,
+is replaced by public sector net debt as a share of GDP.
+13
+
+=== página 19 ===
+the U.S. dollar against the Brazilian Real. These results highlight the influence of the
+international environment on the Brazilian nominal bond market. These findings are
+consistent with Costa Filho (2023), who also identifies the relevance of both domestic factors,
+such as inflation expectations, monetary policy interest rate and public debt, and international
+conditions, particularly related to U.S. interest rates, as key determinants of Brazil’s long-term
+term premium. However, Costa Filho (2023) reports that VIX is not significant in the best
+specifications, a difference that may stem from the risk premium measure (he uses an Affine
+Term Structure Model following the approach of Kaminska et al., 2021), the maturity horizon
+(10 years vs. 5 years), and the choice of external variables.
+Table 2 presents the variation in the risk premium (∆ACM) resulting from a one standard
+deviation increase in the explanatory variables from Regression 7. Note that the largest
+fluctuations in the risk premium are associated with changes in U.S. interest rates,
+demonstrating their influence on the risk premium of Brazilian nominal rates.
+Table 2 – Changes in the Risk Premium (∆ACM) Resulting from
+a One Standard Deviation Change in the Variables of Regression 7
+One standard deviation change ∆ACM
+Focus 0.005
+Selic 0.522
+TLP 0.236
+GGGD 0.301
+TIPS_5 0.732
+USPRE10 - USPRE2 0.693
+USD/BRL 0.001
+VIX 0.137
+Figure 4 shows the time-series decomposition of the term premium based on the estimates
+from Regression 7. The explanatory variables are grouped into four categories: External
+(TIPS_5, USPRE10 – USPRE2, USD/BRL, and VIX), Fiscal (GGGD), Inflation (Focus), and
+Interest Rates (Selic and TLP). The constant and the error term are not shown in the figure.
+14
+
+=== página 20 ===
+Figure 4 –Decomposition of the risk premium, based
+on the estimates from Regression 7.
+16%
+14%
+12%
+10%
+8%
+6%
+4%
+2%
+0%
+Jan Jan Jan Jan Jan Jan Jan
+2007 2010 2013 2016 2019 2022 2025
+Inflation Fiscal Interest Rate External
+Note: The estimated risk premium shown in the figure (y-axis) does
+not consider the (negative) constant or the error term.
+The Interest Rate factor is the most prominent component in the decomposition throughout
+the sample. Its contribution stands out particularly until 2016 and rises sharply again from
+2022 onward. The Inflation factor shows intermediate relevance. It gained greater weight
+starting in 2014, during a period of increased inflation, but its influence declined after 2017,
+although it has increased again in the recent period. The Fiscal factor, initially the least
+representative, begins to play a more significant role from 2016. Finally, the External factor
+displays a more volatile contribution. It starts the series with relatively high importance,
+peaking during the 2008 financial crisis, rising again between 2013 and 2016, and once more
+in recent years.
+Next, we analyze how the coefficients of the statistically significant variables from Regression
+7 evolve over time. To do this, we estimate the model using a 5-year (60-month) rolling
+window. The results are presented in Figure 5. Each data point corresponds to the coefficient
+estimated using the five-year lagged sample.
+The time series of estimated coefficients are consistently positive, with the exchange rate
+being the only variable whose coefficient remains persistently above zero. Inflation
+expectations (Focus) have become increasingly important in determining the risk premium (at
+the beginning of the sample, the coefficient was close to zero), while external variables
+(TIPS_5, USPRE10 – USPRE2, USD/BRL, and VIX) seem to lose relevance toward the end
+of the sample. USD/BRL gains importance toward the very end of the series, possibly due to
+U.S. foreign trade policy. The TLP coefficient peaked at the beginning of the series, possibly
+15
+
+=== página 21 ===
+due to the subprime crisis and again in the middle of the sample (Brazil’s political turmoil).
+In both periods, BNDES was extensively used to provide subsidies to Brazilian companies.
+Interestingly, the SELIC coefficient seems to mirror its level over the sample period, reflecting
+the monetary policy cycle.18
+Figure 5: Time Dynamics of Regression 7 Coefficients (5-Year Rolling Window)
+Focus 12 m USPRE10-USPRE2
+1.2 2.5
+2
+0.8
+1.5
+0.4
+1
+0
+Dec-11 Feb-14 Apr-16 Jun-18 Sep-20 Nov-22 Jan-25 0.5
+-0.4
+0
+Dec-11 Feb-14 Apr-16 Jun-18 Sep-20 Nov-22 Jan-25
+-0.8 -0.5
+Selic GGGD
+0.5 0.2
+0.4
+0.1
+0.3
+0.2 0
+Dec-11 Feb-14 Apr-16 Jun-18 Sep-20 Nov-22 Jan-25
+0.1 -0.1
+0
+Dec-11 Feb-14 Apr-16 Jun-18 Sep-20 Nov-22 Jan-25 -0.2
+-0.1
+-0.2 -0.3
+TLP USD/BRL
+4 0.12
+3
+0.08
+2
+1 0.04
+0
+Dec-11 Feb-14 Apr-16 Jun-18 Sep-20 Nov-22 Jan-25 0
+-1 Dec-11 Feb-14 Apr-16 Jun-18 Sep-20 Nov-22 Jan-25
+TIPS_5 VIX
+2.5 0.12
+2 0.08
+1.5
+0.04
+1
+0
+0.5 Dec-11 Feb-14 Apr-16 Jun-18 Sep-20 Nov-22 Jan-25
+0 -0.04
+Dec-11 Feb-14 Apr-16 Jun-18 Sep-20 Nov-22 Jan-25
+-0.5 -0.08
+18 The correlation between the two series is 0.42. Appendix B presents both graphs, which reveal a negative trend followed
+by an upward movement toward the end of the sample period.
+16
+
+=== página 22 ===
+5. Final Remarks
+This study investigates the determinants of the risk premium embedded in Brazilian nominal
+interest rates using the methodology of Adrian, Crump, and Moench (2013). The analysis
+reveals that a broad set of macroeconomic variables, both domestic and external, significantly
+influence the behavior of the term premium. In particular, the monetary policy rate (Selic), the
+cost of long-term financing (TLP), inflation expectations, public debt indicators, U.S. interest
+rates, the USD/BRL exchange rate, and global financial volatility are all identified as relevant
+drivers. These findings highlight the importance of tracking both local fundamentals and
+global market conditions when assessing the dynamics of long-term interest rates in Brazil.
+The time-series decomposition of the risk premium indicates that domestic interest rate
+variables account for the largest share of its variation throughout the sample, with inflation
+expectations and fiscal indicators playing secondary but still relevant roles. External factors
+such as U.S. interest rates and global volatility indices show increasing influence during
+episodes of international financial stress. These results have important implications for
+monetary and fiscal policies, suggesting that shifts in long-term yields may not solely reflect
+market expectations about the future path of the Selic rate, but also risk compensations driven
+by macro-financial uncertainty.
+Future research could explore several extensions of this analysis. First, it would be valuable
+to assess the time-varying nature of the risk premium determinants using a rolling window or
+regime-switching approach, which could better capture structural changes in the economy or
+shifts in investor behavior. Second, similar methodologies could be applied to estimate and
+analyze real-term premia, isolating inflation risk more explicitly. Finally, cross-country
+comparisons with other emerging markets (e.g., inflation-targeting or not)19 could help
+identify common and idiosyncratic factors affecting long-term interest rate premia, offering
+insights into the role of institutional and policy frameworks in shaping market risk
+perceptions.
+19 See, for instance, Almeida et al. (2022) for evidence on time-varying term premia in Central and Eastern European
+countries.
+17
+
+=== página 23 ===
+References
+Adrian, T., Crump, R. K., and Moench, E. (2013). “Pricing the Term Structure with Linear
+Regressions”. Journal of Financial Economics, 110, 1 (October): 110-38.
+Aguilar-Argaez, A., Diego-Fernández, M., Elizondo, R., & Roldán-Pena, J. (2022). “Term
+premium dynamics and its determinants: The Mexican case”. BIS Working Papers No 993.
+Almeida, H., Broz, T., and Damjanović, T. (2022). "Estimating time-varying term premia in
+Central and Eastern European economies." Economic Systems, 46(3), 100961.
+Brito, R. D., Duarte, A. J. M. A., & de Carvalho Guillen, O. T. (2004). “Overreaction of yield
+spreads and movements of Brazilian interest ratest”. Brazilian Review of Econometrics, 24(1),
+1-55.
+Campbell, Y., & Shiller, J. (1991). “Yield spreads and interest rate movements: A bird's eye
+view”. The Review of Economic Studies, 58(3), 495-514.
+Carvalho, C., and Teles, P. (2019). "Monetary policy and the yield curve in Brazil." Banco
+Central do Brasil, Working Paper Series, No. 508.
+Cochrane, J., and Piazzesi,M.,(2008). “Decomposing the yield curve”. AFA 2010 Atlanta
+Meetings Paper, Available at SSRN: https://ssrn.com/abstract=1333274 or
+http://dx.doi.org/10.2139/ssrn.1333274
+Cohen, B. H., Hördahl, P., and Xia, F. D. (2018). “Term Premia: Models and Some Stylised
+Facts”. BIS Quarterly Review, September.
+Costa Filho, A. (2023). “Determinantes do prêmio de risco pela maturidade na curva de juros
+brasileira”. Revista Brasileira de Economia de Empresas: 23(2): 33-48.
+Duffee, G. (2002). “Term premia and interest rate forecasts in affine models”. Journal of
+Finance, 57, pp. 405-443.
+Duffie, D., and Kan, R. (1996). “A Yield-Factor Model of Interest Rates”. Mathematical
+Finance, 6, 4 (October): 379-406.
+Durham, J. B. (2006). An estimate of the inflation risk premium using a three-factor affine
+term structure model. Board of Governors of the Federal Reserve System.
+Hamilton, J. D., and Wu, J. C. (2012). “Identification and Estimation of Gaussian Affine Term
+Structure Models”. Journal of Econometrics, 168, 2 (January).
+Hördahl, P., and Tristani, O. (2021). "Inflation risk premia in the euro area and the US."
+Journal of International Money and Finance, 115, 102406.
+Iania, L., Lyrio, M., and Moura, R. (2021). "Bond risk premia in emerging markets: evidence
+from Brazil, China, Mexico, and Russia." Applied Economics, 53(58), 6721-6738.
+Iskrev, N. (2018). “Term Premia Dynamics in the US and Euro Area; Who is Leading
+Whom?”. Bank of Portugal.
+Joslin, S., Singleton, K. J., and Zhu, H. (2011). "A new perspective on Gaussian dynamic term
+structure models." Review of Financial Studies, 24(3), 926-970.
+18
+
+=== página 24 ===
+Kaminska, I., Mumtaz, H., & Šustek, R. (2021). “Monetary policy surprises and their
+transmission through term premia and expected interest rates”. Journal of Monetary
+Economics, 117, 723–739.
+Kim, D. H. and Wright, J. H. (2005). “An arbitrage-free three-factor term structure model and
+the recent behavior of long-term yields and distant-horizon forward rates”. Finance and
+Economics Discussion Series, Working Paper No. 2005-33.
+Marçal, E. F., & Pereira, P. L. V. (2007). “A estrutura a termo das taxas de juros no brasil:
+Testando a hipótese de expectativas”. Pesquisa e Planejamento Econômico, v.37, n.1.
+Özbek, İ., & Talaslı, İ. (2020). “Term premium in emerging market sovereign yields: Role of
+common and country specific factors”. Central Bank Review, 20(4), 169-182.
+Ramos-Francia, M., García-Verdú, S., and Sánchez-Martínez, M. (2020). “On the Estimation
+of the Mexican Government Bond Term Premium.” To be published as a Center of Latin
+American Monetary Studies (Cemla) working paper.
+Shiller, R. J., & McCulloch, J. H. (1990). “The term structure of interest rates.” Handbook of
+monetary economics, 1, 627-722.
+Svensson, L. (1995). “Estimating forward interest rates with the Extended Nelson and Siegel
+Method”. Sveriges Riksbank Quarterly Review, 1995:3, pp 13-26.
+Tabak, B. and Andrade, D. (2003). “Testing the expectations hypothesis in the Brazilian term
+structure of interest rates”. Brazilian Review of Finance, 1(1), pp-19.
+19
+
+=== página 25 ===
+Appendix A – Correlation Matrix of Variables in Regression 7
+Table A: Correlation matrix of variables in regression 7
+USPRE10 -
+Focus Selic TLP TIPS_5 GGGD USD/BRL VIX
+USPRE2
+Focus 100%
+Selic 47% 100%
+TLP -6% 63% 100%
+TIPS_5 -32% 50% 59% 100%
+GGGD -50% -43% 18% -2% 100%
+USD/BRL 4% -5% -13% 1% 1% 100%
+VIX -7% 1% -11% 11% -7% 25% 100%
+USPRE10 -
+46% -1% -45% -40% -69% 1% 18% 100%
+USPRE2
+20
+
+=== página 26 ===
+Appendix B – Time Dynamics of the SELIC Rate and Its Coefficient in
+Regression 7 Using a 5-Year Rolling Window
+Selic Selic Coefficient
+16 0.5
+0.4
+12
+0.3
+8 0.2
+0.1
+4
+0.0
+Nov-11 Jan-14 Mar-16 May-18 Aug-20 Oct-22 Dec-24
+-0.1
+0
+Jan-07 Sep-09 Jun-12 Mar-15 Dec-17 Sep-20 Jun-23 -0.2
+21

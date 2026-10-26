@@ -1,0 +1,177 @@
+# fonte: https://blogdoibre.fgv.br/node/2400
+# capturado em: 2026-10-26
+
+Resultados dos indicadores de produtividade do trabalho no segundo trimestre de 2026 | Blog do IBRE
+Blog do IBRE
+Formulário de busca
+Search this site
+Menu principal
+Home
+Colaboradores
+Categoria
+Cenários
+Clima
+Construção
+Crédito
+Debates
+Demografia
+Desenvolvimento
+Desigualdade
+Economia Global
+Economia Internacional
+Economia Regional
+Educação
+Energia
+Fiscal
+Habitação
+Indicadores
+Indústria
+Infraestrutura
+Instituições
+Macroeconomia
+Meio Ambiente
+Mercados
+Mercados/Inflação
+Metodologia
+Orçamento
+Pesquisa
+Petróleo e Gás
+Política
+Política Monetária
+Política Social
+Política/Governo
+Produtividade
+Reformas
+Regulação
+Relações Internacionais
+Revista Conjuntura Econômica
+Segurança Pública
+Setor Externo
+Setor Financeiro
+Setor Público
+Social
+Tecnologia
+Tecnologia
+Trabalho
+Tributação
+Tributos
+Sobre
+Produtividade
+Resultados dos indicadores de produtividade do trabalho no segundo trimestre de 2026
+Silvia Matos
+Fernando de Holanda Barbosa Filho
+Paulo Peruchetti
+23 set 2026
+No 2T26 a produtividade por hora efetivamente trabalhada teve crescimento interanual de 1,0%. Já nas métricas de produtividade que consideram as horas habitualmente trabalhadas e a PO, o crescimento interanual foi de 1,3% e 1,2%, respectivamente
+Desde 2019, o Observatório da Produtividade Regis Bonelli do FGV IBRE tem divulgado estatísticas de produtividade por população ocupada e por hora trabalhada. Esta última medida considera duas informações sobre o total de horas trabalhadas[1].
+As horas habitualmente trabalhadas em todas as ocupações, obtidas na PNAD Contínua, têm como referência uma semana em que não haja situações excepcionais que alterem a duração rotineira do trabalho, ou seja, uma semana típica de trabalho. A PNAD Contínua também fornece informações sobre as horas efetivamente trabalhadas na semana de referência, que podem incluir reduções por motivo de doença, feriado, falta voluntária, atraso ou por outra razão, bem como aumentos por conta de pico de produção e compensação de horas não trabalhadas em outro período.
+Até o início da pandemia, os resultados obtidos a partir das duas medidas de horas trabalhadas eram semelhantes. No entanto, em função das medidas de distanciamento social necessárias para conter os efeitos da pandemia, desde o primeiro trimestre de 2020 os dados da PNAD Contínua passaram a revelar um descolamento entre as diferentes medidas do fator trabalho, em especial no segundo trimestre de 2020, tal como exposto no Gráfico 1.
+Gráfico 1: Taxa de crescimento das horas efetivamente trabalhadas, das horas habitualmente trabalhadas e da população ocupada para o agregado da economia – (Em % e em relação ao mesmo trimestre do ano anterior) – Brasil
+Fonte: Observatório da Produtividade Regis Bonelli. Elaboração FGV IBRE com base nos dados das Contas Nacionais Trimestrais e da Pnad Contínua (IBGE).
+No primeiro trimestre de 2020, e particularmente no segundo trimestre, houve forte discrepância entre as medidas de população ocupada e horas habitualmente trabalhadas, de um lado, e das horas efetivamente trabalhadas, de outro. Os dados mostram que a queda nas horas efetivamente trabalhadas foi muito maior que a observada tanto na população ocupada quanto nas horas habitualmente trabalhadas.[2]
+Esta discrepância, no entanto, foi diminuindo com a recuperação gradual ocorrida no mercado de trabalho nos trimestres seguintes. Em particular, ao longo de 2021, houve uma recuperação mais rápida das horas efetivamente trabalhadas quando comparado com o observado no emprego e nas horas habituais.[3] Como mostra o Gráfico 1, ao longo de 2022[4] houve uma desaceleração do crescimento das medidas do fator trabalho, que se manteve ao longo de 2023.[5]
+No entanto, ao longo de 2024, os dados apontaram para uma aceleração no crescimento das medidas do fator trabalho.[6] Em 2025, o crescimento do emprego e do total de horas se manteve, mas numa magnitude um pouco menor.[7] Este padrão tem sido observado também em 2026. Em particular, no segundo trimestre de 2026, o total de horas efetivamente trabalhadas, o total de horas habitualmente trabalhadas e a população ocupada cresceram 0,8%, 0,6% e 0,7%, respectivamente
+No Gráfico 2, veremos que o indicador de produtividade construído com base nas horas efetivamente trabalhadas apresentou comportamento muito diferente ao longo da pandemia quando comparado com a produtividade por população ocupada e com a produtividade por hora habitualmente trabalhada.
+Gráfico 2: Taxa de crescimento da produtividade agregada com base nas diferentes medidas do fator trabalho (por hora efetivamente trabalhada, por hora habitualmente trabalhada, e por população ocupada - em % em relação ao mesmo trimestre do ano anterior) – Brasil
+Fonte: Observatório da Produtividade Regis Bonelli. Elaboração FGV IBRE com base nos dados das Contas Nacionais Trimestrais e da Pnad Contínua (IBGE).
+Para o agregado da economia, a dinâmica da produtividade no Brasil até o quarto trimestre de 2019 não depende da métrica considerada. Com o avanço da pandemia de Covid-19, no entanto, o indicador de produtividade com base nas horas efetivamente trabalhadas começou a apresentar um forte descolamento em relação aos indicadores de produtividade por hora habitualmente trabalhada e por população ocupada, em especial no segundo trimestre de 2020.[8]
+Por conta do processo de normalização das horas efetivamente trabalhadas houve, no primeiro trimestre de 2021, uma forte desaceleração do crescimento do indicador de produtividade que considera esta medida do fator trabalho, seguida de uma queda significativa no segundo trimestre. Já os indicadores de produtividade que consideram a população ocupada e o total de horas habitualmente trabalhadas tiveram desaceleração do crescimento entre o primeiro e o segundo trimestre de 2021. Os dados mostram ainda que nos dois últimos trimestres de 2021 todas as métricas apontaram um forte recuo interanual da produtividade.[9] Esse quadro de queda interanual da produtividade se manteve ao longo de 2022, embora em magnitude menor ao longo dos trimestres.[10]
+No entanto, em 2023 houve uma reversão deste padrão de sucessivas quedas interanuais nos indicadores de produtividade para o agregado da economia, de modo que ao longo de 2023 os dados apontaram para consecutivas elevações interanuais nos indicadores trimestrais de produtividade.[11] Os dados mostram que o forte crescimento da produtividade observada em 2023 não se sustentou em 2024.[12] Em 2025, o crescimento da produtividade também foi baixo.[13]
+Já no segundo trimestre de 2026 pode-se notar que a produtividade por hora efetivamente trabalhada cresceu 1,0% em relação ao mesmo trimestre do ano anterior. No caso das métricas que consideram as horas habitualmente trabalhadas e a população ocupada o crescimento foi de 1,3% e 1,2%, respectivamente.
+Outra forma de analisar a dinâmica dos indicadores de produtividade é com base nas séries que descontam os efeitos sazonais de cada trimestre, ou seja, com base nas séries dessazonalizadas. O Gráfico 3 mostra a taxa de crescimento dos indicadores de produtividade do trabalho em relação ao trimestre imediatamente anterior.[14]
+Gráfico 3: Taxa de crescimento da produtividade agregada com base nas diferentes medidas do fator trabalho (por hora efetivamente trabalhada, por hora habitualmente trabalhada, e por população ocupada - em % em relação ao trimestre imediatamente anterior) – Brasil.
+Fonte: Observatório da Produtividade Regis Bonelli. Elaboração FGV IBRE com base nos dados das Contas Nacionais Trimestrais e da Pnad Contínua (IBGE).
+O Gráfico 3 mostra que, embora a produtividade tenha crescido no segundo trimestre de 2020 em todas as métricas, e no terceiro trimestre de acordo com as medidas por população ocupada e hora habitualmente trabalhada, houve queda na margem em todos os indicadores no quarto trimestre de 2020. Em 2021, houve queda na margem em todas as medidas. Em 2022, os resultados também não foram animadores, tendo em vista que a variação de todas as métricas oscilou entre queda ou ligeiro aumento.
+No primeiro e no segundo trimestre de 2023 houve elevação na margem em todas as medidas de produtividade. No entanto, este bom desempenho não se sustentou nos demais trimestres do ano. Após ficar praticamente estável no terceiro trimestre, houve queda na margem em todas as medidas de produtividade do trabalho no quarto trimestre de 2023.
+Desde então, os dados têm oscilado entre queda e ligeiro aumento. No segundo trimestre de 2026, por exemplo, a produtividade por hora efetiva avançou 0,9%. Já as medidas que consideram as horas habituais e a população ocupada cresceram 0,3%.
+Como mostra o Gráfico 4, após um salto expressivo no segundo trimestre de 2020, a produtividade por hora efetivamente trabalhada desacelerou até 2022. Os aumentos observados ao longo dos dois primeiros trimestres de 2023 elevaram todas as medidas para um nível acima do observado no quarto trimestre de 2019.
+Este padrão tem permanecido, desde então. Em particular, no segundo trimestre de 2026, a métrica que considera o total de horas efetivamente estava 3,4% acima do observado no quarto trimestre de 2019. Já as medidas que consideram a população ocupada e as horas habitualmente trabalhadas estava 3,8% e 3,7%, respectivamente, acima do período pré-pandemia.
+Gráfico 4: Evolução da produtividade do trabalho (4º trimestre de 2019=100)
+Fonte: Observatório da Produtividade Regis Bonelli. Elaboração FGV IBRE com base nos dados das Contas Nacionais Trimestrais e da Pnad Contínua (IBGE).
+No Gráfico 5, apresentamos a taxa de crescimento da produtividade do trabalho em relação ao mesmo trimestre do ano anterior, para os três grandes setores da economia (agropecuária, indústria e serviços), com base nas três medidas do fator trabalho (por hora efetivamente trabalhada, por hora habitualmente trabalhada e por população ocupada).[15]
+Acesse o texto completo no
+Observatório da Produtividade Regis Bonelli
+.
+[1] O total de horas trabalhadas em todas as ocupações corresponde ao produto da jornada média pela população ocupada.
+[2] Em 2020, houve uma queda muito mais pronunciada das horas efetivas (-14,2%) em comparação com a população ocupada (-7,9%) e com as horas habituais (-7,6%).
+[3] Em 2021, houve um avanço muito mais pronunciado das horas efetivas (13,7%) em comparação com a população ocupada (4,9%) e com as horas habituais (5,0%).
+[4] Em 2022, houve crescimento de 7,4% na população ocupada, de 7,7% no total de horas habitualmente trabalhadas e de 7,9% no total de horas efetivamente trabalhadas.
+[5] Em 2023, houve crescimento de 1,3% na população ocupada, de 0,9% no total de horas habitualmente trabalhadas e de 1,0% no total de horas efetivamente trabalhadas.
+[6] Em 2024, houve crescimento de 2,8% na população ocupada e de 3,0% tanto no total de horas habitualmente trabalhadas quanto no total de horas efetivamente trabalhadas.
+[7] Em 2025, houve crescimento de 1,8% na população ocupada, de 1,9% no total de horas habitualmente trabalhadas e de 2,0% no total de horas efetivamente trabalhadas.
+[8] Em 2020, todas as medidas apontaram para uma elevação da produtividade agregada. Enquanto a métrica que considera as horas efetivamente trabalhadas apresentou forte avanço de 12,9%, as medidas que consideram as horas habitualmente trabalhadas e população ocupada cresceram 4,8% e 5,1%, respectivamente.
+[9] Em 2021, houve queda em todas as medidas de produtividade. Em particular, enquanto a métrica que considera as horas efetivamente trabalhadas apresentou recuo de 8,1%, as medidas que consideram as horas habitualmente trabalhadas e população ocupada recuaram 0,4% e 0,3%, respectivamente.
+[10] Em 2022, houve queda em todas as medidas de produtividade. Em particular, enquanto a métrica que considera as horas efetivamente trabalhadas apresentou recuo de 4,4%, as medidas que consideram as horas habitualmente trabalhadas e população ocupada recuaram 4,2% e 3,9%, respectivamente.
+[11] Em 2023, houve elevação em todas as medidas de produtividade. Em particular, enquanto a métrica que considera as horas efetivamente trabalhadas cresceu 2,3%, as medidas que consideram as horas habitualmente trabalhadas e população ocupada cresceram 2,5% e 2,0%, respectivamente.
+[12] Em 2024, houve uma desaceleração no crescimento das diferentes medidas de produtividade. Em particular, enquanto que as métricas que consideram as horas efetivamente trabalhadas e as horas habitualmente trabalhadas cresceram apenas 0,1%, a medida de produtividade que considera a população ocupada cresceu apenas 0,2%.
+[13] Em 2025, a métrica que considera as horas efetivamente trabalhadas cresceu 0,4%. Já as métricas que consideram as horas habitualmente trabalhadas e a população ocupada avançaram 0,5% e 0,6%, respectivamente.
+[14] A construção dos indicadores de produtividade com ajuste sazonal foi feita com base na dessazonalização de cada um dos seus componentes. Como o IBGE não divulga séries dessazonalizadas de emprego e horas trabalhadas, utilizamos o mesmo procedimento aplicado ao valor adicionado para fazer o ajuste sazonal do fator trabalho.
+[15] No site do Observatório da Produtividade Regis Bonelli disponibilizamos os indicadores de produtividade para as três medidas do fator trabalho nos doze setores da economia. O acesso à base de dados está disponível através do link:
+https://ibre.fgv.br/observatorio-produtividade/temas/categorias/pt-trime...
+Deixar Comentário
+Seu nome
+*
+E-mail
+mail address me
+To prevent automated spam submissions leave this field empty.
+Comentário
+Leave this field blank
+Impulso do gasto primário do Governo Geral no 1º semestre de 2026 foi positivo, mas bem menor do que em 2022
+Uma medida de força para a economia
+As manifestações expressas por integrantes dos quadros da Fundação Getulio Vargas, nas quais constem a sua identificação como tais, em artigos e entrevistas publicados nos meios de comunicação em geral, representam exclusivamente as opiniões dos seus autores e não, necessariamente, a posição institucional da FGV. Portaria FGV Nº19
+Portal FGV
+ENG
+Educação
+Graduação
+Graduação Online
+MBA & Pós-Graduação
+Mestrado e doutorado
+Curta e Média Duração
+Alta Gestão
+FGV In Company
+FGV Ensino Médio
+Livros
+Editora FGV
+Biblioteca
+Ensino
+CPDOC
+Escola de Ciências Sociais
+Direito Rio
+Escola de Direito do Rio de Janeiro
+Direito SP
+Escola de Direito de São Paulo
+EAESP
+Escola de Administração de Empresas de São Paulo
+EBAPE
+Escola Brasileira de Administração Pública e de Empresas
+Comunicação Rio
+Escola de Comunicação, Mídia e Informação
+EESP
+Escola de Economia de São Paulo
+EMAp
+Escola de Matemática Aplicada
+EPGE
+Escola Brasileira de Economia e Finanças
+EPPG
+Escola de Políticas Públicas e Governo
+IDE
+Instituto de Desenvolvimento Educacional
+IDT
+Instituto de Desenvolvimento Tecnológico
+RI
+Escola de Relações Internacionais
+Pesquisa
+Pesquisas Teses e Publicações
+Assessoria Técnica
+Projetos Internacionais
+FGV Projetos
+Avaliações
+Avaliações Educacionais
+Exames
+Concursos
+Índices
+Instituto Brasileiro de Economia
+Unidades
+Centros
+Diretorias
+Unidades e Institutos

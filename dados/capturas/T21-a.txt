@@ -1,0 +1,1572 @@
+# fonte: https://static.poder360.com.br/uploads/2026/10/inpc_ipca_2026_set.pdf
+# capturado em: 2026-10-26
+
+
+=== página 1 ===
+Indicadores IBGE
+Sistema Nacional de Índices
+de Preços ao Consumidor
+IPCA e INPC
+Setembro de 2026
+Publicado em 09/10/2026 às 09:00 horas
+
+=== página 2 ===
+Presidente da República Indicadores IBGE
+Luiz Inácio Lula da Silva Plano de divulgação:
+Trabalho e rendimento
+Ministro do Planejamento e Orçamento
+Pesquisa mensal de emprego*
+Bruno Moretti
+Pesquisa nacional por amostra de domicílios contínua
+Agropecuária
+Estatística da produção agrícola **
+INSTITUTO BRASILEIRO DE GEOGRAFIA E Estatística da produção pecuária **
+Indústria
+ESTATÍSTICA - IBGE
+Pesquisa industrial mensal: emprego e salário ***
+Pesquisa industrial mensal: produção física Brasil
+Presidente Pesquisa industrial mensal: produção física regional
+Marcio Pochmann Comércio
+Pesquisa mensal de comércio
+Diretora-Executiva Serviços
+Flávia Vinhaes Santos Pesquisa mensal de serviços
+Índices, preços e custos
+Índice de preços ao produtor – indústrias extrativas e
+ORGÃOS ESPECÍFICOS SINGULARES
+de transformação
+Sistema nacional de índices de preços ao consumidor:
+Diretoria de Pesquisas
+IPCA-E
+Gustavo Junger da Silva
+Sistema nacional de índices de preços ao consumidor:
+INPC - IPCA
+Diretoria de Geociências
+Sistema nacional de pesquisa de custos e índices da
+Maria do Carmo Dias Bueno
+construção civil
+Contas nacionais trimestrais
+Diretoria de Tecnologia da Informação
+Contas nacionais trimestrais: indicadores de volume e
+Marcos Vinícius Ferreira Mazoni
+valores correntes
+Centro de Documentação e Disseminação de
+* O último fascículo divulgado corresponde a
+Informações
+fevereiro de 2016.
+José Daniel Castro da Silva
+** Continuação de: Estatística da produção
+Escola Nacional de Ciências Estatísticas
+agropecuária, a partir de janeiro de 2006. A produção
+Jorge Abrahão de Castro
+agrícola é composta do Levantamento Sistemático da
+Produção Agrícola. A produção pecuária é composta
+UNIDADE RESPONSÁVEL
+da Pesquisa Trimestral do Abate de Animais, da
+Pesquisa Trimestral do Leite, da Pesquisa Trimestral
+Diretoria de Pesquisas
+do Couro e da Produção de Ovos de Galinha.
+Coordenação de Índices de Preços
+*** O último fascículo divulgado corresponde a
+Gustavo Vitti Leite
+dezembro de 2015.
+Iniciado em 1982, com a divulgação de indicadores
+EQUIPE de ANÁLISE
+sobre trabalho e rendimento, indústria e preços, o
+periódico Indicadores IBGE passou a incorporar, no
+Gerência: José Fernando Pereira Gonçalves
+decorrer das décadas seguintes, informações sobre
+Colaboradores: Denise Ferreira Cordovil agropecuária, contas nacionais trimestrais e serviços,
+visando contemplar as variadas demandas por
+Igor Thiers Leve
+estatísticas conjunturais para o País. Outros temas
+poderão ser abarcados futuramente, de acordo com as
+necessidades de informação identificadas. O periódico
+é subdividido em fascículos por temas específicos, que
+incluem tabelas de resultados, comentários e notas
+metodológicas. As informações apresentadas estão
+disponíveis em diferentes níveis geográficos: nacional,
+regional e metropolitano, variando por fascículo
+
+=== página 3 ===
+S
+umário
+1. Notas metodológicas ............................................................................................................................... 4
+2. Comentários ............................................................................................................................................. 8
+2.1. Índice Nacional de Preços ao Consumidor Amplo - IPCA................................................................. 8
+2.2 .Índice Nacional de Preços ao Consumidor - INPC........................................................................... 10
+3. Tabelas de resultados ............................................................................................................................ 12
+IBGE | IPCA e INPC Setembro de 2026 | - 3 -
+
+=== página 4 ===
+1. Notas metodológicas
+DESCRIÇÃO
+- Descrição Sumária
+O Sistema Nacional de Índices de Preços ao Consumidor - SNIPC consiste em uma combinação de
+processos destinados a produzir índices de preços ao consumidor. O objetivo é acompanhar a variação de
+preços de um conjunto de produtos e serviços consumidos pelas famílias.
+O sistema abrange as regiões metropolitanas do Rio de Janeiro, Porto Alegre, Belo Horizonte, Recife, São
+Paulo, Belém, Fortaleza, Salvador, Curitiba e Vitória, além do Distrito Federal e dos municípios de
+Goiânia, Campo Grande, Rio Branco, São Luís e Aracaju. É a partir da agregação dos índices regionais
+referentes a uma mesma faixa de renda que se obtém o índice nacional.
+Os índices mensais resultam, regra geral, da comparação dos preços vigentes nos 30 (trinta) dias do
+período de referência com os 30 (trinta) do período base. A coleta integral de preços se dá a cada período
+de 30 (trinta) dias que é segmentado, sem interrupção, em 4 (quatro) subperíodos. Cada um deles contém
+cerca de 7 (sete) dias com datas definidas através do Calendário Anual de Coleta do SNIPC.
+Em um subperíodo efetua-se a coleta de uma quarta parte fixa de estabelecimentos. Desta forma, é
+possível extrair do sistema índices com períodos base e de referência de 30 (trinta) dias ao final de cada
+conjunto de quatro subperíodos.
+Os índices podem ser obtidos para diversas populações-objetivo desde que estejam disponíveis as
+respectivas estruturas de ponderações correspondentes a famílias de diferentes faixas de rendimento
+mensal.
+Do ponto de vista temporal, além dos índices mensais, podem ser calculadas as variações de preços
+ocorridas em 2 (dois) meses ou mais, a partir das séries históricas produzidas.
+Ressaltando que o sistema, na forma como é montado, possibilita várias alternativas de cálculo de índices,
+passamos a descrever, abaixo, os Índices Nacionais de Preços ao Consumidor:
+Índice Nacional de Preços ao Consumidor - INPC e
+Índice Nacional de Preços ao Consumidor Amplo - IPCA
+IBGE | IPCA e INPC Setembro de 2026 | - 4 -
+
+=== página 5 ===
+- Descrição Atual
+O INPC e o IPCA são calculados de forma contínua e sistemática para as áreas abrangidas pelo sistema.
+A população-objetivo do INPC é referente a famílias residentes nas áreas urbanas das regiões de
+abrangência do SNIPC, com rendimentos de 1 (um) a 5 (cinco) salários mínimos, cuja pessoa de
+referência é assalariada. A população-objetivo do IPCA é referente a famílias residentes nas áreas urbanas
+das regiões de abrangência do SNIPC, com rendimentos de 1 (um) a 40 (quarenta) salários mínimos,
+qualquer que seja a fonte de rendimentos.
+Para cada região são utilizadas as informações das seguintes pesquisas básicas:
+PESQUISA DE ORÇAMENTOS FAMILIARES - POF
+Realizada no período compreendido entre junho de 2017 e julho de 2018.
+Forneceu as estruturas de ponderação das populações-objetivo.
+PESQUISA DE LOCAIS DE COMPRA - PLC
+Realizada no período de maio a junho de 1988. Forneceu o cadastro de informantes da pesquisa, cuja
+manutenção é contínua.
+PESQUISA DE ESPECIFICAÇÃO DE PRODUTOS E SERVIÇOS - PEPS
+Realizada na época de implantação de cada uma das regiões para todos os produtos e serviços constantes
+das estruturas de ponderação. Forneceu o cadastro de produtos e serviços pesquisado, que é
+permanentemente atualizado com o objetivo de acompanhar a dinâmica de mercado.
+PRINCIPAIS VARIÁVEIS INVESTIGADAS E UNIDADES DE INVESTIGAÇÃO
+Os preços obtidos são os efetivamente cobrados ao consumidor, para pagamento à vista.
+A Pesquisa é realizada em estabelecimentos comerciais, prestadores de serviços, domicílios e
+concessionárias de serviços públicos.
+ABRANGÊNCIA GEOGRÁFICA
+Regiões Metropolitanas do Rio de Janeiro, Porto Alegre, Belo Horizonte, Recife, São Paulo, Belém,
+Fortaleza, Salvador, Curitiba e Vitória, além do Distrito Federal e dos municípios de Goiânia (GO),
+Campo Grande (MS), Rio Branco (AC), São Luís (MA) e Aracaju (SE).
+IBGE | IPCA e INPC Setembro de 2026 | - 5 -
+
+=== página 6 ===
+PERIODICIDADE
+Mensal
+METODOLOGIA
+Os índices são calculados para cada região. A partir dos preços coletados mensalmente, obtém-se, na
+primeira etapa de síntese, as estimativas dos movimentos de preços referentes a cada produto pesquisado.
+Tais estimativas são obtidas através do cálculo da média aritmética simples de preços dos locais da
+amostra do produto que, comparadas em dois meses consecutivos, resultam no relativo das médias.
+Agregando-se os relativos dos produtos através da média geométrica é calculada a variação de preços de
+cada subitem, que se constitui na menor agregação do índice que possui ponderação explícita.
+A partir daí é aplicada a fórmula Laspeyres, obtendo-se todos os demais níveis de agregação da estrutura
+item, subgrupo, grupo e, por fim, o índice geral da região.
+Os índices nacionais INPC e IPCA são calculados a partir dos resultados dos índices regionais,
+utilizando-se a média aritmética ponderada.
+A variável de ponderação do INPC é a "População Residente Urbana" (Pesquisa de Orçamentos
+Familiares - POF - 2017-2018) e a do IPCA "Rendimento Familiar Monetário Disponível " (Pesquisa de
+Orçamentos Familiares - POF - 2017-2018).
+ÉPOCA DE COLETA
+O período de coleta do INPC e do IPCA estende-se, em geral, do dia 01 a 30 do mês de referência.
+TEMPO PREVISTO ENTRE COLETA E DIVULGAÇÃO
+Aproximadamente 8 (oito) dias úteis.
+IBGE | IPCA e INPC Setembro de 2026 | - 6 -
+
+=== página 7 ===
+INÍCIO DA PESQUISA
+Janeiro/1979 - Rio de Janeiro;
+Junho/1979 - Porto Alegre, Belo Horizonte e Recife;
+Janeiro/1980 - São Paulo, Brasília e Belém;
+Outubro/1980 - Fortaleza, Salvador e Curitiba;
+Janeiro/1991 - Goiânia;
+Janeiro/2014 - Vitória e Campo Grande;
+Maio/2018 - Rio Branco, São Luís e Aracaju;
+A série Brasil encontra-se disponível a partir de setembro de 1981.
+IBGE | IPCA e INPC Setembro de 2026 | - 7 -
+
+=== página 8 ===
+2. Comentários
+2.1. Índice Nacional de Preços ao Consumidor Amplo - IPCA
+O Índice Nacional de Preços ao Consumidor Amplo - IPCA do mês de setembro apresentou
+variação de 0,82%, 1,14 ponto percentual (p.p.) acima da taxa de -0,32% registrada em agosto. No ano, o
+IPCA acumula alta de 3,95% e, nos últimos doze meses, o índice ficou em 4,58%, acima dos 4,22% dos
+12 meses imediatamente anteriores. Em setembro de 2025, a variação havia sido de 0,48%.
+Para o cálculo do índice do mês, foram comparados os preços coletados no período de 01 de
+setembro de 2026 a 29 de setembro de 2026 (referência) com os preços vigentes no período de 31 de
+julho de 2026 a 31 de agosto de 2026 (base).
+Todos os grupos de produtos e serviços pesquisados apresentaram variação positiva em
+setembro, com destaque para a Habitação, que registrou a maior alta e impacto (2,31% e 0,35 p.p.),
+seguido de Transportes (0,89%) e Alimentação e bebidas (0,83%). Esses três grupos, com os maiores
+pesos no índice, responderam por cerca de 86% do resultado do mês. As demais altas oscilaram entre o
+0,04% observado na Educação e o 0,71% no Vestuário (Tabela 1).
+Tabela 1: Variação do IPCA por grupo de produtos e serviços
+Variação (%) Impacto (p.p.)
+Grupo
+Agosto Setembro Agosto Setembro
+Índice Geral -0,32 0,82 -0,32 0,82
+Alimentação e bebidas -0,34 0,83 -0,07 0,18
+Habitação -1,87 2,31 -0,29 0,35
+Artigos de residência 0,64 0,27 0,02 0,01
+Vestuário 0,12 0,71 0,00 0,03
+Transportes -0,86 0,89 -0,17 0,18
+Saúde e cuidados pessoais 0,23 0,08 0,03 0,01
+Despesas pessoais 1,30 0,26 0,13 0,03
+Educação 0,47 0,04 0,03 0,00
+Comunicação -0,09 0,64 0,00 0,03
+Fonte: IBGE, Diretoria de Pesquisas, Coordenação de Índices de Preços.
+Com o fim da incorporação do Bônus de Itaipu, creditado nas faturas emitidas no mês de agosto,
+a energia elétrica residencial, do grupo Habitação (2,31%), subiu 7,98% em setembro, destacando-se
+IBGE | IPCA e INPC Setembro de 2026 | - 8 -
+
+=== página 9 ===
+como o principal impacto individual no índice do mês (0,32 p.p.). Ressalta-se a continuidade da vigência
+da bandeira tarifária amarela, que adiciona R$ 1,885 na conta de luz a cada 100 Kwh consumidos.
+Além disso, houve a incorporação dos seguintes reajustes tarifários: 6,63% em Belém (7,05%)
+desde 18 de setembro; 5,42% em São Luís (12,84%) a partir de 28 de agosto e 6,89% em Vitória
+(10,85%), a partir de 7 de agosto. Em Rio Branco (3,41%) e Fortaleza (1,57%), as tarifas foram
+reduzidas em, respectivamente, 5,20% e 6,65%, a partir de 26 de agosto, em razão da incorporação de
+recursos da repactuação do Uso de Bem Público (UBP), aprovado pela Agência Nacional de Energia
+Elétrica (Aneel).
+Ainda em Habitação destaca-se, também, a variação de 0,05% no gás encanado, que se deu
+devido aos reajustes nas tarifas de 10,21% e 1,80% em Curitiba (0,29%) e no Rio de Janeiro (0,05%),
+respectivamente, ambos a partir de 1º de agosto. A taxa de água e esgoto (0,13%) reflete o reajuste de
+6,94% em Vitória (6,94%), vigente desde 1º de setembro.
+A variação do grupo Transportes (0,89%) reflete, além da alta de 9,66% das passagens aéreas,
+a variação positiva de 1,41% nos combustíveis, com a subida nos preços do etanol (3,16%), do óleo
+diesel (1,69%), da gasolina (1,21%) e do gás veicular (0,10%). O subitem táxi (0,20%) considera o
+reajuste de 8,42% nas tarifas em Belo Horizonte (1,97%), vigente desde 08 de agosto.
+O grupo Alimentação e bebidas apresentou variação positiva de 0,83% em setembro, após três
+recuos consecutivos. A alimentação no domicílio subiu 0,96% devido às altas do tomate (37,76%), da
+batata-inglesa (24,07%), da cebola (10,14%), do arroz (4,56%) e das carnes (0,63%). No lado das
+quedas, destacam-se o frango inteiro (-1,96%), frango em pedaços (-1,41%) e as frutas (-1,12%).
+A alimentação fora do domicílio acelerou de 0,36% em agosto para 0,48% em setembro, com a
+refeição saindo de 0,18% para 0,49% e o lanche desacelerando de 0,62% para 0,47%, no mesmo período.
+No que concerne aos índices regionais (Tabela 2), a maior variação (1,08%) foi registrada em
+Vitória, com destaque para a alta da energia elétrica residencial (10,85%) e do tomate (43,19%). A
+menor variação ocorreu em Rio Branco (0,53%), por conta dos recuos da passagem aérea (-14,13%) e
+do ovo de galinha (-7,40%).
+IBGE | IPCA e INPC Setembro de 2026 | - 9 -
+
+=== página 10 ===
+Tabela 2: Variação do IPCA por região
+Peso Variação (%) Variação Acumulada (%)
+Região Regional
+(%)
+Agosto Setembro Ano 12 meses
+Vitória 1,86 -0,22 1,08 4,28 4,91
+Goiânia 4,17 -0,22 1,07 4,38 6,08
+Belo Horizonte 9,69 -0,29 1,05 3,84 4,16
+Porto Alegre 8,61 -0,27 0,96 3,93 5,02
+Brasília 4,06 -0,02 0,89 3,98 4,91
+São Paulo 32,28 -0,22 0,83 4,14 4,75
+São Luís 1,62 -0,60 0,82 4,74 4,32
+Rio de Janeiro 9,43 -0,42 0,77 4,11 4,72
+Salvador 5,99 -0,59 0,74 3,55 4,23
+Recife 3,92 -0,53 0,65 4,12 4,79
+Campo Grande 1,57 -0,20 0,64 4,45 4,78
+Curitiba 8,09 -0,64 0,63 2,60 2,72
+Belém 3,94 -0,35 0,62 3,74 4,01
+Fortaleza 3,23 -0,10 0,57 4,52 5,10
+Aracaju 1,03 -0,38 0,55 4,26 4,74
+Rio Branco 0,51 -0,17 0,53 3,34 4,21
+Brasil 100,00 -0,32 0,82 3,95 4,58
+Fonte: IBGE, Diretoria de Pesquisas, Coordenação de Índices de Preços.
+O IPCA é calculado pelo IBGE desde 1980, se refere às famílias com rendimento monetário de
+01 a 40 salários mínimos, qualquer que seja a fonte, e abrange dez regiões metropolitanas do país, além
+dos municípios de Goiânia, Campo Grande, Rio Branco, São Luís, Aracaju e de Brasília.
+2.2. Índice Nacional de Preços ao Consumidor – INPC
+O Índice Nacional de Preços ao Consumidor - INPC teve variação de 0,82% em setembro,
+1,14 p.p. acima do resultado observado em agosto (-0,32%). No ano, o INPC acumula alta de 4,01% e, na
+ótica dos últimos 12 meses, o índice ficou em 4,29%, acima dos 3,98% dos 12 meses imediatamente
+anteriores. Em setembro de 2025, a taxa foi de 0,52%.
+Os produtos alimentícios saíram de -0,34% em agosto para 0,80% em setembro. A variação dos
+não alimentícios passou de -0,31% em agosto para 0,83% em setembro.
+Quanto aos índices regionais (Tabela 3), a maior variação (1,09%) foi registrada em Belo
+Horizonte com as altas da energia elétrica residencial (6,53%) e da gasolina (3,79%). A menor
+variação ocorreu em Fortaleza (0,59%), por conta dos recuos do frango inteiro (-6,44%) e da roupa
+feminina (-2,39%).
+IBGE | IPCA e INPC Setembro de 2026 | - 1 0 -
+
+=== página 11 ===
+Tabela 3: Variação do INPC por região
+Peso Variação (%) Variação Acumulada (%)
+Região Regional
+(%) Agosto Setembro Ano 12 meses
+Belo Horizonte 10,35 -0,33 1,09 4,01 3,98
+Goiânia 4,43 -0,23 1,04 4,41 5,95
+Vitória 1,91 -0,17 1,01 4,25 4,46
+Brasília 1,97 -0,12 0,98 3,87 4,66
+São Paulo 24,60 -0,28 0,88 4,09 4,21
+Porto Alegre 7,15 -0,05 0,86 4,11 4,93
+Rio de Janeiro 9,38 -0,41 0,77 4,30 4,69
+São Luís 3,47 -0,53 0,74 4,70 4,30
+Salvador 7,92 -0,57 0,73 3,62 4,09
+Recife 5,60 -0,45 0,71 4,38 4,86
+Curitiba 7,37 -0,67 0,69 2,54 2,22
+Campo Grande 1,73 -0,20 0,69 4,73 4,87
+Rio Branco 0,72 -0,17 0,62 3,50 4,12
+Belém 6,95 -0,11 0,61 3,72 3,86
+Aracaju 1,29 -0,36 0,60 4,23 4,50
+Fortaleza 5,16 -0,03 0,59 4,67 5,22
+Brasil 100,00 -0,32 0,82 4,01 4,29
+Fonte: IBGE, Diretoria de Pesquisas, Coordenação de Índices de Preços.
+Para o cálculo do índice do mês, foram comparados os preços coletados no período de 01 de
+setembro de 2026 a 29 de setembro de 2026 (referência) com os preços vigentes no período de 31 de
+julho de 2026 a 31 de agosto de 2026 (base).
+O INPC é calculado pelo IBGE desde 1979, se refere às famílias com rendimento monetário de
+01 a 05 salários mínimos, sendo o chefe assalariado, e abrange dez regiões metropolitanas do país, além
+dos municípios de Goiânia, Campo Grande, Rio Branco, São Luís, Aracaju e de Brasília.
+IBGE | IPCA e INPC Setembro de 2026 | - 1 1 -
+
+=== página 12 ===
+3. Tabelas de resultados
+SISTEMA NACIONAL DE ÍNDICES DE PREÇOS AO CONSUMIDOR
+VARIAÇÕES MENSAIS POR GRUPOS E ITENS
+IPCA - SETEMBRO 2026
+RJ POA BH REC SP DF BEL FOR SAL CUR GOI VIT CG RB SL AJUNACIONAL
+Índice Geral 0,77 0,96 1,05 0,65 0,83 0,89 0,62 0,57 0,74 0,63 1,07 1,08 0,64 0,53 0,82 0,55 0,82
+Alimentação e bebidas 0,92 1,07 1,16 0,64 0,64 1,28 0,40 0,39 0,48 0,99 1,51 1,54 0,88 1,14 0,57 0,70 0,83
+Cereais, leguminosas e oleaginosas 3,21 4,29 6,27 0,32 1,47 2,17 0,41 3,70 0,89 2,22 1,86 4,62 5,78 1,96 2,58 0,59 2,53
+Farinhas, féculas e massas 1,19 -0,42 -0,32 -0,11 0,13 1,34 -1,98 0,50 0,16 0,53 0,16 0,08 0,02 7,75 -1,21 -0,31 0,01
+Tubérculos, raízes e legumes 24,38 23,12 23,96 7,88 16,77 17,74 11,80 14,00 12,14 26,62 28,00 27,03 24,71 8,69 5,73 8,19 18,92
+Açúcares e derivados 0,18 0,43 1,26 -1,30 -0,25 0,80 1,08 2,27 -0,49 0,57 1,29 0,37 -0,14 -0,19 1,94 -0,02 0,28
+Hortaliças e verduras 1,01 3,70 -0,71 -2,90 -0,72 -0,70 3,54 0,43 -0,91 -1,08 -2,63 -1,67 -4,84 0,23 -3,46 -1,66 -0,27
+Frutas 0,01 -3,50 -4,41 -0,48 -0,48 -0,74 -0,02 -0,62 -2,49 0,38 0,34 -1,11 -5,89 4,71 1,10 0,71 -1,12
+Carnes 1,16 0,26 0,20 0,68 0,37 2,02 1,58 -1,71 0,70 1,29 0,64 1,00 0,84 3,03 0,76 -0,24 0,63
+Pescados -2,51 -1,02 1,45 -0,83 -0,27 -2,09 -0,96 -1,65 -1,44 0,25 -0,17 -2,01 -0,51 -0,24 -1,75 0,37 -0,95
+Carnes e peixes industrializados -0,33 -0,46 -0,83 1,66 -0,55 -0,38 0,21 0,65 1,30 0,81 -0,46 -1,61 -2,03 -1,19 -1,64 -0,30 -0,09
+Aves e ovos -1,89 -0,52 -0,40 0,75 -2,87 -1,33 -1,35 -3,78 -0,62 -2,17 -2,15 -1,12 0,14 -1,71 -1,12 -0,26 -1,66
+Leite e derivados -1,24 0,06 -0,16 0,77 0,12 0,22 0,13 0,26 -0,44 -0,13 -0,17 0,09 -0,53 0,49 0,33 0,73 -0,07
+Panificados -0,67 1,21 1,05 0,08 -0,28 2,04 0,25 2,13 -0,80 0,38 -0,32 0,13 0,00 -0,52 -0,05 0,46 0,23
+Óleos e gorduras 0,69 0,31 1,87 -0,05 0,67 0,49 1,51 0,31 2,15 0,92 1,10 2,46 -0,33 0,67 0,71 1,11 0,91
+Bebidas e infusões -0,47 0,46 -0,61 -0,04 0,24 0,29 -2,60 -0,81 0,28 -0,80 0,41 -0,74 -0,14 0,31 0,60 -0,65 -0,26
+Enlatados e conservas 0,62 0,36 0,28 -1,00 0,55 1,22 0,88 0,82 1,54 0,52 -1,03 1,06 -0,63 0,16 -1,70 -0,23 0,42
+Sal e condimentos 3,04 -0,78 0,35 3,11 1,26 -1,21 1,30 1,01 -1,61 0,46 1,13 4,19 -0,71 0,04 -1,64 0,27 0,88
+Alimentação fora do domicílio 0,42 0,28 0,51 0,32 0,43 0,94 1,02 0,38 0,48 0,40 0,83 0,78 -0,10 -0,14 0,66 0,62 0,48
+Habitação 2,00 2,79 2,03 3,38 2,14 2,32 3,01 0,62 2,50 2,40 1,73 4,18 2,32 1,75 4,73 2,66 2,31
+Aluguel e taxas 0,00 0,34 0,14 0,37 0,26 0,61 0,30 0,08 0,47 0,08 0,27 1,83 0,04 0,11 0,05 0,37 0,26
+Reparos -0,50 1,27 0,42 0,36 0,36 0,35 0,89 -0,03 0,04 -0,28 -0,06 -0,60 0,95 1,12 0,57 0,85 0,30
+Artigos de limpeza 0,75 0,50 -0,42 1,90 0,26 1,04 0,79 -0,03 -0,69 1,27 0,41 0,62 -0,34 0,77 0,14 0,09 0,37
+Combustíveis (domésticos) 0,86 0,30 0,48 0,28 0,56 0,46 -0,26 1,69 -1,11 2,40 -0,17 0,44 -0,06 -0,44 0,68 -0,15 0,52
+Energia elétrica residencial 6,29 8,60 6,63 10,47 9,26 8,78 7,05 1,57 9,06 8,69 5,33 10,85 6,56 3,41 12,84 9,38 7,98
+Artigos de residência 0,54 0,08 0,75 -0,17 0,00 -0,28 1,08 1,04 1,12 -0,46 0,72 0,04 1,05 -0,70 0,24 0,68 0,27
+Mobiliário 0,09 1,11 1,40 -0,44 -0,31 -1,95 1,78 1,04 0,85 -2,03 -0,35 -1,04 1,48 -1,36 -0,46 -0,19 0,03
+Utensílios e enfeites -0,52 -1,86 1,59 -0,48 -1,12 0,50 1,38 1,37 0,83 0,27 0,00 1,23 -0,93 -0,59 -1,95 -1,66 -0,26
+Cama, mesa e banho -0,59 -0,50 1,60 0,30 -1,76 -0,15 -0,35 2,13 -0,08 -3,69 -2,32 -0,79 1,35 1,34 -0,27 -0,57 -0,63
+Eletrodomésticos e equipamentos 0,79 -0,86 -0,65 -0,31 0,07 -0,34 -0,18 -0,81 1,66 0,90 1,28 0,62 0,66 -1,21 0,84 1,79 0,16
+TV, som e informática 1,71 0,53 0,24 1,04 1,18 2,29 1,53 2,89 1,24 0,14 2,50 1,00 2,04 0,49 1,53 2,53 1,19
+Consertos e manutenção 0,17 0,55 0,65 -1,27 0,39 0,89 1,30 0,91 1,65 1,63 1,50 -0,02 1,19 0,52 1,49 1,57 0,70
+Vestuário -0,23 0,85 0,79 1,74 1,02 0,46 -0,55 -1,22 0,91 1,08 0,83 1,59 0,81 1,56 0,36 0,01 0,71
+Roupa masculina -0,87 0,39 1,05 2,45 0,47 1,20 -0,45 -1,48 1,09 0,03 1,14 1,73 0,85 2,91 0,59 -1,35 0,48
+Roupa feminina 0,12 1,74 1,60 1,48 1,85 0,69 -1,23 -2,60 2,13 1,56 1,38 1,60 -0,66 1,42 -0,23 -0,23 1,16
+Roupa infantil 1,29 1,29 -0,36 0,45 0,20 0,67 0,66 -0,12 -0,03 1,41 0,09 2,30 2,78 -0,39 -0,56 1,77 0,53
+Calçados e acessórios -0,79 0,12 0,26 2,29 1,15 0,40 -0,76 0,05 -0,01 2,01 0,96 1,37 2,21 1,01 1,12 0,89 0,71
+Joias e bijuterias 0,93 1,12 0,66 0,55 0,83 -1,49 1,10 -0,28 0,80 -2,94 -1,00 0,37 -0,79 1,85 0,62 -0,33 0,18
+Tecidos e armarinho 0,76 0,40 -0,45 -0,70 -1,69 -1,47 -0,09 -1,73 0,66 0,95 0,28 0,09 -1,07 -1,11 -1,04 0,50 -0,51
+Transportes 0,33 1,23 1,84 -0,06 1,18 0,78 0,46 1,43 0,88 -0,19 1,78 0,49 -0,21 -0,37 0,04 0,20 0,89
+Transporte público 1,03 4,69 1,75 -0,13 3,14 3,07 0,83 0,98 2,30 6,14 3,84 4,59 0,92 -5,83 -0,69 -0,11 2,50
+Veículo próprio 0,15 0,02 0,40 0,07 0,26 -0,28 0,26 0,37 0,64 -0,92 0,93 0,29 -0,62 0,24 0,63 0,49 0,14
+Combustíveis (veículos) -0,08 1,51 4,34 -0,21 2,02 1,34 0,60 3,38 0,26 -0,42 2,77 -0,97 0,20 0,29 -0,55 -0,06 1,41
+Saúde e cuidados pessoais 0,14 -0,04 0,14 -0,23 0,16 0,65 -0,40 0,60 -0,06 0,05 -0,07 -0,21 -0,15 0,21 -0,27 0,02 0,08
+Produtos farmacêuticos -0,30 0,13 0,55 0,00 -0,22 1,66 -0,41 0,68 0,24 -0,39 -0,11 -0,51 -0,18 -0,03 -0,19 0,73 0,02
+Produtos óticos 2,77 1,93 -2,46 0,68 -1,19 1,27 -0,81 1,03 -0,73 -0,41 0,13 2,32 2,61 2,32 2,49 0,37 -0,19
+Serviços médicos e dentários -0,18 0,56 1,01 1,36 1,01 0,96 -0,76 0,20 0,08 0,69 0,66 0,29 0,94 0,51 1,07 1,40 0,69
+Serviços laboratoriais e hospitalares 0,13 0,00 0,11 0,60 0,22 -0,14 0,07 0,13 0,36 0,36 0,18 -0,41 0,31 -0,47 0,78 1,18 0,18
+Plano de saúde 0,42 0,41 0,41 0,42 0,42 0,42 0,42 0,42 0,42 0,42 0,42 0,41 0,40 0,42 0,42 0,42 0,42
+Higiene pessoal 0,21 -0,92 -0,70 -1,29 -0,06 0,11 -0,57 0,73 -0,82 -0,01 -0,51 -1,40 -1,19 0,24 -0,98 -1,40 -0,38
+Despesas pessoais 0,84 0,18 0,48 -0,22 0,16 0,29 -0,28 0,22 0,29 0,52 0,16 -0,14 0,41 0,05 -0,27 -0,11 0,26
+Serviços pessoais 0,35 0,29 0,74 0,45 0,31 0,34 0,27 0,52 0,37 0,46 0,63 0,37 0,68 0,37 0,16 0,38 0,40
+Recreação 1,92 -0,09 0,03 -1,69 -0,23 0,15 -1,68 -0,40 0,10 0,65 -0,69 -1,47 -0,28 -0,80 -1,63 -1,17 -0,05
+Fumo 0,60 0,42 0,51 0,44 0,58 0,61 0,43 0,44 0,34 0,34 0,61 0,44 0,46 0,41 0,43 0,43 0,52
+Educação -0,03 0,08 -0,01 0,04 0,06 0,26 0,17 0,01 -0,04 0,02 0,02 -0,03 -0,06 -0,07 -0,06 0,02 0,04
+Cursos regulares 0,00 0,00 0,00 0,00 0,00 0,00 0,00 0,00 0,00 0,00 0,00 0,00 0,00 0,00 0,00 0,00 0,00
+Leitura -0,08 0,51 0,34 -0,02 0,20 0,76 0,18 0,00 0,02 0,13 0,00 0,00 0,24 0,65 0,00 0,01 0,20
+Papelaria 0,03 1,22 -0,02 1,10 0,39 2,36 1,17 0,28 -0,87 0,00 -1,23 -1,28 -0,37 -0,76 -1,21 -0,10 0,25
+Cursos diversos -0,19 -0,16 -0,26 0,14 0,34 0,91 0,66 0,00 -0,13 0,06 0,43 0,04 -0,47 -0,34 -0,02 0,22 0,14
+Comunicação 0,79 0,39 0,54 0,43 0,84 0,37 0,73 0,61 0,42 0,50 0,59 0,43 0,63 0,47 0,75 0,50 0,64
+Comunicação 0,79 0,39 0,54 0,43 0,84 0,37 0,73 0,61 0,42 0,50 0,59 0,43 0,63 0,47 0,75 0,50 0,64
+IBGE | IPCA e INPC Setembro de 2026 | - 1 2 -
+
+=== página 13 ===
+SISTEMA NACIONAL DE ÍNDICES DE PREÇOS AO CONSUMIDOR
+VARIAÇÕES ACUMULADAS NO ANO POR GRUPOS E ITENS
+IPCA - SETEMBRO 2026
+RJ POA BH REC SP DF BEL FOR SAL CUR GOI VIT CG RB SL AJUNACIONAL
+Índice Geral 4,11 3,93 3,84 4,12 4,14 3,98 3,74 4,52 3,55 2,60 4,38 4,28 4,45 3,34 4,74 4,26 3,95
+Alimentação e bebidas 3,01 5,91 3,74 3,88 4,65 3,79 3,89 4,69 3,73 4,26 5,52 5,14 4,27 3,96 4,46 5,71 4,37
+Cereais, leguminosas e oleaginosas 7,72 9,15 13,86 14,96 11,51 9,17 18,06 3,91 11,20 5,72 17,27 16,70 8,81 11,83 4,84 15,83 10,74
+Farinhas, féculas e massas 4,67 0,02 -1,01 3,10 0,41 2,10 -0,42 1,68 0,91 2,59 1,70 3,18 -0,72 13,29 2,01 0,75 1,22
+Tubérculos, raízes e legumes 60,15 93,47 49,01 30,19 33,27 24,63 43,05 66,22 36,51 73,36 53,00 59,57 44,75 36,58 18,27 38,05 46,54
+Açúcares e derivados -5,65 -2,46 -0,56 -5,77 0,73 0,21 -0,98 -2,30 -1,85 -1,96 -0,23 0,46 -4,39 -4,97 -1,69 -2,95 -1,24
+Hortaliças e verduras 8,62 18,33 8,47 -10,28 10,54 4,06 15,93 -0,25 11,67 16,02 8,81 3,46 10,05 4,80 8,78 7,50 10,48
+Frutas -0,34 -0,15 -15,18 -2,31 1,33 -2,08 -2,51 7,17 -1,14 -0,38 -3,28 1,17 -11,22 -10,11 8,67 3,53 -1,54
+Carnes 7,46 6,55 1,57 9,89 6,71 6,71 12,28 7,24 5,89 6,59 7,51 4,85 9,15 11,47 8,97 9,69 6,89
+Pescados 3,28 1,78 5,36 2,70 3,55 -0,47 -2,81 6,50 -0,02 0,35 -0,03 -2,77 0,88 0,98 -1,12 -0,70 1,13
+Carnes e peixes industrializados 2,89 -0,57 2,36 9,31 -4,34 -0,28 7,93 0,44 6,17 -4,84 -1,02 -1,87 -2,05 -0,73 5,14 7,01 0,18
+Aves e ovos -5,13 -8,63 -2,07 -1,97 -6,55 -6,73 -2,88 -2,96 -5,71 -5,80 -7,41 -4,62 -4,82 -3,67 0,46 -2,14 -4,99
+Leite e derivados 4,57 16,92 16,39 5,03 17,11 9,86 3,59 6,30 8,90 14,38 9,22 10,87 11,36 4,22 2,94 5,74 12,47
+Panificados 0,67 4,35 3,57 3,83 1,21 4,57 0,36 7,73 0,68 4,63 0,77 2,56 1,14 3,09 2,84 1,40 2,46
+Óleos e gorduras -5,95 -2,74 -6,41 -2,36 -7,44 -9,23 -5,02 -3,35 -4,92 -4,33 -2,88 -7,88 -3,74 -9,43 -2,25 -6,32 -5,65
+Bebidas e infusões -4,98 -0,29 -6,26 -2,66 -3,28 -2,92 -2,69 -4,41 -6,41 -2,87 0,54 -4,61 -3,79 -4,85 -1,88 -1,86 -3,37
+Enlatados e conservas 5,14 6,09 4,92 2,62 2,28 4,51 6,19 2,61 7,14 1,28 -1,43 5,52 3,03 1,87 7,22 0,70 3,54
+Sal e condimentos 1,28 2,32 3,55 2,49 4,54 -0,95 0,95 0,13 -4,23 3,96 3,07 6,45 0,80 -3,82 -0,03 -0,94 2,69
+Alimentação fora do domicílio 2,65 3,92 4,43 2,99 4,79 4,80 3,16 4,82 4,95 3,16 4,40 5,06 3,61 3,11 4,91 5,24 4,20
+Habitação 6,91 3,92 3,97 4,13 4,11 3,33 1,86 1,68 2,76 6,76 2,92 5,99 6,37 3,22 4,16 4,42 4,35
+Aluguel e taxas 3,11 4,55 4,69 3,97 2,82 4,29 3,35 3,19 3,66 3,55 5,12 4,75 3,58 3,64 1,96 3,20 3,48
+Reparos 3,98 3,51 5,77 5,54 4,31 5,26 3,47 4,81 4,87 4,11 5,23 2,61 6,47 7,28 5,13 5,70 4,40
+Artigos de limpeza 3,92 1,90 5,30 5,28 4,02 3,00 4,31 2,94 -1,51 3,39 4,61 5,15 3,95 1,48 1,26 0,23 3,47
+Combustíveis (domésticos) 2,72 1,82 1,98 5,83 3,51 0,34 5,14 3,21 -2,11 5,77 1,79 7,81 4,21 2,53 7,76 3,53 3,14
+Energia elétrica residencial 15,64 4,06 2,89 3,18 7,67 0,91 -0,78 -2,91 4,01 16,11 -0,83 8,41 10,92 2,37 3,78 7,52 6,50
+Artigos de residência 4,30 3,79 5,51 2,34 2,17 3,91 1,59 2,05 2,24 -0,76 3,33 4,13 4,73 -1,40 6,38 3,64 2,81
+Mobiliário -1,33 5,12 6,49 2,60 -1,20 2,68 4,67 1,03 3,62 -2,92 3,28 2,48 5,46 -1,28 8,25 2,29 1,53
+Utensílios e enfeites -0,58 1,10 2,99 -0,02 -0,24 -1,84 2,72 2,30 -1,54 -2,50 1,33 3,62 -2,93 -2,58 -2,05 1,74 0,10
+Cama, mesa e banho 1,17 5,06 1,50 3,98 -3,57 5,61 -1,57 1,22 -1,43 -6,13 -4,14 7,69 2,74 0,27 2,46 6,51 -0,27
+Eletrodomésticos e equipamentos 3,03 0,49 1,21 -2,06 0,20 4,04 -4,27 -0,72 -1,05 0,17 0,88 -0,86 3,70 -6,03 4,87 -2,84 0,34
+TV, som e informática 15,10 8,54 11,11 8,34 13,20 10,15 3,59 6,02 9,18 5,69 10,12 14,34 12,95 5,62 9,94 12,49 10,65
+Consertos e manutenção 8,40 2,23 8,78 2,39 4,10 5,28 3,39 5,63 2,10 -0,15 5,49 5,16 3,71 7,73 8,22 8,88 4,41
+Vestuário 2,11 2,63 1,62 4,47 1,87 2,41 -1,85 2,31 0,28 2,07 2,87 0,94 4,65 4,91 0,45 -0,20 1,85
+Roupa masculina 3,79 0,24 1,24 3,41 -0,79 1,87 -2,91 1,75 0,41 -2,07 0,89 -0,06 4,24 5,48 0,10 -4,13 0,30
+Roupa feminina -1,51 1,40 0,65 1,47 0,95 -0,79 -3,27 1,79 0,91 1,84 1,09 -2,69 0,31 4,76 -1,80 -2,81 0,48
+Roupa infantil 1,94 0,42 -1,66 1,47 0,11 1,95 -1,64 -0,83 -3,50 -0,64 5,69 2,41 5,61 2,18 -1,44 1,67 0,14
+Calçados e acessórios 2,24 5,07 4,33 7,51 5,47 4,75 -0,52 3,47 1,17 5,82 3,93 3,25 8,21 5,41 2,75 4,25 4,35
+Joias e bijuterias 14,07 12,32 3,21 13,40 7,99 10,47 5,02 9,84 1,96 11,12 8,45 10,55 7,68 6,13 7,69 7,43 8,59
+Tecidos e armarinho -2,83 -0,10 2,78 2,15 -1,63 -1,19 -0,21 0,93 -0,44 1,93 -0,16 6,90 -2,63 4,74 -4,67 5,48 -0,15
+Transportes 2,76 1,59 3,12 3,59 3,55 4,16 5,11 6,50 3,12 -2,25 3,12 3,04 3,80 2,17 6,49 3,31 2,84
+Transporte público 1,67 1,77 3,69 1,41 8,57 4,37 8,17 11,22 -0,09 8,78 -2,76 4,41 -3,21 -3,28 -0,38 -3,94 4,55
+Veículo próprio 1,12 2,06 2,92 2,59 2,20 3,07 3,30 1,39 2,15 -5,93 4,09 2,90 2,03 3,09 2,36 3,60 1,46
+Combustíveis (veículos) 7,61 0,78 3,16 6,29 3,67 5,70 6,69 13,05 7,28 1,95 2,88 2,74 8,24 2,17 17,28 7,72 4,49
+Saúde e cuidados pessoais 3,49 4,71 4,46 5,68 5,09 5,44 6,67 5,04 5,14 3,62 5,33 4,04 4,26 6,35 5,32 4,57 4,82
+Produtos farmacêuticos 1,72 4,17 3,72 3,79 3,76 4,47 4,13 5,49 4,19 -2,09 3,92 2,71 2,37 4,12 3,65 1,64 3,18
+Produtos óticos 5,55 2,57 3,76 3,33 1,27 2,49 -0,27 13,30 3,51 7,78 5,53 1,61 4,45 16,13 4,85 15,12 3,52
+Serviços médicos e dentários 2,73 3,93 5,97 7,95 7,05 10,52 5,01 4,70 6,70 8,46 6,28 6,58 6,21 9,45 5,50 7,76 6,38
+Serviços laboratoriais e hospitalares 3,41 3,26 1,95 7,17 3,54 6,24 5,80 3,39 4,27 3,98 4,43 2,01 3,30 2,10 2,97 6,51 3,71
+Plano de saúde 4,30 4,00 4,08 4,18 4,13 4,20 4,13 4,13 4,20 4,18 4,13 4,03 3,84 4,13 4,13 4,13 4,14
+Higiene pessoal 4,57 6,52 5,51 8,09 7,32 6,87 9,62 5,00 6,62 6,81 7,40 5,00 5,55 7,48 6,84 5,96 6,76
+Despesas pessoais 5,62 3,73 4,90 4,20 4,04 3,40 3,62 5,14 3,44 3,90 5,97 3,81 3,84 1,76 3,69 3,85 4,24
+Serviços pessoais 4,00 3,77 4,86 5,05 4,80 4,32 3,90 4,86 4,47 4,85 5,76 5,09 3,75 4,61 4,21 5,56 4,61
+Recreação 3,86 0,66 2,70 -0,23 -1,19 -0,02 0,89 2,60 0,13 0,95 1,49 -1,49 0,36 -7,49 -0,42 -0,75 0,43
+Fumo 27,89 16,10 21,87 19,81 24,71 27,69 19,34 19,81 15,20 14,32 27,69 21,47 21,78 20,03 19,15 20,90 22,33
+Educação 5,71 5,93 4,36 4,37 6,10 4,65 5,63 7,70 6,07 5,80 6,67 7,00 4,57 4,60 6,09 6,00 5,80
+Cursos regulares 6,66 7,63 5,36 5,16 6,73 5,40 7,51 8,57 7,56 6,88 7,21 8,15 5,16 6,58 7,56 7,08 6,75
+Leitura 4,28 0,73 1,25 1,80 3,55 0,87 -0,99 3,70 0,97 0,69 3,54 -0,02 2,47 -1,40 3,22 4,17 2,34
+Papelaria -2,25 3,01 0,73 2,23 -0,29 0,17 4,98 0,04 -3,52 0,91 3,31 1,46 1,99 0,47 -0,11 1,08 0,70
+Cursos diversos 2,92 2,42 3,24 1,62 4,51 4,36 -1,04 3,15 3,86 3,83 6,65 4,18 3,76 -1,04 2,99 -0,84 3,71
+Comunicação 2,45 3,07 3,05 2,75 2,38 3,19 3,36 2,27 2,98 3,19 3,00 2,92 3,03 2,72 4,43 3,50 2,77
+Comunicação 2,45 3,07 3,05 2,75 2,38 3,19 3,36 2,27 2,98 3,19 3,00 2,92 3,03 2,72 4,43 3,50 2,77
+IBGE | IPCA e INPC Setembro de 2026 | - 1 3 -
+
+=== página 14 ===
+SISTEMA NACIONAL DE ÍNDICES DE PREÇOS AO CONSUMIDOR
+VARIAÇÕES ACUMULADAS EM 12 MESES POR GRUPOS E ITENS
+IPCA - SETEMBRO 2026
+RJ POA BH REC SP DF BEL FOR SAL CUR GOI VIT CG RB SL AJUNACIONAL
+Índice Geral 4,72 5,02 4,16 4,79 4,75 4,91 4,01 5,10 4,23 2,72 6,08 4,91 4,78 4,21 4,32 4,74 4,58
+Alimentação e bebidas 3,57 5,18 4,71 5,04 4,76 4,42 4,25 5,11 4,83 3,82 6,43 5,33 3,98 4,26 3,69 6,02 4,66
+Cereais, leguminosas e oleaginosas 2,73 -0,24 6,36 9,75 7,08 1,81 10,66 -5,04 6,13 0,74 9,99 7,52 0,84 7,30 -3,23 8,87 4,54
+Farinhas, féculas e massas 3,11 -1,15 0,89 2,97 1,25 2,22 -0,01 -0,08 -0,66 2,18 2,43 2,82 -0,04 11,57 4,00 -0,43 1,22
+Tubérculos, raízes e legumes 73,06 73,68 63,20 38,25 31,67 33,93 40,69 64,65 39,99 63,89 69,84 50,52 55,47 38,47 22,29 30,97 48,29
+Açúcares e derivados -3,80 0,79 -0,70 -2,69 3,48 2,39 -1,83 -1,47 -4,62 1,80 -1,16 -2,47 -4,25 -5,11 -2,99 -2,69 0,49
+Hortaliças e verduras 12,70 16,98 9,22 3,06 11,19 8,43 16,33 -2,48 14,47 11,62 11,29 2,53 9,75 5,68 8,88 5,07 11,18
+Frutas -1,58 2,94 -14,48 -1,73 3,58 0,56 -3,72 6,81 -1,20 -0,46 -0,48 1,23 -11,13 -6,90 4,55 3,60 -0,49
+Carnes 11,53 7,07 5,72 11,90 9,28 7,29 17,12 9,47 12,34 7,69 11,18 9,21 10,27 13,55 12,31 11,31 9,83
+Pescados 4,74 4,02 9,54 -0,42 3,38 0,68 3,32 6,11 0,76 0,85 1,20 0,20 0,59 0,88 -1,34 -2,68 2,49
+Carnes e peixes industrializados 3,43 -2,61 3,78 9,29 -3,73 0,51 7,49 -0,53 6,96 -6,36 0,11 -5,52 -6,73 -2,44 3,69 7,88 0,11
+Aves e ovos -5,84 -10,04 -1,99 -0,59 -7,58 -5,33 -4,75 -0,51 -4,52 -10,33 -5,75 -4,07 -7,40 -5,71 -1,65 -2,39 -5,60
+Leite e derivados 2,22 4,24 9,70 3,98 8,60 4,83 0,51 5,29 6,61 6,91 3,44 7,54 6,19 1,25 -0,03 5,22 6,32
+Panificados 1,41 5,42 5,26 3,76 1,32 5,48 1,37 9,32 2,74 5,02 1,91 3,61 2,43 3,53 2,16 4,50 3,26
+Óleos e gorduras -6,15 1,66 -3,48 5,33 -3,10 -9,61 -2,30 0,15 -2,37 -3,20 -1,81 -4,71 -2,87 -3,83 3,36 -3,29 -2,68
+Bebidas e infusões -5,05 0,14 -6,78 -1,57 -3,57 -3,99 -7,62 -4,32 -7,02 -2,22 -0,29 -4,75 -4,43 -3,92 -6,04 -1,93 -3,91
+Enlatados e conservas 6,54 6,29 6,52 4,61 2,15 4,35 6,95 4,35 5,80 3,78 0,32 5,45 4,26 3,23 8,01 1,79 4,25
+Sal e condimentos -6,49 2,34 1,33 0,71 3,00 -2,00 -2,77 -0,95 -9,81 1,47 -0,87 1,34 -3,79 -9,48 1,22 -3,56 -0,05
+Alimentação fora do domicílio 4,31 5,48 6,59 4,79 6,13 6,27 6,27 6,68 6,68 4,45 5,62 7,28 4,39 4,16 6,11 6,61 5,79
+Habitação 5,86 6,18 2,83 2,54 3,89 5,01 1,25 2,50 1,88 5,56 7,79 4,46 6,40 4,11 2,15 3,18 4,22
+Aluguel e taxas 5,24 6,10 6,11 4,78 4,35 5,41 4,36 7,26 4,16 4,48 6,50 6,12 4,39 4,56 2,08 3,76 4,97
+Reparos 5,66 5,20 7,99 7,57 5,20 6,98 4,14 7,21 6,80 4,91 5,79 4,04 7,74 8,44 6,54 6,74 5,68
+Artigos de limpeza 3,82 1,31 6,25 5,52 5,04 2,34 3,96 3,05 -1,90 3,56 5,02 4,80 2,93 2,90 -0,18 -0,81 3,77
+Combustíveis (domésticos) 2,77 2,67 -0,94 5,55 4,61 0,76 5,82 4,55 -2,56 7,89 2,37 9,80 5,11 3,24 8,78 5,17 3,56
+Energia elétrica residencial 7,91 8,61 -2,34 -3,04 1,73 4,76 -3,10 -7,76 0,09 7,47 12,50 0,88 9,66 3,16 -2,10 1,20 2,74
+Artigos de residência 2,69 4,04 4,05 2,49 1,75 2,61 1,65 1,73 0,98 -1,77 1,97 3,07 4,84 -1,21 3,02 3,25 2,08
+Mobiliário -1,86 8,80 6,61 5,54 -0,50 2,07 7,60 1,13 3,16 -1,93 2,33 1,40 8,74 0,21 7,96 2,69 2,39
+Utensílios e enfeites -0,96 -0,90 1,25 0,46 -0,64 -2,16 1,30 1,74 -4,14 -6,00 0,97 2,23 -3,56 -3,31 -5,75 0,43 -1,16
+Cama, mesa e banho 1,64 10,69 -0,41 2,05 -5,32 2,22 -4,95 3,33 -2,07 -5,29 -5,01 7,18 5,42 -0,77 -2,42 4,19 -0,83
+Eletrodomésticos e equipamentos -1,16 -2,32 -3,83 -4,69 -2,82 0,71 -6,04 -3,55 -2,60 -1,94 -2,06 -2,68 -0,27 -4,31 -1,23 -4,31 -2,68
+TV, som e informática 13,18 6,06 7,97 6,54 12,86 8,04 3,31 5,75 6,85 1,37 7,16 14,00 12,09 1,12 4,17 11,68 8,89
+Consertos e manutenção 8,30 1,96 14,48 4,23 5,97 6,31 4,39 9,30 2,99 0,71 7,14 5,20 5,55 5,81 8,12 11,15 6,06
+Vestuário 3,71 5,16 2,46 7,08 3,12 4,36 -1,36 4,08 1,78 2,87 4,81 3,15 6,24 6,56 2,69 2,37 3,34
+Roupa masculina 4,63 2,37 2,72 5,60 -0,07 1,93 -3,42 2,68 2,66 -1,17 1,18 2,27 3,44 6,51 3,32 -3,12 1,39
+Roupa feminina 0,13 2,34 0,28 3,80 2,77 -0,50 -3,29 3,79 1,59 1,56 3,88 -1,05 0,81 6,38 -0,85 0,05 1,59
+Roupa infantil 3,23 4,07 -1,34 6,98 0,56 4,94 -1,36 1,46 -0,95 1,63 9,75 5,00 7,03 1,05 0,05 5,10 1,81
+Calçados e acessórios 4,41 8,73 5,51 8,98 7,26 8,15 1,14 5,76 2,18 6,64 4,89 5,59 10,09 7,60 4,77 7,30 6,19
+Joias e bijuterias 17,00 17,84 6,88 19,92 8,33 19,63 8,00 10,54 4,35 14,19 13,11 14,32 16,71 14,55 14,46 13,66 12,22
+Tecidos e armarinho -3,34 1,96 5,27 0,09 -1,85 -0,89 3,60 2,98 -1,46 1,35 1,48 6,55 -0,38 8,49 -4,37 3,91 0,35
+Transportes 4,58 3,98 2,97 5,27 4,61 5,51 5,77 6,51 4,12 -1,88 5,52 4,60 4,56 3,28 6,54 3,84 3,94
+Transporte público 8,08 13,20 4,94 8,93 17,39 16,82 12,14 17,03 7,30 19,44 7,32 11,50 6,62 9,14 2,75 2,30 12,18
+Veículo próprio 0,97 2,08 3,23 3,31 1,40 2,29 3,74 1,18 2,13 -5,94 3,56 3,53 2,21 4,14 2,35 3,00 1,21
+Combustíveis (veículos) 8,64 2,83 1,61 6,26 4,97 5,74 6,17 10,59 5,22 1,06 8,46 4,39 7,98 -0,28 15,69 6,10 4,97
+Saúde e cuidados pessoais 4,52 5,41 5,81 5,91 6,33 5,87 7,22 6,33 6,11 4,14 5,41 5,23 4,17 7,11 5,55 5,90 5,75
+Produtos farmacêuticos 2,43 4,49 5,12 4,77 5,59 3,82 6,00 7,04 4,85 -2,99 3,21 3,50 1,68 4,74 4,62 3,34 4,04
+Produtos óticos 3,59 5,81 1,50 7,69 0,86 5,21 -0,59 11,46 5,48 16,51 9,89 3,31 12,81 14,93 11,99 18,04 4,75
+Serviços médicos e dentários 3,20 4,16 8,24 9,28 10,44 11,65 6,08 5,85 8,25 11,67 7,21 8,20 7,38 11,18 5,74 7,69 8,39
+Serviços laboratoriais e hospitalares 4,73 4,19 4,22 5,53 4,12 4,62 6,65 4,47 5,97 5,41 4,64 2,72 4,68 1,37 2,98 8,14 4,53
+Plano de saúde 5,97 5,52 5,61 5,75 5,67 5,77 5,67 5,68 5,76 5,74 5,67 5,55 5,29 5,67 5,67 5,67 5,70
+Higiene pessoal 5,19 6,73 6,32 6,28 7,19 6,37 9,11 6,21 6,93 6,79 7,09 5,87 3,46 8,13 6,06 7,03 6,77
+Despesas pessoais 7,37 5,24 5,73 5,32 5,93 4,77 4,31 6,17 5,28 6,36 7,94 6,48 5,50 3,99 4,30 5,04 5,90
+Serviços pessoais 5,86 5,45 6,20 6,25 6,24 5,58 5,60 6,20 6,09 6,36 7,02 7,10 5,23 6,20 5,20 7,21 6,10
+Recreação 5,71 2,19 2,77 0,90 1,80 1,64 -0,58 3,24 2,56 5,12 4,81 2,96 2,72 -3,75 -0,72 -0,35 2,63
+Fumo 27,89 16,10 21,69 19,81 24,53 27,69 19,34 19,81 15,20 14,19 27,69 21,47 21,78 20,03 19,15 20,90 22,24
+Educação 5,76 6,11 4,57 4,51 6,27 4,85 5,84 7,85 6,18 5,95 6,74 7,13 4,55 5,34 6,13 6,07 5,95
+Cursos regulares 6,66 7,63 5,36 5,16 6,73 5,40 7,51 8,57 7,56 6,88 7,21 8,15 5,16 6,58 7,56 7,08 6,75
+Leitura 4,96 3,03 1,36 2,68 3,42 1,00 -0,23 4,69 1,00 1,26 3,60 1,87 2,42 -0,26 3,34 4,78 2,78
+Papelaria -1,73 1,23 -0,72 2,44 -1,00 2,36 5,09 0,57 -0,17 -0,56 3,88 1,39 3,25 6,22 0,99 1,84 0,57
+Cursos diversos 2,71 2,07 4,66 2,08 5,95 5,28 0,04 4,37 3,96 4,72 7,00 4,05 3,37 0,12 2,64 -1,18 4,54
+Comunicação 2,44 3,41 3,04 2,56 2,42 3,17 3,21 2,38 2,99 3,06 2,99 2,87 2,83 2,56 4,11 3,15 2,79
+Comunicação 2,44 3,41 3,04 2,56 2,42 3,17 3,21 2,38 2,99 3,06 2,99 2,87 2,83 2,56 4,11 3,15 2,79
+IBGE | IPCA e INPC Setembro de 2026 | - 1 4 -
+
+=== página 15 ===
+SÉRIE HISTÓRICA DO IPCA
+VARIAÇÃO
+ANO MÊS NÚMERO ÍNDICE (%)
+(DEZ 93 = 100) NO 3 6 NO 12
+MÊS MESES MESES ANO MESES
+2022 JAN 6153,09 0,54 2,24 5,63 0,54 10,38
+FEV 6215,24 1,01 2,30 5,77 1,56 10,54
+MAR 6315,93 1,62 3,20 6,25 3,20 11,30
+ABR 6382,88 1,06 3,73 6,05 4,29 12,13
+MAI 6412,88 0,47 3,18 5,55 4,78 11,73
+JUN 6455,85 0,67 2,22 5,49 5,49 11,89
+JUL 6411,95 -0,68 0,46 4,21 4,77 10,07
+AGO 6388,87 -0,36 -0,37 2,79 4,39 8,73
+SET 6370,34 -0,29 -1,32 0,86 4,09 7,17
+OUT 6407,93 0,59 -0,06 0,39 4,70 6,47
+NOV 6434,20 0,41 0,71 0,33 5,13 5,90
+DEZ 6474,09 0,62 1,63 0,28 5,79 5,79
+2023 JAN 6508,40 0,53 1,57 1,50 0,53 5,77
+FEV 6563,07 0,84 2,00 2,73 1,37 5,60
+MAR 6609,67 0,71 2,09 3,76 2,09 4,65
+ABR 6649,99 0,61 2,18 3,78 2,72 4,18
+MAI 6665,28 0,23 1,56 3,59 2,95 3,94
+JUN 6659,95 -0,08 0,76 2,87 2,87 3,16
+JUL 6667,94 0,12 0,27 2,45 2,99 3,99
+AGO 6683,28 0,23 0,27 1,83 3,23 4,61
+SET 6700,66 0,26 0,61 1,38 3,50 5,19
+OUT 6716,74 0,24 0,73 1,00 3,75 4,82
+NOV 6735,55 0,28 0,78 1,05 4,04 4,68
+DEZ 6773,27 0,56 1,08 1,70 4,62 4,62
+2024 JAN 6801,72 0,42 1,27 2,01 0,42 4,51
+FEV 6858,17 0,83 1,82 2,62 1,25 4,50
+MAR 6869,14 0,16 1,42 2,51 1,42 3,93
+ABR 6895,24 0,38 1,37 2,66 1,80 3,69
+MAI 6926,96 0,46 1,00 2,84 2,27 3,93
+JUN 6941,51 0,21 1,05 2,48 2,48 4,23
+JUL 6967,89 0,38 1,05 2,44 2,87 4,50
+AGO 6966,50 -0,02 0,57 1,58 2,85 4,24
+SET 6997,15 0,44 0,80 1,86 3,31 4,42
+OUT 7036,33 0,56 0,98 2,05 3,88 4,76
+NOV 7063,77 0,39 1,40 1,98 4,29 4,87
+DEZ 7100,50 0,52 1,48 2,29 4,83 4,83
+2025 JAN 7111,86 0,16 1,07 2,07 0,16 4,56
+FEV 7205,03 1,31 2,00 3,42 1,47 5,06
+MAR 7245,38 0,56 2,04 3,55 2,04 5,48
+ABR 7276,54 0,43 2,32 3,41 2,48 5,53
+MAI 7295,46 0,26 1,26 3,28 2,75 5,32
+JUN 7312,97 0,24 0,93 2,99 2,99 5,35
+JUL 7331,98 0,26 0,76 3,10 3,26 5,23
+AGO 7323,91 -0,11 0,39 1,65 3,15 5,13
+SET 7359,06 0,48 0,63 1,57 3,64 5,17
+OUT 7365,68 0,09 0,46 1,23 3,73 4,68
+NOV 7378,94 0,18 0,75 1,14 3,92 4,46
+DEZ 7403,29 0,33 0,60 1,24 4,26 4,26
+2026 JAN 7427,72 0,33 0,84 1,31 0,33 4,44
+FEV 7479,71 0,70 1,37 2,13 1,03 3,81
+MAR 7545,53 0,88 1,92 2,53 1,92 4,14
+ABR 7596,09 0,67 2,27 3,13 2,60 4,39
+MAI 7640,15 0,58 2,15 3,54 3,20 4,72
+JUN 7652,37 0,16 1,42 3,36 3,36 4,64
+JUL 7657,73 0,07 0,81 3,10 3,44 4,44
+AGO 7633,23 -0,32 -0,09 2,05 3,11 4,22
+SET 7695,82 0,82 0,57 1,99 3,95 4,58
+Fonte: IBGE, Diretoria de Pesquisas, Coordenação de Índices de Preços,
+Sistema Nacional de Índices de Preços ao Consumidor.
+IBGE | IPCA e INPC Setembro de 2026 | - 1 5 -
+
+=== página 16 ===
+IBGE | IPCA e INPC Setembro de 2026 | - 1 6 -
+A
+A
+n o
+1 9
+1 9
+1 9
+1 9
+1 9
+1 9
+2 0
+2 0
+2 0
+2 0
+2 0
+2 0
+2 0
+2 0
+2 0
+2 0
+2 0
+2 0
+2 0
+2 0
+2 0
+2 0
+2 0
+2 0
+2 0
+2 0
+2 0
+2 0
+2 0
+2 0
+2 0
+2 0
+2 0
+n o
+1 9
+1 9
+1 9
+1 9
+1 9
+1 9
+2 0
+2 0
+2 0
+2 0
+2 0
+2 0
+2 0
+2 0
+2 0
+2 0
+2 0
+2 0
+2 0
+2 0
+2 0
+2 0
+2 0
+2 0
+2 0
+2 0
+2 0
+2 0
+2 0
+2 0
+2 0
+2 0
+2 0
+/M
+999999000000000011111111112222222
+/M
+999999000000000011111111112222222
+ê
+456789012345678901234567890123456
+ê
+456789012345678901234567890123456
+s
+s
+J
+J
+a n e iro
+4 1 ,3 1
+1 ,7 0
+1 ,3 4
+1 ,1 8
+0 ,7 1
+0 ,7 0
+0 ,6 2
+0 ,5 7
+0 ,5 2
+2 ,2 5
+0 ,7 6
+0 ,5 8
+0 ,5 9
+0 ,4 4
+0 ,5 4
+0 ,4 8
+0 ,7 5
+0 ,8 3
+0 ,5 6
+0 ,8 6
+0 ,5 5
+1 ,2 4
+1 ,2 7
+0 ,3 8
+0 ,2 9
+0 ,3 2
+0 ,2 1
+0 ,2 5
+0 ,5 4
+0 ,5 3
+0 ,4 2
+0 ,1 6
+0 ,3 3
+a n e iro
+4 6 ,8 0
+0 ,7 3
+1 ,2 8
+0 ,9 7
+1 ,2 4
+0 ,9 0
+0 ,8 4
+0 ,6 3
+0 ,8 5
+2 ,1 5
+0 ,8 8
+0 ,7 8
+0 ,1 1
+0 ,8 4
+1 ,5 2
+0 ,7 5
+1 ,1 3
+1 ,1 6
+0 ,8 6
+1 ,9 9
+0 ,8 4
+1 ,4 8
+2 ,2 8
+0 ,3 5
+0 ,7 4
+0 ,9 0
+0 ,3 9
+1 ,0 2
+1 ,1 1
+0 ,5 9
+1 ,3 8
+0 ,9 6
+0 ,2 3
+F
+F
+e v e re iro
+4 0 ,2 7
+1 ,0 2
+1 ,0 3
+0 ,5 0
+0 ,4 6
+1 ,0 5
+0 ,1 3
+0 ,4 6
+0 ,3 6
+1 ,5 7
+0 ,6 1
+0 ,5 9
+0 ,4 1
+0 ,4 4
+0 ,4 9
+0 ,5 5
+0 ,7 8
+0 ,8 0
+0 ,4 5
+0 ,6 0
+0 ,6 9
+1 ,2 2
+0 ,9 0
+0 ,3 3
+0 ,3 2
+0 ,4 3
+0 ,2 5
+0 ,8 6
+1 ,0 1
+0 ,8 4
+0 ,8 3
+1 ,3 1
+0 ,7 0
+e v e re iro
+4 0 ,4 0
+-0 ,0 6
+0 ,1 1
+0 ,7 2
+0 ,6 2
+2 ,7 1
+-0 ,2 5
+0 ,0 5
+0 ,2 0
+1 ,2 2
+0 ,1 5
+0 ,4 9
+-0 ,2 8
+0 ,7 8
+0 ,6 0
+0 ,2 7
+0 ,9 6
+0 ,2 3
+0 ,1 9
+1 ,4 5
+0 ,5 6
+0 ,8 1
+1 ,0 6
+-0 ,4 5
+-0 ,3 3
+0 ,7 8
+0 ,1 1
+0 ,2 7
+1 ,2 8
+0 ,1 6
+0 ,9 5
+0 ,7 0
+0 ,2 6
+M a rç o
+4 2 ,7 5
+1 ,5 5
+0 ,3 5
+0 ,5 1
+0 ,3 4
+1 ,1 0
+0 ,2 2
+0 ,3 8
+0 ,6 0
+1 ,2 3
+0 ,4 7
+0 ,6 1
+0 ,4 3
+0 ,3 7
+0 ,4 8
+0 ,2 0
+0 ,5 2
+0 ,7 9
+0 ,2 1
+0 ,4 7
+0 ,9 2
+1 ,3 2
+0 ,4 3
+0 ,2 5
+0 ,0 9
+0 ,7 5
+0 ,0 7
+0 ,9 3
+1 ,6 2
+0 ,7 1
+0 ,1 6
+0 ,5 6
+0 ,8 8
+V a ria
+M a rç o
+4 4 ,2 6
+1 ,4 4
+-0 ,0 2
+1 ,2 2
+0 ,7 9
+2 ,0 1
+-0 ,4 6
+1 ,1 7
+0 ,3 9
+1 ,6 6
+0 ,4 3
+0 ,2 6
+-0 ,2 4
+0 ,9 8
+0 ,8 9
+0 ,3 0
+1 ,5 5
+0 ,7 5
+0 ,2 5
+1 ,1 4
+1 ,9 2
+1 ,1 7
+1 ,2 4
+0 ,3 4
+0 ,0 7
+1 ,3 7
+1 ,1 3
+0 ,1 3
+2 ,4 2
+0 ,0 5
+0 ,5 3
+1 ,1 7
+1 ,5 6
+ç
+A b ril
+4 2 ,6 8
+2 ,4 3
+1 ,2 6
+0 ,8 8
+0 ,2 4
+0 ,5 6
+0 ,4 2
+0 ,5 8
+0 ,8 0
+0 ,9 7
+0 ,3 7
+0 ,8 7
+0 ,2 1
+0 ,2 5
+0 ,5 5
+0 ,4 8
+0 ,5 7
+0 ,7 7
+0 ,6 4
+0 ,5 5
+0 ,6 7
+0 ,7 1
+0 ,6 1
+0 ,1 4
+0 ,2 2
+0 ,5 7
+-0 ,3 1
+0 ,3 1
+1 ,0 6
+0 ,6 1
+0 ,3 8
+0 ,4 3
+0 ,6 7
+ã o (%
+A b ril
+4 3 ,1 9
+1 ,9 9
+0 ,5 0
+-0 ,1 6
+0 ,8 5
+-0 ,2 3
+-0 ,3 6
+1 ,8 0
+-0 ,3 2
+1 ,0 1
+-0 ,3 4
+0 ,8 1
+-0 ,2 7
+0 ,0 3
+1 ,2 9
+0 ,1 5
+1 ,4 5
+0 ,5 8
+0 ,5 1
+0 ,9 6
+1 ,1 9
+0 ,9 7
+1 ,0 9
+0 ,5 8
+0 ,0 9
+0 ,6 3
+1 ,7 9
+0 ,4 0
+2 ,0 6
+0 ,7 1
+0 ,7 0
+0 ,8 2
+1 ,3 4
+V a ria ç ã o
+ja n e iro d e 1 9
+M a io J u n h o
+4 4 ,0 3 4 7 ,4 3
+2 ,6 7 2 ,2 6
+1 ,2 2 1 ,1 9
+0 ,4 1 0 ,5 4
+0 ,5 0 0 ,0 2
+0 ,3 0 0 ,1 9
+0 ,0 1 0 ,2 3
+0 ,4 1 0 ,5 2
+0 ,2 1 0 ,4 2
+0 ,6 1 -0 ,1 5
+0 ,5 1 0 ,7 1
+0 ,4 9 -0 ,0 2
+0 ,1 0 -0 ,2 1
+0 ,2 8 0 ,2 8
+0 ,7 9 0 ,7 4
+0 ,4 7 0 ,3 6
+0 ,4 3 0 ,0 0
+0 ,4 7 0 ,1 5
+0 ,3 6 0 ,0 8
+0 ,3 7 0 ,2 6
+0 ,4 6 0 ,4 0
+0 ,7 4 0 ,7 9
+0 ,7 8 0 ,3 5
+0 ,3 1 -0 ,2 3
+0 ,4 0 1 ,2 6
+0 ,1 3 0 ,0 1
+-0 ,3 8 0 ,2 6
+0 ,8 3 0 ,5 3
+0 ,4 7 0 ,6 7
+0 ,2 3 -0 ,0 8
+0 ,4 6 0 ,2 1
+0 ,2 6 0 ,2 4
+0 ,5 8 0 ,1 6
+) M e n s a l d o G
+ja n e iro d e 1 9
+M a io J u n h o
+4 0 ,2 1 5 2 ,1 5
+0 ,5 1 -0 ,2 5
+0 ,6 7 0 ,6 7
+-0 ,9 2 -0 ,3 4
+1 ,3 8 0 ,1 3
+-0 ,9 5 -1 ,2 8
+-0 ,6 7 0 ,1 1
+0 ,5 8 0 ,1 0
+-0 ,5 9 0 ,0 8
+0 ,6 3 -0 ,3 4
+0 ,2 3 0 ,7 2
+0 ,6 5 -0 ,6 7
+-0 ,0 3 -0 ,6 1
+0 ,1 6 1 ,0 9
+1 ,9 5 2 ,1 1
+0 ,4 4 0 ,7 0
+0 ,2 8 -0 ,9 0
+0 ,6 3 -0 ,2 6
+0 ,7 3 0 ,6 8
+0 ,3 1 0 ,0 4
+0 ,5 8 -0 ,1 1
+1 ,3 7 0 ,6 3
+0 ,7 8 0 ,7 1
+-0 ,3 5 -0 ,5 0
+0 ,3 2 2 ,0 3
+-0 ,5 6 -0 ,2 5
+0 ,2 4 0 ,3 8
+0 ,4 4 0 ,4 3
+0 ,4 8 0 ,8 0
+0 ,1 6 -0 ,6 6
+0 ,6 2 0 ,4 4
+0 ,1 7 -0 ,1 8
+1 ,3 3 -0 ,2 4
+(% ) M e n s a l - IP C A
+9 4 a s e te m b ro d e 2 0 2 6
+J u lh o A g o s to S e te m b
+6 ,8 4 1 ,8 6 1 ,5 3
+2 ,3 6 0 ,9 9 0 ,9 9
+1 ,1 1 0 ,4 4 0 ,1 5
+0 ,2 2 -0 ,0 2 0 ,0 6
+-0 ,1 2 -0 ,5 1 -0 ,2 2
+1 ,0 9 0 ,5 6 0 ,3 1
+1 ,6 1 1 ,3 1 0 ,2 3
+1 ,3 3 0 ,7 0 0 ,2 8
+1 ,1 9 0 ,6 5 0 ,7 2
+0 ,2 0 0 ,3 4 0 ,7 8
+0 ,9 1 0 ,6 9 0 ,3 3
+0 ,2 5 0 ,1 7 0 ,3 5
+0 ,1 9 0 ,0 5 0 ,2 1
+0 ,2 4 0 ,4 7 0 ,1 8
+0 ,5 3 0 ,2 8 0 ,2 6
+0 ,2 4 0 ,1 5 0 ,2 4
+0 ,0 1 0 ,0 4 0 ,4 5
+0 ,1 6 0 ,3 7 0 ,5 3
+0 ,4 3 0 ,4 1 0 ,5 7
+0 ,0 3 0 ,2 4 0 ,3 5
+0 ,0 1 0 ,2 5 0 ,5 7
+0 ,6 2 0 ,2 2 0 ,5 4
+0 ,5 2 0 ,4 4 0 ,0 8
+0 ,2 4 0 ,1 9 0 ,1 6
+0 ,3 3 -0 ,0 9 0 ,4 8
+0 ,1 9 0 ,1 1 -0 ,0 4
+0 ,3 6 0 ,2 4 0 ,6 4
+0 ,9 6 0 ,8 7 1 ,1 6
+-0 ,6 8 -0 ,3 6 -0 ,2 9
+0 ,1 2 0 ,2 3 0 ,2 6
+0 ,3 8 -0 ,0 2 0 ,4 4
+0 ,2 6 -0 ,1 1 0 ,4 8
+0 ,0 7 -0 ,3 2 0 ,8 2
+ru p o A lim e n ta ç ã o e B e b
+9 4 a s e te m b ro d e 2 0 2 6
+J u lh o A g o s to S e te m b
+1 0 ,0 3 1 ,4 5 0 ,1 3
+0 ,9 8 0 ,5 7 -0 ,0 3
+0 ,5 2 -0 ,6 8 -0 ,5 8
+-0 ,5 2 -0 ,5 7 -0 ,2 1
+-0 ,9 9 -1 ,2 0 -0 ,4 7
+-0 ,2 4 0 ,1 3 0 ,3 4
+1 ,7 8 2 ,0 7 0 ,5 3
+0 ,6 7 0 ,8 3 0 ,3 9
+1 ,0 5 1 ,9 4 1 ,9 6
+-0 ,6 7 -0 ,2 7 0 ,7 8
+0 ,6 7 0 ,8 5 -0 ,1 9
+-0 ,7 7 -0 ,7 3 -0 ,2 5
+0 ,0 9 0 ,0 7 0 ,0 8
+1 ,2 7 1 ,3 9 0 ,4 4
+1 ,0 5 -0 ,1 8 -0 ,2 7
+-0 ,0 6 -0 ,0 1 -0 ,1 4
+-0 ,7 6 -0 ,2 4 1 ,0 8
+-0 ,3 4 0 ,7 2 0 ,6 4
+0 ,9 1 0 ,8 8 1 ,2 6
+-0 ,3 3 0 ,0 1 0 ,1 4
+-0 ,1 5 -0 ,1 5 0 ,7 8
+0 ,6 5 -0 ,0 1 0 ,2 4
+1 ,3 2 0 ,3 0 -0 ,2 9
+-0 ,4 7 -1 ,0 7 -0 ,4 1
+-0 ,1 2 -0 ,3 4 0 ,1 0
+0 ,0 1 -0 ,3 5 -0 ,4 3
+0 ,0 1 0 ,7 8 2 ,2 8
+0 ,6 0 1 ,3 9 1 ,0 2
+1 ,3 0 0 ,2 4 -0 ,5 1
+-0 ,4 6 -0 ,8 5 -0 ,7 1
+-1 ,0 0 -0 ,4 4 0 ,5 0
+-0 ,2 7 -0 ,4 6 -0 ,2 6
+-0 ,6 7 -0 ,3 4 0 ,8 3
+ro
+id a
+ro
+O
+s
+O
+u tu b ro
+2 ,6 2
+1 ,4 1
+0 ,3 0
+0 ,2 3
+0 ,0 2
+1 ,1 9
+0 ,1 4
+0 ,8 3
+1 ,3 1
+0 ,2 9
+0 ,4 4
+0 ,7 5
+0 ,3 3
+0 ,3 0
+0 ,4 5
+0 ,2 8
+0 ,7 5
+0 ,4 3
+0 ,5 9
+0 ,5 7
+0 ,4 2
+0 ,8 2
+0 ,2 6
+0 ,4 2
+0 ,4 5
+0 ,1 0
+0 ,8 6
+1 ,2 5
+0 ,5 9
+0 ,2 4
+0 ,5 6
+0 ,0 9
+- IP C A
+u tu b ro
+4 ,7 9
+0 ,3 2
+0 ,1 1
+0 ,2 7
+-0 ,0 2
+1 ,7 7
+0 ,1 6
+1 ,1 5
+2 ,7 9
+0 ,4 6
+-0 ,2 3
+0 ,2 7
+0 ,8 8
+0 ,5 2
+0 ,6 9
+-0 ,0 9
+1 ,8 9
+0 ,5 6
+1 ,3 6
+1 ,0 3
+0 ,4 6
+0 ,7 7
+-0 ,0 5
+-0 ,0 5
+0 ,5 9
+0 ,0 5
+1 ,9 3
+1 ,1 7
+0 ,7 2
+0 ,3 1
+1 ,0 6
+0 ,0 1
+N
+N
+o
+o
+v e m
+2 ,8
+1 ,4
+0 ,3
+0 ,1
+-0 ,1
+0 ,9
+0 ,3
+0 ,7
+3 ,0
+0 ,3
+0 ,6
+0 ,5
+0 ,3
+0 ,3
+0 ,3
+0 ,4
+0 ,8
+0 ,5
+0 ,6
+0 ,5
+0 ,5
+1 ,0
+0 ,1
+0 ,2
+-0 ,2
+0 ,5
+0 ,8
+0 ,9
+0 ,4
+0 ,2
+0 ,3
+0 ,1
+v e m
+4 ,6
+1 ,0
+-0 ,3
+0 ,1
+-0 ,4
+1 ,3
+-0 ,0
+1 ,3
+5 ,8
+0 ,2
+-0 ,0
+0 ,8
+1 ,0
+0 ,7
+0 ,6
+0 ,5
+2 ,2
+1 ,0
+0 ,7
+0 ,5
+0 ,7
+1 ,8
+-0 ,2
+-0 ,3
+0 ,3
+0 ,7
+2 ,5
+-0 ,0
+0 ,5
+0 ,6
+1 ,5
+-0 ,0
+b
+17272521249518613204118811951898
+b
+57776571551853182896730892443351
+ro
+ro
+D
+D
+e
+e
+z e m b
+1 ,7 1
+1 ,5 6
+0 ,4 7
+0 ,4 3
+0 ,3 3
+0 ,6 0
+0 ,5 9
+0 ,6 5
+2 ,1 0
+0 ,5 2
+0 ,8 6
+0 ,3 6
+0 ,4 8
+0 ,7 4
+0 ,2 8
+0 ,3 7
+0 ,6 3
+0 ,5 0
+0 ,7 9
+0 ,9 2
+0 ,7 8
+0 ,9 6
+0 ,3 0
+0 ,4 4
+0 ,1 5
+1 ,1 5
+1 ,3 5
+0 ,7 3
+0 ,6 2
+0 ,5 6
+0 ,5 2
+0 ,3 3
+z e m b
+0 ,9 6
+0 ,8 6
+-0 ,4 8
+0 ,5 9
+0 ,1 0
+1 ,4 1
+-0 ,4 8
+0 ,5 6
+3 ,9 1
+0 ,3 9
+0 ,6 5
+0 ,2 7
+0 ,3 9
+2 ,0 6
+0 ,3 6
+0 ,2 4
+1 ,3 2
+1 ,2 3
+1 ,0 3
+0 ,8 9
+1 ,0 8
+1 ,5 0
+0 ,0 8
+0 ,5 4
+0 ,4 4
+3 ,3 8
+1 ,7 4
+0 ,8 4
+0 ,6 6
+1 ,1 1
+1 ,1 8
+0 ,2 7
+ro
+ro
+N o A n o
+9 1 6 ,4 6
+2 2 ,4 1
+9 ,5 6
+5 ,2 2
+1 ,6 5
+8 ,9 4
+5 ,9 7
+7 ,6 7
+1 2 ,5 3
+9 ,3 0
+7 ,6 0
+5 ,6 9
+3 ,1 4
+4 ,4 6
+5 ,9 0
+4 ,3 1
+5 ,9 1
+6 ,5 0
+5 ,8 4
+5 ,9 1
+6 ,4 1
+1 0 ,6 7
+6 ,2 9
+2 ,9 5
+3 ,7 5
+4 ,3 1
+4 ,5 2
+1 0 ,0 6
+5 ,7 9
+4 ,6 2
+4 ,8 3
+4 ,2 6
+3 ,9 5
+N o A n o
+1 0 2 4 ,1 3
+8 ,4 1
+1 ,7 1
+1 ,2 2
+1 ,9 5
+8 ,1 4
+3 ,2 0
+9 ,6 3
+1 9 ,4 7
+7 ,4 8
+3 ,8 6
+1 ,9 9
+1 ,2 2
+1 0 ,7 9
+1 1 ,1 1
+3 ,1 8
+1 0 ,3 9
+7 ,1 8
+9 ,8 6
+8 ,4 8
+8 ,0 3
+1 2 ,0 3
+8 ,6 2
+-1 ,8 7
+4 ,0 4
+6 ,3 7
+1 4 ,0 9
+7 ,9 4
+1 1 ,6 4
+1 ,0 3
+7 ,6 9
+2 ,9 5
+4 ,3 7
+
+=== página 17 ===
+IBGE | IPCA e INPC Setembro de 2026 | - 1 7 -
+J
+A
+u
+C
+D O
+A N O
+l a D e z
+1 9 9 5
+1 9 9 6
+1 9 9 7
+1 9 9 8
+1 9 9 9
+2 0 0 0
+2 0 0 1
+2 0 0 2
+2 0 0 3
+2 0 0 4
+2 0 0 5
+2 0 0 6
+2 0 0 7
+2 0 0 8
+2 0 0 9
+2 0 1 0
+2 0 1 1
+2 0 1 2
+2 0 1 3
+2 0 1 4
+2 0 1 5
+2 0 1 6
+2 0 1 7
+2 0 1 8
+2 0 1 9
+2 0 2 0
+2 0 2 1
+2 0 2 2
+2 0 2 3
+2 0 2 4
+2 0 2 5
+2 0 2 6
+U M U L A
+N O R E A
+S
+/9 4
+D O
+L
+S
+A
+É R
+C U
+V
+IE
+M
+A R
+H
+U L
+IP
+IA Ç
+IS
+A
+C
+Ã
+T Ó R IC
+D O S N
+A
+O A C U M U
+(% )
+IP C A
+1 8 ,5 7
+2 2 ,4 1
+9 ,5 6
+5 ,2 2
+1 ,6 5
+8 ,9 4
+5 ,9 7
+7 ,6 7
+1 2 ,5 3
+9 ,3 0
+7 ,6 0
+5 ,6 9
+3 ,1 4
+4 ,4 6
+5 ,9 0
+4 ,3 1
+5 ,9 1
+6 ,5 0
+5 ,8 4
+5 ,9 1
+6 ,4 1
+1 0 ,6 7
+6 ,2 9
+2 ,9 5
+3 ,7 5
+4 ,3 1
+4 ,5 2
+1 0 ,0 6
+5 ,7 9
+4 ,6 2
+4 ,8 3
+4 ,2 6
+3 ,9 5
+7 9 7 ,6 9
+A
+O
+L A
+A
+D
+N
+A
+O
+N O A N O
+
+=== página 18 ===
+SÉRIE HISTÓRICA DO INPC
+VARIAÇÃO
+ANO MÊS NÚMERO ÍNDICE (%)
+(DEZ 93 = 100) NO 3 6 NO 12
+MÊS MESES MESES ANO MESES
+2022 JAN 6373,00 0,67 2,26 5,61 0,67 10,60
+FEV 6436,73 1,00 2,42 5,73 1,68 10,80
+MAR 6546,80 1,71 3,42 6,26 3,42 11,73
+ABR 6614,89 1,04 3,80 6,14 4,49 12,47
+MAI 6644,66 0,45 3,23 5,73 4,96 11,90
+JUN 6685,86 0,62 2,12 5,61 5,61 11,92
+JUL 6645,74 -0,60 0,47 4,28 4,98 10,12
+AGO 6625,14 -0,31 -0,29 2,93 4,65 8,83
+SET 6603,94 -0,32 -1,23 0,87 4,32 7,19
+OUT 6634,98 0,47 -0,16 0,30 4,81 6,46
+NOV 6660,19 0,38 0,53 0,23 5,21 5,97
+DEZ 6706,15 0,69 1,55 0,30 5,93 5,93
+2023 JAN 6737,00 0,46 1,54 1,37 0,46 5,71
+FEV 6788,87 0,77 1,93 2,47 1,23 5,47
+MAR 6832,32 0,64 1,88 3,46 1,88 4,36
+ABR 6868,53 0,53 1,95 3,52 2,42 3,83
+MAI 6893,26 0,36 1,54 3,50 2,79 3,74
+JUN 6886,37 -0,10 0,79 2,69 2,69 3,00
+JUL 6880,17 -0,09 0,17 2,13 2,59 3,53
+AGO 6893,93 0,20 0,01 1,55 2,80 4,06
+SET 6901,51 0,11 0,22 1,01 2,91 4,51
+OUT 6909,79 0,12 0,43 0,60 3,04 4,14
+NOV 6916,70 0,10 0,33 0,34 3,14 3,85
+DEZ 6954,74 0,55 0,77 0,99 3,71 3,71
+2024 JAN 6994,38 0,57 1,22 1,66 0,57 3,82
+FEV 7051,03 0,81 1,94 2,28 1,38 3,86
+MAR 7064,43 0,19 1,58 2,36 1,58 3,40
+ABR 7090,57 0,37 1,38 2,62 1,95 3,23
+MAI 7123,19 0,46 1,02 2,99 2,42 3,34
+JUN 7141,00 0,25 1,08 2,68 2,68 3,70
+JUL 7159,57 0,26 0,97 2,36 2,95 4,06
+AGO 7149,55 -0,14 0,37 1,40 2,80 3,71
+SET 7183,87 0,48 0,60 1,69 3,29 4,09
+OUT 7227,69 0,61 0,95 1,93 3,92 4,60
+NOV 7251,54 0,33 1,43 1,80 4,27 4,84
+DEZ 7286,35 0,48 1,43 2,04 4,77 4,77
+2025 JAN 7286,35 0,00 0,81 1,77 0,00 4,17
+FEV 7394,19 1,48 1,97 3,42 1,48 4,87
+MAR 7431,90 0,51 2,00 3,45 2,00 5,20
+ABR 7467,57 0,48 2,49 3,32 2,49 5,32
+MAI 7493,71 0,35 1,35 3,34 2,85 5,20
+JUN 7510,95 0,23 1,06 3,08 3,08 5,18
+JUL 7526,72 0,21 0,79 3,30 3,30 5,13
+AGO 7510,91 -0,21 0,23 1,58 3,08 5,05
+SET 7549,97 0,52 0,52 1,59 3,62 5,10
+OUT 7552,23 0,03 0,34 1,13 3,65 4,49
+NOV 7554,50 0,03 0,58 0,81 3,68 4,18
+DEZ 7570,36 0,21 0,27 0,79 3,90 3,90
+2026 JAN 7599,88 0,39 0,63 0,97 0,39 4,30
+FEV 7642,44 0,56 1,16 1,75 0,95 3,36
+MAR 7711,99 0,91 1,87 2,15 1,87 3,77
+ABR 7774,46 0,81 2,30 2,94 2,70 4,11
+MAI 7824,99 0,65 2,39 3,58 3,36 4,42
+JUN 7835,94 0,14 1,61 3,51 3,51 4,33
+JUL 7835,16 -0,01 0,78 3,10 3,50 4,10
+AGO 7810,09 -0,32 -0,19 2,19 3,17 3,98
+SET 7874,13 0,82 0,49 2,10 4,01 4,29
+Fonte: IBGE, Diretoria de Pesquisas, Coordenação de Índices de Preços,
+Sistema Nacional de Índices de Preços ao Consumidor.
+IBGE | IPCA e INPC Setembro de 2026 | - 1 8 -

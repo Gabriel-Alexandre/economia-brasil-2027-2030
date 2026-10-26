@@ -1,0 +1,2367 @@
+# fonte: https://www12.senado.leg.br/ifi/pdf/raf116_set2026.pdf
+# capturado em: 2026-10-26
+
+
+=== página 1 ===
+Relatório de
+Acompanhamento
+Fiscal
+Nº 116
+17 de setembro de 2026
+
+=== página 2 ===
+SENADO FEDERAL
+Presidente do Senado Federal
+Senador Davi Alcolumbre (União-AP)
+INSTITUIÇÃO FISCAL INDEPENDENTE
+Diretor-Executivo
+Marcus Vinícius Caetano Pestana da Silva
+Diretor
+Alexandre Augusto Seijas de Andrade
+Analistas
+Dalmo Jorge Lima Palmeira
+Gustavo Marciel de Queiroz
+Lucas Vinícius Penha Martins Bomfim Leal
+Rafael da Rocha Mendonça Bacciotti
+Rafael Luis Comini Curi
+Assessora de Comunicação
+Carmensita Corso
+Estagiários
+Lukas Cortez de Medeiros Balogh Fagundes
+Tallita Soares de Andrade
+Secretária executiva
+Thuane Vieira Rocha
+Layout do relatório
+CODIV/SECOM e SEFPRO/SEGRAF
+
+=== página 3 ===
+Incertezas orçamentárias, determinantes dos juros e
+despesas com precatórios
+A Instituição Fiscal Independente (IFI) entrega, em setembro, o 116º Relatório de
+Acompanhamento Fiscal (RAF). A política fiscal tem ocupado espaço importante no
+presente debate da sucessão presidencial. Há consciência crescente na sociedade sobre a
+rigidez orçamentária, o baixo espaço para investimentos essenciais, os efeitos deletérios
+do desequilíbrio fiscal, suas implicações na carga tributária e na taxa de juros.
+Para alimentar essa discussão, o RAF 116 procura traçar um raio X do Projeto de Lei
+Orçamentária Anual (PLOA 2027), apresentado pelo governo ao Congresso Nacional em 31
+de agosto. Dentro de suas atribuições legais, a IFI apresenta projeções alternativas,
+explicitando suas premissas e parâmetros. As divergências com os números apresentados
+no PLOA 2027 já se manifestam em relação à projeção do resultado primário efetivo que
+será alcançado no próximo ano. A proposta de orçamento prevê um superávit primário de
+R$ 18,6 bilhões. A IFI prevê um déficit primário de R$ 86,1 bilhões. Uma diferença
+expressiva de R$ 104,8 bilhões.
+Onde reside a divergência? Primeiro, nos parâmetros macroeconômicos. O PLOA 2027
+ancora-se em uma projeção de expansão do PIB de 2,5%, a IFI projeta um crescimento de
+1,8% e o Boletim Focus, 1,5%. Isso tem profundas implicações no dimensionamento das
+receitas públicas: mais ou menos crescimento econômico, mais ou menos recursos
+disponíveis para financiar a máquina e as políticas públicas. Outra variável importante na
+construção da estrutura do orçamento é a inflação. O governo estima, no PLOA 2027, um
+IPCA de 3,6% no próximo ano, a IFI projeta 4,0% e o Boletim Focus, 4,3%. Também na
+projeção da massa salarial, vetor importante no cálculo da receita previdenciária, o governo
+usou como parâmetro um incremento de 10,1%, enquanto a IFI trabalha com uma expansão
+de 7,3%.
+Na projeção de despesas há discrepâncias nas estimativas dos gastos previdenciários, nas
+despesas com o BPC, abono salarial, seguro-desemprego e sentenças judiciais. A IFI
+acredita que os números da proposta orçamentária estão relativamente otimistas. De sua
+parte, o governo confia em sua estratégia de revisão de gastos (spending reviews).
+Relatório de Acompanhamento Fiscal – Setembro de 2026 | 3
+
+=== página 4 ===
+Essas discrepâncias afetam a própria perspectiva de cumprimento das metas previstas no
+arcabouço fiscal. A IFI identifica que, mesmo após as exclusões legais de despesas na
+apuração do resultado primário, haverá superávit primário inferior a R$ 1 bilhão, insuficiente
+para o cumprimento da meta fiscal, ainda que no limite inferior do intervalo de tolerância
+de 0,25 p.p. do PIB. Nessa situação, a IFI aponta a necessidade de contingenciamento de
+R$ 35,7 bilhões para o cumprimento da meta no próximo ano. Isso, sem levar em conta a
+nova despesa com o aporte de R$ 33,8 bilhões ao Fundo de Compensação aos Estados
+pela substituição do IPI pelo Imposto Seletivo, previsto na reforma tributária. Embora esta
+despesa não seja computada no teto de gastos, afeta o cumprimento da meta de resultado
+primário.
+Uma incerteza adicional é a receita constante do PLOA 2027, de R$ 42 bilhões, como fonte
+condicionada, relativa ao Imposto Seletivo, a ser criado por lei ordinária específica, cujo
+projeto sequer foi enviado ao Congresso Nacional.
+Em relação às receitas derivadas da exploração de recursos naturais e dos dividendos
+repassados ao Tesouro Nacional pelas empresas estatais, os números da IFI são mais
+otimistas que os presentes no PLOA 2027, em função do preço médio do barril de petróleo
+considerado. Já em relação às transferências constitucionais por repartição a estados e
+municípios, há outra forte divergência. O governo estima, no PLOA 2027, que as
+transferências cairão, dos atuais 4,7% do PIB, segundo a avaliação de receitas e despesas
+do 3º bimestre de 2026, para 4,1% do PIB. No PLDO 2027, apresentado em abril passado, a
+projeção do governo era de um montante de transferências equivalente a 4,4% do PIB no
+próximo ano.
+Mudanças legais introduzidas recentemente geraram economias, como os efeitos da Lei
+Complementar nº 235, de 2026, que retiraram da base de cálculo da Receita Corrente
+Líquida (RCL) as receitas oriundas da venda de óleo e gás, o que impacta o piso da saúde
+e o Fundo Constitucional do Distrito Federal. A inclusão do programa Pé-de-Meia no piso
+da educação foi outro ajuste promovido.
+A IFI considera possível o cumprimento da meta fiscal em 2027, desde que as atuais
+premissas macroeconômicas se confirmem e que a calibragem orçamentária seja feita por
+meio dos contingenciamentos que se fizerem necessários. Ainda assim, a realidade estará
+muito distante do resultado fiscal para estabilizar a relação entre dívida pública e o PIB.
+E exatamente para entrar na discussão das relações entre resultado primário e nominal,
+situação fiscal e taxa de juros, suas implicações para o perfil e a dinâmica da dívida, a IFI
+oferece, no RAF 116, um tópico sobre o assunto. O debate sobre o alto nível dos juros reais
+no Brasil tem sido central na agenda econômica. O estudo aqui apresentado decompõe o
+papel das expectativas e do prêmio de risco como vetor de volatilidade. Analisa o
+crescimento recente de títulos atrelados à Selic na composição da dívida pública brasileira,
+o que aguça o impacto da política monetária no seu custo e pode reforçar a interação entre
+juros e dinâmica fiscal.
+4 | Relatório de Acompanhamento Fiscal – Setembro de 2026
+
+=== página 5 ===
+A análise demonstra que, embora fatores monetários, inflacionários e externos sejam
+relevantes, a situação fiscal é determinante central na fixação do prêmio de risco exigido
+pelos compradores de títulos brasileiros, sobretudo os de longo prazo. A persistência de
+juros elevados não pode ser atribuída apenas à condução da política monetária, já que o
+prêmio de risco concentra a maior parte da volatilidade, associado de forma significativa à
+posição fiscal do país. Ficamos prisioneiros do círculo vicioso envolvendo desequilíbrio fiscal
+e juros altos, que se retroalimentam. O estudo conclui: “Assim, a redução sustentada do custo
+de financiamento da economia brasileira requer que a dimensão fiscal seja incorporada de
+forma explícita no debate sobre juros elevados”.
+Por fim, o RAF 116 traz um tópico com análise histórica sobre as despesas com precatórios,
+gastos derivados de decisões judiciais, que se tornaram um elemento crescente de pressão
+sobre o orçamento da União. O estudo mostra que, a partir de 2022, essa despesa passou
+a operar em um novo patamar, bem acima da média observada até então, e que as
+sucessivas Emendas Constitucionais editadas para disciplinar o tema — em parte revistas
+pelo Supremo Tribunal Federal — não foram capazes de conter esse crescimento. Ainda
+que o volume de pagamentos tenha aumentado de forma expressiva, o estoque de
+precatórios continua a crescer, o que indica que a origem do problema está na aceleração
+da expedição de novos precatórios, e não em atraso no pagamento dos já existentes. O
+texto alerta, ainda, que a dotação prevista no PLOA 2027 para essa despesa é inferior à
+dotação atual de 2026, o que pode se mostrar insuficiente diante da trajetória recente.
+Boa leitura!
+Marcus Pestana
+Diretor-Executivo da IFI
+Alexandre Andrade
+Diretor da IFI
+Relatório de Acompanhamento Fiscal – Setembro de 2026 | 5
+
+=== página 6 ===
+Destaques
+PLOA 2027 e o risco de descumprimento da meta fiscal nas contas da IFI
+A avaliação do PLOA 2027 mostra divergência de R$ 104,8 bilhões entre o resultado primário
+efetivo projetado pelo Executivo (superávit de R$ 18,6 bilhões) e pela IFI (déficit de R$ 86,1
+bilhões), decorrente de premissas macroeconômicas mais otimistas e de maior confiança
+nas medidas de revisão de gastos previdenciários e do BPC. Enquanto o PLOA projeta
+superávit apurado de R$ 83,4 bilhões — folga de R$ 10,1 bilhões sobre o centro da meta —, o
+cenário da IFI aponta superávit de R$ 0,9 bilhão, insuficiente para atingir o limite inferior da
+margem de tolerância, exigindo contingenciamento adicional de R$ 35,7 bilhões para o
+cumprimento formal da meta. A análise destaca ainda a introdução do aporte de R$ 33,8
+bilhões ao Fundo de Compensação aos Estados pela substituição do IPI pelo Imposto
+Seletivo, despesa nova computada na meta fiscal, e reforça o diagnóstico de rigidez
+orçamentária crescente, com as despesas obrigatórias sujeitas ao limite da LC nº 200
+aumentando R$ 131,4 bilhões entre 2026 e 2027. (Página 8)
+Prêmio de risco e política fiscal no Brasil
+O juro real brasileiro permanece persistentemente acima do observado em países pares.
+Decompondo a taxa nominal de cinco anos — segundo a metodologia de Adrian, Crump e
+Moench (2013) — em expectativa da Selic e prêmio de risco, esta nota mostra que é o prêmio,
+não a expectativa, que concentra a maior parte da volatilidade da taxa longa e que responde
+de forma estatisticamente significativa à posição fiscal (DBGG). Essa sensibilidade cresce
+com o prazo do título, concentrando-se nos vértices de 5 e 10 anos, tendo a contribuição
+estimada da DBGG ao prêmio passado de 2,10 p.p. (2011-2013) para 3,16 p.p., nos últimos
+doze meses até agosto — patamar superior ao da crise fiscal de 2014-2016. A isso soma-se
+a mudança na composição da dívida pública, com títulos indexados à Selic saltando de 35,7%
+do estoque da Dívida Pública Federal (dezembro de 2023) para 46,4% (julho de 2026), o que
+amplia a transmissão da política monetária ao custo da dívida. Fatores monetários,
+inflacionários e externos seguem relevantes, mas a posição fiscal é um determinante
+estatisticamente significativo e economicamente expressivo do prêmio de risco —
+especialmente nos horizontes longos. (Página 30)
+Despesas com Precatórios no Orçamento Federal
+As despesas com precatórios tornaram-se uma fonte crescente de pressão sobre o
+orçamento federal, tema que motivou três Emendas Constitucionais e três ADIs no STF nos
+últimos cinco anos, sem que o problema fosse equacionado. O texto analisa essa trajetória e
+identifica que, a partir de 2022, a despesa passou por uma mudança estrutural de patamar, de
+cerca de 0,6% para 0,7% do PIB. Conclui-se que esse crescimento decorre da aceleração na
+expedição de novos precatórios, e não necessariamente de atrasos nos pagamentos,
+determinada principalmente pelos agregados "Demais" e Previdência. (Página 47)
+6 | Relatório de Acompanhamento Fiscal – Setembro de 2026
+
+=== página 7 ===
+Primeira publicação em: 17 de setembro de 2026
+Arquivo atualizado em: 17 de setembro de 2026
+Confira erratas em: https://www12.senado.leg.br/ifi/publicacoes-1/relatorio/2026/setembro/erratas
+Relatório de Acompanhamento Fiscal – Setembro de 2026 | 7
+
+=== página 8 ===
+PLOA 2027 e o risco de descumprimento da meta
+fiscal nas contas da IFI
+Alexandre Andrade e Rafael Bacciotti
+Considerações iniciais
+A presente análise busca avaliar a versão original do Projeto de Lei Orçamentária Anual
+(PLOA) de 20271, enviado pelo Poder Executivo para exame do Congresso Nacional em 31
+de agosto passado. Como base de comparação, será considerado o cenário fiscal de médio
+prazo mais recente publicado pela IFI, em junho deste ano2.
+De acordo com o Projeto de Lei de Diretrizes Orçamentárias (PLDO) de 20273, a meta de
+resultado primário estabelecida para o exercício de 2027 é de um superávit de R$ 73,2
+bilhões (0,5% do PIB), com limite inferior da margem de tolerância de R$ 36,6 bilhões (0,25%
+do PIB).
+No RAF nº 113, de junho de 2026, a IFI considerou um déficit primário efetivo de R$ 86,1
+bilhões (0,6% do PIB) para o governo central em 2027. Descontadas as deduções legais de
+despesas da apuração da meta, haveria um superávit primário de R$ 0,9 bilhão (0,01% do
+PIB) no próximo ano. Seria possível, portanto, o cumprimento formal da meta fiscal de
+superávit primário fixada para 2027 por meio de um contingenciamento de despesas
+discricionárias não rígidas – de R$ 35,7 bilhões.
+Já de acordo com as estimativas do Executivo, divulgadas na proposta orçamentária do
+próximo ano, o governo central deverá ter um superávit primário efetivo de R$ 18,6 bilhões
+(0,1% do PIB). Desconsiderados os abatimentos legais de despesas, o superávit primário
+passaria a R$ 83,4 bilhões (0,6% do PIB) em 2027.
+A avaliação do PLOA 2027 indica haver riscos para o cumprimento da meta de resultado
+primário estabelecida no PLDO 2027. Como será melhor explorado adiante, existe a
+possibilidade de frustração de receitas caso o crescimento da economia seja menor que
+os 2,5% projetados na proposta orçamentária. Pelo lado das despesas, os parâmetros de
+inflação e as premissas utilizadas para o comportamento de alguns agregados de
+1 Documentos disponíveis em: https://www.gov.br/planejamento/pt-br/assuntos/orcamento/orcamentos-
+anuais/2027/ploa-2027 e https://www.congressonacional.leg.br/web/orcamento/acompanhe/orcamento-
+anual/-/loa/2027.
+2 A revisão de cenários macroeconômicos e fiscais mais recentes feita pela IFI consta do Relatório de
+Acompanhamento Fiscal (RAF) nº 113, de junho de 2026, disponível em:
+https://www2.senado.leg.br/bdsf/bitstream/handle/id/935942/RAF113_JUN2026.pdf.
+3 Os documentos do PLDO 2027 estão disponíveis em: https://www.gov.br/planejamento/pt-
+br/assuntos/orcamento/orcamentos-anuais/2027/pldo. A IFI fez uma análise do projeto no RAF nº 112, de
+maio de 2026, cujo documento está disponível em:
+https://www2.senado.leg.br/bdsf/bitstream/handle/id/865129/RAF112_MAI2026.pdf.
+8 | Relatório de Acompanhamento Fiscal – Setembro de 2026
+
+=== página 9 ===
+despesas obrigatórias – como revisões periódicas de gastos no pagamento de benefícios
+previdenciários e do Benefício de Prestação Continuada (BPC) – podem não se materializar
+nas economias estimadas. Adicionalmente, a introdução, no PLOA 2027, do aporte ao
+Fundo de Compensação aos Estados pela substituição do IPI pelo Imposto Seletivo – não
+incorporado nas projeções da IFI no RAF nº 113 – ilustra como o próprio desenho da
+transição da reforma tributária pode gerar despesas primárias novas e relevantes para a
+apuração da meta fiscal.
+O restante deste texto está organizado da seguinte forma: a próxima seção compara os
+parâmetros macroeconômicos do PLOA 2027 com o cenário da IFI e com a pesquisa Focus;
+as seções seguintes detalham as projeções de receita e despesa primária, o cálculo do
+limite de despesas da LC nº 200 e, por fim, a decomposição do resultado primário e das
+deduções legais que compõem o resultado apurado para fins de meta.
+Comparativo entre os parâmetros macroeconômicos do PLOA 2027 e do
+RAF nº 113
+Esta seção compara as principais premissas macroeconômicas do PLOA 2027 com o
+cenário mais recente da IFI, publicado no RAF nº 113, de junho de 2026, e com as medianas
+da pesquisa Focus. Essas premissas influenciam as projeções de receitas e despesas e os
+indicadores fiscais expressos como proporção do PIB. A Tabela 1 sintetiza os parâmetros
+para 2027.
+TABELA 1. PROJEÇÕES DE ALGUMAS VARIÁVEIS MACROECONÔMICAS – 2027
+Variável PLOA 2027 IFI – RAF nº 113 Focus
+Crescimento real do PIB (var. %) 2,5 1,8 1,5
+PIB nominal (R$ bilhões) 14.782,9 14.533,4 -
+IPCA (% acumulado no ano) 3,6 4,0 4,3
+INPC (% acumulado no ano) 3,7 3,8 -
+Selic — fim de período (% a.a.) 12,0 12,0 12,0
+Taxa de câmbio — fim do período (R$/US$) 5,3 5,2 5,3
+Massa salarial nominal (var. %) 10,1 7,3 -
+Preço médio do petróleo Brent (US$/barril) 71,0 75,0 -
+Fontes: Grade de Parâmetros Macroeconômicos da SPE/MF de julho de 2026; Mensagem Presidencial do PLOA
+2027; IFI; Pesquisa Focus de 4 de setembro (Banco Central). Elaboração: IFI. No PLOA, a projeção refere-se à
+massa salarial dos trabalhadores com vínculo formal. Na IFI, corresponde à massa de rendimentos do conjunto
+da população ocupada apurada pela PNAD Contínua. Os valores não são diretamente comparáveis.
+Para 2027, o PLOA prevê crescimento real do PIB de 2,5%, acima das projeções da IFI, de
+1,8%, e da mediana da pesquisa Focus, de 1,5%. Na comparação com 2026, as trajetórias
+Relatório de Acompanhamento Fiscal – Setembro de 2026 | 9
+
+=== página 10 ===
+também diferem. O cenário oficial pressupõe leve aceleração, de 2,3% para 2,5%, enquanto
+a IFI e a pesquisa Focus projetam desaceleração, respectivamente, de 2,0% para 1,8%, e de
+1,9% para 1,5%.
+A projeção do Poder Executivo para 2027 corresponde a uma expansão próxima ao
+crescimento potencial da economia. Segundo a Mensagem Presidencial que acompanhou
+o PLOA, esse desempenho seria sustentado pela redução gradual dos juros reais e pelos
+efeitos defasados da flexibilização monetária sobre o crédito, o consumo e o investimento.
+Os dados disponíveis para 2026 mostram moderação do crescimento na margem. O PIB
+avançou 0,5% no segundo trimestre, após crescimento de 1,1% no primeiro, considerando a
+série com ajuste sazonal, na comparação com o período imediatamente anterior, com recuo
+do consumo das famílias e menor dinamismo da demanda doméstica. A manutenção de
+condições monetárias restritivas, o comprometimento da renda com o serviço das dívidas
+e a menor contribuição esperada da agropecuária e das medidas de apoio à renda e ao
+crédito podem limitar a expansão nos próximos trimestres. Os dados divulgados após a
+publicação do RAF nº 113 sugerem, nesse contexto, viés de baixa para a projeção de
+crescimento de 1,8% apresentada pela Instituição Fiscal Independente em junho.
+No cenário da IFI, o crescimento projetado para 2027 permanece abaixo do potencial,
+estimado em 2,3%. A redução da Selic de 14,0% a.a., no fim de 2026, para 12,0% a.a. no fim
+de 2027, e do juro real ex ante, de 7,5% a.a. para 5,4% a.a., diminui gradualmente a restrição
+monetária e contribui para sustentar a atividade. A IFI prevê o retorno do crescimento ao
+ritmo potencial a partir de 2028, apoiado em ganhos moderados de produtividade e no
+aumento gradual da taxa de investimento.
+O resultado do segundo trimestre deixou um carregamento estatístico de
+aproximadamente 1,8% para o crescimento anual de 2026. Esse percentual não
+corresponde a uma projeção, mas ao crescimento que seria registrado no ano, caso o PIB
+permanecesse, no segundo semestre, no mesmo nível observado no segundo trimestre.
+Sob essa hipótese, o carregamento estatístico para 2027 seria de aproximadamente 0,1%.
+Nesse sentido, a contribuição herdada de 2026 para o crescimento anual de 2027 seria
+reduzida. Portanto, as projeções do PLOA, da IFI e da pesquisa Focus dependeriam,
+principalmente, da expansão da atividade no próximo ano.
+Além do crescimento real, os cenários divergem quanto à evolução dos preços incorporada
+ao PIB nominal. O PLOA estima PIB de R$ 14.782,9 bilhões em 2027, R$ 249,5 bilhões acima
+dos R$ 14.533,4 bilhões projetados pela IFI. Contribuem para essa diferença o maior
+crescimento real previsto pelo Poder Executivo e a maior variação projetada para o deflator
+implícito do PIB, de 5,4%, ante 4,5% no cenário da IFI. A título de comparação, a mediana
+das projeções do Prisma Fiscal, de agosto de 2026, para a variação do deflator em 2027 era
+de 4,9%, 0,5 p.p. abaixo da premissa do PLOA.
+No cenário do PLOA, a variação do deflator implícito do PIB, de 5,4%, supera o IPCA
+projetado, de 3,6%, em 1,8 p.p. Esse diferencial é superior à média histórica, de
+10 | Relatório de Acompanhamento Fiscal – Setembro de 2026
+
+=== página 11 ===
+aproximadamente 1,3 p.p., e aos 0,8 p.p. observado no segundo trimestre de 2026. A
+diferença entre os indicadores, de todo modo, não representa incompatibilidade: o IPCA
+acompanha os preços de uma cesta de consumo das famílias, enquanto o deflator abrange
+os preços dos bens e serviços finais produzidos na economia, segundo a estrutura das
+Contas Nacionais. A Mensagem Presidencial, contudo, não detalha as hipóteses que
+explicam o diferencial previsto para 2027.
+A projeção do IPCA no PLOA, de 3,6%, também é inferior às estimativas da IFI, de 4,0%, e da
+pesquisa Focus, de 4,3%. O cenário oficial pressupõe, portanto, convergência mais rápida
+da inflação ao consumidor em direção à meta.
+O PIB nominal mais elevado influencia a apresentação dos indicadores fiscais. Mantidos
+os valores nominais de receita, despesa, resultado primário ou dívida, um PIB maior reduz
+mecanicamente esses indicadores quando expressos como proporção do produto.
+O PLOA prevê crescimento de 10,1% da massa salarial dos trabalhadores com vínculo
+formal em 2027, parâmetro utilizado na projeção da arrecadação do Regime Geral de
+Previdência Social (RGPS). Essa estimativa combina aumentos de 3,4% do emprego formal
+e de 6,5% do rendimento nominal e está associada ao cenário de maior crescimento da
+atividade considerado na proposta. A IFI projeta expansão de 7,3% da massa de
+rendimentos do trabalho da PNAD Contínua, que abrange trabalhadores formais e
+informais. A comparação direta entre as taxas é limitada, portanto, pelas diferenças de
+cobertura dos indicadores.
+Para as taxas de juros e de câmbio, as projeções estão próximas. O PLOA, a IFI e a pesquisa
+Focus consideram Selic de 12,0% a.a. ao fim de 2027. As projeções para a taxa de câmbio
+são de R$ 5,28 por dólar no PLOA, R$ 5,23 na IFI e R$ 5,30 na pesquisa Focus. Para o
+petróleo Brent, o PLOA adota preço médio de US$ 71,03 por barril, ante US$ 75,00 no cenário
+da IFI.
+O PLOA incorpora crescimento real e variação do deflator superiores aos projetados pela
+IFI, contribuindo para um PIB nominal mais elevado. Mantidos os valores nominais dos
+indicadores fiscais, esse denominador maior reduz a magnitude em proporção do produto.
+A expansão prevista para a massa salarial formal está associada ao cenário de maior
+crescimento da atividade e constitui uma premissa relevante para a arrecadação
+previdenciária, embora sua comparação direta com a projeção da IFI seja limitada pelas
+diferenças de cobertura dos indicadores.
+Projeções de receita
+A Tabela 2 contém as projeções de receita mais recentes do Poder Executivo e da IFI para
+2026, ano-base para a elaboração do orçamento de 2027. As estimativas do Executivo
+constam do Relatório de Avaliação de Receitas e Despesas Primárias (RARDP) do 3º
+Relatório de Acompanhamento Fiscal – Setembro de 2026 | 11
+
+=== página 12 ===
+Bimestre4, enquanto as da IFI foram extraídas do já referenciado RAF nº 113. No RAF nº
+1155, de agosto de 2026, a IFI fez uma análise da 3ª avaliação bimestral deste ano.
+TABELA 2. PROJEÇÕES DO PODER EXECUTIVO E DA IFI PARA AS RECEITAS PRIMÁRIAS
+EM 2026
+2026
+Variáveis Avaliação 3º IFI (RAF nº Dif. RARDP 3º Bim - IFI
+Bimestre (RARDP 113/jun26) (RAF nº 113)
+% do
+R$ bilhões R$ bilhões % do PIB R$ bilhões p.p. do PIB
+PIB
+1. Receita primária total 3.237,2 23,7 3.229,1 23,6 8,1 0,0
+Receitas administradas 2.079,8 15,2 2.096,4 15,3 -16,6 -0,1
+Arrecadação líquida para o RGPS 784,0 5,7 748,5 5,5 35,5 0,3
+Receitas não administradas 373,4 2,7 384,2 2,8 -10,8 -0,1
+2. Transferências por repartição de receitas 643,6 4,7 649,9 4,8 -6,3 -0,1
+3. Receita primária líquida [1-2] 2.593,6 19,0 2.579,2 18,9 14,4 0,1
+Fonte: RARDP do 3º Bimestre de 2026 e RAF nº 113. Elaboração: IFI.
+A Tabela 3 apresenta as estimativas constantes do PLDO 2027, PLOA 2027 e RAF nº 113
+para 2027. De acordo com a tabela, existe uma diferença, a maior, de R$ 64,2 bilhões (0,0
+p.p. do PIB) entre as estimativas do PLOA 2027 e as do RAF nº 113 para a receita primária
+total do governo central no próximo ano.
+4 Disponível em: https://www.tesourotransparente.gov.br/publicacoes/relatorio-de-avaliacao-de-receitas-e-
+despesas-primarias-rardp/2026/15.
+5 Disponível em: https://www12.senado.leg.br/ifi/pdf/raf115_ago2026.pdf.
+12 | Relatório de Acompanhamento Fiscal – Setembro de 2026
+
+=== página 13 ===
+TABELA 3. PROJEÇÕES DO PODER EXECUTIVO E DA IFI PARA AS RECEITAS PRIMÁRIAS
+EM 2027
+2027
+Variáveis Dif. PLOA 2027 - IFI
+PLDO 2027 PLOA 2027 IFI (RAF nº 113/jun26)
+(RAF nº 113)
+% do % do
+R$ bilhões R$ bilhões R$ bilhões % do PIB R$ bilhões p.p. do PIB
+PIB PIB
+1. Receita primária total 3.408,2 23,3 3.459,3 23,4 3.395,1 23,4 64,2 0,0
+Receitas administradas 2.210,0 15,1 2.222,5 15,0 2.208,1 15,2 14,4 -0,2
+Incentivos fiscais - - 0,0 0,0 - - - -
+Arrecadação líquida para o RGPS 879,8 6,0 875,1 5,9 808,5 5,6 66,6 0,3
+Receitas não administradas 318,4 2,2 361,7 2,4 378,4 2,6 -16,8 -0,2
+2. Transferências por repartição de receitas 640,0 4,4 610,6 4,1 674,3 4,6 -63,7 -0,5
+3. Receita primária líquida [1-2] 2.768,2 18,9 2.848,7 19,3 2.720,8 18,7 127,9 0,6
+Fonte: PLDO 2027, PLOA 2027 e RAF nº 113. Elaboração: IFI.
+A análise dos grupos que compõem a receita primária indica os seguintes desvios entre as
+projeções do PLOA e as da IFI: (i) R$ 14,4 bilhões (-0,2 p.p. do PIB), a maior, nas receitas
+administradas; (ii) R$ 66,6 bilhões (0,3 p.p. do PIB), a maior, na arrecadação líquida para o
+RGPS; e (iii) R$ 16,8 bilhões (-0,2 p.p. do PIB), a menor, nas receitas não administradas.
+Os desvios entre as estimativas do PLOA 2027 e as da IFI residem, principalmente, em
+premissas e nos parâmetros macroeconômicos utilizados. Como discutido na seção
+anterior deste texto, o PLOA 2027 embute uma expectativa de aumento do PIB de 2,5% no
+próximo ano, enquanto a IFI considera crescimento de 1,8%, com viés de baixa. Além disso,
+o Executivo tem uma estimativa mais alta para o deflator implícito do PIB na comparação
+com a IFI. Essas discrepâncias explicam a divergência nas projeções para as receitas
+administradas em 2027.
+Ambas as projeções (IFI e governo) consideram as regras de transição em razão do início
+de vigência da reforma tributária sobre o consumo, assim como a trava para renúncias
+tributárias, conforme previsto no art. 6º-A da Lei Complementar (LC) nº 2006, de 2023. A
+partir de 2027, haverá a cobrança da Contribuição Social sobre Bens e Serviços (CBS)7.
+Ainda em relação às receitas administradas, o Poder Executivo considerou a arrecadação
+de R$ 636,8 bilhões (4,3% do PIB) com a CBS no PLOA 2027, amparada nas seguintes
+6 Ver: https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp200.htm.
+7 Tributo cuja arrecadação é de competência da União, instituído na Emenda Constitucional nº 132, de 2023.
+A contribuição foi desenhada de acordo com um modelo de Imposto sobre Valor Agregado (IVA) e tem o
+objetivo de unificar e substituir o PIS e a Cofins. Em 2027, ocorrerá a cobrança definitiva e integral da CBS, ao
+mesmo tempo em que haverá a extinção oficial e definitiva do PIS e da Cofins.
+Relatório de Acompanhamento Fiscal – Setembro de 2026 | 13
+
+=== página 14 ===
+premissas e parâmetros metodológicos: (i) neutralidade da arrecadação em proporção do
+PIB, princípio seguido no desenho da reforma tributária; (ii) utilização da mesma base de
+incidência dos tributos substituídos (PIS e Cofins); (iii) calibração a partir da fase de testes
+de 2026, quando foi aplicada uma alíquota reduzida de 0,1% para a contribuição; e (iv) não
+cumulatividade plena e desoneração da cesta básica.
+As estimativas do PLOA 2027, de R$ 636,8 bilhões (4,3% do PIB) para a CBS, e de R$ 42,0
+bilhões (0,3% do PIB) para o Imposto Seletivo (IS)8, consideraram a situação em que
+questões regulatórias e alíquotas definitivas ainda não foram consolidadas. Por isso, o
+Poder Executivo adotou premissas de transição, equivalência de bases e neutralidade
+fiscal.
+As soluções metodológicas utilizadas pelo governo para contornar a falta de
+regulamentação detalhada da reforma estruturam-se em quatro pilares principais. O
+primeiro corresponde à equivalência de bases de incidência. Como os parâmetros de
+cobrança e detalhamentos específicos dos novos tributos ainda dependem de
+consolidação pelo Congresso Nacional, o Executivo utilizou como premissa que as bases
+de projeção da CBS e do IS são exatamente as mesmas dos tributos federais que serão
+substituídos – PIS/Cofins e IOF sobre seguros, e IPI, respectivamente. Dessa forma,
+consideraram-se as regras da reforma tributária sobre os históricos de arrecadação desses
+tributos.
+O segundo pilar diz respeito à neutralidade da carga, conforme previsão do art. 353 da LC
+nº 2149, de 2025. As estimativas do PLOA 2027 consideram o pressuposto constitucional
+de que a reforma tributária deve ser fiscalmente neutra. Assim, as projeções foram feitas
+com base nas receitas dos tributos substituídos, em proporção do PIB, no período de 2012
+a 2021, devendo ser atualizadas quando as definições necessárias estiverem disponíveis.
+O terceiro pilar corresponde à substituição e aos recolhimentos residuais dos tributos
+extintos. A transição da reforma prevê a substituição integral do PIS/Cofins e parcial do IPI,
+pela CBS e pelo IS a partir de 2027. Dessa forma, o governo projetou redução nas
+estimativas de recolhimentos dos tributos antigos, que passaram a figurar no PLOA 2027
+com valores residuais de cobranças de fatos geradores passados. A título de ilustração, o
+IPI tem previsão de recolhimento de R$ 5,5 bilhões em 2027, visto que a cobrança persistirá
+na Zona Franca de Manaus. A Cofins tem um valor residual projetado de R$ 31,8 bilhões,
+enquanto o PIS/Pasep, R$ 34,4 bilhões.
+O quarto e último pilar das soluções metodológicas para a falta de regulamentação de
+pontos da reforma tributária diz respeito à classificação do Imposto Seletivo como uma
+fonte condicionada. A LC nº 214 determina que as alíquotas específicas desse tributo
+deverão ser estipuladas por uma lei ordinária, ainda pendente de discussão e aprovação
+8 Tributo que vai substituir o Imposto sobre Produtos Industrializados (IPI) em território nacional, à exceção
+da Zona Franca de Manaus.
+9 Disponível em: https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp214.htm.
+14 | Relatório de Acompanhamento Fiscal – Setembro de 2026
+
+=== página 15 ===
+pelo Congresso Nacional. Diante dessa pendência de legislação, o Poder Executivo aplicou
+o art. 14010 do PLDO 2027 para classificar a projeção de R$ 42,0 bilhões do IS como fonte
+condicionada no PLOA, ao elaborar o orçamento de 2027.
+As estimativas do PLOA 2027 para a arrecadação líquida para o RGPS consideram o
+mercado de trabalho ainda aquecido, a despeito da política monetária contracionista e dos
+efeitos que se espera para a atividade econômica nos próximos meses. O Executivo prevê
+expansão da massa salarial em 10,1%, em termos nominais, em 2027. A IFI considera um
+cenário mais conservador para o mercado de trabalho no ano que vem, em linha com a
+desaceleração esperada para a atividade econômica. Essa diferença de premissas afeta a
+base de contribuição previdenciária estimada pelo governo no orçamento do ano que vem.
+Por fim, ainda fazendo referência aos números da Tabela 3, o grupo das receitas não
+administradas é o único em que a estimativa da IFI supera a do PLOA para 2027. Enquanto
+a proposta orçamentária considera receitas não administradas de R$ 361,7 bilhões (2,4%
+do PIB), a IFI estima o recolhimento de R$ 378,4 bilhões (2,6% do PIB) no próximo ano,
+diferença de R$ 16,8 bilhões.
+Essa divergência se explica, principalmente, pela premissa para o preço do petróleo Brent.
+No PLOA, o Executivo considera um preço médio do barril em US$ 71,0 em 2027, enquanto
+a IFI considerou US$ 75,0 na média do ano. Essa discrepância afeta dois agregados de
+receitas não administradas: a exploração de recursos naturais e os recolhimentos de
+dividendos e participações.
+Para as receitas de exploração de recursos naturais, o Poder Executivo estima o ingresso
+de R$ 176,3 bilhões em 2027. Como cerca de 90% dos recolhimentos dessa receita
+dependem de petróleo e gás natural, a premissa de Brent mais elevado adotada pela IFI
+produz uma arrecadação superior com royalties e participações especiais de petróleo.
+O preço do petróleo mais elevado amplia as margens operacionais da Petrobras no
+segmento de exploração e produção, incrementando o potencial de lucro da companhia e,
+consequentemente, a expectativa de pagamento de dividendos à União, segundo a IFI, em
+relação às estimativas da proposta orçamentária.
+No PLOA 2027, o Executivo projeta o ingresso de R$ 30,9 bilhões (0,2% do PIB) a título de
+dividendos e participações, sem considerar antecipações ou pagamentos extraordinários
+pelas empresas estatais federais. A estimativa da IFI é de recolhimento de R$ 57,6 bilhões
+com dividendos em 2027. Este número compõe o montante de R$ 378,5 bilhões de receitas
+não administradas, conforme o já referenciado RAF nº 113.
+Alguns pontos adicionais devem ser considerados em relação às estimativas da Tabela 3.
+O primeiro diz respeito ao recolhimento previsto da CBS e do IS. Como mencionado
+10 O art. 140 do PLDO regulamenta a possibilidade de o Poder Executivo incluir na proposta orçamentária
+estimativas de receitas e fixação de despesas cujos efeitos financeiros dependam da aprovação de matérias
+legislativas ainda em tramitação.
+Relatório de Acompanhamento Fiscal – Setembro de 2026 | 15
+
+=== página 16 ===
+anteriormente, as projeções desses dois tributos, que vão substituir o PIS/Cofins e o IPI,
+foram feitas sem a definição da alíquota do IS e da alíquota de referência da CBS. Assim,
+as premissas adotadas pelo Poder Executivo para o recolhimento desses tributos em 2027,
+que soma R$ 678,8 bilhões (R$ 636,8 bilhões da CBS e R$ 42,0 bilhões do IS), podem não
+se concretizar e os valores serem menores que os apresentados na proposta orçamentária.
+Assim, existe um risco relevante de frustração de arrecadação nas projeções do PLOA
+2027.
+O próprio Poder Executivo reconhece nos documentos do PLOA que as estimativas da CBS
+são preliminares e precisarão ser atualizadas à medida que as definições regulatórias do
+Congresso forem consolidadas. Para contornar a falta de histórico de arrecadação do novo
+tributo, o governo adotou como premissa aplicar as regras da CBS sobre as bases históricas
+dos tributos substituídos ou reduzidos (PIS, Cofins, IPI e IOF seguros).
+Como a IFI ressaltou no RAF nº 113, os efeitos diretos e indiretos da reforma tributária sobre
+a arrecadação são de difícil mensuração prévia, pois exigirão a cobrança efetiva e dados
+operacionais reais para a calibração definitiva dos parâmetros. A mudança para o modelo
+de IVA dual com não cumulatividade plena pode gerar volumes de tomada de créditos e
+restituições que divirjam das simulações dos modelos considerados pelo governo.
+O segundo ponto a se destacar diz respeito às estimativas para as transferências por
+repartição de receitas. O PLOA 2027 projeta R$ 610,6 bilhões (4,1% do PIB) em
+transferências a estados e municípios, a IFI considerou R$ 674,3 bilhões (4,6% do PIB) no
+RAF nº 113, de junho de 2026, diferença de R$ 63,7 bilhões.
+No RAF nº 11211, de maio de 2026, a IFI analisou as projeções apresentadas no PLDO 2027.
+No documento, algumas considerações foram feitas em relação à trajetória considerada
+pelo Poder Executivo para as transferências por repartição de receita nos próximos anos. O
+PLDO 2027 prevê que as transferências, em proporção do PIB, diminuam gradativamente
+até 2030. Em 2027, o documento prevê transferências em 4,4% do PIB, que cairiam para
+4,3% do PIB, em 2028, 4,3% do PIB, em 2029, e 4,2% do PIB em 2030. Em 2026, como
+destaca a Tabela 2, o RARDP do 3º Bimestre prevê que as transferências alcancem 4,7% do
+PIB.
+O PLOA 2027 considera que as transferências por repartição de receitas atinjam 4,1% do
+PIB em 2027, 0,3 p.p. do PIB inferior ao projetado no PLDO. No mencionado RAF nº 112, a
+IFI destacou que essa redução sistemática da proporção das transferências da União aos
+demais entes federados, em relação ao PIB, é inconsistente com as próprias estimativas de
+arrecadação apresentadas pelo governo no PLDO 2027.
+Para que as transferências, em proporção do PIB, recuassem nos próximos anos, seria
+necessário que a arrecadação dos tributos partilhados com Estados e Municípios,
+fundamentalmente o Imposto sobre a Renda (IR) e IPI/IS, diminuísse. No entanto, as
+11 Disponível em: https://www2.senado.leg.br/bdsf/bitstream/handle/id/865129/RAF112_MAI2026.pdf.
+16 | Relatório de Acompanhamento Fiscal – Setembro de 2026
+
+=== página 17 ===
+planilhas oficiais da Receita Federal do Brasil (RFB) indicam uma participação constante
+dos recolhimentos de IR e IPI/IS em proporção do PIB até 2030.
+Além disso, ainda segundo o RAF nº 112, a legislação vigente indica expansão ou
+manutenção dos repasses da União a Estados e Municípios. A Emenda Constitucional (EC)
+nº 11212, de 2021, alterou o art. 159 da Constituição Federal para elevar gradualmente a
+fatia do IR e do IPI/IS destinada ao Fundo de Participação dos Municípios (FPM). Como as
+regras constitucionais elevaram a parcela do bolo tributário destinada aos entes
+subnacionais, não há justificativa jurídica ou econômica para projetar uma contração da
+fatia transferida sem que haja uma redução equivalente na arrecadação dos impostos
+compartilhados de origem.
+Por fim, embora a metodologia do PLOA 2027 considere ajustes de competência e de caixa
+para adequar as estimativas orçamentárias aos desembolsos financeiros efetivos, e o
+ajuste financeiro de caixa tenha reduzido em R$ 3,6 bilhões a previsão de repasse efetivo
+do FPE/FPM/IPI-EE em relação às dotações orçamentárias autorizadas em 2027, o
+montante não compensa a aparente contradição existente na estimativa das
+transferências, em proporção do PIB, para os próximos anos.
+As estimativas para as transferências nos próximos anos produzem um efeito direto nas
+projeções da receita primária líquida do governo central – o montante de receita que
+permanece no caixa da União após a divisão da arrecadação dos tributos partilhados com
+os demais entes da federação. Em outras palavras, isso caracteriza um risco de frustração
+financeira durante a execução orçamentária de 2027.
+Projeções de despesa
+A Tabela 4 apresenta as projeções para as despesas primárias do PLDO 2027, PLOA 2027
+e do RAF nº 113, a preços correntes e em proporção do PIB. A partir dos números da tabela,
+existe um desvio, a maior, de R$ 23,2 bilhões (0,2 p.p. do PIB) na despesa primária total do
+Poder Executivo em relação à projeção mais recente da IFI para o próximo ano.
+12 Disponível em: https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc112.htm.
+Relatório de Acompanhamento Fiscal – Setembro de 2026 | 17
+
+=== página 18 ===
+TABELA 4. PROJEÇÕES PARA AS DESPESAS PRIMÁRIAS DO GOVERNO CENTRAL (PLDO
+2027, PLOA 2027 E RAF Nº 113) – 2027 (R$ BILHÕES E % DO PIB)
+2027
+Variáveis IFI (RAF nº Dif. PLOA 2027 -
+PLDO 2027 PLOA 2027
+113/jun26) IFI (RAF nº 113)
+R$ % do R$ % do R$ % do R$ p.p. do
+bilhões PIB bilhões PIB bilhões PIB bilhões PIB
+Despesa primária total 2.760,2 18,9 2.830,1 19,1 2.806,9 19,3 23,2 -0,2
+Benefícios previdenciários 1.204,6 8,2 1.215,1 8,2 1.239,2 8,5 -24,1 -0,3
+Pessoal e encargos sociais 459,3 3,1 474,1 3,2 457,1 3,1 17,0 0,1
+Benefícios de Prestação Continuada (BPC/LOAS) 137,9 0,9 154,2 1,0 161,9 1,1 -7,6 -0,1
+Abono salarial e seguro-desemprego 104,8 0,7 104,8 0,7 113,1 0,8 -8,3 -0,1
+Complementação ao Fundeb 73,5 0,5 73,9 0,5 66,7 0,5 7,1 0,0
+Sentenças judiciais e precatórios - custeio e capital 30,1 0,2 31,5 0,2 48,8 0,3 -17,3 -0,1
+Subsídios, subvenções econômicas e Proagro 30,7 0,2 35,7 0,2 29,1 0,2 6,6 0,0
+Custeio e capital dos Poderes Legislativo e
+41,4 0,3 25,7 0,2 23,0 0,2 2,7 0,0
+Judiciário, do MPU e da DPU
+Fundo de compensação aos Estados pela
+33,8 0,2 33,8 0,2
+substituição do IPI pelo Imposto Seletivo
+Outras despesas obrigatórias 18,6 0,1 18,3 0,1 7,6 0,1 10,6 0,1
+Despesas do Poder Executivo sujeitas à
+659,3 4,5 663,1 4,5 646,7 4,4 16,4 0,1
+programação financeira
+Obrigatórias com controle de fluxo 384,6 2,6 396,3 2,7 406,3 2,8 -10,0 -0,1
+Despesas discricionárias 274,7 1,9 266,8 1,8 240,4 1,7 26,5 0,1
+Reserva para emendas parlamentares 44,8 0,3 44,8 0,3
+Fonte: PLDO 2027, PLOA 2027 e RAF nº 113, de junho de 2026.
+O principal desvio entre a estimativa do Poder Executivo e da IFI reside no pagamento de
+benefícios previdenciários. Para essa rubrica, a IFI estima a execução de R$ 1.239,2 bilhões
+(8,5% do PIB) em 2027, enquanto o PLOA projeta R$ 1.215,1 bilhões (8,2% do PIB), uma
+diferença de R$ 24,1 bilhões (0,3 p.p. do PIB) a menos.
+Outros desvios relevantes entre as despesas do PLOA 2027 e do RAF nº 113 são: (i) pessoal
+e encargos sociais (R$ 17,0 bilhões, a maior, ou 0,1 p.p. do PIB); (ii) Benefícios de Prestação
+Continuada – BPC (R$ 7,6 bilhões, a menor, ou 0,1 p.p. do PIB); (iii) abono salarial e seguro-
+desemprego (R$ 8,3 bilhões, a menor, ou 0,1 p.p. do PIB); (iv) Complementação da União ao
+Fundeb (R$ 7,1 bilhões, a maior); (v) sentenças judiciais e precatórios de custeio e capital
+(R$ 17,3 bilhões, a menor, ou 0,1 p.p. do PIB); (vi) Fundo de Compensação aos Estados pela
+substituição do IPI pelo Imposto Seletivo (R$ 33,8 bilhões, a maior, ou 0,2 p.p. do PIB); (vii)
+18 | Relatório de Acompanhamento Fiscal – Setembro de 2026
+
+=== página 19 ===
+despesas obrigatórias com controle de fluxo (R$ 10,0 bilhões, a menor, ou 0,1 p.p. do PIB);
+e (viii) discricionárias (R$ 26,5 bilhões, a maior, ou 0,1 p.p. do PIB).
+A discrepância entre as estimativas para o pagamento de benefícios previdenciários do
+RGPS, em 2027, entre o Poder Executivo (PLOA 2027) e a IFI (RAF nº 113) decorre de
+divergências em premissas macroeconômicas, estimativas sobre a expansão do estoque
+de beneficiários e o ceticismo da IFI quanto à eficácia de medidas de revisão de gastos
+previstas para os próximos anos.
+Em primeiro lugar, como discutido na segunda seção deste texto, o Poder Executivo tem
+uma projeção ligeiramente mais baixa para a inflação (medida pelo INPC, do IBGE), em
+2027, comparativamente à IFI. Como o INPC é o indexador legal para a correção das faixas
+de contribuição e dos benefícios acima do salário mínimo, a estimativa de inflação menor
+reduz o reajuste nominal dos benefícios no modelo utilizado pelo governo.
+Segundo, como destacado pela IFI no RAF nº 112, o principal vetor de crescimento da
+despesa previdenciária, desde 2021, é a expansão contínua do estoque de benefícios,
+impulsionada por fatores demográficos estruturais (envelhecimento populacional e
+aumento da expectativa de sobrevida aos 65 anos) e pela aceleração dos auxílios por
+incapacidade temporária (auxílio-doença). Por outro lado, as estimativas do Poder
+Executivo embutem, aparentemente, premissas mais conservadoras em relação à
+quantidade de novos benefícios emitidos, tanto em 2027, quanto nos anos subsequentes,
+considerando as projeções apresentadas no PLDO.
+Terceiro, o orçamento elaborado pelo Poder Executivo incorpora economias potenciais
+expressivas decorrentes de medidas de gestão e eficiência, com destaque para a ampliação
+do Atestmed – sistema que faz concessão documental de auxílio-doença sem perícia
+presencial, com estimativa de redução de gastos da ordem de R$ 3,1 bilhões em 2027. A
+IFI, por sua vez, adota uma postura mais conservadora em relação a essa economia
+potencial, visto que, nos exercícios de 2024 e 2025, o rendimento efetivo do Atestmed e dos
+controles de prevenção a fraudes ficou abaixo do projetado pelo Executivo, não sendo
+suficiente para deter a aceleração do fluxo de concessões.
+No Anexo de Riscos Fiscais do PLDO 2027, o Poder Executivo consolidou e atualizou um
+pacote de revisão de gastos (spending reviews), que projeta uma economia potencial
+acumulada de R$ 55,4 bilhões entre 2026 e 2029. A distribuição anual da economia
+estimada é a seguinte: (i) R$ 11,0 bilhões em 2026; (ii) R$ 16,0 bilhões em 2027; (iii) R$ 11,3
+bilhões em 2028; e (iv) R$ 17,1 bilhões em 2029.
+O BPC representa o maior montante de economia projetada, somando R$ 25,8 bilhões entre
+2026 e 2029, a ser alcançada com medidas administrativas, como revisão anual obrigatória,
+aperfeiçoamento dos filtros de renda, exigência de biometria, reavaliação biopsicossocial e
+melhora da governança do programa.
+Relatório de Acompanhamento Fiscal – Setembro de 2026 | 19
+
+=== página 20 ===
+Para os benefícios previdenciários no âmbito do RGPS, as medidas projetam uma economia
+de R$ 12,9 bilhões, de 2026 a 2029, a ser alcançada da seguinte forma: (i) R$ 3,0 bilhões
+em 2026; (ii) R$ 3,1 bilhões em 2027; (iii) R$ 3,3 bilhões em 2028; e (iv) R$ 3,5 bilhões em
+2029. As principais medidas a serem adotadas para alcançar esses valores, ainda segundo
+os documentos do PLDO 2027, são a já mencionada expansão do Atestmed e a integridade
+cadastral para aprimorar a prevenção de fraudes.
+No RAF nº 112, que analisou o PLDO 2027, a IFI discutiu essas medidas e justificou o
+ceticismo com a eficácia dos instrumentos apresentados, principalmente em relação aos
+montantes de economia projetados. A efetividade das medidas pode demandar alterações
+estruturais na legislação que rege a concessão do BPC e dos benefícios previdenciários.
+O quarto e último ponto a se considerar em relação às despesas com benefícios
+previdenciários diz respeito ao pagamento do salário-maternidade e o salário-paternidade.
+Tanto o PLOA 2027, quanto o RAF nº 113, consolidam o custeio desses dois benefícios
+dentro do agregado das despesas com benefícios previdenciários do RGPS.
+Em particular, as estimativas para o pagamento do salário-maternidade incorporam a
+expansão decorrente do julgamento do Supremo Tribunal Federal (STF) em 21 de março de
+2024, que declarou inconstitucional a exigência de carência de 10 meses de contribuição
+para que trabalhadoras autônomas, contribuintes individuais, facultativas e rurais tivessem
+direito ao benefício. A eliminação do requisito de carência ampliou o rol de seguradas
+elegíveis.
+O salário-paternidade, por sua vez, está disciplinado na Lei nº 15.37113, de 31 de março de
+2026, que estabelece expressamente que o benefício entra em vigor em 1º de janeiro de
+2027. Assim, os efeitos financeiros e a respectiva execução orçamentária passam a
+integrar o orçamento do RGPS a partir do ano que vem.
+Para a despesa do Benefício de Prestação Continuada em 2027, a discrepância entre a
+estimativa do Poder Executivo e a da IFI reside na premissa para o INPC e no maior
+crescimento vegetativo do estoque de beneficiários. Nesta despesa, assim como nos
+pagamentos de benefícios previdenciários, a IFI prefere adotar uma postura mais
+conservadora em relação à economia de R$ 8,8 bilhões esperada pelo governo com
+revisões cadastrais, montante apresentado no Anexo de Riscos Fiscais do PLDO 2027 e
+objeto de análise no RAF nº 112.
+Na despesa de pessoal e encargos, ainda de acordo com a Tabela 4, a IFI projeta um
+montante R$ 17,0 bilhões superior ao do Executivo no PLOA 2027. Os fatores que explicam
+a despesa de pessoal no próximo ano, assim como a discrepância entre as estimativas da
+IFI e do PLOA, são detalhados a seguir.
+Em primeiro lugar, o crescimento real anual da despesa de pessoal e encargos ficará
+limitado estritamente ao piso inferior do arcabouço fiscal, ou seja, incremento real de 0,6%
+13 Disponível em: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15371.htm.
+20 | Relatório de Acompanhamento Fiscal – Setembro de 2026
+
+=== página 21 ===
+sobre a base da LOA 2026 (corrigida pelo IPCA acumulado de julho de 2025 a junho de
+2026), excluídas as sentenças judiciais14. O limite máximo calculado para o Executivo
+(exceto Fundo Constitucional do Distrito Federal) sob esse gatilho ficou em R$ 369,5
+bilhões. No PLOA 2027, o governo fixou a dotação em R$ 361,5 bilhões, mantendo uma
+margem de segurança de R$ 8,0 bilhões abaixo do teto permitido pelo gatilho. Com a trava,
+a variação nominal anual da despesa de pessoal do Executivo cai para 3,2% em 2027, ante
+uma média de 7,9% no período de 2023 a 2026.
+Apesar dessa trava de aumento real de até 0,6% para a despesa de pessoal a partir de 2027,
+o PLOA absorve o efeito financeiro anualizado das leis aprovadas entre 2024 e 2026 que
+reestruturaram carreiras e concederam a segunda parcela de reajustes aos servidores
+federais. Esse impacto contratado soma R$ 37,8 bilhões na folha de 2027, estabilizando-se
+em cerca de R$ 37,9 bilhões ao ano entre 2028 e 2030, conforme o PLDO.
+Vale ressaltar que a tendência para a despesa de pessoal é de queda gradual, em proporção
+do PIB, nos próximos anos. As estimativas do Executivo são de recuo de 3,1% do PIB, em
+2027, para 2,8% do PIB, em 2030, enquanto as projeções da IFI são de recuo de 3,1% do PIB,
+em 2027, para 3,0% do PIB em 2030.
+Uma discrepância importante entre as estimativas de despesas do PLOA 2027 e do RAF nº
+113 diz respeito ao aporte da União ao Fundo de Compensação aos Estados pela
+Substituição do IPI pelo Imposto Seletivo a partir de 2027, ano em que se inicia a fase
+prática de implementação da reforma tributária com a extinção do PIS e da Cofins
+(substituídos pela CBS) e a redução do IPI – que passa a ser cobrado de forma residual e
+concentrado na Zona Franca de Manaus, sendo parcialmente substituído pelo Imposto
+Seletivo (IS) e pela CBS. No PLOA 2027, o Poder Executivo considerou o montante de
+R$ 33,8 bilhões (0,2% do PIB) em aporte ao referido fundo, despesa não contemplada pela
+IFI no RAF nº 113.
+A compensação aos estados está prevista nos artigos 477, 478 e 479 da já referenciada LC
+nº 214. Como a arrecadação do IPI compõe a base de cálculo constitucional das
+transferências aos estados e municípios, por meio do FPE e do FPM (art. 159, I e II da CF),
+a queda imediata do IPI, em 2027, afetaria diretamente os cofres dos entes subnacionais a
+partir do próximo ano.
+Para evitar essa perda imediata, a LC nº 214 determinou que a União deve apurar e entregar
+essa compensação, mensalmente, aos entes subnacionais a partir de janeiro de 2027. Essa
+conta foi operacionalizada no PLOA 2027, totalizando R$ 33,8 bilhões. Importante
+mencionar que o desembolso para o Fundo de Compensação aos Estados pela substituição
+do IPI pelo Imposto Seletivo não estava previsto no Marco Orçamentário de Médio Prazo
+14 Conforme o art. 6ª-A da LC nº 200, inserido pela LC nº 214. O gatilho disciplinado nesse dispositivo foi
+acionado em razão do déficit primário registrado pelo governo central no exercício de 2025, apurado em 2026
+e válido para 2027. Trata-se de contenção de despesas de pessoal para todos os Poderes e órgãos autônomos
+da União (Executivo, Legislativo, Judiciário, MPU e DPU).
+Relatório de Acompanhamento Fiscal – Setembro de 2026 | 21
+
+=== página 22 ===
+(MOMP) constante do PLOA 2026. Por essa razão, a IFI não considerou o aporte ao fundo
+nas projeções do RAF nº 113.
+No PLOA 2026, as projeções plurianuais do MOMP seguiam a lógica de limites e
+referenciais monetários setoriais definidos por órgão. O PLOA 2027 passou a adotar uma
+nova metodologia, a Linha de Base da Despesa, que calcula o custo real de continuidade
+dos compromissos e políticas públicas nos anos subsequentes.
+A inclusão do cálculo mensal dessa compensação (amparada pelo art. 477 da LC nº 214
+para repor as perdas do FPE e FPM resultantes da queda do IPI) foi apontada pelo Ministério
+do Planejamento e Orçamento como o principal acréscimo na proporção de despesas
+obrigatórias do PLOA 2027 (+0,2 p.p. do PIB).
+Uma explicação adicional importante: a despesa desse aporte (R$ 33,8 bilhões) ao fundo
+compensatório do IPI não integra o limite de despesas primárias no âmbito da LC nº 20015.
+Por outro lado, essa despesa primária entra integralmente na apuração da meta de
+resultado primário nos moldes da LC nº 10116 (Lei de Responsabilidade Fiscal) e da LDO17.
+Para concluir a presente seção, consideram-se alguns pontos em relação aos pisos
+constitucionais de saúde e educação. No PLOA 2027, o Poder Executivo alocou dotações
+que cumprem ou superam as exigências constitucionais e legais. Para o piso da saúde
+(Ações e Serviços Públicos de Saúde – 15% da Receita Corrente Líquida da União), o valor
+calculado foi de R$ 272,2 bilhões, mesmo montante alocado para a respectiva dotação.
+Para o piso da educação (Manutenção e Desenvolvimento do Ensino – 18% da Receita
+Líquida de Impostos), o valor considerado foi de R$ 138,8 bilhões. A dotação alocada para
+o piso, no entanto, foi de R$ 141,2 bilhões, gerando uma folga de R$ 2,4 bilhões.
+Para o piso de investimentos (0,6% do PIB conforme o Regime Fiscal Sustentável da LC nº
+200), o valor considerado foi de R$ 88,7 bilhões (0,6% do PIB). A dotação alocada, por sua
+vez, foi de R$ 133,8 bilhões, superando com folga o piso estabelecido no arcabouço fiscal.
+Algumas regras e mecanismos de ajuste foram incorporados no orçamento de 2027. O
+montante exigido para o cumprimento dos pisos, em 2027, foi afetado por alterações
+legislativas recentes. A primeira alteração foi inserida na LC nº 23518. O art. 14 da lei
+15 Assim como as despesas com os aportes ao Fundo de Compensação de Benefícios Fiscais (FCBF) e ao
+Fundo Nacional de Desenvolvimento Regional (FNDR), previstas para ocorrer a partir do exercício de 2029.
+Esses aportes têm exclusão expressa da base de cálculo dos limites definidos na LC 200/2023, conforme os
+artigos 12 e 15 da Emenda Constitucional (EC) nº 132, de 2023. Texto da EC 132 disponível em:
+https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc132.htm.
+16 Disponível em: https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp101.htm.
+17 O texto constitucional e a legislação orçamentária preveem deduções/abatimentos específicos do cômputo
+da meta fiscal apenas para despesas qualificadas, como a parcela de precatórios (EC nº 136/2025), os
+projetos estratégicos de Defesa (LC nº 221/2025) e as ações de saúde e educação do Fundo Social (LC nº
+223/2025). Como a compensação do IPI não consta dessa lista de exceções, seu desembolso pressiona o
+saldo primário no conceito acima da linha e exige cobertura por receitas primárias para assegurar o
+atingimento do centro da meta de superávit de 0,5% do PIB.
+18 Disponível em: https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp235.htm.
+22 | Relatório de Acompanhamento Fiscal – Setembro de 2026
+
+=== página 23 ===
+estabelece que, em razão da projeção de déficit primário em 2026, o crescimento de
+despesas com receitas vinculadas fica condicionado ao crescimento do limite do
+arcabouço (IPCA + 2,5%). O mesmo dispositivo exclui as receitas de comercialização de
+petróleo do cálculo da Receita Corrente Líquida da União (RCL).
+Tais medidas, portanto, reduzem a elevação automática da base de cálculo do piso
+constitucional da saúde e geram uma economia de R$ 8,9 bilhões em 2027, de acordo com
+projeções do Poder Executivo. Os efeitos da LC nº 235 não estão incorporados nas
+estimativas mais recentes da IFI (RAF nº 113).
+Segunda alteração legislativa importante para efeito da elaboração do orçamento de 2027
+foi o Programa Pé-de-Meia. Os recursos destinados ao programa de poupança do ensino
+médio – R$ 10,5 bilhões no PLOA 2027 – passaram a ser classificados como bolsas de
+estudo e contabilizados no cumprimento do gasto mínimo com Manutenção e
+Desenvolvimento do Ensino (MDE).
+Por fim, a exigência de direcionamento de ao menos 50% das emendas parlamentares de
+comissão para Ações e Serviços Públicos de Saúde (ASPS), nos termos da LC nº 21019, de
+2024, auxilia no cumprimento do piso da saúde.
+Como os pisos de saúde (15% da RCL) e educação (18% da RLI) acompanham o
+desempenho da arrecadação federal, revisões para cima na projeção de receitas elevam
+automaticamente os valores mínimos exigidos para ambas as funções. Adicionalmente, a
+obrigatoriedade de acompanhamento dos pisos — combinada com o crescimento
+vegetativo de benefícios previdenciários, BPC e a execução de emendas impositivas —
+amplia o engessamento estrutural do orçamento público, reduzindo a margem para
+despesas discricionárias não rígidas do Poder Executivo no médio prazo.
+Dessa forma, medidas que ajudem no cumprimento dos pisos e desvinculem despesas de
+receitas aliviam a execução orçamentária e tiram pressão dos limites de despesa no âmbito
+do arcabouço.
+Limite de despesas e despesas sujeitas aos limites da LC nº 200
+Esta seção apresenta o cálculo do limite de despesas primárias do Poder Executivo previsto
+no PLOA 2027 e avalia se os valores programados na proposta para as despesas
+obrigatórias sujeitas aos limites da Lei Complementar (LC) nº 200, de 2023, são
+compatíveis com sua trajetória recente.
+O cálculo do limite para 2027 parte de uma base de R$ 2.392,6 bilhões. Sobre esse valor
+incidem a variação do IPCA acumulada em doze meses até junho de 2026, de 4,6%, e o
+crescimento real de 2,5%. A aplicação conjunta desses fatores resulta em correção nominal
+de 7,3% e em limite de R$ 2.566,2 bilhões.
+19 Disponível em: https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp210.htm.
+Relatório de Acompanhamento Fiscal – Setembro de 2026 | 23
+
+=== página 24 ===
+O PLOA acrescenta R$ 10,4 bilhões ao limite em razão da diferença entre o IPCA projetado
+para o encerramento de 2026, de 5,1%, e o IPCA acumulado até junho deste ano, de 4,6%.
+Com esse acréscimo, o limite considerado para 2027 alcança R$ 2.576,5 bilhões. A
+incorporação desse valor depende da confirmação da diferença de inflação prevista na
+proposta (Tabela 5).
+TABELA 5. LIMITE DE DESPESAS PARA 2027 NO PLOA
+Discriminação Valor
+A. Base de cálculo de 2026 R$ 2.392,6 bilhões
+B. Correção nominal da base 7,3%
+B.1. IPCA acumulado em 12 meses até junho de 2026 4,6%
+B.2. Crescimento real 2,5%
+C. Limite de 2027 antes do acréscimo pela diferença do IPCA [A × (1 + B/100)] R$ 2.566,2 bilhões
+D. Acréscimo pela diferença entre o IPCA projetado para dezembro e o acumulado até
+R$ 10,4 bilhões
+junho de 2026
+E. Limite de 2027 com o acréscimo [C + D] R$ 2.576,5 bilhões
+Fonte: Mensagem Presidencial do PLOA 2027, Tabela 14. Elaboração: IFI.
+O limite da LC nº 200 não abrange todas as despesas primárias. Entre as principais
+despesas excluídas estão as transferências por repartição de receitas, os precatórios, o
+Fundeb, o FCDF, o Fundo de Compensação pela substituição do IPI pelo Imposto Seletivo e
+determinadas despesas dos Poderes Legislativo e Judiciário, do MPU e da DPU.
+Segundo a Tabela 15 da Mensagem Presidencial, as despesas primárias totais do PLOA
+2027 somam R$ 3.418,5 bilhões. Desse montante, R$ 592,4 bilhões correspondem a
+transferências por repartição de receitas e R$ 249,5 bilhões a outras despesas primárias
+não sujeitas aos limites. Somando as duas categorias, as despesas excluídas do limite
+totalizam R$ 841,9 bilhões, ou 24,6% da despesa primária total.
+Desconsideradas as transferências por repartição de receitas, restam R$ 2.826,1 bilhões
+em despesas primárias. Desse montante, R$ 2.576,5 bilhões estão sujeitos aos limites da
+LC nº 200 e R$ 249,5 bilhões não estão. As despesas não sujeitas correspondem, portanto,
+a 8,8% desse total (Tabela 6).
+24 | Relatório de Acompanhamento Fiscal – Setembro de 2026
+
+=== página 25 ===
+TABELA 6. DESPESAS PRIMÁRIAS SUJEITAS E NÃO SUJEITAS AOS LIMITES NO PLOA
+2027 (R$ BILHÕES)
+Discriminação R$ bilhões
+A. Despesas primárias sujeitas aos limites 2.576,5
+B. Despesas primárias não sujeitas aos limites, excluídas as transferências por
+249,5
+repartição de receitas
+C. Despesas primárias totais, excluídas as transferências por repartição de receitas [A +
+2.826,1
+B]
+D. Participação das despesas não sujeitas aos limites nesse total [B / C] 8,8%
+Fonte: Mensagem Presidencial do PLOA 2027, Tabela 15. Elaboração: IFI.
+Na avaliação do terceiro bimestre de 2026, as despesas primárias sujeitas aos limites estão
+estimadas em R$ 2.410,6 bilhões (17,6% do PIB) para este ano. No PLOA 2027, estão
+programadas em R$ 2.576,5 bilhões (17,4% do PIB).
+As despesas obrigatórias sujeitas aos limites estão estimadas em R$ 2.172,9 bilhões
+(15,9% do PIB), para 2026, e programadas em R$ 2.304,3 bilhões (15,6% do PIB) para 2027.
+As despesas discricionárias, por sua vez, estão estimadas em R$ 237,7 bilhões (1,7% do
+PIB), em 2026, e programadas em R$ 272,2 bilhões (1,8% do PIB) no PLOA 2027 (Tabela 7).
+TABELA 7. DESPESAS PRIMÁRIAS SUJEITAS AOS LIMITES DA LC Nº 200 (R$ BILHÕES E
+% DO PIB)
+Discriminação 3º bim. 2026 PLOA 2027 % PIB 2026 % PIB 2027 Δ p.p. PIB
+Despesas sujeitas aos limites 2.410,6 2.576,5 17,6% 17,4% −0,2
+Obrigatórias sujeitas 2.172,9 2.304,3 15,9% 15,6% −0,3
+Benefícios previdenciários 1.081,8 1.169,3 7,9% 7,9% 0,0
+Pessoal e encargos sociais 416,9 440,7 3,1% 3,0% −0,1
+Bolsa Família 155,8 157,1 1,1% 1,1% −0,1
+Benefício de Prestação
+136,0 145,1 1,0% 1,0% 0,0
+Continuada (BPC)
+Abono salarial e seguro-
+98,2 104,7 0,7% 0,7% 0,0
+desemprego
+Demais obrigatórias 284,2 287,4 2,1% 1,9% −0,1
+Discricionárias sujeitas 237,7 272,2 1,7% 1,8% 0,1
+Limite de despesas 2.392,7 2.576,5 17,5% 17,4% −0,1
+Fonte: RARDP do 3º Bimestre de 2026; Mensagem Presidencial e Apresentação do PLOA 2027. Elaboração: IFI.
+Nota: os valores por rubrica nesta tabela refletem apenas a parcela sujeita ao limite; podem, portanto, diferir dos
+totais de despesa primária apresentados na Tabela 4, que incluem também a parcela não sujeita (por exemplo,
+sentenças judiciais e precatórios de natureza previdenciária e de pessoal).
+Na avaliação do terceiro bimestre de 2026, as despesas sujeitas aos limites excediam o
+limite em R$ 17,9 bilhões, o que levou ao bloqueio de despesas discricionárias. Descontado
+Relatório de Acompanhamento Fiscal – Setembro de 2026 | 25
+
+=== página 26 ===
+esse bloqueio, o espaço discricionário compatível com o limite foi estimado em R$ 219,8
+bilhões. Para 2027, o PLOA programa R$ 272,2 bilhões para despesas discricionárias
+sujeitas aos limites, R$ 52,4 bilhões acima desse espaço.
+Na estimativa para 2026, as despesas obrigatórias comprometem 90,8% do limite, restando
+9,2% para as discricionárias. No PLOA 2027, as parcelas correspondem a 89,4% e 10,6%,
+respectivamente, considerando, portanto, menor comprometimento do limite com
+despesas obrigatórias e maior espaço residual para despesas discricionárias.
+A comparação em proporção do PIB permite avaliar a trajetória das despesas em relação
+ao tamanho da economia. O Gráfico 1 apresenta a evolução anual das despesas
+obrigatórias sujeitas aos limites entre 2017 e 2027.
+GRÁFICO 1. DESPESAS OBRIGATÓRIAS SUJEITAS AOS LIMITES DA LC Nº 200 (% DO PIB)
+10,0% 3,0%
+9,0%
+2,5%
+7,9%
+8,0% 1,9%
+2,0%
+7,0%
+6,0% 1,5%
+1,1%
+5,0%
+1,0%
+1,0%
+4,0%
+3,0% 0,7%
+0,5%
+3,0%
+2,0% 0,0%
+7 8 9 0 1 2 3 4 5 6 7 7 8 9 0 1 2 3 4 5 6 7
+1 1 1 2 2 2 2 2 2 2 2 1 1 1 2 2 2 2 2 2 2 2
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+.m
+ib
+º 3
+A
+O L
+P
+.m
+ib
+º 3
+A
+O L
+P
+P P
+D Bolsa Família D
+R R
+A Benefício de Prestação Continuada (BPC) A
+Benefícios previdenciários R R
+Abono e seguro-desemprego
+Pessoal e encargos sociais Demais obrigatórias
+Fonte: Siga Brasil; Avaliação de Receitas e Despesas Primárias do terceiro bimestre de 2026; Mensagem
+Presidencial e Apresentação do PLOA 2027. Elaboração: IFI. Nota metodológica: os valores de 2017 a 2025
+correspondem à execução, enquanto os valores de 2026 e 2027 se referem, respectivamente, à avaliação do
+terceiro bimestre e ao PLOA. Para os anos anteriores à vigência da LC nº 200, as despesas foram classificadas
+de acordo com o perímetro adotado nesta análise, de modo a permitir a comparação ao longo do período. As
+proporções de 2026 e 2027 utilizam os valores de PIB nominal considerados nos respectivos documentos
+oficiais
+A leitura das rubricas mostra trajetórias distintas. Os benefícios previdenciários continuam
+sendo o principal componente das despesas obrigatórias sujeitas aos limites e mantêm
+participação próxima do patamar recente. As despesas com pessoal e encargos sociais,
+com abono salarial e seguro-desemprego também permanecem relativamente estáveis em
+proporção do PIB, enquanto o Bolsa Família e “Demais obrigatórias” apresentam redução
+gradual. O BPC aumentou sua participação no PIB nos últimos anos, mas o PLOA projeta
+sua estabilização em torno de 1,0% do PIB.
+26 | Relatório de Acompanhamento Fiscal – Setembro de 2026
+
+=== página 27 ===
+O PLOA projeta queda moderada da participação das despesas obrigatórias sujeitas aos
+limites em proporção do PIB, mas não redução nominal do gasto. Entre 2026 e 2027, essas
+despesas aumentam R$ 131,4 bilhões, ou 6,0%. A mudança de 15,9% para 15,6% do PIB
+depende, em grande medida, do crescimento nominal projetado pelo Executivo. Além disso,
+a maior parte do aumento das obrigatórias está concentrado em benefícios previdenciários,
+pessoal e encargos sociais e BPC. Caso as obrigatórias sejam reestimadas para cima ou
+as medidas de contenção não produzam os efeitos esperados, o aumento terá de ser
+compensado por bloqueios nas despesas discricionárias.
+Projeções de resultado primário
+Esta seção analisa os números apresentados no PLOA referentes ao resultado primário do
+governo central em 2027. A Tabela 8 apresenta as projeções do PLDO 2027, PLOA 2027 e
+RAF nº 113.
+De acordo com a tabela, existe uma diferença, a maior, de R$ 104,8 bilhões (0,7 p.p. do PIB)
+entre as estimativas de resultado primário efetivo do PLOA 2027 (superávit de R$ 18,6
+bilhões, ou 0,1% do PIB) e do RAF nº 113 (déficit de R$ 86,1 bilhões, ou 0,6% do PIB) para
+2027. Ainda segundo a tabela, a receita primária líquida do governo central projetada no
+PLOA é R$ 127,9 bilhões superior à estimativa da IFI, enquanto a despesa primária está
+R$ 23,2 bilhões acima.
+TABELA 8. PROJEÇÕES PARA O RESULTADO PRIMÁRIO DO GOVERNO CENTRAL (PLDO
+2027, PLOA 2027 E RAF Nº 113) - 2027
+2027
+Variáveis IFI (RAF nº Dif. PLOA 2027 - IFI
+PLDO 2027 PLOA 2027
+113/jun26) (RAF nº 113)
+p.p. do
+R$ bilhões % do PIB R$ bilhões % do PIB R$ bilhões % do PIB R$ bilhões
+PIB
+1. Receita primária líquida 2.768,2 18,90 2.848,7 19,30 2.720,8 18,72 127,9 0,6
+2. Despesa primária total 2.760,2 18,85 2.830,1 19,10 2.806,9 19,31 23,2 -0,2
+3. Resultado primário efetivo [1-2] 8,0 0,05 18,6 0,10 -86,1 -0,59 104,8 0,7
+4. Governo central - deduções da meta de resultado
+65,7 0,45 64,7 0,40 87,0 0,60 -22,3 -0,2
+primário(1)
+5. Governo central - resultado primário após
+73,6 0,50 83,4 0,60 0,9 0,01 82,5 0,6
+deduções [3+4]
+6. Governo central - centro da meta de resultado
+73,2 0,50 73,2 0,50 73,2 0,50 0,0 0,0
+primário
+7. Governo central - limite inferior da meta de
+36,6 0,25 36,6 0,25 36,6 0,25 0,0 0,0
+resultado primário
+8. Diferença para o limite inferior da meta de
+37,0 0,25 46,7 0,35 -35,7 -0,24 82,5 0,6
+resultado primário [5-7]
+(1) Sentenças judiciais, conforme §§ 21 e 22 do art. 165 da Constituição Federal de 1988, LC 221/2025, LC 223/2025 e Lei nº
+15.164/2025.
+Fonte: PLDO 2027, PLOA 2027 e RAF nº 113, de junho de 2026.
+Vale uma explicação para as deduções legais de despesas da apuração da meta de
+resultado primário consideradas para 2027. O Poder Executivo incluiu R$ 64,7 bilhões,
+Relatório de Acompanhamento Fiscal – Setembro de 2026 | 27
+
+=== página 28 ===
+sendo: (i) R$ 59,2 bilhões referentes à parcela de precatórios e RPVs que excede o montante
+gradualmente incorporado na apuração da meta (§§ 21 e 22 do art. 165 da Constituição
+Federal de 1988), que corresponde a 39,4% do total da despesa de precatórios e RPV; (ii)
+R$ 5,0 bilhões de gastos voltados a projetos estratégicos de defesa nacional, nos termos
+da LC nº 221; (iii) R$ 0,6 bilhão20 em recursos para educação e saúde com recursos do
+Fundo Social, nos termos da LC nº 223 e da Lei nº 15.16421, de 2025.
+No RAF nº 113, a IFI projetou R$ 87,0 bilhões de deduções legais de despesas da apuração
+da meta de primário de 2027. A diferença, a maior, de R$ 20,1 bilhões (R$ 79,3 bilhões, da
+IFI, menos R$ 59,2 bilhões do PLOA) nos abatimentos referentes a precatórios e RPVs deve-
+se ao fato de a IFI ter previsto um abatimento maior pelo Poder Executivo a ser considerado
+no orçamento.
+Para os gastos com saúde e educação com recursos do Fundo Social, a IFI previu o
+desconto de R$ 2,8 bilhões, no RAF nº 113, referente ao exercício de 2027. A já referenciada
+LC nº 235 foi sancionada em agosto, após a publicação do RAF nº 113. Por fim, para os
+gastos na área de defesa, a IFI considerou o mesmo montante de abatimentos que o PLOA
+2027 (R$ 5,0 bilhões), na projeção para 2027.
+Do ponto de vista das estimativas do PLOA 2027, partindo de um resultado primário efetivo
+superavitário de R$ 18,6 bilhões, o acréscimo das deduções legais de R$ 64,7 bilhões eleva
+o resultado apurado para R$ 83,4 bilhões. Este valor supera o centro da meta fixada para o
+próximo ano (superávit de R$ 73,2 bilhões), com R$ 10,1 bilhões de folga.
+Por sua vez, o RAF nº 113 parte de uma projeção de déficit primário efetivo de R$ 86,1
+bilhões em 2027. A adição de R$ 87,0 bilhões em deduções resulta em um superávit
+primário apurado de R$ 0,9 bilhão. Assim, nas contas da IFI, haveria um descumprimento
+formal da meta de 2027, com o primário R$ 72,3 bilhões abaixo do centro da meta (R$ 73,2
+bilhões) e R$ 35,7 bilhões abaixo do piso do intervalo de tolerância (R$ 36,6 bilhões). Como
+discutido no RAF nº 113, à luz desses números, seria possível o cumprimento da meta de
+primário do ano que vem mediante um contingenciamento de R$ 35,7 bilhões de despesas
+discricionárias.
+Considerações finais
+A avaliação do PLOA 2027 confirma o padrão já identificado pela IFI em análises anteriores:
+o cumprimento formal da meta fiscal permanece possível no próximo ano, mas depende de
+premissas mais otimistas do que as adotadas por esta instituição e de uma margem de
+segurança bem mais estreita do que a apresentada pelo Poder Executivo. Enquanto o PLOA
+projeta superávit primário apurado de R$ 83,4 bilhões — R$ 10,1 bilhões acima do centro da
+20 A LC nº 235 antecipou R$ 3,0 bilhões dessa margem para o exercício de 2026, reduzindo proporcionalmente
+o teto utilizável em 2027 para R$ 555,2 milhões.
+21 Disponível em: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/lei/l15164.htm.
+28 | Relatório de Acompanhamento Fiscal – Setembro de 2026
+
+=== página 29 ===
+meta —, o cenário da IFI é de um superávit apurado de R$ 0,9 bilhão, insuficiente até mesmo
+para atingir o limite inferior da margem de tolerância. Nessas contas, seria necessário um
+contingenciamento adicional de R$ 35,7 bilhões em despesas discricionárias não rígidas
+para assegurar o cumprimento formal da meta em 2027.
+A origem dessa divergência de R$ 104,8 bilhões (superávit de R$ 18,6 bilhões projetados no
+PLOA 2027 e déficit de R$ 86,1 bilhões estimados pela IFI) no resultado primário efetivo
+está distribuída de forma significativa tanto pelo lado da receita, quanto da despesa. Do
+lado da receita, o PLOA parte de premissas macroeconômicas mais favoráveis —
+crescimento real de 2,5% ante 1,8% da IFI, com viés de baixa adicional sinalizado pelos
+dados mais recentes de atividade — e de parâmetros ainda provisórios para a arrecadação
+da CBS e do Imposto Seletivo, tributos sem regulamentação definitiva do Congresso
+Nacional. Do lado da despesa, o principal fator de divergência é o ceticismo da IFI quanto à
+efetividade das medidas de revisão de gastos (spending reviews) projetadas pelo Executivo
+para benefícios previdenciários e BPC, cujo desempenho em 2024 e 2025 ficou aquém do
+estimado.
+Vale destacar, ainda, um ponto estrutural que extrapola o exercício de 2027: a introdução
+do aporte ao Fundo de Compensação aos Estados pela substituição do IPI pelo Imposto
+Seletivo (R$ 33,8 bilhões) ilustra como o desenho da transição da reforma tributária pode
+gerar novas despesas primárias relevantes, não sujeitas ao limite da LC nº 200, mas
+plenamente computadas na apuração da meta de resultado primário.
+A análise do limite de despesas primárias reforça o diagnóstico de rigidez orçamentária
+crescente. Ainda que o PLOA projete redução da participação das despesas obrigatórias
+sujeitas aos limites, de 90,8% para 89,4% do espaço disponível entre 2026 e 2027, essa
+melhora depende inteiramente do crescimento nominal projetado pelo Executivo — em
+termos absolutos, as despesas obrigatórias aumentam R$ 131,4 bilhões no período. Caso
+as obrigatórias sejam reestimadas para cima ao longo do próximo exercício, ou as medidas
+de contenção não produzam o efeito esperado, o ajuste necessário recairá, mais uma vez,
+sobre o bloqueio de despesas discricionárias — repetindo o padrão observado ao longo de
+2026 e documentado nos RARDPs bimestrais deste ano.
+Por fim, cabe reafirmar que as divergências entre as estimativas do Poder Executivo e da
+IFI para 2027 não decorrem de erro técnico de qualquer das partes, mas de escolhas
+metodológicas e de premissas legítimas, ainda que com graus distintos de
+conservadorismo. A magnitude dessas divergências — equivalente a mais de uma vez e
+meia o próprio centro da meta fiscal — contudo, reforça a importância do acompanhamento
+contínuo da execução orçamentária ao longo de 2027, especialmente no primeiro ano do
+próximo mandato presidencial, quando a credibilidade das premissas hoje adotadas será
+posta à prova.
+Relatório de Acompanhamento Fiscal – Setembro de 2026 | 29
+
+=== página 30 ===
+Prêmio de risco e política fiscal no Brasil
+Rafael Curi e Alexandre Andrade
+Introdução
+A persistência das elevadas taxas de juros no Brasil é um dos temas de maior recorrência
+no debate econômico nacional. Trata-se de um debate tecnicamente complexo, que exige
+conhecimento prévio de conceitos de teoria macroeconômica, e que carrega ainda um
+elemento adicional que dificulta o entendimento público: explicações mais concorrentes do
+que complementares disputam o diagnóstico, refletindo tanto a pluralidade do assunto,
+quanto a incerteza que cerca o ambiente macroeconômico e fiscal brasileiro.
+O momento atual ilustra bem esse debate — e um paradoxo que lhe é central. Por um lado,
+a condução da política fiscal opera sob metas formais de resultado primário; por outro, a
+Dívida Bruta do Governo Geral (DBGG) alcançou 82,5% do PIB em julho de 2026, segundo o
+Banco Central. Esse movimento é determinado não apenas pelos déficits primários efetivos
+dos últimos anos, mas também pelo custo de financiamento da dívida existente.
+Em doze meses até julho, o pagamento de juros nominais e as emissões líquidas de dívida
+responderam, isoladamente, por 10,5 p.p. do PIB de aumento da DBGG — mais do que
+compensando os 5,2 p.p. de redução que o crescimento do PIB proporcionou ao indicador
+no mesmo período, segundo os dados referentes aos fatores condicionantes da dívida
+bruta, publicados pelo Banco Central22. Ou seja: mesmo quando a política fiscal cumpre
+formalmente as metas estabelecidas, o serviço da própria dívida pode superar o esforço de
+consolidação — um mecanismo autorreferente que ajuda a situar o objeto desta análise.
+O descompasso tem uma contrapartida monetária. O juro real de longo prazo, que girava
+em torno de 5% a.a., em 2018, atingiu 8,3% a.a., em setembro de 2026, evidenciando que o
+governo tem pago juros cada vez mais altos para se financiar. A Selic nominal, por sua vez,
+segue próxima de 14% a.a.
+De forma não exaustiva, é possível reconhecer algumas das principais linhas de
+pensamento que disputam esse diagnóstico. Parte da literatura concentra-se na formação
+da taxa Selic, atribuindo seu nível elevado ao crescimento do gasto público acima do
+potencial da economia, que geraria choques de demanda sistemáticos sob o regime de
+metas de inflação23.
+22 Números disponíveis em https://www.bcb.gov.br/estatisticas/estatisticasfiscais.
+23 Ver, por exemplo, Pessôa, S. (2026). "Os juros elevados brasileiros." Blog do IBRE, 26/08/2026, disponível
+em https://blogdoibre.fgv.br/posts/os-juros-elevados-brasileiros.
+30 | Relatório de Acompanhamento Fiscal – Setembro de 2026
+
+=== página 31 ===
+Uma leitura complementar associa o juro elevado à baixa poupança doméstica, insuficiente
+para financiar todo o investimento24 – constatação que dialoga com o debate sobre
+fraquezas institucionais mais amplas, como a "incerteza jurisdicional" cunhada por Arida,
+Bacha e Lara-Resende (2005): o risco de que contratos de longo prazo tenham seu valor
+alterado por decisões do Judiciário, do Legislativo ou do Executivo, que ajudaria a explicar
+por que o Brasil nunca desenvolveu um mercado de crédito privado de longo prazo – e, sem
+esse mercado, a poupança doméstica tem menos como se converter em financiamento de
+longo prazo25.
+Uma terceira linha aponta para o próprio desenho da política monetária: a meta de inflação
+brasileira é hoje mais apertada do que a de boa parte dos países emergentes pares26, e
+mecanismos como o crédito direcionado e a indexação de preços27 atenuam a transmissão
+da Selic à economia real. Em linha semelhante, um argumento mais recente destaca o papel
+da volatilidade cambial, cujo repasse assimétrico à inflação retroalimentaria o próprio ciclo
+de juros altos28.
+A presente análise busca contribuir com esse debate sem arbitrar entre essas leituras —
+testando empiricamente o peso de alguns dos fatores descritos, como o quadro fiscal, o
+cenário externo e a volatilidade cambial. Para isso, decompõe-se a taxa de juros nominal
+de longo prazo em dois componentes: a expectativa acumulada da própria trajetória da
+Selic e o prêmio de risco (ou prêmio a termo) exigido pelo mercado para carregar a dívida
+pública brasileira. Como se argumentará ao longo do texto, é o prêmio — não a expectativa
+— que concentra a maior parte da volatilidade recente da taxa longa e que se mostra mais
+sensível ao quadro fiscal, o que desloca o diagnóstico: o custo elevado de financiamento
+de longo prazo do país não decorre apenas da condução corrente da política monetária,
+mas de uma desconfiança estrutural que essa política, isoladamente, não tem instrumento
+para resolver.
+Além desta introdução, o trabalho se organiza da seguinte forma. A Seção 2 apresenta um
+breve histórico dos juros reais no Brasil, comparando-os aos de um conjunto de países
+pares e mostrando como a distância observada na taxa básica se propaga ao custo do
+crédito bancário. A Seção 3 discute a formação das taxas de juros no Brasil a partir da
+decomposição da taxa nominal de cinco anos em expectativa acumulada e prêmio de risco.
+A Seção 4 aprofunda o componente fiscal identificado nessa decomposição, examinando
+24 Hausmann (2008) chega a chamá-la de “a restrição mais relevante ao crescimento brasileiro”, e Segura-Ubiergo (2012),
+em um painel com 15 países emergentes de metas de inflação, estima que um aumento da poupança pública tem efeito
+até três vezes maior sobre o juro real do que um aumento equivalente da poupança privada — mesmo assim, o modelo
+deixa cerca de 2 pontos percentuais do juro brasileiro sem explicação, um resíduo específico do país.
+25 Essa tese foi testada empiricamente em Gonçalves, Holland e Spacov (2007), que encontraram pouco respaldo nos
+dados. Em uma discussão mais recente, reaparece o argumento sobre a insegurança jurídica, a litigiosidade e a
+complexidade tributária serem o verdadeiro "custo Brasil" por trás do juro alto (ver Vescovi (2026), disponível em
+https://www1.folha.uol.com.br/colunas/ana-paula-vescovi/2026/02/o-custo-brasil-para-alem-dos-juros.shtml).
+26 Há um debate atual importante acerca da adequação da meta de inflação no Brasil. Para detalhes, ver Carter et. al
+(2026).
+27 Ver Holland (2026) e Segura-Ubiergo (2012).
+28 Ver Klein (2026), disponível em https://www1.folha.uol.com.br/mercado/2026/09/um-terceiro-fator-para-os-juros-
+altos.shtml.
+Relatório de Acompanhamento Fiscal – Setembro de 2026 | 31
+
+=== página 32 ===
+sua evolução ao longo do tempo e sua concentração nos vértices mais longos da estrutura
+a termo. A Seção 5 discute um segundo canal de interação entre a política fiscal e os juros,
+associado à composição da dívida pública por indexador. A última seção apresenta as
+considerações finais.
+Breve histórico dos juros reais no Brasil
+A fim de motivar a análise, o Gráfico 2 compara a taxa real de juros brasileira com a de um
+conjunto de países pares. O juro real médio muda de patamar em três momentos da
+amostra29: de 2000 a 2009, ficou no patamar médio de 9,1% a.a.; de 2009 a 2022, caiu para
+2,9% a.a.; no período mais recente, de 2022 a 2025, o juro real médio retornou a um nível
+próximo ao observado nos anos 2000, com média de 8,0% a.a.
+GRÁFICO 2. TAXA REAL DE JUROS EX-POST
+12%
+Média 2000/09: 9,1%
+10%
+Média 2022/25: 8,0%
+8%
+Média 2009/22: 2,9%
+6%
+4%
+2%
+0%
+-2%
+-4%
+-6%
+0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5
+0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+Brasil Estados Unidos Média pares
+Fonte: BCB, FRED/OCDE e Macrosights. Juro real calculado pela composição de Fisher, dada por 1+𝑟 =
+(1+𝑖)/(1+𝜋), em que 𝑟 é a taxa real de juros, 𝑖 é a taxa nominal e 𝜋 é a inflação observada no período. Países
+pares: México, Nova Zelândia, Canadá, Chile, Hungria, Indonésia e Japão. Elaboração: IFI.
+A primeira observação saliente é que o Brasil opera com juro real sistematicamente acima
+da média de seus pares em todos os regimes selecionados. Esse comportamento sugere
+que a persistência dos juros brasileiros não pode ser compreendida apenas a partir de
+movimentos conjunturais, motivando a investigação dos fatores domésticos e externos que
+podem contribuir para sua formação.
+A persistência e a discrepância das altas taxas de juros no Brasil não se limitam à taxa
+básica: o crédito bancário amplifica a distância entre o Brasil e países com inflação
+comparável, como ilustrado nos painéis (a) e (b) do Gráfico 3. Entre 2015 e 2024, o juro real
+médio de empréstimo bancário foi de 31,7% a.a. no Brasil, contra 7,4% a.a. na Colômbia e
+29 Identificados pelo teste de quebra estrutural Bai e Perron (1998), que identifica endogenamente mudanças
+de regime ao longo da amostra.
+32 | Relatório de Acompanhamento Fiscal – Setembro de 2026
+
+=== página 33 ===
+2,4% a.a. no México — uma diferença que a inflação, por si só, não explica totalmente.
+Holland (2026) explorou esse traço do sistema financeiro brasileiro, atribuindo a
+dissociação estrutural entre a taxa básica e o custo do crédito a fatores como risco de
+crédito, inadimplência, custos operacionais, carga tributária, exigências regulatórias e
+margens de intermediação financeira.
+GRÁFICO 3. TAXA REAL DE JUROS E CUSTO DE CRÉDITO
+(a) Selic, empréstimos e spread bancário (b) Juro real de empréstimo
+60% 48%
+50%
+38%
+40%
+28%
+30%
+18%
+20%
+8%
+10%
+0% -2%
+1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 1 3 5 7 9 1 3 5 7 9 1 3
+1 0 2 1 0 2 1 0 2 1 0 2 1 0 2 1 0 2 1 0 2 1 0 2 1 0 2 2 0 2 2 0 2 2 0 2 2 0 2 2 0 2 2 0 2 0 0 0 0 0 0 0 0 0 0 1 0 1 0 1 0 1 0 1 0 2 0 2 0
+2 2 2 2 2 2 2 2 2 2 2 2
+Selic Recursos Livres Spread Bancário Brasil Colômbia México
+Fonte: (a) Banco Central do Brasil, SGS; (b) World Bank, World Development Indicators. Elaboração: IFI.
+Os dois exercícios acima documentam o fato estilizado de interesse: o juro real brasileiro
+permanece historicamente elevado em relação ao observado em outros países, e esse
+diferencial se manifesta também no custo do crédito às famílias e às empresas. Não
+mostram, contudo, por que isso acontece, nem quanto de cada elo dessa cadeia é atribuível
+às diversas naturezas de incerteza abordadas acima.
+Para avançar nessa direção e, em particular, avaliar a dimensão fiscal, esta análise
+decompõe a taxa nominal de cinco anos em dois componentes: a trajetória esperada das
+taxas de juros de curto prazo e o prêmio de risco exigido para o carregamento de títulos
+públicos de maior prazo. A primeira parcela está mais diretamente associada às
+expectativas sobre a condução futura da política monetária. A segunda corresponde à
+compensação exigida pelos investidores diante dos riscos envolvidos na manutenção
+dessas posições. Como será mostrado adiante, o prêmio constitui o componente mais
+volátil da taxa longa e apresenta associação significativa com a posição fiscal.
+Essa decomposição refere-se às taxas dos títulos públicos e, portanto, a apenas uma etapa
+da formação do custo final do crédito. Nos empréstimos a famílias e empresas, acrescenta-
+se o spread bancário — de 20,9 p.p. em julho, segundo o Banco Central —, que incorpora
+fatores como risco de crédito e inadimplência, custos operacionais, tributação, ambiente
+macroeconômico e margens de intermediação.
+Relatório de Acompanhamento Fiscal – Setembro de 2026 | 33
+
+=== página 34 ===
+O exercício apresentado a seguir concentra-se, portanto, em uma etapa específica dessa
+cadeia: a decomposição da taxa longa e a identificação dos fatores associados à formação
+de seu componente de prêmio de risco.
+Formação das taxas de juros no Brasil – expectativas e prêmio de risco
+Esta seção considera a questão dos juros altos no Brasil fazendo uso da decomposição da
+taxa de juros nominal de longo prazo em dois componentes: a expectativa acumulada das
+taxas de juros de curto prazo e o prêmio de risco. Para isso, adota-se como referência
+metodológica a estratégia empregada pelo Banco Central do Brasil no Boxe do Relatório de
+Política Monetária de junho de 2025, que combina a estimação da estrutura a termo dos
+juros nominais com a decomposição proposta por Adrian, Crump e Moench (2013), referida,
+a partir deste momento, como ACM30. A curva de juros é estimada a partir de títulos
+públicos (LTNs e NTN-Fs, ou, na nova nomenclatura, Tesouro Prefixado e Tesouro Prefixado
+com Juros Semestrais) por meio da interpolação de Svensson (1995)31. Esta análise
+pretende se debruçar, ainda, sobre o componente de prêmio, por algumas razões. Primeiro,
+o prêmio de risco, como será analisado adiante, é o componente mais volátil da taxa
+nominal, de modo que a maior parte das oscilações da taxa de longo prazo decorre de
+mudanças no prêmio, não na trajetória esperada da Selic.
+Segundo, é no prêmio, não na expectativa, que a compensação por risco fiscal e de
+sustentabilidade da dívida tende a se concentrar: a expectativa reflete majoritariamente a
+condução corrente da política monetária diante de inflação e atividade, enquanto o prêmio
+captura a incerteza de carregar a dívida pública por um horizonte mais longo32. Assim, neste
+exercício, cabe às expectativas representar a função de reação do mercado às informações
+correntes sobre o rumo da política monetária.
+A relação descrita acima pode ser formalizada pela seguinte expressão33:
+(𝑛) (1) (1) (1) (𝑛)
+(1+𝑛 𝑦 ) = 𝐸 [(1+𝑦 )(1+𝑦 )⋯(1+𝑦 )](1+𝑛·𝑇𝑃 ) (1)
+𝑡 𝑡 𝑡 𝑡+1 𝑡+𝑛−1 𝑡
+(𝑛)
+em que 𝑦 é a taxa de juros à vista do título longo, 𝐸 [.] é a expectativa acumulada das
+𝑡 𝑡
+taxas curtas de um período (overnight) projetada pelo mercado para os próximos n anos, e
+30 Adotada pelo próprio Banco Central do Brasil e detalhada em Araujo, Vicente e Gaglianone (2025).
+31 Ver Boxe do Relatório de Política Monetária de junho de 2025, disponível em
+https://www.bcb.gov.br/content/ri/relatorioinflacao/202506/rpm202506b7p.pdf.
+32 O Banco Central caracteriza os dois componentes de forma distinta: a expectativa estaria, de acordo com a
+nomenclatura utilizada nas atas do Comitê de Política Monetária, mais ligada à política monetária, refletindo a função de
+reação do mercado a informações sobre inflação e atividade, enquanto o prêmio estaria associado a outros tipos de
+incerteza, tanto externos como internos, à política econômica doméstica e à percepção fiscal do país. Essa distinção
+conceitual também é consistente com a literatura sobre incerteza jurisdicional (Arida, Bacha e Lara-Resende, 2005), que
+argumenta ser especificamente o risco de horizonte longo, e não o custo de captação de curto prazo, que carece de um
+mercado doméstico desenvolvido no Brasil, exigindo compensação adicional.
+33 Ver Boxe do Relatório de Política Monetária de junho de 2025, disponível em
+https://www.bcb.gov.br/content/ri/relatorioinflacao/202506/rpm202506b7p.pdf.
+34 | Relatório de Acompanhamento Fiscal – Setembro de 2026
+
+=== página 35 ===
+(𝑛)
+𝑇𝑃 é o prêmio de risco para o prazo n. Adota-se, como já mencionado, n como
+𝑡
+representando cinco anos.
+De maneira ilustrativa, pode-se considerar um agente que compra um título público de cinco
+anos. Em teoria, isso equivale a escolher entre duas estratégias: (i) reter o título até o
+vencimento, ou (ii) reaplicar o dinheiro dia após dia no curtíssimo prazo (overnight), pelos
+mesmos cinco anos. Se o agente fosse indiferente ao risco, o rendimento nas duas
+situações seria o mesmo: a taxa do título longo representaria a média acumulada das taxas
+curtas esperadas ao longo do período. Carregar o título longo, no entanto, envolve um risco
+que a rolagem overnight não tem: se a taxa de juros subir, o preço do título cai, e quanto
+mais longo o prazo, maior essa sensibilidade. Por isso, o investidor exige uma
+compensação adicional para preferir o título longo, a qual é aqui referida como prêmio de
+risco.
+O Gráfico 4 apresenta as séries para os componentes de taxa nominal de cinco anos, a
+saber: a expectativa da taxa de juros a termo de curto prazo e o respectivo prêmio de risco,
+ambos estimados pelo modelo ACM.
+GRÁFICO 4. COMPONENTES DA TAXA NOMINAL DE CINCO ANOS: EXPECTATIVA E
+PRÊMIO DE RISCO (EM P.P.)
+15
+10
+5
+0
+-5
+6 7 8 8 9 9 0 1 1 2 2 3 3 4 5 5 6 6 7 8 8 9 9 0 0 1 2 2 3 3 4 5 5 6
+0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2
+/ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+z e d lu j v e f te s r b a v o n n u j n a j o g a r a m tu o ia m z e d lu j v e f te s r b a v o n n u j n a j o g a r a m tu o ia m z e d lu j v e f te s r b a v o n n u j n a j o g a r a m
+Expectativa Prêmio de Risco
+Fonte: Tesouro Nacional e Banco Central do Brasil. Elaboração: IFI, com base no modelo de Adrian, Crump e
+Moench (2013).
+A variabilidade do prêmio de risco, medida pelo coeficiente de variação e que relaciona o
+desvio-padrão ao nível médio de cada série, é aproximadamente 9,6 vezes superior à do
+componente de expectativas.
+No período recente, o componente de risco também se encontra elevado em relação ao seu
+padrão histórico. Em agosto de 2026, a taxa nominal de cinco anos alcançou 14,40% a.a.,
+dos quais 11,16 p.p. correspondiam às expectativas de juros e 3,24 p.p. ao prêmio de risco.
+O prêmio representava, assim, 22,5% da taxa naquele mês, ante uma participação média de
+9,2% ao longo da amostra. Os dois componentes apresentam, ainda, correlação de 0,74 em
+nível, indicando que períodos caracterizados por expectativas de juros mais elevadas
+Relatório de Acompanhamento Fiscal – Setembro de 2026 | 35
+
+=== página 36 ===
+tendem também a coincidir com níveis mais altos do prêmio. Esse comovimento, contudo,
+parece estar associado sobretudo a regimes macroeconômicos comuns, uma vez que a
+correlação entre suas variações mensais é consideravelmente menor, de 0,39. A
+decomposição formal é, portanto, particularmente importante para distinguir movimentos
+na trajetória esperada da política monetária daqueles associados à compensação exigida
+pelo risco.
+A equação (1) descrita acima corresponde, portanto, a uma identidade que decorre
+diretamente do modelo ACM, que permite calcular, para cada mês e para o vértice de cinco
+anos, quanto da taxa nominal observada corresponde à expectativa acumulada da Selic e
+quanto corresponde ao prêmio de risco.
+O objetivo é avaliar em que medida condições domésticas, fiscais e externas contribuem
+para explicar seus movimentos, distinguindo a parcela relacionada a fundamentos internos
+daquela associada ao ambiente financeiro internacional. Para isso, estima-se um modelo
+de regressão linear por Mínimos Quadrados Ordinários, no qual o prêmio de risco de cinco
+anos constitui a variável dependente e os potenciais determinantes são incluídos como
+regressores34.
+𝑃𝑟ê𝑚𝑖𝑜 = 𝛽 + 𝛽 ·𝐹𝑜𝑐𝑢𝑠 + 𝛽 ·𝑇𝐿𝑃 + 𝛽 ·𝑆𝑒𝑙𝑖𝑐 + 𝛽 ·𝑇𝐼𝑃𝑆5 + 𝛽 ·
+𝑡 0 1 𝑡−1 2 𝑡−1 3 𝑡−1 4 𝑡−1 5
+(𝑈𝑆𝑃𝑅𝐸10−𝑈𝑆𝑃𝑅𝐸2) + 𝛽 ·𝐷𝐵𝐺𝐺 + 𝛽 ·𝑉𝑜𝑙𝐶𝑎𝑚𝑏𝑖𝑎𝑙 + 𝜀_𝑡 (2)
+𝑡−1 6 𝑡−1 7 𝑡−1
+em que 𝑃𝑟ê𝑚𝑖𝑜 representa o prêmio de risco, seguindo notação do modelo proposto pelo
+𝑡
+Banco Central do Brasil. As variáveis explicativas estão descritas na Tabela 9:
+TABELA 9. VARIÁVEIS DO MODELO ACM
+Variável Definição Unidade / defasagem
+Prêmio Prêmio de risco da taxa nominal de 5 anos (modelo ACM) % a.a., nível, sem defasagem
+Focus Expectativa de mercado para o IPCA 12 meses à frente % a.a., defasado 1 mês
+TLP Taxa de Longo Prazo (custo de captação do BNDES) % a.a., defasado 1 mês
+Selic Meta Selic efetiva (mensal, anualizada) % a.a., defasado 1 mês
+TIPS_5 Rendimento real do Treasury americano de 5 anos % a.a., defasado 1 mês
+USPRE10 - USPRE2 Inclinação da curva de juros americana (10a - 2a) p.p., defasado 1 mês
+DBGG Dívida bruta do governo geral (% do PIB), em nível % do PIB, defasado 1 mês
+Volatilidade realizada do câmbio (desvio-padrão móvel de
+VolCambial % a.a., defasado 1 mês
+21 dias úteis dos retornos diários da PTAX, anualizada)
+Fonte: Elaboração IFI.
+34 Como se trata de uma série mensal, sujeita tanto à heterocedasticidade quanto à correlação serial dos
+resíduos, a inferência estatística é realizada com erros-padrão robustos HAC, calculados pelo estimador de
+Newey e West. Esse procedimento não altera os coeficientes estimados por MQO, mas torna os testes de
+significância mais robustos à presença dessas características nos erros.
+36 | Relatório de Acompanhamento Fiscal – Setembro de 2026
+
+=== página 37 ===
+A Tabela 10 apresenta os resultados da regressão descrita na equação (2) para o período
+de janeiro de 2007 a agosto de 2026.
+TABELA 10. RESULTADOS DA REGRESSÃO
+USPRE10 - Volatilidade
+Focus TLP Selic TIPS_5 DBGG
+USPRE2 Cambial
+0,45** 0,09** 0,08* 0,73*** 0,96*** 0,03** 0,02***
+(2,40) (2,14) (1,81) (6,03) (9,12) (1,97) (2,99)
+Nota: N = 235 observações mensais e R² ajustado = 0,70. Os valores entre parêntesis correspondem às
+estatísticas t. ***, ** e * indicam significância estatística aos níveis de 1%, 5% e 10%, respectivamente.
+Fonte: Elaboração IFI.
+Entre os fatores domésticos, a expectativa de inflação (Focus) eleva o prêmio porque
+inflação esperada mais alta está comumente atrelada a mais incerteza, o que corrói o
+retorno real de um título prefixado e sinaliza um regime de metas menos ancorado no
+horizonte de interesse. A TLP, atrelada à NTN-B, é um sinal paralelo do mesmo custo de
+capital de longo prazo. A Selic, por sua vez, tende a estar elevada em períodos de maior
+estresse macroeconômico, o que por si só eleva a compensação exigida para carregar
+qualquer ativo de longo prazo.
+Do lado fiscal, a DBGG pode elevar o prêmio de risco na curva a termo ao deteriorar a
+percepção sobre a sustentabilidade da dívida. Pela dinâmica usual35, níveis mais elevados
+de endividamento requerem superávits primários futuros maiores para estabilizar a razão
+dívida/PIB, ampliando o risco de que o ajuste fiscal necessário não se materialize e,
+consequentemente, também a compensação exigida pelos investidores. Esse mecanismo
+é distinto do efeito de curto prazo da política fiscal sobre a demanda agregada, que, no
+arcabouço adotado, é capturado predominantemente pela trajetória esperada da Selic. A
+hipótese investigada aqui concentra-se, portanto, no canal de sustentabilidade fiscal, que
+afeta o prêmio associado ao carregamento de títulos de prazo mais longo.
+Do lado externo, a taxa real americana de cinco anos (TIPS_5) representa uma referência
+de retorno real de baixo risco para o investidor global. Sua elevação aumenta o custo de
+oportunidade da alocação em economias emergentes e tende, portanto, a elevar a
+remuneração requerida para a exposição ao risco brasileiro. A inclinação da curva
+americana (USPRE10 - USPRE2), por sua vez, sintetiza mudanças nas condições
+monetárias e financeiras esperadas nos Estados Unidos e na percepção relativa dos
+diferentes prazos, podendo transmitir-se à curva doméstica por meio da integração dos
+mercados globais de renda fixa.
+35 Trata-se da relação usual de dinâmica da dívida pública, 𝑑 =𝑑 (1+𝑟)/(1+𝑔)−𝑠 , segundo a qual a
+𝑡+1 𝑡 𝑡
+evolução da razão dívida/PIB (𝑑 ) depende do estoque inicial de dívida (𝑑 ), do diferencial entre a taxa real
+𝑡+1 𝑡
+de juros e o crescimento real da economia ((1+𝑟)/(1+𝑔)) e do resultado primário (𝑠 ). Quanto maior o
+𝑡
+diferencial 𝑟−𝑔, maior o superávit primário necessário para estabilizar a dívida. Para maior aprofundamento,
+ver Blanchard, O. et al. (1990).
+Relatório de Acompanhamento Fiscal – Setembro de 2026 | 37
+
+=== página 38 ===
+Finalmente, movimentos do câmbio constituem um canal adicional de risco: a depreciação
+do real pode elevar a incerteza inflacionária e, por meio do pass-through36 para os preços,
+reduzir o retorno real esperado dos títulos prefixados, aumentando a compensação exigida
+pelos investidores. Esses mecanismos reforçam a interpretação de que o prêmio brasileiro
+responde também às condições financeiras internacionais.
+A Tabela 11 reporta dois exercícios complementares de magnitude para a especificação da
+regressão.
+TABELA 11. SENSIBILIDADE E CONTRIBUIÇÃO DAS VARIÁVEIS AO PRÊMIO DE RISCO
+Variável ΔPrêmio (p.p.) Contribuição ao nível médio do prêmio (p.p)
+USPRE10 - USPRE2 0,90 0,98
+TIPS_5 0,85 0,28
+Focus 0,42 2,16
+DBGG 0,35 2,16
+TLP 0,28 0,72
+Selic 0,27 0,81
+Volatilidade Cambial 0,15 0,28
+Fonte: Elaboração IFI.
+A primeira coluna padroniza cada coeficiente pelo desvio-padrão da respectiva variável na
+amostra, permitindo comparar a resposta do prêmio a choques de magnitude típica em
+cada regressor. Por esse critério, os fatores externos apresentam os maiores efeitos
+marginais: um choque de 1 desvio-padrão na inclinação da curva americana (USPRE10 -
+USPRE2) desloca o prêmio em 0,9 p.p., enquanto um choque equivalente na taxa real
+americana de cinco anos (TIPS_5) produz variação de 0,85 p.p. Entre os fatores domésticos,
+contudo, a DBGG se destaca: um choque de 1 desvio-padrão na dívida bruta está associado
+a uma variação de 0,35 p.p. no prêmio, magnitude superior às estimadas para a TLP, a Selic
+e a volatilidade cambial.
+A segunda coluna oferece uma leitura complementar ao multiplicar cada coeficiente pelo
+nível médio da respectiva variável na amostra, permitindo mensurar a contribuição de cada
+fator para o nível médio estimado do prêmio. Sob esse critério, a DBGG passa a figurar entre
+os componentes de maior magnitude, com contribuição estimada de 2,16 p.p. Trata-se de
+um resultado relevante para a variável fiscal: embora o coeficiente marginal seja
+relativamente pequeno, incide sobre um nível médio elevado e persistente, equivalente a
+66,65% do PIB na amostra. Assim, mesmo uma sensibilidade marginal moderada se traduz
+em contribuição expressiva para o nível do prêmio.
+A TIPS_5 apresenta configuração distinta. Seu coeficiente e sua variabilidade amostral
+fazem com que movimentos típicos da taxa real americana produzam efeitos relevantes
+36 Trata-se do repasse de uma variação da taxa de câmbio para os preços domésticos.
+38 | Relatório de Acompanhamento Fiscal – Setembro de 2026
+
+=== página 39 ===
+sobre as oscilações do prêmio, mas seu nível médio relativamente baixo limita sua
+contribuição para o patamar médio estimado.
+O Gráfico 5 estende a decomposição para cada período da amostra em cinco categorias:
+inflação (Focus), fiscal (DBGG), juros (Selic + TLP), setor externo (TIPS 5 anos + inclinação
+da curva de juros dos EUA) e volatilidade cambial, evidenciando a contribuição relativa de
+cada fator para o nível médio estimado do prêmio.
+GRÁFICO 5. DECOMPOSIÇÃO DO PRÊMIO DE RISCO (EM %)
+12%
+10%
+8%
+6%
+4%
+2%
+0%
+7 7 8 8 9 9 0 1 1 2 2 3 4 4 5 5 6 6 7 8 8 9 9 0 1 1 2 2 3 3 4 5 5 6
+0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2
+/ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+n a j o g a r a m tu o ia m z e d lu j v e f te s r b a v o n n u j n a j o g a r a m tu o ia m z e d lu j v e f te s r b a v o n n u j n a j o g a r a m tu o ia m z e d lu j v e f te s r b a
+Inflação Fiscal Juros Externo Vol. Cambial
+Elaboração: IFI, com base na decomposição do prêmio de risco (Equação 1) e nos coeficientes da regressão.
+Há, na composição estimada do prêmio, diferenças importantes tanto em termos de
+persistência, associada à sustentação de seu patamar, como nos casos da inflação e da
+posição fiscal, quanto de variabilidade, mais relacionada às oscilações do prêmio ao longo
+do tempo, como ocorre com os fatores externos e cambiais.
+A começar pelos fatores externos, a importância aumenta de forma particularmente visível
+em momentos de maior tensão nos mercados internacionais. A crise financeira global de
+2008 constitui o caso mais evidente, quando o prêmio estimado atingiu um pico de
+aproximadamente 12%. Uma segunda elevação ocorre entre 2013 e 2016, período marcado
+pela reversão dos estímulos monetários nos Estados Unidos, episódio conhecido como
+taper tantrum37, somado ao agravamento da situação fiscal no plano doméstico. Os
+componentes externo e cambial recuam durante a pandemia, com os juros americanos
+reduzidos a níveis próximos de zero, e voltam a ganhar importância a partir de 2022,
+acompanhando o ciclo de aperto monetário conduzido pelo Federal Reserve.
+No âmbito doméstico, os componentes associados à inflação, aos juros e à posição fiscal
+apresentam dinâmicas distintas ao longo da amostra. No componente de inflação,
+observam-se, como esperado, elevações mais pronunciadas em episódios de maior
+37 Para maior aprofundamento, ver https://www.federalreserve.gov/econres/notes/feds-notes/u-s-interest-
+rates-and-emerging-market-currencies-taking-stock-10-years-after-the-taper-tantrum-20231004.html.
+Relatório de Acompanhamento Fiscal – Setembro de 2026 | 39
+
+=== página 40 ===
+instabilidade inflacionária, particularmente entre 2015 e 2016 e após a pandemia, em 2021
+e 2022, sem que se identifique, contudo, uma tendência persistente de elevação ao longo
+de toda a amostra.
+O componente de juros, que agrega Selic e TLP, acompanha de maneira mais próxima os
+ciclos da política monetária doméstica e, por este motivo, são mais sensíveis às mudanças
+de curto e médio prazo. Sua contribuição se amplia nos períodos de maior restrição
+monetária, como em 2015 e 2016 e, novamente, no ciclo iniciado a partir de 2021 e 2022.
+Em sentido oposto, a faixa se estreita nos períodos de afrouxamento monetário, como em
+2012 e 2013 e, de maneira especialmente evidente, em 2020, quando a Selic atingiu sua
+mínima histórica.
+O componente fiscal, representado pela DBGG, apresenta uma trajetória distinta e
+particularmente relevante para os objetivos deste estudo. No início da amostra, a
+contribuição é relativamente reduzida diante do peso dos fatores externos. A partir de
+meados da década de 2010, contudo, sua participação se amplia e permanece em patamar
+elevado por períodos prolongados. Diferentemente dos componentes mais associados à
+conjuntura internacional, a contribuição fiscal não recua de forma pronunciada nos
+momentos de redução das pressões externas, mantendo-se relevante ao longo de boa parte
+da segunda metade da amostra.
+A próxima seção aprofunda a análise do componente fiscal identificado na decomposição,
+com o objetivo de avaliar em que medida a percepção sobre a situação fiscal do país se
+reflete na formação do prêmio de risco incorporado às taxas de juros brasileiras.
+O componente fiscal do prêmio de risco
+A significância estatística da DBGG na regressão especificada pela equação (2) estabelece
+que a variável fiscal contribui para a formação do prêmio de risco ao longo de toda a
+amostra. A caracterização dessa relação requer, contudo, uma análise adicional de sua
+dimensão temporal, de sua distribuição ao longo da estrutura do prêmio de risco e do grau
+de especificidade ao caso brasileiro.
+Em particular, pretende-se avaliar, portanto, se a contribuição da posição fiscal para o nível
+estimado do prêmio permanece estável ou se intensifica ao longo do tempo, em quais
+maturidades essa relação é mais pronunciada e em que medida reflete um mecanismo
+particular do Brasil ou um padrão comum aos mercados emergentes. Esta seção examina
+as dimensões por meio de dois exercícios complementares: (i) avaliar, de acordo com a
+decomposição apresentada na seção anterior, a trajetória temporal da DBGG; e (ii) avaliar
+se o efeito se concentra no curto ou no longo prazo do prêmio de risco.
+40 | Relatório de Acompanhamento Fiscal – Setembro de 2026
+
+=== página 41 ===
+Evolução do componente fiscal no prêmio de juros
+Com o objetivo de explorar a contribuição da posição fiscal para o nível estimado do prêmio,
+o primeiro exercício isola, ao longo do tempo, o componente fiscal da decomposição
+apresentada na Seção 2, isto é, multiplica o coeficiente do DBGG estimado na amostra
+completa pelo nível observado da dívida bruta em cada mês. O Gráfico 6 ilustra a trajetória
+encontrada:
+GRÁFICO 6. EVOLUÇÃO DO COMPONENTE FISCAL NO PRÊMIO DE JUROS (EM P.P.)
+4
+3
+2
+1
+0
+7 7 8 8 9 9 0 1 1 2 2 3 4 4 5 5 6 6 7 8 8 9 9 0 1 1 2 2 3 3 4 5 5 6
+0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2
+/ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+n
+a j
+o
+g a
+ra
+m
+tu
+o
+ia
+m
+z
+e d
+lu
+j
+v
+e f
+te
+s
+rb
+a
+v
+o n
+n
+u j
+n
+a j
+o
+g a
+ra
+m
+tu
+o
+ia
+m
+z
+e d
+lu
+j
+v
+e f
+te
+s
+rb
+a
+v
+o n
+n
+u j
+n
+a j
+o
+g a
+ra
+m
+tu
+o
+ia
+m
+z
+e d
+lu
+j
+v
+e f
+te
+s
+rb
+a
+Elaboração: IFI.
+A trajetória do componente fiscal apresenta quatro movimentos principais. No período pré-
+crise, entre 2011 e 2013, a contribuição estimada permanece relativamente estável, em
+torno de 2,10 p.p. A partir de 2014, observa-se elevação gradual, acompanhando o aumento
+da DBGG, com contribuição média de 2,41 p.p., entre 2014 e 2016. O movimento se
+intensifica durante a pandemia, quando o componente atinge pico de 3,48 p.p., em 2020-
+2021, refletindo o forte aumento da dívida bruta no período, associado à expansão fiscal
+emergencial e à queda do PIB, que também elevou a razão dívida/PIB.
+Entre 2022 e 2024, a contribuição recua parcialmente, acompanhando a redução da DBGG,
+mas permanece acima dos níveis observados no início da amostra. Na parte final do
+período, volta a crescer, alcançando média de 3,16 p.p., nos últimos doze meses até agosto
+de 2026, superior à registrada durante a crise de 2014 a 2016.
+Concentração do efeito fiscal nos vértices longos da curva
+Até este ponto, a análise concentrou-se no prêmio de risco de cinco anos, utilizado como
+referência nas regressões e nos exercícios de decomposição apresentados nas seções
+anteriores. Uma vantagem da metodologia ACM, contudo, é permitir a estimação do prêmio
+de risco em diferentes vértices da estrutura a termo. Isso possibilita investigar se a
+associação entre a posição fiscal e o prêmio identificada no horizonte de cinco anos é
+Relatório de Acompanhamento Fiscal – Setembro de 2026 | 41
+
+=== página 42 ===
+específica dessa maturidade ou se apresenta um padrão sistemático ao longo da curva de
+juros.
+Nos vértices mais curtos, a formação da taxa tende a refletir com maior intensidade a
+trajetória esperada da política monetária e as condições conjunturais. À medida que a
+maturidade se alonga, tende a ganhar importância a incerteza associada à evolução futura
+da dívida pública, à capacidade de geração de resultados primários e às condições de
+refinanciamento do setor público. Assim, caso o risco fiscal tenha natureza
+predominantemente persistente, espera-se que sua associação com o prêmio seja mais
+pronunciada nos vencimentos mais longos. Esse padrão seria compatível com a
+interpretação de que a posição fiscal afeta sobretudo a compensação exigida pelos
+investidores para assumir riscos relacionados à trajetória fiscal de médio e longo prazo, e
+não apenas às condições correntes de política econômica.
+Para avaliar essa hipótese, o segundo exercício reestima a equação 2 em janelas móveis
+de 60 meses, separadamente, para os prêmios de 1, 2, 5 e 10 anos, e resume a distribuição
+da sensibilidade do prêmio à DBGG obtida ao longo de 169 janelas em cada vértice. O
+Gráfico 7 apresenta os resultados.
+GRÁFICO 7. SENSIBILIDADE DO PRÊMIO DE RISCO AO FISCAL, POR VÉRTICE DE PRAZO
+(EM P.P; 1, 2, 5 E 10 ANOS)
+0,4
+0,3
+0,2
+0,1
+0
+-0,1
+-0,2
+1 ano 2 anos 5 anos 10 anos
+Fonte: Elaboração IFI, com base na equação 2, reestimada em janelas móveis de 60 meses para os vértices de
+1, 2, 5 e 10 anos do prêmio de risco (169 estimativas por vértice, janelas fechadas entre janeiro de 2012 e agosto
+de 2026). Caixas delimitadas pelo 1º e 3º quartis, linha central na mediana, "×" indicando a média; hastes até 1,5
+vez o intervalo interquartil; pontos além das hastes são valores atípicos.
+Cada caixa resume, para um vértice específico da estrutura a termo do prêmio de risco, a
+distribuição dos coeficientes estimados para a DBGG ao longo das 169 janelas móveis de
+cinco anos. Quanto mais elevada a mediana da distribuição, maior a sensibilidade típica do
+prêmio, naquele prazo, à posição fiscal. A altura da caixa, correspondente ao intervalo entre
+o primeiro e o terceiro quartis, indica a dispersão dos 50% centrais das estimativas ao longo
+42 | Relatório de Acompanhamento Fiscal – Setembro de 2026
+
+=== página 43 ===
+do tempo, enquanto as hastes e os pontos externos refletem a amplitude adicional e a
+presença de valores atípicos.
+A distribuição dos coeficientes sugere aumento da sensibilidade do prêmio ao componente
+fiscal à medida que se avança na estrutura a termo. A mediana passa de 0,007, no vértice
+de um ano, para 0,054, em dois anos, e 0,112, em cinco anos, permanecendo em nível
+semelhante no vértice de 10 anos.
+A dispersão também cresce com o prazo. O intervalo interquartil aumenta de 0,063, no
+vértice de um ano, para 0,098, em 10 anos, enquanto os valores mais elevados observados
+nas janelas móveis se concentram nos vértices de 5 e 10 anos. Nas janelas mais recentes
+da amostra, correspondentes a 2025 e 2026, os coeficientes alcançam aproximadamente
+0,329 e 0,337 nesses dois vértices, respectivamente.
+O resultado indica que a influência da variável fiscal não é uniforme ao longo da curva de
+juros. A sensibilidade é relativamente reduzida nos vencimentos mais curtos e se torna
+mais pronunciada nos vértices de maior prazo. Essa configuração é compatível com a
+natureza do risco fiscal, cuja transmissão tende a ocorrer sobretudo por meio das
+expectativas sobre solvência, trajetória futura da dívida e necessidade de compensação
+adicional para a manutenção de posições em títulos de maior duração.
+O padrão também é consistente com os resultados da Seção 3, nos quais o componente
+fiscal se mostrou relevante para a formação do prêmio. A evidência por vértice acrescenta
+uma dimensão importante a esse resultado ao mostrar que a relação se concentra,
+principalmente, nos prazos mais longos.
+A composição da dívida pública
+Os exercícios anteriores mostraram que a posição fiscal está associada à formação do
+prêmio de risco, com efeito mais pronunciado nos horizontes mais longos. Há, contudo, um
+segundo canal relevante na interação entre política fiscal e juros: a composição do próprio
+estoque da dívida pública. Quanto maior a participação de títulos remunerados diretamente
+pela Selic, maior a sensibilidade do custo da dívida às decisões de política monetária,
+fazendo com que elevações da taxa básica sejam transmitidas de forma mais rápida à
+despesa de juros e, consequentemente, à dinâmica da dívida. O Gráfico 8 apresenta essa
+mudança de composição nos últimos anos.
+Relatório de Acompanhamento Fiscal – Setembro de 2026 | 43
+
+=== página 44 ===
+GRÁFICO 8. COMPOSIÇÃO DA DÍVIDA PÚBLICA FEDERAL POR INDEXADOR
+100%
+90%
+80%
+70%
+60%
+50%
+40%
+30%
+20%
+10%
+0%
+7 8 8 8 9 9 9 0 0 0 1 1 1 2 2 2 3 3 3 4 4 4 5 5 5 6 6
+1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+/ / / / / / / / / / / / / / / / / / / / / / / / / / /
+te
+s
+n
+a j
+ia
+m
+te
+s
+n
+a j
+ia
+m
+te
+s
+n
+a j
+ia
+m
+te
+s
+n
+a j
+ia
+m
+te
+s
+n
+a j
+ia
+m
+te
+s
+n
+a j
+ia
+m
+te
+s
+n
+a j
+ia
+m
+te
+s
+n
+a j
+ia
+m
+te
+s
+n
+a j
+ia
+m
+Câmbio Índices de Preços Outros Indexadores Prefixada Selic
+Fonte: Secretaria do Tesouro Nacional (STN). Elaboração: IFI.
+Esse mecanismo ganha importância no período recente, em que a composição da Dívida
+Pública Federal passou a apresentar participação crescente dos títulos indexados à Selic.
+A parcela associada a esse indexador aumentou de 35,7%, em dezembro de 2023, para
+41,1%, em dezembro de 2024, 44,0%, em dezembro de 2025 e 46,4% em julho de 2026, o
+salto mais acentuado em um único mês de toda a série recente (+1,5 p.p. entre junho e
+julho). Em contrapartida, a participação dos títulos prefixados recuou, de 30,5% para 23,5%,
+no mesmo intervalo, enquanto a parcela indexada a índices de preços passou de 30,6% para
+27,2%.
+A mudança de composição amplia a exposição do custo da dívida às variações da taxa
+básica. Como os títulos indexados à Selic incorporam de forma mais direta e imediata as
+decisões de política monetária, o aumento de sua participação faz com que ciclos de aperto
+monetário se transmitam com maior intensidade ao custo de carregamento da dívida
+pública.
+Ainda, os resultados reforçam um mecanismo já conhecido38 de retroalimentação entre
+juros e posição fiscal. Taxas de juros mais elevadas aumentam a despesa de juros e
+contribuem para a expansão da própria dívida. O aumento recente da participação de títulos
+indexados à Selic potencializa esse segundo canal, ao tornar uma parcela maior do estoque
+diretamente sensível às alterações da taxa básica. Assim, dívida e juros podem atuar de
+forma mutuamente reforçadora, embora os exercícios apresentados não permitam,
+isoladamente, estabelecer a causalidade dinâmica entre esses canais.
+38 Ver, por exemplo, Blanchard (2004).
+44 | Relatório de Acompanhamento Fiscal – Setembro de 2026
+
+=== página 45 ===
+Considerações finais
+A decomposição da taxa nominal de cinco anos indica que a persistência dos juros
+elevados no Brasil não pode ser atribuída apenas à condução corrente da política
+monetária. Embora a expectativa acumulada da Selic explique parcela relevante do nível da
+taxa longa, o prêmio de risco concentra a maior parte de sua volatilidade e apresenta
+associação estatisticamente significativa com a posição fiscal. Essa relação se torna mais
+pronunciada nos vértices de 5 e 10 anos, sugerindo que o componente fiscal atua sobretudo
+sobre a compensação exigida para a manutenção de posições de maior prazo.
+A evolução estimada desse componente reforça essa interpretação. A contribuição da
+DBGG para o nível do prêmio alcançou cerca de 3,16 p.p. nos doze meses até agosto de
+2026, acima da média observada durante a crise fiscal de 2014 a 2016, de 2,41 p.p., e
+próxima ao pico registrado no período da pandemia, de 3,48 p.p. O resultado é compatível
+com um canal associado à percepção de sustentabilidade da dívida: quanto maior o
+horizonte do título, maior a relevância atribuída à trajetória futura do endividamento, à
+capacidade de geração de resultados primários e às condições de refinanciamento do setor
+público.
+A esse mecanismo soma-se a mudança recente na composição da dívida. A participação
+dos títulos indexados à Selic aumentou de 35,7% para 46,4% do estoque, entre dezembro
+de 2023 e julho de 2026, elevando a sensibilidade do custo da dívida às decisões de política
+monetária. Com isso, ciclos de aperto monetário tendem a se transmitir mais rapidamente
+à despesa de juros e, por essa via, à própria dinâmica do endividamento. Os exercícios desta
+nota não permitem identificar isoladamente a direção ou a magnitude causal dessa
+interação, mas apontam para uma relação mais estreita entre condições monetárias,
+composição da dívida e prêmio fiscal.
+Fatores inflacionários, externos, cambiais e institucionais permanecem relevantes para o
+custo de financiamento de longo prazo do país, mas os resultados indicam que a posição
+fiscal constitui componente estatisticamente significativo e economicamente expressivo
+do prêmio de risco. Assim, a redução sustentada do custo de financiamento da economia
+brasileira requer que a dimensão fiscal seja incorporada de forma explícita ao debate sobre
+juros elevados.
+Referências Bibliográficas
+ADRIAN, Tobias; CRUMP, Richard K.; MOENCH, Emanuel. Pricing the term structure with
+linear regressions. Journal of Financial Economics, v. 110, n. 1, p. 110-138, 2013.
+ARAUJO, Gustavo Silva; VICENTE, José Valentim Machado; GAGLIANONE, Wagner Piazza.
+Determinants of the risk premium in Brazilian nominal interest rates. Brasília, DF: Banco
+Central do Brasil, 2025.
+Relatório de Acompanhamento Fiscal – Setembro de 2026 | 45
+
+=== página 46 ===
+ARIDA, Pérsio; BACHA, Edmar Lisboa; LARA-RESENDE, André. Credit, interest, and
+jurisdictional uncertainty: conjectures on the case of Brazil. In: GIAVAZZI, Francesco;
+GOLDFAJN, Ilan; HERRERA, Santiago (org.). Inflation targeting, debt, and the Brazilian
+experience, 1999 to 2003. Cambridge, MA: MIT Press, 2005.
+BAI, Jushan; PERRON, Pierre. Estimating and testing linear models with multiple structural
+changes. Econometrica, v. 66, n. 1, p. 47-78, 1998.
+BANCO CENTRAL DO BRASIL. Determinantes do prêmio de risco nas taxas nominais
+brasileiras. In: BANCO CENTRAL DO BRASIL. Relatório de Política Monetária. Brasília, DF:
+Banco Central do Brasil, jun. 2025. p. 69-74.
+BLANCHARD, Olivier. Fiscal dominance and inflation targeting: lessons from Brazil.
+Cambridge, MA: National Bureau of Economic Research, 2004. (NBER Working Paper, n.
+10389).
+BLANCHARD, Olivier; CHOURAQUI, Jean-Claude; HAGEMANN, Robert P.; SARTOR, Nicola.
+The sustainability of fiscal policy: new answers to an old question. OECD Economic Studies,
+n. 15, 1990.
+CARTER, Thomas J.; KAMBER, Güneş; OTTEN, Julia. How to design and review inflation
+targets in emerging market and developing economies. Washington, DC: International
+Monetary Fund, 2026. (n. 2026/004).
+GONÇALVES, Fernando M.; HOLLAND, Márcio; SPACOV, Andrei D. Can jurisdictional
+uncertainty and capital controls explain the high level of real interest rates in Brazil?
+Evidence from panel data. Revista Brasileira de Economia, v. 61, n. 1, p. 49-76, 2007.
+HAUSMANN, Ricardo. In search of the chains that hold Brazil back. Cambridge, MA: Harvard
+Center for International Development, 2008. (Working Paper, n. 180).
+HOLLAND, Márcio. Taxa de juros no Brasil: caminhos para o Brasil conviver com taxas de juros
+civilizadas. [S. l.]: Alta Cult, 2026.
+KLEIN, G. Um terceiro fator para os juros altos. Folha de S.Paulo, 4 set. 2026.
+PESSÔA, Samuel. Os juros elevados brasileiros. Blog do IBRE, 26 ago. 2026.
+SEGURA-UBIERGO, Alex. The puzzle of Brazil's high interest rates. Washington, DC:
+International Monetary Fund, 2012. (IMF Working Paper, WP/12/62).
+VESCOVI, Ana Paula. O custo Brasil, para além dos juros. Folha de S.Paulo, 21 fev. 2026.
+46 | Relatório de Acompanhamento Fiscal – Setembro de 2026
+
+=== página 47 ===
+Despesas com Precatórios no Orçamento Federal
+Dalmo Palmeira, Gustavo Queiroz e Tallita Andrade
+Introdução
+Nos últimos anos, as despesas de Precatórios e de Requisições de Pequeno Valor – RPV
+passaram a ocupar um espaço importante nas despesas públicas federais. Elas se
+tornaram uma variável muito relevante para a discussão do equilíbrio fiscal do governo
+federal.
+Não por acaso, esse tema propiciou a edição de três emendas constitucionais e três Ações
+Diretas de Inconstitucionalidade – ADIs, nos últimos cinco anos. As emendas
+constitucionais foram tentativas de equacionar a inserção dos valores dessas despesas no
+espaço fiscal do orçamento federal: (i) Emenda Constitucional nº 113; (ii) Emenda
+Constitucional nº 114; e (iii) Emenda Constitucional nº 136. No entanto, tendo em vista a
+complexidade de suas regras, essas emendas tiveram sua constitucionalidade
+parcialmente questionadas por meio das ADIs 7047, 7064 e 7873, junto ao Supremo
+Tribunal Federal – STF, sendo as duas primeiras ADIs relativas às ECs 113 e 114, e a ADI
+7873, relativa a EC 136/2025.
+Vale dizer que o tema é muito relevante também na discussão das finanças públicas dos
+entes subnacionais. Na verdade, o volume de precatórios dos entes subnacionais –
+demonstrado pelo Mapa Anual de Precatórios, mantido pelo Conselho Nacional de Justiça
+– CNJ – era, em 31 de dezembro de 2025, quase quatro vezes maior que o volume de
+precatórios federais. Apenas essa informação já indica a importância que a temática
+representa também para os estados e municípios. Desse modo, o debate desse tema
+deverá se tornar crucial para a análise das finanças, tanto federal, quanto dos entes
+subnacionais, em especial, em relação àqueles que têm um estoque de precatórios mais
+elevado.
+Esta análise vai se concentrar apenas no impacto das despesas de precatórios no
+orçamento federal, mostrando evolução e perspectiva de crescimento, com os
+consequentes impactos fiscais sobre o orçamento federal.
+O que são Precatórios e RPVs?
+De acordo com o art. 100 da Constituição Federal, denominam-se precatórios as
+requisições judiciais de pagamentos devidas pelas Fazendas Públicas Federal, Estaduais,
+Distrital e Municipais, em virtude de sentença judicial. Isso significa que os precatórios
+sempre vão representar os valores que algum ente público deve pagar a alguém em função
+de ter perdido a causa em uma ação judicial, em que esse ente era réu.
+Relatório de Acompanhamento Fiscal – Setembro de 2026 | 47
+
+=== página 48 ===
+O montante de precatórios a ser pago no orçamento federal de 2027 é de R$ 97,7 bilhões,
+conforme projeções constantes do PLOA 2027.
+No conjunto de precatórios, têm tratamento diferenciado, em relação à prioridade de
+pagamento, as ações judiciais que sejam relativas a débitos de natureza alimentícia
+(remuneração ou benefícios previdenciários) e os RPV – Requisições de Pequeno Valor,
+ações cujo valor, no caso da União, não ultrapasse 60 salários mínimos. De acordo com o
+Art. 100 da Constituição Federal, esses valores devem ser pagos em até 60 dias da data da
+decisão judicial. Adicionalmente a essa regra de precedência, os precatórios de natureza
+alimentícia de titularidade de pessoas com 60 anos ou mais, pessoas com deficiência ou
+portadoras de doenças graves, de qualquer idade, também têm precedência no pagamento.
+A Tabela 12 a seguir apresenta as diferentes classificações de ações judiciais, cujo réu é o
+poder público e as implicações em termos de tratamento preferencial de pagamento.
+TABELA 12. CLASSIFICAÇÃO DOS DÉBITOS ESTATAIS DE NATUREZA JUDICIAL
+Nomenclatura Característica Tratamento
+Decisões judiciais que representem
+1. RPV - Requisições de Pequeno Devem ser pagos até 60 dias da data
+até 60 salários mínimos, no caso da
+Valor da decisão
+União
+Decisões judiciais que tenham como
+2. Precatórios de Natureza origem ações relativas a
+Terão tratamento diferenciado
+Alimentícia remuneração ou benefícios
+previdenciários
+Precatórios de Natureza alimentícia
+2a. Precatórios de Natureza Terão precedência no pagamento, até
+cujos titulares tenham mais de 60
+Alimentícia de idosos o limite de 180 salários mínimos
+anos de idade
+2b. Precatórios de Natureza Precatórios de Natureza alimentícia
+Alimentícia de pessoas com cujos titulares sejam pessoas com Terão precedência no pagamento, até
+deficiência ou portadores de doenças deficiência ou portadores de doenças o limite de 180 salários mínimos
+graves graves, de qualquer idade
+Precatórios de Natureza alimentícia Aplica-se a regra geral dos
+2c. Precatórios de Natureza
+cujos titulares não se enquadrem nas Precatórios de Natureza Alimentícia:
+Alimentícia – demais
+situações anteriores Terão tratamento diferenciado
+Pagamento até o final do exercício
+Precatórios que não são de natureza
+3. Demais Precatórios posterior, de acordo com a ordem
+alimentícia
+cronológica
+Fonte: Art. 100 da Constituição Federal
+De acordo com a Tabela 12, os débitos judiciais contra o Estado podem ser organizados em
+três grandes grupos: (i) Requisições de Pequeno Valor – RPVs, que são ações cujo valor
+total não ultrapassa 60 salários mínimos; (ii) precatórios de natureza alimentícia, isto é, que
+envolvem decisões sobre remuneração ou benefícios previdenciários, e que por isso têm
+tratamento diferenciado no processo de pagamento; e (iii) demais precatórios sem critério
+de precedência de pagamento.
+48 | Relatório de Acompanhamento Fiscal – Setembro de 2026
+
+=== página 49 ===
+O segundo grupo contém ainda uma subdivisão, para dar precedência aos precatórios de
+natureza alimentícia, quando seus titulares são pessoas com mais de 60 anos de idade ou
+portadores de doença grave ou pessoas com deficiência de qualquer idade.
+Evolução dos valores dos precatórios no orçamento federal
+Como visto acima, o tema foi objeto de alterações legislativas e judiciárias importantes nos
+últimos anos, o que modificou as regras de tratamento desse tipo de despesa em curto
+espaço de tempo. Isso levou a variações rápidas nos valores de precatórios pagos e no
+estoque de não pagos. A edição das Emendas Constitucionais 113 e 114, de 2021, ainda na
+vigência do Teto de Gastos, criado pela Emenda Constitucional nº 95, de 2016, criou subteto
+de pagamentos das despesas com precatórios, anulado pela decisão do Supremo Tribunal
+Federal no âmbito do julgamento de Ação Direta de Inconstitucionalidade – ADI 7064.
+Por seu turno, a EC nº 136, de 2025, já considerando os ditames da ADI 7064, trouxe uma
+dinâmica de pagamento voltada a regularizar no tempo o estoque de precatórios, porém,
+assim como a dinâmica das ECs anteriores, implicando a geração, em alguma medida, de
+um estoque crescente de precatórios não pagos.
+O Gráfico 9 mostra a dinâmica dos pagamentos de precatórios nos últimos anos, em
+percentual do PIB, de acordo com os dados da execução orçamentária (critério pagamento)
+do Sistema Integrado de Planejamento e Orçamento – SIOP.
+GRÁFICO 9. PRECATÓRIOS FEDERAIS PAGOS, DE 2018 A 2026 (% DO PIB)
+1,60%
+1,38%
+1,40%
+1,20%
+1,00%
+0,80%
+0,78%
+0,60%
+0,66% 0,67%
+0,56% 0,60% 0,58% 0,58%
+0,40% 0,52%
+0,20%
+0,00%
+2018 2019 2020 2021 2022 2023 2024 2025 2026
+Fonte: SIOP; Elaboração: IFI
+Nota: para 2026, os valores de execução correspondem ao acumulado até o dia 09/09/2026
+No Gráfico 9, acima, pode-se perceber o crescimento dos valores pagos, de precatórios
+federais, no período analisado, em percentuais do PIB. Entre 2018 e 2022, ocorre um suave
+crescimento nos pagamentos realizados de precatórios, que variou de 0,5% para 0,6% do
+Relatório de Acompanhamento Fiscal – Setembro de 2026 | 49
+
+=== página 50 ===
+PIB. Em 2023, ocorreu um volume de pagamento fora da curva, de R$ 151,0 bilhões, que
+representa 260% do valor pago no ano anterior e 1,4% do PIB daquele ano. Esse crescimento
+no pagamento é um efeito direto da decisão do Supremo Tribunal Federal – STF à ADI 7064,
+que acatou parcialmente o questionamento da constitucionalidade das regras
+estabelecidas pelas Emendas Constitucionais 113 e 114.
+Em função dessa decisão, foi pago, em 2023, todo o estoque acumulado de anos anteriores,
+em função das regras das referidas Emendas Constitucionais, todos os precatórios que a
+regra geral já previa para pagamento naquele ano, bem como foram antecipados valores de
+precatórios relativos ao exercício de 2024.
+Ao avaliar o impacto dessas Emendas Constitucionais sobre a execução orçamentária de
+precatórios, não se percebe mudança significativa na velocidade de crescimento desses
+gastos nos anos de vigência das normas, isto é, 2021 e 2022. Apesar das regras de
+contenção dessas despesas estabelecidas, por essas Emendas, a despesa observada
+manteve-se estável em 0,6% do PIB. Não obstante essa estabilidade no ritmo de
+pagamento, o estoque de precatórios cresceu nesse período. Logicamente que se essas
+Emendas Constitucionais não tivessem sido aprovadas, o crescimento da despesa com
+precatórios teria ocorrido de forma mais acentuada.
+Por fim, o período de execução orçamentária de precatórios, que vai de 2024 a 2026, mostra
+uma nova fase de crescimento, em ritmo mais acelerado ante o período pré-2023. Nesse
+sentido, a execução média de precatórios, que entre 2018 e 2022, ficou em 0,6% do PIB,
+passou para 0,7% do PIB entre 2024 e 2026. Agregue-se a isso que o valor da execução de
+2026 ainda está incompleto, pois considera os dados da execução parcial, até o início de
+setembro. O valor de 2026, no Gráfico 9, considera os pagamentos ocorridos até 9 de
+setembro de 2026, restando ainda mais de três meses de execução. No Orçamento de 2026,
+o volume total de recursos reservados para esse tipo de despesa (dotação atual) registra
+um valor de R$ 122,3 bilhões, que é a execução potencial até o fechamento do exercício
+atual.
+Adicionalmente aos dados constantes do Gráfico 9, o PLOA 2027 traz o registro dos valores
+previstos para pagamento de precatórios no próximo exercício financeiro. As dotações
+reservadas no orçamento de 2027 para pagamento de precatórios montam R$ 97,7 bilhões,
+R$ 24,6 bilhões a menos do que a dotação atual existente no orçamento de 2026. A julgar
+pelo comportamento dessa despesa nos últimos anos, é possível que esse valor não seja
+suficiente para o pagamento dos precatórios ao longo do ano que vem.
+Ainda em relação ao exercício de 2027, o PLOA prevê que parte do valor das dotações para
+pagamento de precatórios não iniciará o ano liberado para execução. Do valor total, uma
+parcela de R$ 33,7 bilhões foi prevista no PLOA 2027 com a utilização das chamadas
+receitas condicionadas. Essas receitas são oriundas do excesso de emissão de títulos
+públicos em relação ao parâmetro constante do Art. 167, Inciso III, da Constituição Federal,
+conhecido como Regra de Ouro. Segundo essa Regra, o montante de operações de crédito
+50 | Relatório de Acompanhamento Fiscal – Setembro de 2026
+
+=== página 51 ===
+no orçamento não pode ser superior ao volume de despesas de capital. Caso isso ocorra, a
+parcela do excesso desse limite será registrada como despesas condicionadas,
+dependentes de posterior aprovação, pelo Congresso Nacional, de projeto de lei específico
+para liberação dessa parcela para efetiva execução.
+No caso do PLOA 2027, a parcela que excedeu a esse limite foi de R$ 414,1 bilhões, dos
+quais R$ 33,7 bilhões estão alocados para o pagamento de precatórios. Dessa forma, do
+total dos recursos previstos para o pagamento de precatórios, R$ 64,0 bilhões estão
+associados a receitas não condicionadas, que poderão ser utilizadas sem a necessidade
+de posterior autorização do Congresso.
+Comportamento do Estoque de Precatórios Federais
+Embora os precatórios pagos no período analisado tenham somado algo próximo de
+R$ 650 bilhões, o volume do estoque de precatórios continuou a crescer, de acordo com os
+dados do Mapa Anual de Precatórios39, mantido pelo Conselho Nacional de Justiça – CNJ.
+Isso demonstra que nem as medidas de contenção, promovidas pelas alterações
+constitucionais, nem os pagamentos ocorridos em 2023 em regime especial, pactuados no
+âmbito da decisão da ADI 7064, foram capazes de reduzir a pressão sobre o caixa do
+governo, nem de alterar a expectativa de crescimento da despesa com precatórios nos
+próximos anos.
+O Gráfico 10, a seguir, mostra a dinâmica do estoque dos precatórios nos últimos anos, de
+acordo com os dados do Mapa Anual de Precatórios, mantido pelo Conselho Nacional de
+Justiça – CNJ, que traz a posição desse estoque, sempre em 31 de dezembro de cada ano.
+GRÁFICO 10. SALDO DE PRECATÓRIOS FEDERAIS, DE 2019 A 2025 (R$ BILHÕES,
+VALORES NOMINAIS)
+85,0
+80,0
+75,0
+70,0
+65,0
+60,0
+55,0
+50,0
+45,0
+40,0
+2019 2020 2021 2022 2023 2024 2025
+Fonte: Mapa Anual de Precatórios do CNJ; Elaboração: IFI
+39 Disponível no link https://paineisanalytics.cnj.jus.br/single/?appid=24bb0aae-4341-48e7-b3b5-
+3606607894c4&sheet=60a7540d-d58d-43af-a15e-fa179c7a5233&lang=pt-BR&opt=ctxmenu,currsel
+Relatório de Acompanhamento Fiscal – Setembro de 2026 | 51
+
+=== página 52 ===
+Os dados relativos ao estoque de precatórios, informados pelo CNJ, apontam um
+crescimento contínuo de seus valores, não obstante o ritmo contínuo de pagamentos. Isso
+significa que apesar de todos os esforços para gerir essa despesa, em especial pelo
+crescimento do ritmo de quitação desses débitos, o seu saldo continua crescendo. Na série
+histórica do saldo de precatórios, pode-se observar uma queda expressiva do saldo de
+precatórios em 2023, em grande medida, em função do pagamento recorde de R$ 151
+bilhões que ocorreu naquele ano.
+Assim, percebe-se que a dinâmica das despesas com precatórios no âmbito da União não
+está relacionada a um represamento nos pagamentos. Embora o volume de pagamentos
+seja elevado e em crescimento, ainda assim o estoque de precatórios apresenta uma
+tendência de acúmulo crescente, ao longo dos últimos anos. Da análise dessa dinâmica
+entre o volume de pagamentos e saldo do estoque de precatórios, podemos inferir que há
+uma variável anterior que precisa ser analisada para compreender melhor o processo de
+crescimento dessa despesa no orçamento federal. Essa variável anterior é a informação do
+volume de expedição de novos precatórios, que passamos a analisar na próxima seção.
+Ritmo de crescimento da expedição de precatórios
+A inclusão de precatórios no orçamento federal ocorre a partir da comunicação de todos
+os tribunais superiores, da Justiça Federal e das justiças estaduais ao Poder Executivo
+federal. As Leis de Diretrizes Orçamentárias (LDOs) federais trazem, ano a ano, os
+procedimentos para que o Poder Judiciário encaminhe as informações dos precatórios
+expedidos até o mês de fevereiro de cada ano, conforme o Art. 100, § 5º, da Constituição
+Federal. O conjunto de precatórios, assim expedidos e apresentados passam a compor o
+valor a ser pago no exercício seguinte.
+O Gráfico 11, a seguir, traz a informação, em termos correntes e constantes, dos valores de
+precatórios federais, em bilhões de reais, expedidos pelo Poder Judiciário no período de
+2008 a fevereiro de 2026, mostrando a dinâmica do volume de precatórios novos
+apresentados, ano a ano.
+52 | Relatório de Acompanhamento Fiscal – Setembro de 2026
+
+=== página 53 ===
+GRÁFICO 11. PRECATÓRIOS FEDERAIS EXPEDIDOS, DE 2008 A 2026 (R$ BILHÕES)
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026
+Nominal (R$ bi) A preços de fev/2026 (R$ bi)
+Fonte: Painel de Precatórios do Ministério do Planejamento e Orçamento – MPO40
+Percebe-se, no Gráfico 11, uma aceleração no valor acumulado de expedição de novos
+precatórios, no período de 2012 a 2019, que é seguida de um período de estabilização nos
+anos de 2020 e 2021. No entanto, chama a atenção a mudança de patamar do nível de
+expedição de novos precatórios a partir de 2022, que se mantém até o momento.
+Aparentemente, em grande medida a aceleração do volume de pagamento, bem como o
+crescimento do estoque de precatórios, não são oriundos do represamento no pagamento,
+é consequência da aceleração do volume de precatórios expedidos. A dinâmica de
+crescimento dos novos precatórios não ocorre apenas em relação aos seus valores, mas
+também em relação ao quantitativo de precatórios emitidos nesse mesmo período.
+O Gráfico 12, a seguir, traz a informação do quantitativo de precatórios federais expedidos
+pelo Poder Judiciário também no período de 2008 a 2026, mostrando a dinâmica de
+precatórios novos apresentados, ano a ano.
+40 Disponível no link https://www.gov.br/planejamento/pt-br/assuntos/orcamento/precatorios-
+content/painel-precatorios.
+Relatório de Acompanhamento Fiscal – Setembro de 2026 | 53
+
+=== página 54 ===
+GRÁFICO 12. QUANTIDADE DE PRECATÓRIOS FEDERAIS EXPEDIDOS (2008 A 2026)
+180.000
+160.000
+140.000
+120.000
+100.000
+80.000
+60.000
+40.000
+20.000
+0
+2008200920102011201220132014201520162017201820192020202120222023202420252026
+Fonte: Painel de Precatórios do Ministério do Planejamento e Orçamento – MPO41
+Percebe-se no Gráfico 12 acima que a evolução do quantitativo de precatórios, ao longo do
+período analisado, segue a mesma dinâmica, ao longo do tempo, observada no gráfico
+anterior. Há um crescimento continuado no período de 2012 a 2021 e uma mudança de
+patamar, para um nível mais elevado, nos anos seguintes. Fica claro então que não somente
+os valores dos precatórios expedidos foram maiores nos últimos anos, mas também houve
+um crescimento na produção jurisdicional nesse período que também explica o
+crescimento da pressão de precatórios nas contas públicas federais.
+Quando se analisam os agregados dos tipos de precatórios que compõem o volume de
+precatórios expedidos, percebe-se onde se concentra o crescimento dos precatórios nos
+últimos anos. O Gráfico 13, a seguir, traz a informação dos valores, em termos nominais,
+dos precatórios federais expedidos pelo Poder Judiciário, no período de 2008 a 2026, aberto
+pelos agregados que os compõem, que são Pessoal, Previdência, Assistência Social e
+Demais42.
+41 Disponível no link https://www.gov.br/planejamento/pt-br/assuntos/orcamento/precatorios-
+content/painel-precatorios
+42 São classificados na categoria de Demais os precatórios relativos a FUNDEF (21,7%), ações de controle
+de preços por intervenção no domínio econômico (13,7%), desapropriação para reforma agrária (INCRA)
+(6,1%), títulos da dívida pública (2,7%) e reajuste da tabela do SUS (1,9%), dentre outras.
+54 | Relatório de Acompanhamento Fiscal – Setembro de 2026
+
+=== página 55 ===
+GRÁFICO 13. PRECATÓRIOS FEDERAIS EXPEDIDOS, POR AGREGADO DE DESPESA
+(R$ BILHÕES, VALORES NOMINAIS)
+90
+77,7 77,0
+80
+71,9
+70 65,0
+63,9
+60
+50 46,0 44,6 46,1 37,8
+41,4 40,5 36,4 34,7
+38,8
+40
+30 24,9 21,8 22,6 26,3 27,1 24,2 30,6 23,9 18,2
+20,4
+20 18,0 5,3 4,9 4,2 13,8 15,4 16,9 9,7 10,9 12,3 19,7 15,1 20,6 22,6 24,4
+5,0 7,4 5,3 12,5
+10 6,3 8,5 7,0 5,7 5,7 5,8 6,0 6,0 7,1 7,2 8,9 11,3
+6,7 12,3 8,3 9,1 5,8 6,6 5,8 6,6 9,1 7,5 7,2 6,2 5,9 9,5 13,1 12,1 9,3 7,8 9,1
+0
+2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026
+Pessoal Previdência Assistência Social (FNAS) Demais Despesas
+Fonte: Painel de Precatórios do Ministério do Planejamento e Orçamento – MPO43
+Ao observar a composição dos valores aprovados nos últimos anos, fica claro o
+crescimento de participação do componente denominado Demais e, em menor medida, os
+precatórios de natureza previdenciária. Esses dois componentes tornam-se predominantes
+na composição dos valores de precatórios e com maior proporção nesses valores, em
+especial, a partir do ano de 2022, até o momento. Ao longo dos recentes debates sobre
+precatórios, em especial no momento da tramitação das Emendas Constitucionais
+113/2021 e 114/2021, foi muito comentado o grau de participação dos precatórios relativos
+ao antigo Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de
+Valorização do Magistério (FUNDEF) no crescimento dos valores totais dos precatórios.
+O Gráfico 14, a seguir, traz a informação dos valores, em termos nominais, dos precatórios
+federais, no mesmo período dos gráficos anteriores, identificando especificamente os
+precatórios que tiveram origem em ações judiciais que tinham como objeto questões
+relacionadas ao antigo FUNDEF, vis-à-vis os demais precatórios.
+43 Disponível no link https://www.gov.br/planejamento/pt-br/assuntos/orcamento/precatorios-
+content/painel-precatorios
+Relatório de Acompanhamento Fiscal – Setembro de 2026 | 55
+
+=== página 56 ===
+GRÁFICO 14. PRECATÓRIOS FUNDEF E DEMAIS PRECATÓRIOS (R$ BILHÕES)
+90
+77,7
+76,9
+80
+71,9
+70 63,9 65,0 11,0 7,8
+23,2
+60 11,9
+50 45,9
+38,8 41,4 40,5
+40
+30 24,9 26,3 27,1 61,1 66,0 64,1
+21,8 20,4 22,6 54,5 53,1
+18,0 16,9 44,5
+20 13,8 15,4 38,2 39,4
+34,3
+10 18,0 24,9 21,8 20,4 13,8 15,3 16,1 20,4 22,9 23,7
+0
+2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026
+Demais precatórios Fundef
+Fonte: Painel de Precatórios do Ministério do Planejamento e Orçamento – MPO44
+Na observação do Gráfico 14, percebe-se que historicamente os precatórios relativos ao
+FUNDEF tinham uma participação pequena, até o ano de 2021, ocorrendo uma
+concentração muito forte em precatórios relativos ao FUNDEF, no ano de 2022, com a
+expedição de R$ 23,2 bilhões, apenas nessa temática. Pode-se concluir que realmente
+houve um crescimento na participação dos precatórios do FUNDEF, mas que não explica
+integralmente a mudança de patamar nessas despesas ocorrida a partir de 2022 até os
+dias atuais.
+Considerações Finais
+A análise da trajetória recente das despesas com precatórios no orçamento federal permite
+extrair algumas conclusões relevantes para o debate fiscal.
+Em primeiro lugar, observa-se uma mudança estrutural de patamar dessa despesa a partir
+de 2022, tanto do lado dos pagamentos, quanto do estoque, bem como da expedição de
+novos precatórios. A execução média saltou de cerca de R$ 48,0 bilhões (2018-2022), em
+torno de 0,56% do PIB, para R$ 86,4 bilhões (2024-2026), em torno de 0,70% do PIB. O que
+evidencia que não se trata de uma oscilação conjuntural, mas de um novo nível de despesa
+a ser considerado no planejamento orçamentário dos próximos anos.
+Em segundo lugar, as sucessivas tentativas de disciplinar essa despesa por via
+constitucional — as Emendas Constitucionais 113/2021, 114/2021 e 136/2025 — não foram
+capazes de conter o crescimento, seja pela reversão parcial dessas regras pelo Supremo
+Tribunal Federal (caso da ADI 7064), seja porque as regras de contenção atuavam sobre o
+fluxo de pagamento, e não sobre as possíveis causas primárias do problema. Como
+demonstrado, o crescimento do estoque de precatórios não decorre de represamento nos
+44 Disponível no link https://www.gov.br/planejamento/pt-br/assuntos/orcamento/precatorios-
+content/painel-precatorios
+56 | Relatório de Acompanhamento Fiscal – Setembro de 2026
+
+=== página 57 ===
+pagamentos — que cresceram de forma consistente no período —, mas sim da aceleração
+da emissão de novos precatórios, tanto em valor, quanto em quantidade, em especial, a
+partir de 2022.
+Em terceiro lugar, a composição desses novos precatórios mostra que o crescimento não
+é explicado por um fator isolado. Embora os precatórios relacionados ao FUNDEF tenham
+tido papel relevante — em especial em 2022, quando representaram R$ 23,2 bilhões do
+volume de expedição do ano —, eles não respondem pela totalidade da mudança de
+patamar observada desde então, que segue sendo puxada, principalmente, pelos
+agregados "Demais" e pela Previdência.
+Por fim, os dados do PLOA 2027 acendem um sinal de alerta adicional. A dotação prevista
+(R$ 97,7 bilhões) é cerca de R$ 25 bilhões inferior à dotação atual de 2026 (R$ 122,3
+bilhões), em um contexto de despesa historicamente crescente. Some-se a isso o fato de
+que parte relevante desse valor (R$ 33,7 bilhões) está condicionada à aprovação, pelo
+Congresso Nacional, de projeto de lei específico vinculado ao excesso de emissão de títulos
+públicos em relação à Regra de Ouro — o que introduz incerteza adicional sobre a
+disponibilidade efetiva de recursos ao longo do exercício.
+Diante desse quadro, o principal ponto de atenção para a política fiscal não está apenas na
+forma de financiamento ou de parcelamento dos precatórios já existentes, mas na
+necessidade de compreender e, na medida do possível, mitigar os fatores que vêm
+acelerando a expedição de novos precatórios desde 2022 — sob pena de que novas regras
+constitucionais de contenção venham a produzir, mais uma vez, apenas um alívio
+temporário sobre um problema estrutural. Adicionalmente, dado que o estoque de
+precatórios dos entes subnacionais é hoje quase quatro vezes maior que o da União, a
+mesma dinâmica de crescimento observada no âmbito federal — e suas causas — merece
+investigação específica em relação a estados e municípios.
+Relatório de Acompanhamento Fiscal – Setembro de 2026 | 57
+
+=== página 58 ===
+PROJEÇÕES DA IFI
+CURTO PRAZO
+2026 2027
+Projeções da IFI
+Ago/26 Set/26 Comparação Ago/26 Set/26 Comparação
+PIB – crescimento real (% a.a.) 1,7 2,0 ▲ 2,0 1,8 ▼
+PIB – nominal (R$ bilhões) 13.432,1 13.667,1 ▲ 14.244,8 14.533,4 ▲
+IPCA – acum. (% no ano) 3,9 5,0 ▲ 3,5 4,0 ▲
+Taxa de câmbio - fim de período (R$/US$) 5,5 5,2 ▼ 5,5 5,2 ▼
+Ocupação - crescimento (%) 0,8 1,1 ▲ 0,5 0,7 ▲
+Massa salarial - crescimento (%) 3,6 5,1 ▲ 2,7 3,4 ▲
+Selic – fim de período (% a.a.) 12,0 14,0 ▲ 10,5 12,0 ▲
+Juros reais ex-ante (% a.a.) 7,0 7,5 ▲ 6,2 5,5 ▼
+Resultado Primário do Setor Público Consolidado
+-0,7 -0,5 ▲ -1,3 -0,7 ▲
+(% do PIB)
+dos quais Governo Central -0,7 -0,4 ▲ -1,3 -0,6 ▲
+Juros Nominais Líquidos (% do PIB) 7,9 8,6 ▲ 7,5 8,5 ▲
+Resultado Nominal (% do PIB) -8,6 -9,0 ▼ -8,8 -9,2 ▼
+Dívida Bruta do Governo Geral (% do PIB) 82,7 82,5 ▼ 86,2 86,4 ▲
+58 | Relatório de Acompanhamento Fiscal – Setembro de 2026
+
+=== página 59 ===
+
+
+=== página 60 ===
+/ifibrasil
+@ifiBrasil
+@ifibrasil
+/company/ifibrasil
+/ifibrasil
+github.com/ifibrasil
+ifi@senado.leg.br
+61 3303 2875
