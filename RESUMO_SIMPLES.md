@@ -12,14 +12,14 @@
 | "de onde é que vai vir esse dinheiro" | confirmada | 10 de 14 promessas econômicas sem custo publicado ou sem fonte declarada (9 de 13 sem o fim da escala 6x1, que já foi aprovado) |
 | "a gastança do Brasil já está muito alta" | confirmada | o governo (União, estados e municípios) gasta 46,9% do PIB, contra 31,1% na mediana dos emergentes do G20 (FMI, 2025) |
 | "o juro já está muito alto" | confirmada | o Brasil tem o maior juro real entre 40 países no ranking MoneYou de 16/set/2026, com 8,45% ao ano; o segundo tem 6,79% |
-| "a tendência é apenas aumentar" (o juro) | pendente (falta a curva da B3 de 26/out) | o Focus de 2026-10-16 esperava Selic de 12,00% no fim de 2027, abaixo dos 13,75% de hoje; a curva da B3 cobrava 12,38% para 2028 em 23/out |
+| "a tendência é apenas aumentar" (o juro) | pendente (falta a curva da B3 de 26/out) | o Focus de 2026-10-23 esperava Selic de 11,75% no fim de 2027, abaixo dos 13,75% de hoje; a curva da B3 cobrava 12,38% para 2028 em 23/out |
 
 ## O que esperar até 2030
 
 - **A dívida sobe rápido:** de 82,5% do PIB em 2026 para 100,7% em 2030 no cenário central (faixa de 94% a 108%).
 - **Em nenhuma das 16 contas feitas a dívida para de subir**: em 2030 ela fica entre 88,0% e 111,7% do PIB, mesmo com as metas do próprio governo cumpridas.
 - **Para ela parar de subir em 2030**, seria preciso um superávit de 3,6% do PIB naquele ano. O previsto é um déficit de 1,1%.
-- **O juro real é de 8,8% ao ano**, o maior do mundo. Antes da eleição, o mercado esperava a Selic em 12,00% no fim de 2027.
+- **O juro real é de 8,8% ao ano**, o maior do mundo. Antes da eleição, o mercado esperava a Selic em 11,75% no fim de 2027.
 - **As medidas de 2025 e 2026 custam R$ 123,1 bi por ano a partir de 2027**; 67% disso cabe no limite de gasto, ou seja, sai de outra despesa do Orçamento.
 - **10 de 14 promessas** do 2º mandato não têm custo publicado ou fonte declarada.
 - **O dia seguinte não decide o mandato:** a direção da bolsa no dia seguinte à eleição bateu com a do mandato em 1 das 6 eleições desde 2002.

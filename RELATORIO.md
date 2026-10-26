@@ -21,7 +21,7 @@
 | A4 | "de onde é que vai vir esse dinheiro" | confirmada | 10 de 14 promessas econômicas sem custo publicado ou sem fonte declarada (9 de 13 sem o fim da escala 6x1, que já foi aprovado) |
 | A5 | "a gastança do Brasil já está muito alta" | confirmada | o governo (União, estados e municípios) gasta 46,9% do PIB, contra 31,1% na mediana dos emergentes do G20 (FMI, 2025) |
 | A6 | "o juro já está muito alto" | confirmada | o Brasil tem o maior juro real entre 40 países no ranking MoneYou de 16/set/2026, com 8,45% ao ano; o segundo tem 6,79% |
-| A7 | "a tendência é apenas aumentar" (o juro) | pendente (falta a curva da B3 de 26/out) | o Focus de 2026-10-16 esperava Selic de 12,00% no fim de 2027, abaixo dos 13,75% de hoje; a curva da B3 cobrava 12,38% para 2028 em 23/out |
+| A7 | "a tendência é apenas aumentar" (o juro) | pendente (falta a curva da B3 de 26/out) | o Focus de 2026-10-23 esperava Selic de 11,75% no fim de 2027, abaixo dos 13,75% de hoje; a curva da B3 cobrava 12,38% para 2028 em 23/out |
 
 **A dívida no cenário central: sobe rápido.** A dívida bruta do governo passa de 82,5% do PIB em 2026 para **100,7% em 2030** (+18,2 pontos; faixa pelo erro histórico, de 94% a 108%). Mesmo sem nenhum prêmio de juros ela sobe 13,2 pontos, o que já é "sobe rápido" pela régua. Para a dívida parar de subir em 2030, o governo precisaria de um superávit de 3,6% do PIB naquele ano (1,9% se o mercado não cobrasse prêmio); a base da IFI prevê um déficit de 1,1%. A distância é de 4,7 pontos do PIB. Em nenhuma das 16 contas feitas (§7.1) a dívida para de subir.
 
@@ -35,15 +35,15 @@
 | 2029 | 2,3% | 8% | déficit de 0,8% | 96,0% |
 | 2030 | 2,3% | 8% | déficit de 1,1% | 100,7% |
 
-**O que o mercado esperava antes da eleição** (mediana do Focus de 2026-10-16; é outro cenário, mais pessimista no PIB e no juro que o da IFI; a dívida com ele está no §7.1):
+**O que o mercado esperava antes da eleição** (mediana do Focus de 2026-10-23; é outro cenário, mais pessimista no PIB e no juro que o da IFI; a dívida com ele está no §7.1):
 
 | Ano | PIB | Inflação (IPCA) | Selic no fim do ano | Dólar no fim do ano | Dívida bruta (Focus) |
 |---|---|---|---|---|---|
-| 2026 | 1,8% | 5,22% | 13,25% | R$ 5,13 | 83,4% |
-| 2027 | 1,3% | 4,32% | 12,00% | R$ 5,22 | 87,3% |
-| 2028 | 1,8% | 3,75% | 10,50% | R$ 5,29 | 90,4% |
-| 2029 | 2,0% | 3,50% | 10,00% | R$ 5,30 | 92,8% |
-| 2030 | 2,0% | 3,50% | 10,00% | R$ 5,37 | 95,0% |
+| 2026 | 1,8% | 5,19% | 13,25% | R$ 5,05 | 83,5% |
+| 2027 | 1,3% | 4,34% | 11,75% | R$ 5,15 | 87,2% |
+| 2028 | 1,8% | 3,75% | 10,00% | R$ 5,20 | 90,1% |
+| 2029 | 2,0% | 3,50% | 10,00% | R$ 5,28 | 92,7% |
+| 2030 | 2,0% | 3,50% | 10,00% | R$ 5,30 | 95,0% |
 
 ## 2. O mercado no dia seguinte (M1)
 
@@ -109,7 +109,7 @@ Diferença do Brasil para a mediana dos emergentes do G20 em 2025: **+15,8 ponto
 
 ## 5. O juro (M4)
 
-Selic de **13,75%** ao ano e inflação esperada para os próximos 12 meses de **4,51%** (Focus de 2026-10-16): juro real de **8,8%** ao ano. No ranking MoneYou de 16/set, feito com outra estimativa de inflação, o juro real do Brasil era 8,45%, o maior entre 40 países.
+Selic de **13,75%** ao ano e inflação esperada para os próximos 12 meses de **4,53%** (Focus de 2026-10-23): juro real de **8,8%** ao ano. No ranking MoneYou de 16/set, feito com outra estimativa de inflação, o juro real do Brasil era 8,45%, o maior entre 40 países.
 
 - Cada ponto de Selic a mais custa cerca de R$ 49 bi por ano só na parte da dívida federal atrelada à Selic (52,74% de R$ 9.293 bi. Tesouro. ago/2026). ou 0,36% do PIB; sem contar as operações compromissadas do Banco Central
 - Última decisão do Copom em 2026 (281ª reunião, 16/09/2026): Selic cortada para 13,75% a.a. Orientação: 'a magnitude total do ciclo de calibração será estabelecida à luz de novas informações'; cenário com 'desancoragem das expectativas'; projeção de IPCA 3,2% no 1º tri de 2028; Focus 4,9% (2026) e 4,3% (2027). Cortes anteriores: 14,25% (17/06) e 14,00% (05/08). ([fonte](https://www.bcb.gov.br/api/servico/sitebcb/copom/comunicados_detalhes?nro_reuniao=281))
@@ -172,7 +172,7 @@ Categorias: **A** compensada na própria lei (imposto maior para outro grupo) ·
 | S0: base da IFI (jun/2026) | 82,5 | 86,4 | 90,1 | 92,7 | 95,7 |
 | S1: central (base + prêmio de 2,05 ponto) | 82,5 | 87,1 | 91,9 | 96,0 | 100,7 |
 | S2: risco (S1 + promessas com custo e sem fonte, 0,03% do PIB) | 82,5 | 87,1 | 92,0 | 96,1 | 100,9 |
-| Mercado (Focus, antes da eleição) | 83,4 | 87,3 | 90,4 | 92,8 | 95,0 |
+| Mercado (Focus, antes da eleição) | 83,5 | 87,2 | 90,1 | 92,7 | 95,0 |
 
 No conceito do FMI, que soma os títulos do Tesouro na carteira do Banco Central, o FMI projeta 97,0% em 2026 e 104,5% em 2030 (WEO de out/2026). Não se compara um conceito com o outro.
 
@@ -191,10 +191,10 @@ No conceito do FMI, que soma os títulos do Tesouro na carteira do Banco Central
 | (P2) sem prêmio nenhum | 95,7 |
 | (P2) metas do PLDO 2027 cumpridas, sem prêmio | 88,0 |
 | (P2) metas do PLDO 2027 cumpridas, com o prêmio | 92,9 |
-| (P1) macro do Focus no lugar do da IFI | 104,1 |
+| (P1) macro do Focus no lugar do da IFI | 103,7 |
 | (P1) 2026 começando com os juros já acima da base | 106,4 |
 | (P1) limite de gasto sem segurar os R$ 51,3 bi por ano que a base não tem | 102,1 |
-| (P1) as três juntas | 111,3 |
+| (P1) as três juntas | 110,9 |
 
 ### 7.2 O aperto do Orçamento
 
@@ -257,7 +257,7 @@ Só entram temas com as duas fontes conferidas por script. A frase "o que pode m
 
 - **A versão mais forte:** o resultado mantém um governo que expande gasto sem receita nova, o juro longo sobe e fica, e a dívida, que já subia, sobe mais depressa; a queda do dia antecipa isso.
 - **O que se esperaria ver:** o juro longo e o dólar sem voltar nas semanas seguintes, o Copom parando os cortes, as metas fiscais de 2027 e 2028 revistas para baixo.
-- **O que o dado mostra:** com o macro do Focus (Selic mais alta e PIB menor que os da IFI), a dívida vai a 104,1% em 2030; com os juros de 2026 já acima da base, 106,4%; se o limite de gasto não segurar os R$ 51,3 bi por ano que a base não tem, 102,1%; as três juntas, 111,3%.
+- **O que o dado mostra:** com o macro do Focus (Selic mais alta e PIB menor que os da IFI), a dívida vai a 103,7% em 2030; com os juros de 2026 já acima da base, 106,4%; se o limite de gasto não segurar os R$ 51,3 bi por ano que a base não tem, 102,1%; as três juntas, 110,9%.
 - **O que a derrubaria:** um pacote de ajuste crível antes do Orçamento de 2027 e o juro longo voltando ao nível de antes da eleição.
 
 ### P2: o mercado exagerou

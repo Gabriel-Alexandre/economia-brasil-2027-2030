@@ -25,7 +25,7 @@ Das 14 promessas econômicas levantadas, 10 não têm custo publicado ou não di
 
 ## 5. O que esperar, ano a ano
 
-- **2027: o ano do aperto.** O mercado esperava, antes da eleição, PIB de 1,3%, inflação de 4,32% e Selic terminando o ano em 12,00%. A meta fiscal do ano (superávit de R$ 73,2 bi) só fecha, pela IFI, com bloqueio de dezenas de bilhões. É o ano em que o governo terá de mostrar se ajusta, e os primeiros testes são a próxima reunião do Copom e o Orçamento de 2027 revisto.
+- **2027: o ano do aperto.** O mercado esperava, antes da eleição, PIB de 1,3%, inflação de 4,34% e Selic terminando o ano em 11,75%. A meta fiscal do ano (superávit de R$ 73,2 bi) só fecha, pela IFI, com bloqueio de dezenas de bilhões. É o ano em que o governo terá de mostrar se ajusta, e os primeiros testes são a próxima reunião do Copom e o Orçamento de 2027 revisto.
 - **2028: o limite do arcabouço deixa de caber.** Pelo próprio governo, faltam R$ 15,8 bi de despesa livre em 2028 e R$ 23,0 bi em 2030 para manter a máquina como está; a IFI fala em risco de paralisação. Ao mesmo tempo, os precatórios voltam aos poucos para dentro da meta. É aí que a regra fiscal provavelmente terá de ser mudada (mexendo nos pisos de saúde e educação, na regra do salário mínimo ou no próprio limite), e o tipo de mudança vai decidir o juro do resto do mandato.
 - **2029 e 2030: a dívida perto de 101% do PIB** no cenário central, contra 95,7% na base da IFI e 95,0% no Focus. Com o PIB um ponto abaixo, 104,5%; um ponto acima, 97,1%.
 
