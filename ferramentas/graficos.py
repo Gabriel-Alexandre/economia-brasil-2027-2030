@@ -254,9 +254,9 @@ def g01_mercado(r: dict) -> None:
     e = m.get("dia")
     if not e or not e.get("ibovespa"):
         return
-    itens = [("Ibovespa", e["ibovespa"]["variacao_pct"], AZUL), ("EWZ (ações do Brasil em Nova York, em dólar)", e["ewz"]["variacao_pct"], AZUL),
-             ("Emergentes (EEM)", e["eem"]["variacao_pct"], CINZA), ("Dólar contra o real", e["usdbrl_ptax"]["variacao_pct"] if e.get("usdbrl_ptax") else e["usdbrl_yahoo"]["variacao_pct"], LARANJA),
-             ("Dólar contra México, Chile, Colômbia e África do Sul (média)", e["controle_moeda_pct"], CINZA)]
+    itens = [("Ibovespa", e["ibovespa"]["variacao_pct"], AZUL), ("EWZ (Brasil em Nova York, em US$)", e["ewz"]["variacao_pct"], AZUL),
+             ("Emergentes (EEM)", e["eem"]["variacao_pct"], CINZA), ("Dólar contra o real (PTAX)", e["usdbrl_ptax"]["variacao_pct"] if e.get("usdbrl_ptax") else e["usdbrl_yahoo"]["variacao_pct"], LARANJA),
+             ("Dólar contra outros emergentes (média)", e["controle_moeda_pct"], CINZA)]
     fig, ax = nova(f"O mercado no dia seguinte: {dt.date.fromisoformat(e['janela'][1]).strftime('%d/%m')} contra {dt.date.fromisoformat(e['janela'][0]).strftime('%d/%m')}",
                    "Yahoo Finance e Banco Central (PTAX), fechamento", "Variação em %. Cinza = o que os outros emergentes fizeram no mesmo dia")
     for i, (n, v, c) in enumerate(itens[::-1]):
@@ -265,12 +265,13 @@ def g01_mercado(r: dict) -> None:
     ax.axvline(0, color=TINTA, lw=1)
     ax.set_yticks(range(len(itens)))
     ax.set_yticklabels([n for n, _, _ in itens[::-1]], fontsize=18)
-    lim = max(abs(v) for _, v, _ in itens) * 1.35
+    lim = max(abs(v) for _, v, _ in itens) * 1.6
     ax.set_xlim(-lim, lim)
     ax.set_xticks([])
     ax.spines["bottom"].set_visible(False)
     ax.spines["left"].set_visible(False)
-    fig.subplots_adjust(left=0.33)
+    fig.subplots_adjust(left=0.30)
+    fig.text(0.07, 0.07, "Outros emergentes: peso mexicano, chileno e colombiano e rand sul-africano. EWZ e EEM são fundos negociados em Nova York.", fontsize=14, color=TINTA2)
     salvar(fig, "g01_mercado_no_dia.png")
 
 
