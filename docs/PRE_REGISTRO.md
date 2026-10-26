@@ -201,3 +201,7 @@ Regra do autor registrada hoje para todos os projetos dele: *"faça dos dois pon
 
 **6. O que o pré-registro prometeu e não foi entregue, dito aqui:** o investimento estrangeiro em carteira do balanço de pagamentos (M2, medida 2) e o crescimento real da despesa do governo central de 2023 a 2026 contra 2015 a 2022 (M3, régua 2), se a coleta não conseguir os arquivos; o relatório diz o que faltou. O M8 só mostra tema com duas fontes conferidas, como o M8 exige.
 
+### Emenda 7 (26/out, manhã, antes de abrir a planilha do Tesouro; régua 2 do M3)
+
+A série histórica do Resultado do Tesouro Nacional disponível vai até julho de 2026. A régua 2 do M3 fica assim: despesa total do governo central (linha "Despesa Total" da série mensal), cada mês corrigido pelo IPCA para reais de julho de 2026 e somado em 12 meses; **crescimento real médio por ano de 2023 a 2026** = do total de 2022 ao dos 12 meses até julho de 2026 (3 anos e 7 meses); **de 2015 a 2022** = do total de 2014 ao de 2022 (8 anos). A régua é só descritiva (o veredito de A5 é o da régua 1), e vai ao lado: a mesma conta para a despesa sem a Previdência e sem as transferências a estados e municípios, se a planilha tiver as linhas. **O que já foi visto:** só os nomes dos arquivos do conjunto de dados; nenhum valor.
+
