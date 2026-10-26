@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-26T18:23-03:00",
+ "gerado_em": "2026-10-26T19:14-03:00",
  "fechamento_de_26_out": true,
  "dia": {
   "janela": [
@@ -201,6 +201,8 @@
   }
  ],
  "notas": [
+  "Em 26/out o Tesouro cancelou o leilão de títulos atrelados à inflação (NTN-B) de 27/out e o de prefixados (LTN e NTN-F) de 29/out, e manteve o de títulos ligados à Selic (LFT). ([fonte](https://exame.com/invest/mercados/tesouro-suspende-leiloes-de-titulos-prefixados-e-atrelados-a-inflacao-apos-vitoria-de-lula/), [segunda fonte](https://www.suno.com.br/noticias/tesouro-nacional-suspende-leiloes-ipca-prefixados-2026/))",
+  "Uma fonte registra que o Tesouro recomprou R$ 7,1 bilhões em títulos em 26/out (uma fonte só; fica como registro, sem entrar na conta). ([fonte](https://gazetadoparana.com.br/publico/apos-reeleicao-de-lula-tesouro-cancela-leiloes-de-titulos-publicos-e-recompra-r-71-bilhoes-para))",
   "Às 10h05 de 26/out a B3 acionou o circuit breaker (queda de 10% do Ibovespa) e suspendeu os negócios à vista por 30 minutos, a primeira vez desde a pandemia. ([fonte](https://www.infomoney.com.br/mercados/circuit-breaker-por-que-bolsa-suspendeu-negociacoes-veja-quando-ela-volta/), [segunda fonte](https://investalk.bb.com.br/noticias/mercado/b3-aciona-circuit-break-pela-1-vez-desde-pandemia-e-suspende-negociacoes-a-vista-por-30-minutos))"
  ]
 }

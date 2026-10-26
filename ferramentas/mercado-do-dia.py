@@ -268,6 +268,9 @@ def main(coletar: bool = True) -> int:
         m_us = re.search(r"avançou (\d+,\d+)% e fechou cotado a R\$ (\d+,\d+)", k["trecho_b"])
         if m_us:
             out["dolar_a_vista"] = {"variacao_pct": float(m_us.group(1).replace(",", ".")), "fim": float(m_us.group(2).replace(",", ".")), "fonte": k["url_b"]}
+    for k in ("K42", "K43"):
+        if k in conf:
+            notas.append(f"{ach[k]['fato']} ([fonte]({ach[k]['url_a']})" + (f", [segunda fonte]({ach[k]['url_b']}))" if ach[k]["url_b"] else ")"))
     if "K41" in conf:
         notas.append(f"{ach['K41']['fato']} ([fonte]({ach['K41']['url_a']}), [segunda fonte]({ach['K41']['url_b']}))")
     out["conferencia_segunda_fonte"] = conferencia

@@ -35,6 +35,8 @@ LEITURA = {
     "M17": (None, "sem despesa pública; o custo é das empresas"),
     "M18": (None, "ressarcimento de 2025 e 2026, uma vez só"),
     "M19": (None, "sem custo publicado"),
+    "M20": (1.01, "renúncia de R$ 3,04 bi de 2027 a 2029 pelo Poder360, dividida por 3 anos"),
+    "M21": (None, "medida de 30 dias em out e nov/2026, uma vez só"),
 }
 
 

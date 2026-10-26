@@ -260,6 +260,8 @@ def relatorio(r: dict, val: dict, x: dict) -> str:
     s.append(f"**Custo que se repete por ano a partir de 2027: R$ {br(m5['total_recorrente_rs_bi'])} bi ({br(m5['total_recorrente_pct_pib_2027'], 2)}% do PIB).** "
              + "; ".join(f"categoria {k}: R$ {br(vv)} bi ({br(m5['por_categoria_fatia_pct'][k], 0)}%)" for k, vv in sorted(m5["por_categoria_rs_bi"].items())) + ". "
              "A leitura de quanto se repete por ano é do projeto, com o motivo escrito ao lado de cada medida em `dados/evidencias/MEDIDAS_E_PROMESSAS.csv`.\n")
+    if "K44" in x["ok"]:
+        s.append(f"**O tamanho do pacote de 2026 pela IFI:** {x['ok']['K44']['fato']} ([fonte]({x['ok']['K44']['url_a']}), [segunda fonte]({x['ok']['K44']['url_b']})). A conta acima, de quanto se repete a partir de 2027, é outra medida: ela não soma o crédito que volta à União nem o que foi de uma vez só.\n")
     if "M01" in x["ok"]:
         s.append("**A compensação do Imposto de Renda é contestada:** a lei compensa a isenção com a tributação mínima de altas rendas, e a Consultoria de Orçamento do Senado e a IFI estimaram perda líquida de arrecadação.\n")
     s.append("**Promessas do 2º mandato:**\n")

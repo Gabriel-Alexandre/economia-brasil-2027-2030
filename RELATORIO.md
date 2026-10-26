@@ -17,7 +17,7 @@
 |---|---|---|---|
 | A1 | "a bolsa derreteu" | confirmada | Ibovespa -13,88% no dia; contra os emergentes (EEM), -13,58 pontos |
 | A2 | "vários investimentos [...] acabou fugindo do Brasil" | não confirmada | até 22/out entraram R$ 46,5 bi de estrangeiros na bolsa em 2026 e R$ 19,1 bi em outubro; o dado de 26/out sai na B3 dois dias depois |
-| A3 | "muitas medidas" no ano da eleição | confirmada | 13 medidas nos 12 meses antes da eleição; 75% do custo que se repete não tem receita nova para pagar (sai de outra despesa ou de fora do Orçamento). Viraria "em parte" se o que cabe no limite de gasto contasse como pago. Intenção não se mede |
+| A3 | "muitas medidas" no ano da eleição | confirmada | 15 medidas nos 12 meses antes da eleição; 75% do custo que se repete não tem receita nova para pagar (sai de outra despesa ou de fora do Orçamento). Viraria "em parte" se o que cabe no limite de gasto contasse como pago. Intenção não se mede |
 | A4 | "de onde é que vai vir esse dinheiro" | confirmada | 10 de 14 promessas econômicas sem custo publicado ou sem fonte declarada (9 de 13 sem o fim da escala 6x1, que já foi aprovado) |
 | A5 | "a gastança do Brasil já está muito alta" | confirmada | o governo (União, estados e municípios) gasta 46,9% do PIB, contra 31,1% na mediana dos emergentes do G20 (FMI, 2025) |
 | A6 | "o juro já está muito alto" | confirmada | o Brasil tem o maior juro real entre 40 países no ranking MoneYou de 16/set/2026, com 8,45% ao ano; o segundo tem 6,79% |
@@ -63,6 +63,8 @@ Janela: fechamento de 2026-10-23 contra o de 2026-10-26.
 
 **É a 5ª maior queda diária do Ibovespa desde 1995.** Maiores que ela: 10/09/1998 (-15,81%); 27/10/1997 (-14,97%); 12/03/2020 (-14,78%); 16/03/2020 (-13,92%). Nas eleições anteriores (§2.2), o pior dia seguinte tinha sido o de 2002.
 
+- Em 26/out o Tesouro cancelou o leilão de títulos atrelados à inflação (NTN-B) de 27/out e o de prefixados (LTN e NTN-F) de 29/out, e manteve o de títulos ligados à Selic (LFT). ([fonte](https://exame.com/invest/mercados/tesouro-suspende-leiloes-de-titulos-prefixados-e-atrelados-a-inflacao-apos-vitoria-de-lula/), [segunda fonte](https://www.suno.com.br/noticias/tesouro-nacional-suspende-leiloes-ipca-prefixados-2026/))
+- Uma fonte registra que o Tesouro recomprou R$ 7,1 bilhões em títulos em 26/out (uma fonte só; fica como registro, sem entrar na conta). ([fonte](https://gazetadoparana.com.br/publico/apos-reeleicao-de-lula-tesouro-cancela-leiloes-de-titulos-publicos-e-recompra-r-71-bilhoes-para))
 - Às 10h05 de 26/out a B3 acionou o circuit breaker (queda de 10% do Ibovespa) e suspendeu os negócios à vista por 30 minutos, a primeira vez desde a pandemia. ([fonte](https://www.infomoney.com.br/mercados/circuit-breaker-por-que-bolsa-suspendeu-negociacoes-veja-quando-ela-volta/), [segunda fonte](https://investalk.bb.com.br/noticias/mercado/b3-aciona-circuit-break-pela-1-vez-desde-pandemia-e-suspende-negociacoes-a-vista-por-30-minutos))
 
 **O que o mercado esperava:** às 18:00 de 25/out, último registro antes do fim da votação, o Polymarket dava 34,5% de chance a Lula (no fim de 23/out, 22,5%). A reação do dia mede só a parte que não estava no preço; para ter a diferença inteira entre os dois resultados, a variação se divide por 0,655.
@@ -156,8 +158,12 @@ Categorias: **A** compensada na própria lei (imposto maior para outro grupo) ·
 | M17 | Fim da escala 6x1 e jornada de 40 horas sem redução salarial (Emenda Constitucional 141) | D | sem custo publicado | não se repete | Sem despesa pública: o custo recai sobre os empregadores. A EC permite lei complementar com medidas transitórias para MEI, micro e pequenas empresas, sem fonte definida. |
 | M18 | Ressarcimento de descontos indevidos nos benefícios do INSS | C | 3.2 | não se repete | Crédito extraordinário (a IFI lista a MP 1.378 entre os créditos extraordinários: R$ 547 mi). |
 | M19 | Farmácia Popular 100% gratuito (todos os 41 itens) | E | sem custo publicado | não se repete | Nenhuma estimativa de custo adicional nem fonte específica foi localizada; o programa é executado com dotação do Ministério da Saúde. |
+| M20 | Prospera MEI: perdão de dívidas de MEIs com a União (anunciado em 13/out, entre os turnos; vale a partir de 1º/jan/2027) | E | 1.12 | 1.01 | Renúncia de receita sem compensação: o projeto dispensa a compensação da Lei de Responsabilidade Fiscal. |
+| M21 | Gasolina com PIS/Pasep, Cofins e Cide zerados por 30 dias e mais subsídio ao diesel (09/out, entre os turnos) | C | 5.2 | não se repete | Crédito extraordinário (MP 1.395), fora do limite de gasto, e renúncia de tributos por 30 dias. |
 
-**Custo que se repete por ano a partir de 2027: R$ 123,1 bi (0,85% do PIB).** categoria A: R$ 27,7 bi (23%); categoria B: R$ 83,0 bi (67%); categoria D: R$ 12,4 bi (10%). A leitura de quanto se repete por ano é do projeto, com o motivo escrito ao lado de cada medida em `dados/evidencias/MEDIDAS_E_PROMESSAS.csv`.
+**Custo que se repete por ano a partir de 2027: R$ 124,1 bi (0,85% do PIB).** categoria A: R$ 27,7 bi (22%); categoria B: R$ 83,0 bi (67%); categoria D: R$ 12,4 bi (10%); categoria E: R$ 1,0 bi (1%). A leitura de quanto se repete por ano é do projeto, com o motivo escrito ao lado de cada medida em `dados/evidencias/MEDIDAS_E_PROMESSAS.csv`.
+
+**O tamanho do pacote de 2026 pela IFI:** A IFI estimou que as medidas do governo em 2026 mobilizaram R$ 298,4 bilhões: R$ 93,8 bilhões com impacto nas contas (primário) e R$ 185,7 bilhões em crédito com juros subsidiados, que deve voltar à União. ([fonte](https://timesbrasil.com.br/eleicoes-2026/bondades-governo-298-bilhoes-ifi-contas-2027/), [segunda fonte](https://boca.com.br/economia/instituicao-alerta-sobre-necessidade-de-ajuste-fiscal)). A conta acima, de quanto se repete a partir de 2027, é outra medida: ela não soma o crédito que volta à União nem o que foi de uma vez só.
 
 **A compensação do Imposto de Renda é contestada:** a lei compensa a isenção com a tributação mínima de altas rendas, e a Consultoria de Orçamento do Senado e a IFI estimaram perda líquida de arrecadação.
 
@@ -264,7 +270,7 @@ Só entram temas com as duas fontes conferidas por script. A frase "o que pode m
 ## 10. Como se conferiu
 
 - Validação por um segundo caminho: **12 de 12** itens passaram (`resultados/VALIDACAO.json`).
-- Achados de terceiros: 231 levantados, **205** com o trecho encontrado por script no texto capturado, 84 deles com a segunda fonte também conferida.
+- Achados de terceiros: 237 levantados, **211** com o trecho encontrado por script no texto capturado, 87 deles com a segunda fonte também conferida.
 - Revisão adversarial por três leitores independentes: [`docs/REVISAO_ADVERSARIAL.md`](docs/REVISAO_ADVERSARIAL.md). Leitura da IA: [`docs/LEITURA_DA_IA.md`](docs/LEITURA_DA_IA.md). Como refazer: [`docs/REPLICAR.md`](docs/REPLICAR.md).
 
 ## 11. As duas premissas (emenda 5)

@@ -1,7 +1,7 @@
 {
- "gerado_em": "2026-10-26T18:23",
+ "gerado_em": "2026-10-26T19:14",
  "M1_mercado": {
-  "gerado_em": "2026-10-26T18:23-03:00",
+  "gerado_em": "2026-10-26T19:14-03:00",
   "fechamento_de_26_out": true,
   "dia": {
    "janela": [
@@ -203,6 +203,8 @@
    }
   ],
   "notas": [
+   "Em 26/out o Tesouro cancelou o leilão de títulos atrelados à inflação (NTN-B) de 27/out e o de prefixados (LTN e NTN-F) de 29/out, e manteve o de títulos ligados à Selic (LFT). ([fonte](https://exame.com/invest/mercados/tesouro-suspende-leiloes-de-titulos-prefixados-e-atrelados-a-inflacao-apos-vitoria-de-lula/), [segunda fonte](https://www.suno.com.br/noticias/tesouro-nacional-suspende-leiloes-ipca-prefixados-2026/))",
+   "Uma fonte registra que o Tesouro recomprou R$ 7,1 bilhões em títulos em 26/out (uma fonte só; fica como registro, sem entrar na conta). ([fonte](https://gazetadoparana.com.br/publico/apos-reeleicao-de-lula-tesouro-cancela-leiloes-de-titulos-publicos-e-recompra-r-71-bilhoes-para))",
    "Às 10h05 de 26/out a B3 acionou o circuit breaker (queda de 10% do Ibovespa) e suspendeu os negócios à vista por 30 minutos, a primeira vez desde a pandemia. ([fonte](https://www.infomoney.com.br/mercados/circuit-breaker-por-que-bolsa-suspendeu-negociacoes-veja-quando-ela-volta/), [segunda fonte](https://investalk.bb.com.br/noticias/mercado/b3-aciona-circuit-break-pela-1-vez-desde-pandemia-e-suspende-negociacoes-a-vista-por-30-minutos))"
   ]
  },
@@ -791,20 +793,28 @@
     "nome": "Salário mínimo de 2026: R$ 1.621 (alta de 6,79%, com ganho real de 2,5%)",
     "categoria": "B",
     "rs_bi": 39.1
+   },
+   {
+    "id": "M20",
+    "nome": "Prospera MEI: perdão de dívidas de MEIs com a União (anunciado em 13/out, entre os turnos; vale a partir de 1º/jan/2027)",
+    "categoria": "E",
+    "rs_bi": 1.01
    }
   ],
-  "total_recorrente_rs_bi": 123.09,
+  "total_recorrente_rs_bi": 124.10000000000001,
   "pib_nominal_2027_ifi": 14533.0,
-  "total_recorrente_pct_pib_2027": 0.8469689671781463,
+  "total_recorrente_pct_pib_2027": 0.8539186678593546,
   "por_categoria_rs_bi": {
    "A": 27.72,
    "B": 82.97,
-   "D": 12.4
+   "D": 12.4,
+   "E": 1.01
   },
   "por_categoria_fatia_pct": {
-   "A": 22.5201072386059,
-   "B": 67.40596311641887,
-   "D": 10.073929644975221
+   "A": 22.336825141015307,
+   "B": 66.85737308622079,
+   "D": 9.99194198227236,
+   "E": 0.813859790491539
   },
   "promessas": 15,
   "promessas_com_custo_publicado": 5,
@@ -847,12 +857,14 @@
     "M15",
     "M16",
     "M17",
-    "M18"
+    "M18",
+    "M20",
+    "M21"
    ],
-   "n": 13,
-   "custo_recorrente_delas_rs_bi": 110.69,
-   "nao_compensado_rs_bi": 82.97,
-   "fatia_nao_compensada_pct": 74.95708736109856,
+   "n": 15,
+   "custo_recorrente_delas_rs_bi": 111.7,
+   "nao_compensado_rs_bi": 83.98,
+   "fatia_nao_compensada_pct": 75.183527305282,
    "veredito": "confirmada"
   },
   "A4": {
@@ -1015,8 +1027,8 @@
   "nota": "erro médio da previsão do Focus para a dívida líquida 3 anos depois (M7); não há série de previsão da dívida bruta tão longa"
  },
  "M5_pontos_de_virada": {
-  "a3_se_B_contar_como_pago_pct": 0.0,
-  "a3_sem_salario_minimo_pct": 61.279508311216645,
+  "a3_se_B_contar_como_pago_pct": 0.9042076991942704,
+  "a3_sem_salario_minimo_pct": 61.81818181818181,
   "a4_sem_6x1": {
    "sem": 9,
    "de": 13,
