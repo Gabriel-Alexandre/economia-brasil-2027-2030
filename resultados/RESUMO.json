@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-26T07:55",
+ "gerado_em": "2026-10-26T08:05",
  "M1_mercado": {},
  "M1_historico_eleicoes": [
   {
@@ -617,8 +617,57 @@
   ]
  },
  "M5_S2": {
-  "custo_pct_pib": 0.0,
-  "itens": []
+  "itens": [
+   {
+    "id": "P03",
+    "nome": "Universalizar o Pé-de-Meia no ensino médio público",
+    "rs_bi": 5.0
+   }
+  ],
+  "custo_rs_bi": 5.0,
+  "custo_pct_pib": 0.0344044588178628
+ },
+ "M5_vereditos": {
+  "A3": {
+   "medidas_na_janela": [
+    "M01",
+    "M02",
+    "M05",
+    "M07",
+    "M08",
+    "M11",
+    "M12",
+    "M13",
+    "M14",
+    "M15",
+    "M16",
+    "M17",
+    "M18"
+   ],
+   "n": 13,
+   "custo_recorrente_delas_rs_bi": 110.69,
+   "nao_compensado_rs_bi": 82.97,
+   "fatia_nao_compensada_pct": 74.95708736109856,
+   "veredito": "confirmada"
+  },
+  "A4": {
+   "promessas": 14,
+   "sem_custo_ou_sem_fonte": 10,
+   "fatia_pct": 71.42857142857143,
+   "lista_sem": [
+    "Universalizar o Pé-de-Meia no ensino médio público",
+    "Universalizar a escola de tempo integral até o ensino médio",
+    "Continuar a valorização do salário mínimo acima da inflação",
+    "Fim da escala 6x1 e jornada de 40 horas (promessa do plano, já cumprida pela EC 141)",
+    "Manter a Farmácia Popular 100% gratuita (e incluir exames, segundo a seleção do projeto de simulação)",
+    "Manter, aperfeiçoar e ampliar a proteção social e a transferência de renda",
+    "Manter e ampliar o Minha Casa Minha Vida para todas as faixas",
+    "Seguir mitigando a volatilidade dos preços de combustíveis",
+    "Debater o barateamento da energia elétrica para residências e empresas",
+    "Pé-de-Meia Licenciatura / Pé-de-Meia Professor"
+   ],
+   "veredito": "confirmada"
+  }
  },
  "M6_divida": {
   "premio_pp": 2.046153846153846,
@@ -642,12 +691,12 @@
   "S2_risco": {
    "2025": 78.6,
    "2026": 82.49999999999999,
-   "2027": 87.11436911088292,
-   "2028": 91.9292901356851,
-   "2029": 95.98759318718487,
-   "2030": 100.72465464270877
+   "2027": 87.14877356970078,
+   "2028": 91.99976367051657,
+   "2029": 96.09496901512895,
+   "2030": 100.87050350200289
   },
-  "custo_s2_pct_pib": 0.0,
+  "custo_s2_pct_pib": 0.0344044588178628,
   "S0_reproduz_a_ifi": true,
   "variacao_2026_2030_S1_pp": 18.224654642708785,
   "classificacao_S1": "sobe rápido",

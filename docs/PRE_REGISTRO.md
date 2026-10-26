@@ -177,3 +177,7 @@ O M5 diz o que medir em A3 e A4, mas não escreveu a régua de quatro níveis qu
 
 **O que já foi visto:** a lista de medidas e de promessas com as datas, o custo e a categoria, que a pesquisa entregou antes desta emenda. As contagens ainda não foram feitas.
 
+### Emenda 4 (26/out, antes das 10h, antes da abertura da B3, operacional)
+
+A7 pede a Selic que **a curva** espera para o fim de 2027, sem dizer como lê-la. Fica definido: é a **taxa a termo de um ano entre os vértices de janeiro de 2028 e janeiro de 2029** da curva DI x pré da B3 (arquivo de taxas referenciais), no fechamento de 26/out. Essa taxa é o juro médio que o mercado cobra para 2028, que começa com a Selic do fim de 2027. Ela inclui um prêmio de prazo, então tende a ficar **acima** da Selic esperada; por isso, se mesmo ela ficar abaixo de 13,75%, a leitura de queda é forte, e se ficar acima, o relatório diz que parte é prêmio. A mesma conta no fechamento de 23/out vai ao lado, para mostrar o que a eleição mudou. **O que já tinha sido visto:** as taxas dos vértices de janeiro de 2027, 2029, 2031 e 2033 no fechamento de 23/out, trazidas pela pesquisa de mercado; nenhuma taxa de 26/out.
+

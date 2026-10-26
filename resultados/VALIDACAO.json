@@ -1,0 +1,86 @@
+{
+ "em": "2026-10-26T08:04",
+ "itens": [
+  {
+   "item": "S0 reproduz a dívida da IFI de 2026 a 2030",
+   "passou": true
+  },
+  {
+   "item": "S1 (prêmio 2.05) igual nos dois caminhos",
+   "passou": true,
+   "valor_2030": 100.72465464270878
+  },
+  {
+   "item": "SGS 13762 baixada de novo",
+   "passou": true,
+   "projeto": {
+    "data": "01/08/2026",
+    "valor": "82.87"
+   },
+   "de_novo": {
+    "data": "01/08/2026",
+    "valor": "82.87"
+   }
+  },
+  {
+   "item": "SGS 5793 baixada de novo",
+   "passou": true,
+   "projeto": {
+    "data": "01/08/2026",
+    "valor": "0.62"
+   },
+   "de_novo": {
+    "data": "01/08/2026",
+    "valor": "0.62"
+   }
+  },
+  {
+   "item": "SGS 5727 baixada de novo",
+   "passou": true,
+   "projeto": {
+    "data": "01/08/2026",
+    "valor": "9.48"
+   },
+   "de_novo": {
+    "data": "01/08/2026",
+    "valor": "9.48"
+   }
+  },
+  {
+   "item": "SGS 4513 baixada de novo",
+   "passou": true,
+   "projeto": {
+    "data": "01/08/2026",
+    "valor": "69.27"
+   },
+   "de_novo": {
+    "data": "01/08/2026",
+    "valor": "69.27"
+   }
+  },
+  {
+   "item": "Ibovespa no dia seguinte a 2010: Yahoo contra matéria (H05)",
+   "passou": true,
+   "yahoo": 1.26,
+   "materia": 1.26
+  },
+  {
+   "item": "Ibovespa no dia seguinte a 2014: Yahoo contra matéria (H07)",
+   "passou": true,
+   "yahoo": -2.77,
+   "materia": -2.77
+  },
+  {
+   "item": "Ibovespa no dia seguinte a 2018: Yahoo contra matéria (H10)",
+   "passou": true,
+   "yahoo": -2.24,
+   "materia": -2.24
+  },
+  {
+   "item": "Ibovespa no dia seguinte a 2022: Yahoo contra matéria (H12)",
+   "passou": true,
+   "yahoo": 1.31,
+   "materia": 1.31
+  }
+ ]
+}

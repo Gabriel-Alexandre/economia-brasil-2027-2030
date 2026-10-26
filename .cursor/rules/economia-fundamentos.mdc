@@ -1,0 +1,14 @@
+---
+description: Doutrina do projeto economia-brasil-2027-2030
+alwaysApply: true
+---
+
+# Fundamentos
+
+- **Pré-registro antes de conta.** Toda regra de veredito, todo cenário e todo controle estão em `docs/PRE_REGISTRO.md`; o que mudar depois vira emenda datada, com o que já tinha sido visto. O que a IA descobrir depois vira variante de sensibilidade, nunca troca o número central.
+- **Dado com hash ou não existe.** Séries no `dados/MANIFESTO.json`; páginas no `dados/MANIFESTO_CAPTURAS.csv`; resumo automático de página não é fonte.
+- **Separar juro de gasto.** Em toda tabela de despesa, o juro da dívida aparece separado do gasto com serviços e benefícios.
+- **Dois conceitos de dívida.** Banco Central (sem os títulos na carteira do BC) na conta; FMI ao lado. Nunca comparar um com o outro como se fossem o mesmo número.
+- **Simetria.** As réguas valem para qualquer governo; o projeto mede custo, data e quem paga, nunca intenção.
+- **Conclusivo.** Cada afirmação do pedido termina num dos quatro vereditos; o cenário central termina numa classificação da dívida.
+- **Linguagem.** Sem travessão; sem "vai quebrar", "calote", "gastança", "derreteu" ou "eleitoreira" na voz do projeto (só entre aspas, como citação do pedido); nada de recomendação de investimento.

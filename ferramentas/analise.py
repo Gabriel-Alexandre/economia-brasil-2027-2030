@@ -8,6 +8,7 @@ from __future__ import annotations
 import csv
 import datetime as dt
 import json
+import re
 import sys
 from pathlib import Path
 
@@ -94,6 +95,43 @@ def m5() -> dict:
     }
 
 
+MESES = {m: i for i, m in enumerate(["jan", "fev", "mar", "abr", "mai", "jun", "jul", "ago", "set", "out", "nov", "dez"], 1)}
+JANELA = (dt.date(2025, 10, 26), dt.date(2026, 10, 25))
+
+
+def datas_do_texto(t: str) -> list[dt.date]:
+    """Datas escritas como 26/nov/2025, nov/2025 ou 2026-09-17 no campo de data da fonte."""
+    out = []
+    for d, m, a in re.findall(r"(\d{1,2})/(jan|fev|mar|abr|mai|jun|jul|ago|set|out|nov|dez)/(\d{4})", t):
+        out.append(dt.date(int(a), MESES[m], int(d)))
+    for m, a in re.findall(r"(?<!\d/)(jan|fev|mar|abr|mai|jun|jul|ago|set|out|nov|dez)/(\d{4})", t):
+        out.append(dt.date(int(a), MESES[m], 15))
+    for a, m, d in re.findall(r"(\d{4})-(\d{2})-(\d{2})", t):
+        out.append(dt.date(int(a), int(m), int(d)))
+    return out
+
+
+def vereditos_a3_a4() -> dict:
+    """Emenda 3."""
+    linhas = list(csv.DictReader((RAIZ / "dados" / "evidencias" / "MEDIDAS_E_PROMESSAS.csv").open(encoding="utf-8")))
+    medidas = [l for l in linhas if l["id"].startswith("M")]
+    na_janela = [l for l in medidas if any(JANELA[0] <= d <= JANELA[1] for d in datas_do_texto(l["data"]))]
+    rec = [l for l in na_janela if l["recorrente_a_partir_de_2027_rs_bi"]]
+    total = sum(float(l["recorrente_a_partir_de_2027_rs_bi"]) for l in rec)
+    nao_comp = sum(float(l["recorrente_a_partir_de_2027_rs_bi"]) for l in rec if l["categoria"] != "A")
+    c1, c2 = len(na_janela) >= 5, total > 0 and nao_comp / total > 0.5
+    a3 = "confirmada" if c1 and c2 else ("confirmada em parte" if c1 or c2 else "não confirmada")
+    prom = [l for l in linhas if l["id"].startswith("P") and l["id"] != "P15"]
+    sem = [l for l in prom if not l["custo_informado_rs_bi"] or l["categoria"] == "E"]
+    f = len(sem) / len(prom)
+    a4 = "confirmada" if f > 0.5 else ("confirmada em parte" if f >= 0.25 else "não confirmada")
+    return {"A3": {"medidas_na_janela": [l["id"] for l in na_janela], "n": len(na_janela),
+                   "custo_recorrente_delas_rs_bi": total, "nao_compensado_rs_bi": nao_comp,
+                   "fatia_nao_compensada_pct": 100 * nao_comp / total if total else None, "veredito": a3},
+            "A4": {"promessas": len(prom), "sem_custo_ou_sem_fonte": len(sem), "fatia_pct": 100 * f,
+                   "lista_sem": [l["nome"] for l in sem], "veredito": a4}}
+
+
 def main() -> int:
     hoje = dt.date.today()
     m1 = ler_json(RES / "M1_MERCADO.json", {})
@@ -103,7 +141,12 @@ def main() -> int:
         premio, origem = PREMIO_VIDEO_13, "provisório: o do projeto do vídeo 13 (reação do DI de 15/out), até medir o do dia 26/out"
     medidas = m5()
     # S2: promessas com custo de duas fontes e sem fonte declarada (pré-registro M5)
-    s2 = ler_json(RES / "S2_PROMESSAS.json", {"custo_pct_pib": 0.0, "itens": []})
+    linhas = list(csv.DictReader((RAIZ / "dados" / "evidencias" / "MEDIDAS_E_PROMESSAS.csv").open(encoding="utf-8")))
+    itens_s2 = [{"id": l["id"], "nome": l["nome"], "rs_bi": float(l["custo_informado_rs_bi"])} for l in linhas
+                if l["id"].startswith("P") and l["categoria"] == "E" and l["custo_informado_rs_bi"]
+                and l["fonte_principal_conferida"] == "sim" and l["tem_segunda_fonte"] == "sim"]
+    s2 = {"itens": itens_s2, "custo_rs_bi": sum(x["rs_bi"] for x in itens_s2),
+          "custo_pct_pib": 100 * sum(x["rs_bi"] for x in itens_s2) / medidas["pib_nominal_2027_ifi"]}
     # Variante (descoberta depois do pré-registro): custos recorrentes posteriores ao cenário da IFI de jun/2026
     pib27 = medidas["pib_nominal_2027_ifi"]
     fora_da_base = [x for x in medidas["medidas_recorrentes"] if x["id"] in ("M12", "M13")]
@@ -123,6 +166,7 @@ def main() -> int:
                            for ind in ["PIB Total", "IPCA", "Câmbio", "Resultado primário", "Dívida líquida do setor público"]},
         "M5_medidas": medidas,
         "M5_S2": s2,
+        "M5_vereditos": vereditos_a3_a4(),
         "M6_divida": m6(premio, origem, s2["custo_pct_pib"], fora_pct),
         "M6_variante_custos_fora_da_base": {"itens": fora_da_base, "pct_pib": fora_pct},
     }
