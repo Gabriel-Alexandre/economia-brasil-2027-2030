@@ -74,14 +74,17 @@ def juro_real() -> dict:
 
 
 def regua_a7(focus_fim_2027: float, curva_fim_2027: float | None, selic_atual: float, focus_trajetoria: list[float]) -> str:
-    """Pré-registro M4: maior que a atual no fim de 2027 nas duas = confirmada; só uma = em parte;
-    menor nas duas = não confirmada; queda em todos os anos nas duas = o dado diz o contrário."""
-    sobe = [focus_fim_2027 > selic_atual] + ([curva_fim_2027 > selic_atual] if curva_fim_2027 is not None else [])
+    """Pré-registro M4 e emenda 6: maior que a atual no fim de 2027 nas duas = confirmada; só uma = em parte;
+    menor nas duas = não confirmada; queda em 2026, 2027 e 2028 nas duas = o dado diz o contrário.
+    Sem a curva de 26/out, não há veredito."""
+    if curva_fim_2027 is None:
+        return "pendente (falta a curva da B3 de 26/out)"
+    sobe = [focus_fim_2027 > selic_atual, curva_fim_2027 > selic_atual]
     if all(sobe):
         return "confirmada"
     if any(sobe):
         return "confirmada em parte"
     caindo = all(b < a for a, b in zip([selic_atual] + focus_trajetoria, focus_trajetoria))
-    if caindo and (curva_fim_2027 is None or curva_fim_2027 < selic_atual):
+    if caindo and curva_fim_2027 < selic_atual:
         return "o dado diz o contrário"
     return "não confirmada"

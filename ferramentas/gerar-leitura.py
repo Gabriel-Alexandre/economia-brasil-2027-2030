@@ -85,22 +85,22 @@ def leitura(r: dict, rev: dict) -> str:
     s.append(f"- **2028: o limite do arcabouço deixa de caber.** Pelo próprio governo, faltam R$ {br(x['falta28'])} bi de despesa livre em 2028 e R$ {br(x['falta30'])} bi em 2030 para manter a máquina como está; a IFI fala em risco de paralisação. Ao mesmo tempo, os precatórios voltam aos poucos para dentro da meta. É aí que a regra fiscal provavelmente terá de ser mudada (mexendo nos pisos de saúde e educação, na regra do salário mínimo ou no próprio limite), e o tipo de mudança vai decidir o juro do resto do mandato.")
     s.append(f"- **2029 e 2030: a dívida perto de {br(m6['S1_central']['2030'], 0)}% do PIB** no cenário central, contra {br(m6['S0_base_ifi']['2030'])}% na base da IFI e {br(m6['focus_dbgg']['2030'])}% no Focus. Com o PIB um ponto abaixo, {br(m6['sensibilidade_2030']['pib_1_ponto_abaixo'])}%; um ponto acima, {br(m6['sensibilidade_2030']['pib_1_ponto_acima'])}%.\n")
     s.append("## 6. A minha conclusão\n")
-    s.append(f"**A dívida {m6['classificacao_S1']} até 2030, e o juro alto é a causa principal e a consequência ao mesmo tempo.** Isso já era verdade antes da eleição: a base da IFI de junho já tinha a dívida subindo todo ano até 2036. "
+    db_ifi = json.loads((RAIZ / "dados" / "derivados" / "ifi_raf113.json").read_text(encoding="utf-8"))["base"]["divida_bruta"]
+    ano_ult = max(db_ifi, key=int)
+    ifi36 = db_ifi[ano_ult]
+    v = r["M6_variantes_revisao"]
+    metas = v.get("p2_metas_do_pldo_cumpridas", {})
+    s.append(f"**A dívida {m6['classificacao_S1']} até 2030, e o juro alto é a causa principal e a consequência ao mesmo tempo.** Isso já era verdade antes da eleição: a base da IFI de junho já tinha a dívida subindo todo ano, até {br(ifi36)}% do PIB em {ano_ult}. "
              "O que o resultado mudou foi o preço do risco: o mercado passou a cobrar mais para financiar o mesmo governo, e isso, se ficar, encarece a dívida por anos. "
-             f"Ao mesmo tempo, o mercado costuma errar a dívida para pior ({rz['vezes_que_o_mercado_previu_divida_maior']} das {rz['n']} eleições desde 2002), e a economia real está melhor que a conta pública: o desemprego está no mínimo da série. "
-             "O que separa os dois caminhos é uma decisão política que ainda não foi tomada: se o 2º mandato fizer um ajuste crível em 2027 (como o de 2003), o prêmio de juros cai e a dívida sobe menos; se empurrar o problema para 2028, quando o limite deixa de caber, o prêmio fica e a dívida passa de 100% do PIB no conceito do Banco Central.\n")
-    s.append("## 7. As duas premissas (emenda 5)\n")
-    for p in rev.get("premissas", []):
-        s.append(f"### {p['nome']}\n")
-        s.append(f"- **A versão mais forte:** {p['versao_forte']}")
-        s.append(f"- **O que se esperaria ver no dado:** {p['o_que_se_veria']}")
-        s.append(f"- **O que o dado mostra:** {p['o_que_mostra']}")
-        s.append(f"- **O que a derrubaria:** {p['o_que_derruba']}")
-        if p.get("variante"):
-            s.append(f"- **A variante calculada:** {p['variante']}")
-        s.append("")
-    if rev.get("qual_o_dado_sustenta"):
-        s.append(f"**Qual o dado sustenta mais:** {rev['qual_o_dado_sustenta']}\n")
+             f"Ao mesmo tempo, o mercado costuma errar a dívida para pior ({rz['vezes_que_o_mercado_previu_divida_maior']} das {rz['n']} eleições desde 2002), e a economia real está melhor que a conta pública. "
+             "O que separa os caminhos é uma decisão que ainda não foi tomada: "
+             + (f"se o 2º mandato cumprir as metas que ele mesmo mandou ao Congresso, a dívida termina 2030 perto de {br(metas['divida_2030_com_premio'], 0)}% do PIB mesmo com o prêmio; " if metas else "")
+             + f"se empurrar o problema para 2028, quando o limite de gasto deixa de caber, o prêmio fica e a dívida chega a {br(m6['S1_central']['2030'], 0)}% ou mais.\n")
+    s.append("## 7. As duas premissas\n")
+    s.append("A seção 11 do relatório toma como verdadeira, uma de cada vez, a premissa de que o mercado tem razão e a de que ele exagerou, com a conta de cada uma. "
+             "A minha leitura: a P1 ganha no que importa para 2027 a 2030, porque a dívida sobe em todas as contas, inclusive nas mais favoráveis ao governo; "
+             "a P2 ganha no tamanho do susto do dia, porque parte da queda é aposta desfeita e o mercado costuma errar a dívida para pior. "
+             "As duas cabem juntas: o problema é real e vem de antes da eleição, e o preço do dia pode ter exagerado o tamanho dele.\n")
     return "\n".join(s)
 
 

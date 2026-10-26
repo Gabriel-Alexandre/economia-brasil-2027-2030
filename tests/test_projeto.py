@@ -44,6 +44,7 @@ def test_reguas():
     assert mercado.regua_a1(0.5) == "o dado diz o contrário"
     assert contas.regua_a5(5) == "confirmada"
     assert contas.regua_a7(12, 11, 13.75, [13.25, 12, 10.5]) == "o dado diz o contrário"
+    assert contas.regua_a7(12, None, 13.75, [13.25, 12, 10.5]).startswith("pendente")
     assert contas.regua_a7(14, 11, 13.75, [13.25, 14]) == "confirmada em parte"
     assert contas.regua_a7(14, 14.5, 13.75, [13.25, 14]) == "confirmada"
 

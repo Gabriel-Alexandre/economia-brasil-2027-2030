@@ -139,9 +139,24 @@ def fluxo() -> tuple[dict, list[str]]:
     """M2 pelos achados de fluxo (K04 a K09), com os números lidos do trecho conferido."""
     conf = {l["id"]: l for l in csv.DictReader((RES / "TRECHOS_CONFERIDOS.csv").open(encoding="utf-8")) if l["estado_a"].startswith("ok")}
     ach = {l["id"]: l for l in csv.DictReader((RAIZ / "dados" / "evidencias" / "ACHADOS.csv").open(encoding="utf-8")) if l["id"] in conf}
-    linhas = [f"{ach[k]['fato']} ([fonte]({ach[k]['url_a']}))" for k in ("K04", "K05", "K06", "K07", "K08", "K09", "K21") if k in ach]
     ano = float(ach["K04"]["numero"]) if "K04" in ach else None
     outubro = float(ach["K09"]["numero"]) if "K09" in ach else None
+    b = lambda x: f"{x:,.1f}".replace(",", "X").replace(".", ",").replace("X", ".")  # noqa: E731
+    linhas = []
+    if ano is not None:
+        linhas.append(f"De janeiro a 22/out de 2026, os estrangeiros compraram R$ {b(ano)} bi a mais do que venderam em ações na B3 (sem contar ofertas novas) ([fonte]({ach['K04']['url_a']})).")
+    if outubro is not None:
+        linhas.append(f"Só em outubro, até o dia 22, a entrada foi de R$ {b(outubro)} bi ([fonte]({ach['K09']['url_a']})).")
+    if "K08" in ach:
+        linhas.append(f"No primeiro pregão depois do 1º turno (5/out) entraram R$ {b(float(ach['K08']['numero']))} bi num dia só, recorde ([fonte]({ach['K08']['url_a']})).")
+    if "K06" in ach:
+        linhas.append(f"O pior mês do ano foi agosto, com saída de R$ {b(-float(ach['K06']['numero']))} bi ([fonte]({ach['K06']['url_a']})).")
+    if "K09" in ach:
+        dias = re.findall(r"(\d{2}/10) ([+-][\d.]+,\d+) mi", ach["K09"]["fato"])
+        if dias:
+            linhas.append("Nos dias antes do 2º turno o saldo já oscilava: " + ", ".join(f"{d}, R$ {v} mi" for d, v in dias) + ".")
+    if "K21" in ach:
+        linhas.append(f"A imprensa registrou que os investidores estrangeiros estavam posicionados para a vitória do outro candidato ([fonte]({ach['K21']['url_a']})).")
     return {"ano_ate_22_out_rs_bi": ano, "outubro_ate_22_out_rs_bi": outubro}, linhas
 
 
@@ -190,6 +205,16 @@ def main(coletar: bool = True) -> int:
         out["premio"] = {"premio_pp": exc / (1 - pm["p"]), "excesso_juro_jan2033_pp": exc, "variacao_di_jan2033_pp": dbr,
                          "variacao_10_anos_eua_pp": dus, "p_lula_vespera": pm["p"],
                          "origem": f"excesso do DI jan/2033 contra o título de 10 anos dos EUA em 26/out ({exc:.2f} ponto), dividido pela surpresa (1 - {pm['p']:.3f})".replace(".", ",")}
+    # variante da revisão adversarial: o juro longo de 26/out contra o da data da base da IFI (12/jun),
+    # descontado o que o título de 10 anos dos EUA fez no mesmo intervalo; sem dividir pela surpresa,
+    # porque compara dois níveis e não a reação a um resultado
+    jun = dt.date(2026, 6, 12)
+    cj = curva_b3(jun)
+    dus_jun = tnx(jun, D1)
+    if cj and c1 and dus_jun is not None:
+        di_jun = taxa_em(cj, jun, VENCIMENTOS["jan/2033"])[0]
+        out["premio_contra_base_ifi"] = {"premio_pp": (out["curva_26_out"]["jan/2033"] - di_jun) - dus_jun,
+                                         "di_jan2033_12_jun": di_jun, "variacao_10_anos_eua_pp": dus_jun}
     # vereditos
     if e["ibovespa"]:
         v = e["ibovespa"]["variacao_pct"]
@@ -199,9 +224,19 @@ def main(coletar: bool = True) -> int:
     out["fluxo_numeros"], out["fluxo"] = f, linhas
     a2 = regua_a2(f["ano_ate_22_out_rs_bi"], f["outubro_ate_22_out_rs_bi"])
     out["veredito_a2"] = {"veredito": a2, "porque": (f"até 22/out entraram R$ {f['ano_ate_22_out_rs_bi']:.1f} bi de estrangeiros na bolsa em 2026 e R$ {f['outubro_ate_22_out_rs_bi']:.1f} bi em outubro; o dado de 26/out sai na B3 dois dias depois".replace(".", ",")) if a2 != "sem dado" else ""}
-    conf = {l["id"] for l in csv.DictReader((RES / "TRECHOS_CONFERIDOS.csv").open(encoding="utf-8")) if l["estado_a"].startswith("ok")}
-    if "K12" in conf:
-        out["veredito_a6"] = {"veredito": "confirmada", "porque": "o Brasil tem o maior juro real entre as economias do ranking MoneYou de 16/set/2026 (achado K12); régua: entre os três maiores = confirmada"}
+    conf = {l["id"]: l for l in csv.DictReader((RES / "TRECHOS_CONFERIDOS.csv").open(encoding="utf-8")) if l["estado_a"].startswith("ok")}
+    ach = {l["id"]: l for l in csv.DictReader((RAIZ / "dados" / "evidencias" / "ACHADOS.csv").open(encoding="utf-8"))}
+    if "K12" in conf and conf["K12"]["estado_b"].startswith("ok"):
+        # ranking MoneYou e Lev Intelligence (16/set/2026): o Brasil na segunda fonte, os países seguintes na primeira
+        k = ach["K12"]
+        brasil = float(re.search(r"juro real do Brasil é de (\d+,\d+)%", k["trecho_b"]).group(1).replace(",", "."))
+        texto_outros = k["trecho_a"].split("A média")[0]
+        outros = [float(x.replace(",", ".")) for x in re.findall(r"(\d+,\d+)%", texto_outros)]
+        posicao = 1 + sum(1 for x in outros if x > brasil)
+        v = "confirmada" if posicao <= 3 else ("confirmada em parte" if posicao <= 10 else "não confirmada")
+        out["veredito_a6"] = {"veredito": v, "posicao": posicao, "juro_real_brasil_ranking": brasil, "seguintes": outros,
+                              "porque": (f"o Brasil é o {'maior' if posicao == 1 else str(posicao) + 'º maior'} juro real entre 40 países no ranking MoneYou de 16/set/2026, com {brasil:.2f}% ao ano; "
+                                         f"o segundo tem {max(outros):.2f}%").replace(".", ",")}
     out["notas"] = notas
     RES.mkdir(exist_ok=True)
     (RES / "M1_MERCADO.json").write_text(json.dumps(out, ensure_ascii=False, indent=1, default=str), encoding="utf-8")

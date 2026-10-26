@@ -110,7 +110,7 @@ def g03_gasto(r: dict) -> None:
 def g04_juros_e_primario(r: dict) -> None:
     p = S.sgs("bcb-primario-12m")
     j = S.sgs("bcb-juros-nominais-12m")
-    fig, ax = nova("O rombo das contas: a maior parte é juro", "Banco Central, necessidades de financiamento do setor público, acumulado em 12 meses",
+    fig, ax = nova("O déficit das contas: a maior parte é juro", "Banco Central, necessidades de financiamento do setor público, acumulado em 12 meses",
                    "% do PIB. Acima de zero é déficit. Juros = o que a dívida custa; primário = o resto das contas")
     pd_ = [d for d in p.index if d >= dt.date(2010, 1, 1)]
     ax.plot(pd_, [j[d] for d in pd_], color=LARANJA, lw=3)

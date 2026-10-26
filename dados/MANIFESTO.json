@@ -1,4 +1,13 @@
 {
+ "b3-curva-pre-20260612": {
+  "arquivo": "dados/brutos/TS260612.zip",
+  "baixado_em": "2026-10-26T08:27:13",
+  "bytes": 325793,
+  "sha256": "639a3690a27192728d6ca0e7f6e910d45513dcc4452fe8f73e6af4ac2d6cb818",
+  "urls": [
+   "https://www.b3.com.br/pesquisapregao/download?filelist=TS260612.ex_"
+  ]
+ },
  "b3-curva-pre-20261023": {
   "arquivo": "dados/brutos/TS261023.zip",
   "baixado_em": "2026-10-26T08:13:02",
@@ -372,7 +381,7 @@
  },
  "polymarket-lula": {
   "arquivo": "dados/series/polymarket-lula.json",
-  "baixado_em": "2026-10-26T08:23:22",
+  "baixado_em": "2026-10-26T08:39:27",
   "bytes": 1577,
   "sha256": "d52b7def0a43a11e28100cbfbe104c57662ea3418b486602cf052e6dff2103e3",
   "urls": [

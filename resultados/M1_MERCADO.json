@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-26T08:23-03:00",
+ "gerado_em": "2026-10-26T08:37-03:00",
  "fechamento_de_26_out": false,
  "dia": null,
  "curva_23_out": {
@@ -23,13 +23,12 @@
   "outubro_ate_22_out_rs_bi": 19.13
  },
  "fluxo": [
-  "Acumulado do capital estrangeiro na B3 em 2026 até 22/10 (último dado publicado), mercado secundário, sem IPOs e follow-ons. Até 30/09 o mesmo cálculo dá R$ 27,40 bi, número que o Poder360 (Elos Ayta) publicou; com ofertas, R$ 32,03 bi. ([fonte](https://www.dadosdemercado.com.br/fluxo))",
-  "Saldo estrangeiro no 1º semestre de 2026 (jan a jun), com junho em -R$ 7,78 bi (soma da tabela: R$ 33,85 bi; junho -7.785,58 mi). ([fonte](https://www.infomoney.com.br/?p=3396049))",
-  "Agosto de 2026 foi o pior mês do ano para o estrangeiro na B3 (tabela: -18.116,81 mi). O InfoMoney cita julho em +R$ 4,3 bi (tabela: +2,56 bi, sem ofertas). ([fonte](https://trademap.com.br/noticias/news-8266222))",
-  "Setembro de 2026: entrada líquida estrangeira de R$ 9,11 bi, melhor mês desde março (Elos Ayta). Tabela: 9.106,83 mi. ([fonte](https://www.poder360.com.br/poder-economia/estrangeiros-aportam-r-911-bi-na-b3-em-setembro/))",
-  "5/10/2026, primeiro pregão depois do 1º turno: entrada estrangeira recorde de R$ 10,06 bi num só dia. ([fonte](https://www.dadosdemercado.com.br/fluxo))",
-  "Outubro de 2026 até o dia 22: entrada estrangeira de R$ 19,13 bi (soma da tabela). Até 14/10 a XP contava R$ 19,1 bi (tabela até 14/10: R$ 18,54 bi; diferença de método não reconciliada). Nos dias perto do 2º turno o fluxo virou: 19/10 -1.008,76 mi, 20/10 +17,64 mi, 21/10 +156,88 mi, 22/10 -1.030,50 mi. O dado de 23/10 ainda não tinha saído. ([fonte](https://www.dadosdemercado.com.br/fluxo))",
-  "Papel do estrangeiro no rali de outubro: InfoMoney calcula capital estrangeiro positivo em R$ 20,15 bi em outubro (dados até 21/10), segundo maior mês do ano atrás de janeiro (R$ 26,4 bi). Bloomberg: investidores estavam posicionados para vitória de Flávio; UBS, Morgan Stanley, JPMorgan e Citi emitiram recomendações otimistas após o 1º turno. ([fonte](https://www.infomoney.com.br/mercados/ibovespa-em-alta-dolar-em-queda-a-reacao-do-mercado-entre-1o-e-2o-turno-da-eleicao/))"
+  "De janeiro a 22/out de 2026, os estrangeiros compraram R$ 46,5 bi a mais do que venderam em ações na B3 (sem contar ofertas novas) ([fonte](https://www.dadosdemercado.com.br/fluxo)).",
+  "Só em outubro, até o dia 22, a entrada foi de R$ 19,1 bi ([fonte](https://www.dadosdemercado.com.br/fluxo)).",
+  "No primeiro pregão depois do 1º turno (5/out) entraram R$ 10,1 bi num dia só, recorde ([fonte](https://www.dadosdemercado.com.br/fluxo)).",
+  "O pior mês do ano foi agosto, com saída de R$ 18,1 bi ([fonte](https://trademap.com.br/noticias/news-8266222)).",
+  "Nos dias antes do 2º turno o saldo já oscilava: 19/10, R$ -1.008,76 mi, 20/10, R$ +17,64 mi, 21/10, R$ +156,88 mi, 22/10, R$ -1.030,50 mi.",
+  "A imprensa registrou que os investidores estrangeiros estavam posicionados para a vitória do outro candidato ([fonte](https://www.infomoney.com.br/mercados/ibovespa-em-alta-dolar-em-queda-a-reacao-do-mercado-entre-1o-e-2o-turno-da-eleicao/))."
  ],
  "veredito_a2": {
   "veredito": "não confirmada",
@@ -37,7 +36,14 @@
  },
  "veredito_a6": {
   "veredito": "confirmada",
-  "porque": "o Brasil tem o maior juro real entre as economias do ranking MoneYou de 16/set/2026 (achado K12); régua: entre os três maiores = confirmada"
+  "posicao": 1,
+  "juro_real_brasil_ranking": 8.45,
+  "seguintes": [
+   6.79,
+   6.33,
+   6.25
+  ],
+  "porque": "o Brasil é o maior juro real entre 40 países no ranking MoneYou de 16/set/2026, com 8,45% ao ano; o segundo tem 6,79%"
  },
  "notas": []
 }
