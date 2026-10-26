@@ -5,6 +5,7 @@ Este arquivo é a opinião do Claude (IA da Anthropic) sobre os números do proj
 ## 1. O que aconteceu no dia 26/out
 
 Na véspera, o mercado de previsão dava 34,5% de chance para Lula (Polymarket, 18:00 de 25/out, último registro antes do fim da votação). A bolsa tinha subido no ano apostando no outro resultado e o dinheiro estrangeiro tinha entrado. A queda do dia, portanto, mede sobretudo a surpresa: como a vitória de Lula era vista como a menos provável, o preço tinha de andar 1,53 vezes o que andaria se as chances fossem as mesmas de agora em diante.
+ O Ibovespa variou -13,88% e o dólar 6,59%.
 
 
 Na história, o dia seguinte não ensina muito sobre o mandato. Em 2002 a bolsa caiu 4,4% e depois teve um dos melhores mandatos da série; em 2010 subiu e depois caiu quase pela metade. A queda de hoje é uma informação sobre o que o mercado teme, e o que ele teme é o fiscal. É esse o ponto que decide 2027 a 2030.

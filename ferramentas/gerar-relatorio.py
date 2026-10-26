@@ -125,11 +125,21 @@ def secao_mercado(r: dict, v: dict, jr: dict) -> list[str]:
                   ["Dólar contra o real (Yahoo, fechamento)", f"{sinal(e['usdbrl_yahoo']['variacao_pct'], 2)}%", f"R$ {br(e['usdbrl_yahoo']['inicio'], 4)} → R$ {br(e['usdbrl_yahoo']['fim'], 4)}"]]
         if e.get("usdbrl_ptax"):
             linhas.append(["Dólar PTAX (média do dia, Banco Central)", f"{sinal(e['usdbrl_ptax']['variacao_pct'], 2)}%", f"R$ {br(e['usdbrl_ptax']['inicio'], 4)} → R$ {br(e['usdbrl_ptax']['fim'], 4)}"])
+        dv = m1.get("dolar_a_vista")
+        if dv:
+            linhas.append(["Dólar à vista (fechamento, imprensa)", f"{sinal(dv['variacao_pct'], 2)}%", f"→ R$ {br(dv['fim'], 4)} ([fonte]({dv['fonte']}))"])
         linhas.append(["Dólar contra México, Chile, Colômbia e África do Sul (média, controle)", f"{sinal(e['controle_moeda_pct'], 2)}%", ""])
         for j in m1.get("juros", []):
             linhas.append([j["nome"], f"{sinal(j['variacao_pp'] * 100, 0)} centésimos", j.get("detalhe", "")])
         s += [f"Janela: fechamento de {e['janela'][0]} contra o de {e['janela'][1]}.\n", tabela(["Ativo", "Variação", "De → para"], linhas) + "\n",
-              f"**O que se atribui à eleição (o Brasil menos os outros emergentes):** bolsa {sinal(e.get('excesso_ibovespa_contra_eem_pct', 0), 2)} pontos; dólar {sinal(e.get('excesso_dolar_contra_cesta_pct', 0), 2)} pontos.\n"]
+              f"**O que se atribui à eleição (o Brasil menos os outros emergentes):** bolsa {sinal(e.get('excesso_ibovespa_contra_eem_pct', 0), 2)} pontos; dólar {sinal(e.get('excesso_dolar_contra_cesta_pct', 0), 2)} pontos (dólar do Yahoo nos dois lados, para a mesma hora; a PTAX é a média do dia e mede outra coisa).\n"]
+        pos = m1.get("posicao_da_queda_de_26_out")
+        if pos:
+            outras = [q for q in m1["maiores_quedas_desde_1995"] if q["data"] != e["janela"][1]][:pos - 1]
+            s.append(f"**É a {pos}ª maior queda diária do Ibovespa desde 1995.** Maiores que ela: "
+                     + "; ".join(f"{q['data'][8:10]}/{q['data'][5:7]}/{q['data'][:4]} ({br(q['variacao_pct'], 2)}%)" for q in outras)
+                     + ". Nas eleições anteriores (§2.2), o pior dia seguinte tinha sido o de 2002.\n")
+        s += [f"- {n}" for n in m1.get("notas", [])] + [""]
     else:
         s.append("Os números do fechamento de 26/out entram quando o script rodar depois das 18h. Antes disso, nenhuma variação de dentro do pregão é usada.\n")
     pm = m1.get("polymarket")

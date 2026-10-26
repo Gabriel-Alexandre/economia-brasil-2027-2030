@@ -1,9 +1,118 @@
 {
- "gerado_em": "2026-10-26T09:48",
+ "gerado_em": "2026-10-26T18:23",
  "M1_mercado": {
-  "gerado_em": "2026-10-26T09:46-03:00",
-  "fechamento_de_26_out": false,
-  "dia": null,
+  "gerado_em": "2026-10-26T18:23-03:00",
+  "fechamento_de_26_out": true,
+  "dia": {
+   "janela": [
+    "2026-10-23",
+    "2026-10-26"
+   ],
+   "ibovespa": {
+    "de": "2026-10-23",
+    "ate": "2026-10-26",
+    "inicio": 205083.0,
+    "fim": 176608.234375,
+    "variacao_pct": -13.88450804064696
+   },
+   "ewz": {
+    "de": "2026-10-23",
+    "ate": "2026-10-26",
+    "inicio": 42.59000015258789,
+    "fim": 34.150001525878906,
+    "variacao_pct": -19.816855122025977
+   },
+   "eem": {
+    "de": "2026-10-23",
+    "ate": "2026-10-26",
+    "inicio": 62.0099983215332,
+    "fim": 61.81999969482422,
+    "variacao_pct": -0.30639998685987324
+   },
+   "usdbrl_yahoo": {
+    "de": "2026-10-23",
+    "ate": "2026-10-26",
+    "inicio": 5.049900054931641,
+    "fim": 5.382900238037109,
+    "variacao_pct": 6.594193538152648
+   },
+   "usdbrl_ptax": {
+    "de": "2026-10-23",
+    "ate": "2026-10-26",
+    "inicio": 5.0377,
+    "fim": 5.5007,
+    "variacao_pct": 9.190702106119852
+   },
+   "moedas_controle": {
+    "yahoo-usdmxn": {
+     "de": "2026-10-23",
+     "ate": "2026-10-26",
+     "inicio": 18.720779418945312,
+     "fim": 18.554330825805664,
+     "variacao_pct": -0.8891114489133045
+    },
+    "yahoo-usdclp": {
+     "de": "2026-10-23",
+     "ate": "2026-10-26",
+     "inicio": 985.3099975585938,
+     "fim": 988.5,
+     "variacao_pct": 0.3237562238595393
+    },
+    "yahoo-usdcop": {
+     "de": "2026-10-23",
+     "ate": "2026-10-26",
+     "inicio": 3186.77001953125,
+     "fim": 3133.5,
+     "variacao_pct": -1.6715991177513878
+    },
+    "yahoo-usdzar": {
+     "de": "2026-10-23",
+     "ate": "2026-10-26",
+     "inicio": 16.480100631713867,
+     "fim": 16.631500244140625,
+     "variacao_pct": 0.9186813588711207
+    }
+   },
+   "controle_moeda_pct": -0.3295682459835081,
+   "excesso_ibovespa_contra_eem_pct": -13.578108053787087,
+   "excesso_ewz_contra_eem_pct": -19.510455135166104,
+   "excesso_dolar_contra_cesta_pct": 6.923761784136157
+  },
+  "maiores_quedas_desde_1995": [
+   {
+    "data": "1998-09-10",
+    "variacao_pct": -15.809018567639255
+   },
+   {
+    "data": "1997-10-27",
+    "variacao_pct": -14.967518406236469
+   },
+   {
+    "data": "2020-03-12",
+    "variacao_pct": -14.7796785290768
+   },
+   {
+    "data": "2020-03-16",
+    "variacao_pct": -13.921478506978879
+   },
+   {
+    "data": "2026-10-26",
+    "variacao_pct": -13.88450804064696
+   },
+   {
+    "data": "2020-03-09",
+    "variacao_pct": -12.173842056389484
+   },
+   {
+    "data": "2008-10-15",
+    "variacao_pct": -11.393105439149364
+   },
+   {
+    "data": "2020-03-18",
+    "variacao_pct": -10.348848117721165
+   }
+  ],
+  "posicao_da_queda_de_26_out": 5,
   "curva_23_out": {
    "jan/2027": 13.468,
    "jan/2028": 12.859,
@@ -19,6 +128,10 @@
    "fim_de_23_out": 0.225,
    "pontos": 58,
    "url": "https://clob.polymarket.com/prices-history?market=30630994248667897740988010928640156931882346081873066002335460180076741328029&startTs=1792724400&endTs=1793005200&fidelity=60"
+  },
+  "veredito_a1": {
+   "veredito": "confirmada",
+   "porque": "Ibovespa -13,88% no dia; contra os emergentes (EEM), -13,58 pontos"
   },
   "fluxo_numeros": {
    "ano_ate_22_out_rs_bi": 46.52,
@@ -70,7 +183,28 @@
    ],
    "porque": "o Brasil tem o maior juro real entre 40 países no ranking MoneYou de 16/set/2026, com 8,45% ao ano; o segundo tem 6,79%"
   },
-  "notas": []
+  "dolar_a_vista": {
+   "variacao_pct": 8.21,
+   "fim": 5.4029,
+   "fonte": "https://euqueroinvestir.com/acoes/ibovespa-hoje-reage-a-eleicao-e-derrete-mais-de-1388"
+  },
+  "conferencia_segunda_fonte": [
+   {
+    "item": "Ibovespa de 26/out: Yahoo contra a matéria (K40)",
+    "projeto": 176608.234375,
+    "segunda_fonte": 176608.23,
+    "tolerancia": 1.0
+   },
+   {
+    "item": "Queda do Ibovespa em 26/out: Yahoo contra a matéria (K40)",
+    "projeto": 13.88450804064696,
+    "segunda_fonte": 13.88,
+    "tolerancia": 0.01
+   }
+  ],
+  "notas": [
+   "Às 10h05 de 26/out a B3 acionou o circuit breaker (queda de 10% do Ibovespa) e suspendeu os negócios à vista por 30 minutos, a primeira vez desde a pandemia. ([fonte](https://www.infomoney.com.br/mercados/circuit-breaker-por-que-bolsa-suspendeu-negociacoes-veja-quando-ela-volta/), [segunda fonte](https://investalk.bb.com.br/noticias/mercado/b3-aciona-circuit-break-pela-1-vez-desde-pandemia-e-suspende-negociacoes-a-vista-por-30-minutos))"
+  ]
  },
  "M1_historico_eleicoes": [
   {
@@ -172,15 +306,15 @@
    "pib_anos_com_dado": 4,
    "divida_bruta_inicio": 83.9,
    "divida_bruta_fim": 97,
-   "ibovespa_real_pct": 47.16197780636344,
+   "ibovespa_real_pct": 26.72926116506382,
    "mandato_completo": false
   },
   {
    "ano": 2026,
    "vencedor": "Lula",
-   "ibovespa_dia_pct": null,
-   "dolar_dia_pct": -1.1247725300101763,
-   "excesso_ibovespa_pct": null
+   "ibovespa_dia_pct": -13.88450804064696,
+   "dolar_dia_pct": 9.190702106119852,
+   "excesso_ibovespa_pct": -13.578108053787087
   }
  ],
  "M7_previsao_do_mercado_contra_o_realizado": {

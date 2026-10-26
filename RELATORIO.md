@@ -15,7 +15,7 @@
 
 |  | O que o pedido disse | Veredito | Por quê |
 |---|---|---|---|
-| A1 | "a bolsa derreteu" | pendente (falta o fechamento de 26/out) |  |
+| A1 | "a bolsa derreteu" | confirmada | Ibovespa -13,88% no dia; contra os emergentes (EEM), -13,58 pontos |
 | A2 | "vários investimentos [...] acabou fugindo do Brasil" | não confirmada | até 22/out entraram R$ 46,5 bi de estrangeiros na bolsa em 2026 e R$ 19,1 bi em outubro; o dado de 26/out sai na B3 dois dias depois |
 | A3 | "muitas medidas" no ano da eleição | confirmada | 13 medidas nos 12 meses antes da eleição; 75% do custo que se repete não tem receita nova para pagar (sai de outra despesa ou de fora do Orçamento). Viraria "em parte" se o que cabe no limite de gasto contasse como pago. Intenção não se mede |
 | A4 | "de onde é que vai vir esse dinheiro" | confirmada | 10 de 14 promessas econômicas sem custo publicado ou sem fonte declarada (9 de 13 sem o fim da escala 6x1, que já foi aprovado) |
@@ -47,7 +47,23 @@
 
 ## 2. O mercado no dia seguinte (M1)
 
-Os números do fechamento de 26/out entram quando o script rodar depois das 18h. Antes disso, nenhuma variação de dentro do pregão é usada.
+Janela: fechamento de 2026-10-23 contra o de 2026-10-26.
+
+| Ativo | Variação | De → para |
+|---|---|---|
+| Ibovespa | -13,88% | 205.083 → 176.608 pontos |
+| EWZ (ações do Brasil em Nova York, em dólar) | -19,82% | US$ 42,59 → US$ 34,15 |
+| EEM (ações de emergentes, controle) | -0,31% |  |
+| Dólar contra o real (Yahoo, fechamento) | +6,59% | R$ 5,0499 → R$ 5,3829 |
+| Dólar PTAX (média do dia, Banco Central) | +9,19% | R$ 5,0377 → R$ 5,5007 |
+| Dólar à vista (fechamento, imprensa) | +8,21% | → R$ 5,4029 ([fonte](https://euqueroinvestir.com/acoes/ibovespa-hoje-reage-a-eleicao-e-derrete-mais-de-1388)) |
+| Dólar contra México, Chile, Colômbia e África do Sul (média, controle) | -0,33% |  |
+
+**O que se atribui à eleição (o Brasil menos os outros emergentes):** bolsa -13,58 pontos; dólar +6,92 pontos (dólar do Yahoo nos dois lados, para a mesma hora; a PTAX é a média do dia e mede outra coisa).
+
+**É a 5ª maior queda diária do Ibovespa desde 1995.** Maiores que ela: 10/09/1998 (-15,81%); 27/10/1997 (-14,97%); 12/03/2020 (-14,78%); 16/03/2020 (-13,92%). Nas eleições anteriores (§2.2), o pior dia seguinte tinha sido o de 2002.
+
+- Às 10h05 de 26/out a B3 acionou o circuit breaker (queda de 10% do Ibovespa) e suspendeu os negócios à vista por 30 minutos, a primeira vez desde a pandemia. ([fonte](https://www.infomoney.com.br/mercados/circuit-breaker-por-que-bolsa-suspendeu-negociacoes-veja-quando-ela-volta/), [segunda fonte](https://investalk.bb.com.br/noticias/mercado/b3-aciona-circuit-break-pela-1-vez-desde-pandemia-e-suspende-negociacoes-a-vista-por-30-minutos))
 
 **O que o mercado esperava:** às 18:00 de 25/out, último registro antes do fim da votação, o Polymarket dava 34,5% de chance a Lula (no fim de 23/out, 22,5%). A reação do dia mede só a parte que não estava no preço; para ter a diferença inteira entre os dois resultados, a variação se divide por 0,655.
 
@@ -66,7 +82,7 @@ Prêmio usado na conta da dívida: **2,05 ponto ao ano** (provisório: o do proj
 | 2010 | Dilma | +1,3% | +0,2% | 2,4% | 62,4 → 61,6 | -45% |
 | 2014 | Dilma | -2,8% | +2,2% | -0,9% | 61,6 → 84,8 | +37% |
 | 2018 | Bolsonaro | -2,2% | -1,0% | 1,4% | 84,8 → 83,9 | +4% |
-| 2022 | Lula | +1,3% | -1,7% | 2,8% | 83,9 → 97,0 (projeção do FMI) | +47% (até hoje) |
+| 2022 | Lula | +1,3% | -1,7% | 2,8% | 83,9 → 97,0 (projeção do FMI) | +27% (até hoje) |
 
 Em 4 das 6 eleições a bolsa caiu no dia seguinte. A direção do dia bateu com a da bolsa no mandato em **1 de 6**. Em 2002 o Ibovespa caiu 4,4% no dia seguinte e depois subiu 244% acima da inflação até 2006; em 2010 subiu 1,3% e depois caiu 45% acima da inflação até 2014. **O dia seguinte mede o susto, não o mandato.** O que decidiu os mandatos foi o que veio depois: em 2003, a meta de superávit de 4,25% do PIB; no mandato que começou em 2015, PIB médio de -0,9% ao ano. A dívida desta tabela está no conceito do FMI, maior que o do Banco Central usado no resto do relatório.
 
@@ -247,8 +263,8 @@ Só entram temas com as duas fontes conferidas por script. A frase "o que pode m
 
 ## 10. Como se conferiu
 
-- Validação por um segundo caminho: **10 de 10** itens passaram (`resultados/VALIDACAO.json`).
-- Achados de terceiros: 229 levantados, **203** com o trecho encontrado por script no texto capturado, 82 deles com a segunda fonte também conferida.
+- Validação por um segundo caminho: **12 de 12** itens passaram (`resultados/VALIDACAO.json`).
+- Achados de terceiros: 231 levantados, **205** com o trecho encontrado por script no texto capturado, 84 deles com a segunda fonte também conferida.
 - Revisão adversarial por três leitores independentes: [`docs/REVISAO_ADVERSARIAL.md`](docs/REVISAO_ADVERSARIAL.md). Leitura da IA: [`docs/LEITURA_DA_IA.md`](docs/LEITURA_DA_IA.md). Como refazer: [`docs/REPLICAR.md`](docs/REPLICAR.md).
 
 ## 11. As duas premissas (emenda 5)

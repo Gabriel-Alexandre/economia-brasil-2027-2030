@@ -1,5 +1,5 @@
 {
- "em": "2026-10-26T09:48",
+ "em": "2026-10-26T18:23",
  "itens": [
   {
    "item": "S0 reproduz a dívida da IFI de 2026 a 2030",
@@ -81,6 +81,20 @@
    "passou": true,
    "yahoo": 1.31,
    "materia": 1.31
+  },
+  {
+   "item": "Ibovespa de 26/out: Yahoo contra a matéria (K40)",
+   "passou": true,
+   "projeto": 176608.234375,
+   "segunda_fonte": 176608.23,
+   "tolerancia": 1.0
+  },
+  {
+   "item": "Queda do Ibovespa em 26/out: Yahoo contra a matéria (K40)",
+   "passou": true,
+   "projeto": 13.88450804064696,
+   "segunda_fonte": 13.88,
+   "tolerancia": 0.01
   }
  ]
 }

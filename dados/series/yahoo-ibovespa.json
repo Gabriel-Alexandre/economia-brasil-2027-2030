@@ -6,20 +6,20 @@
 "fullExchangeName": "São Paulo",
 "instrumentType": "INDEX",
 "firstTradeDate": 735915600,
-"regularMarketTime": 1792786740,
+"regularMarketTime": 1793045940,
 "hasPrePostMarketData": false,
 "gmtoffset": -10800,
 "timezone": "BRT",
 "exchangeTimezoneName": "America/Sao_Paulo",
-"regularMarketPrice": 205082.56,
-"regularMarketChangePercent": 0.472,
-"fulldayPrice": 205082.56,
-"fulldayChange": 962.563,
-"fulldayChangePercent": 0.472,
+"regularMarketPrice": 176608.23,
+"regularMarketChangePercent": -13.884,
+"fulldayPrice": 176608.23,
+"fulldayChange": -28474.328,
+"fulldayChangePercent": -13.884,
 "fiftyTwoWeekHigh": 209714.0,
-"fiftyTwoWeekLow": 0.0,
-"regularMarketDayHigh": 0.0,
-"regularMarketDayLow": 0.0,
+"fiftyTwoWeekLow": 146174.0,
+"regularMarketDayHigh": 205088.73,
+"regularMarketDayLow": 169516.44,
 "regularMarketVolume": 0,
 "longName": "IBOVESPA",
 "shortName": "IBOVESPA",
@@ -28,20 +28,20 @@
 "currentTradingPeriod": {
 "pre": {
 "timezone": "BRT",
-"start": 1793018700,
 "end": 1793019600,
+"start": 1793018700,
 "gmtoffset": -10800
 },
 "regular": {
 "timezone": "BRT",
-"start": 1793019600,
 "end": 1793044800,
+"start": 1793019600,
 "gmtoffset": -10800
 },
 "post": {
 "timezone": "BRT",
-"start": 1793044800,
 "end": 1793048400,
+"start": 1793044800,
 "gmtoffset": -10800
 }
 },
@@ -67861,6 +67861,14 @@
 "maxima": 205757.0,
 "minima": 203428.0,
 "fechamento": 205083.0
+},
+{
+"t": 1793019600,
+"data": "2026-10-26",
+"abertura": 205070.1875,
+"maxima": 205088.734375,
+"minima": 169516.4375,
+"fechamento": 176608.234375
 }
 ]
 }

@@ -6,20 +6,20 @@
 "fullExchangeName": "CCY",
 "instrumentType": "CURRENCY",
 "firstTradeDate": 1041465600,
-"regularMarketTime": 1793012400,
+"regularMarketTime": 1793048879,
 "hasPrePostMarketData": false,
 "gmtoffset": 0,
 "timezone": "GMT",
 "exchangeTimezoneName": "Europe/London",
-"regularMarketPrice": 3153.48,
-"regularMarketChangePercent": 0.2814,
-"fulldayPrice": 3153.48,
-"fulldayChange": 8.8501,
-"fulldayChangePercent": 0.2814,
+"regularMarketPrice": 3133.5,
+"regularMarketChangePercent": -0.3539,
+"fulldayPrice": 3133.5,
+"fulldayChange": -11.1299,
+"fulldayChangePercent": -0.3539,
 "fiftyTwoWeekHigh": 3911.39,
 "fiftyTwoWeekLow": 3035.33,
-"regularMarketDayHigh": 3154.48,
-"regularMarketDayLow": 3130.7,
+"regularMarketDayHigh": 3176.37,
+"regularMarketDayLow": 3127.15,
 "regularMarketVolume": 0,
 "longName": "USD/COP",
 "shortName": "USD/COP",
@@ -28,20 +28,20 @@
 "currentTradingPeriod": {
 "pre": {
 "timezone": "GMT",
-"start": 1792972800,
 "end": 1792972800,
+"start": 1792972800,
 "gmtoffset": 0
 },
 "regular": {
 "timezone": "GMT",
-"start": 1792972800,
 "end": 1793059140,
+"start": 1792972800,
 "gmtoffset": 0
 },
 "post": {
 "timezone": "GMT",
-"start": 1793059140,
 "end": 1793059140,
+"start": 1793059140,
 "gmtoffset": 0
 }
 },
@@ -49759,12 +49759,12 @@
 "fechamento": 3186.77001953125
 },
 {
-"t": 1793012400,
+"t": 1792972800,
 "data": "2026-10-26",
 "abertura": 3144.6298828125,
-"maxima": 3154.47998046875,
-"minima": 3130.699951171875,
-"fechamento": 3153.47998046875
+"maxima": 3176.3701171875,
+"minima": 3127.14990234375,
+"fechamento": 3133.5
 }
 ]
 }

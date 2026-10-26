@@ -117,3 +117,11 @@ def historico() -> list[dict]:
             linha.update(depois_do_mandato(ano))
         linhas.append(linha)
     return linhas
+
+
+def maiores_quedas(desde: D = D(1995, 1, 1), n: int = 8) -> list[dict]:
+    """As maiores quedas diárias do Ibovespa desde o Plano Real (fechamento contra o pregão anterior)."""
+    s = S.yahoo("yahoo-ibovespa")
+    s = s[s.index >= desde]
+    r = (s / s.shift(1) - 1) * 100
+    return [{"data": d.isoformat(), "variacao_pct": float(v)} for d, v in r.nsmallest(n).items()]

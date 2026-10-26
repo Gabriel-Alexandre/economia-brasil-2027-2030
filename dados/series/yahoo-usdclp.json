@@ -6,20 +6,20 @@
 "fullExchangeName": "CCY",
 "instrumentType": "CURRENCY",
 "firstTradeDate": 1070236800,
-"regularMarketTime": 1793012893,
+"regularMarketTime": 1793048414,
 "hasPrePostMarketData": false,
 "gmtoffset": 0,
 "timezone": "GMT",
 "exchangeTimezoneName": "Europe/London",
-"regularMarketPrice": 995.05,
-"regularMarketChangePercent": 0.0292,
-"fulldayPrice": 995.05,
-"fulldayChange": 0.29,
-"fulldayChangePercent": 0.0292,
-"fiftyTwoWeekHigh": 995.37,
+"regularMarketPrice": 988.5,
+"regularMarketChangePercent": -0.6293,
+"fulldayPrice": 988.5,
+"fulldayChange": -6.26,
+"fulldayChangePercent": -0.6293,
+"fiftyTwoWeekHigh": 998.0,
 "fiftyTwoWeekLow": 851.76,
-"regularMarketDayHigh": 995.37,
-"regularMarketDayLow": 993.37,
+"regularMarketDayHigh": 998.0,
+"regularMarketDayLow": 988.02,
 "regularMarketVolume": 0,
 "longName": "USD/CLP",
 "shortName": "USD/CLP",
@@ -47863,12 +47863,12 @@
 "fechamento": 985.3099975585938
 },
 {
-"t": 1793012893,
+"t": 1792972800,
 "data": "2026-10-26",
 "abertura": 994.760009765625,
-"maxima": 995.3699951171875,
-"minima": 993.3699951171875,
-"fechamento": 995.0499877929688
+"maxima": 998.0,
+"minima": 988.02001953125,
+"fechamento": 988.5
 }
 ]
 }

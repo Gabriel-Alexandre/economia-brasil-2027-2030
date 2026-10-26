@@ -1,25 +1,25 @@
 {
 "meta": {
 "currency": "MXN",
-"symbol": "MXN=X",
+"symbol": "USDMXN=X",
 "exchangeName": "CCY",
 "fullExchangeName": "CCY",
 "instrumentType": "CURRENCY",
 "firstTradeDate": 1070236800,
-"regularMarketTime": 1793013081,
+"regularMarketTime": 1793049611,
 "hasPrePostMarketData": false,
 "gmtoffset": 0,
 "timezone": "GMT",
 "exchangeTimezoneName": "Europe/London",
-"regularMarketPrice": 18.738,
-"regularMarketChangePercent": 0.4825,
-"fulldayPrice": 18.738,
-"fulldayChange": 0.09,
-"fulldayChangePercent": 0.4825,
+"regularMarketPrice": 18.5543,
+"regularMarketChangePercent": -0.5023,
+"fulldayPrice": 18.5543,
+"fulldayChange": -0.0937,
+"fulldayChangePercent": -0.5023,
 "fiftyTwoWeekHigh": 18.8549,
 "fiftyTwoWeekLow": 16.8487,
 "regularMarketDayHigh": 18.7584,
-"regularMarketDayLow": 18.621,
+"regularMarketDayLow": 18.517,
 "regularMarketVolume": 0,
 "longName": "USD/MXN",
 "shortName": "USD/MXN",
@@ -28,20 +28,20 @@
 "currentTradingPeriod": {
 "pre": {
 "timezone": "GMT",
-"start": 1792972800,
 "end": 1792972800,
+"start": 1792972800,
 "gmtoffset": 0
 },
 "regular": {
 "timezone": "GMT",
-"start": 1792972800,
 "end": 1793059140,
+"start": 1792972800,
 "gmtoffset": 0
 },
 "post": {
 "timezone": "GMT",
-"start": 1793059140,
 "end": 1793059140,
+"start": 1793059140,
 "gmtoffset": 0
 }
 },
@@ -47863,12 +47863,12 @@
 "fechamento": 18.720779418945312
 },
 {
-"t": 1793013081,
+"t": 1792972800,
 "data": "2026-10-26",
 "abertura": 18.648000717163086,
 "maxima": 18.758440017700195,
-"minima": 18.621000289916992,
-"fechamento": 18.738000869750977
+"minima": 18.517000198364258,
+"fechamento": 18.554330825805664
 }
 ]
 }

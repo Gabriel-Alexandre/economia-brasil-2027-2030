@@ -6,7 +6,7 @@
 
 | Afirmação | Veredito | Por quê |
 |---|---|---|
-| "a bolsa derreteu" | pendente (falta o fechamento de 26/out) |  |
+| "a bolsa derreteu" | confirmada | Ibovespa -13,88% no dia; contra os emergentes (EEM), -13,58 pontos |
 | "vários investimentos [...] acabou fugindo do Brasil" | não confirmada | até 22/out entraram R$ 46,5 bi de estrangeiros na bolsa em 2026 e R$ 19,1 bi em outubro; o dado de 26/out sai na B3 dois dias depois |
 | "muitas medidas" no ano da eleição | confirmada | 13 medidas nos 12 meses antes da eleição; 75% do custo que se repete não tem receita nova para pagar (sai de outra despesa ou de fora do Orçamento). Viraria "em parte" se o que cabe no limite de gasto contasse como pago. Intenção não se mede |
 | "de onde é que vai vir esse dinheiro" | confirmada | 10 de 14 promessas econômicas sem custo publicado ou sem fonte declarada (9 de 13 sem o fim da escala 6x1, que já foi aprovado) |

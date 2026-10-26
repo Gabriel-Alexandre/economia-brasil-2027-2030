@@ -27,8 +27,12 @@ def sgs(nome: str) -> pd.Series:
 @lru_cache(maxsize=None)
 def yahoo(nome: str) -> pd.Series:
     """Fechamento diário (data local da bolsa), sem dias vazios."""
+    # a data vem do fuso do próprio mercado (o Yahoo grava moeda à meia-noite de Londres, e o horário de
+    # verão de lá muda a hora UTC do candle; o deslocamento fixo do meta só vale para o dia da coleta)
+    from zoneinfo import ZoneInfo
     j = _json(nome)
-    s = pd.Series({dt.date.fromisoformat(l["data"]): l["fechamento"] for l in j["linhas"] if l["fechamento"] is not None})
+    fuso = ZoneInfo(j["meta"].get("exchangeTimezoneName") or "UTC")
+    s = pd.Series({dt.datetime.fromtimestamp(l["t"], fuso).date(): l["fechamento"] for l in j["linhas"] if l["fechamento"] is not None})
     return s[~s.index.duplicated(keep="last")].sort_index()
 
 

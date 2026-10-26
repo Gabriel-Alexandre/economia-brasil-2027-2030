@@ -192,6 +192,10 @@ def main(coletar: bool = True) -> int:
     fechado = e["ibovespa"] is not None and dt.datetime.now(BRT) >= dt.datetime(D1.year, D1.month, D1.day, 18, 0, tzinfo=BRT)
     out["fechamento_de_26_out"] = fechado
     out["dia"] = e if e["ibovespa"] else None
+    if e["ibovespa"]:
+        q = mercado.maiores_quedas()
+        out["maiores_quedas_desde_1995"] = q
+        out["posicao_da_queda_de_26_out"] = next((i + 1 for i, x in enumerate(q) if x["data"] == D1.isoformat()), None)
     notas = []
     if e["ibovespa"] and not fechado:
         notas.append(f"Números do dia 26/out parciais, coletados às {out['gerado_em'][11:16]}: o veredito de A1 só vale com o fechamento.")
@@ -251,6 +255,22 @@ def main(coletar: bool = True) -> int:
         out["veredito_a6"] = {"veredito": v, "posicao": posicao, "juro_real_brasil_ranking": brasil, "seguintes": outros,
                               "porque": (f"o Brasil tem o {'maior' if posicao == 1 else str(posicao) + 'º maior'} juro real entre 40 países no ranking MoneYou de 16/set/2026, com {brasil:.2f}% ao ano; "
                                          f"o segundo tem {max(outros):.2f}%").replace(".", ",")}
+    # segunda fonte do fechamento (matérias do dia, achados K40 e K41) para a validação independente
+    conferencia = []
+    if "K40" in conf and e["ibovespa"]:
+        k = ach["K40"]
+        m_ib = re.search(r"queda de (\d+,\d+)%, aos ([\d.]+,\d+) pontos", k["trecho_a"])
+        if m_ib:
+            conferencia.append({"item": "Ibovespa de 26/out: Yahoo contra a matéria (K40)", "projeto": e["ibovespa"]["fim"],
+                                "segunda_fonte": float(m_ib.group(2).replace(".", "").replace(",", ".")), "tolerancia": 1.0})
+            conferencia.append({"item": "Queda do Ibovespa em 26/out: Yahoo contra a matéria (K40)", "projeto": -e["ibovespa"]["variacao_pct"],
+                                "segunda_fonte": float(m_ib.group(1).replace(",", ".")), "tolerancia": 0.01})
+        m_us = re.search(r"avançou (\d+,\d+)% e fechou cotado a R\$ (\d+,\d+)", k["trecho_b"])
+        if m_us:
+            out["dolar_a_vista"] = {"variacao_pct": float(m_us.group(1).replace(",", ".")), "fim": float(m_us.group(2).replace(",", ".")), "fonte": k["url_b"]}
+    if "K41" in conf:
+        notas.append(f"{ach['K41']['fato']} ([fonte]({ach['K41']['url_a']}), [segunda fonte]({ach['K41']['url_b']}))")
+    out["conferencia_segunda_fonte"] = conferencia
     out["notas"] = notas
     RES.mkdir(exist_ok=True)
     (RES / "M1_MERCADO.json").write_text(json.dumps(out, ensure_ascii=False, indent=1, default=str), encoding="utf-8")

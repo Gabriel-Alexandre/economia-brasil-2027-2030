@@ -6,19 +6,19 @@
 "fullExchangeName": "CCY",
 "instrumentType": "CURRENCY",
 "firstTradeDate": 1070236800,
-"regularMarketTime": 1793013087,
+"regularMarketTime": 1793049622,
 "hasPrePostMarketData": false,
 "gmtoffset": 0,
 "timezone": "GMT",
 "exchangeTimezoneName": "Europe/London",
-"regularMarketPrice": 16.6376,
-"regularMarketChangePercent": 0.3459,
-"fulldayPrice": 16.6376,
-"fulldayChange": 0.0574,
-"fulldayChangePercent": 0.3459,
+"regularMarketPrice": 16.6315,
+"regularMarketChangePercent": 0.3094,
+"fulldayPrice": 16.6315,
+"fulldayChange": 0.0513,
+"fulldayChangePercent": 0.3094,
 "fiftyTwoWeekHigh": 17.5768,
 "fiftyTwoWeekLow": 15.6297,
-"regularMarketDayHigh": 16.6457,
+"regularMarketDayHigh": 16.692,
 "regularMarketDayLow": 16.5498,
 "regularMarketVolume": 0,
 "longName": "USD/ZAR",
@@ -28,20 +28,20 @@
 "currentTradingPeriod": {
 "pre": {
 "timezone": "GMT",
-"end": 1792972800,
 "start": 1792972800,
+"end": 1792972800,
 "gmtoffset": 0
 },
 "regular": {
 "timezone": "GMT",
-"end": 1793059140,
 "start": 1792972800,
+"end": 1793059140,
 "gmtoffset": 0
 },
 "post": {
 "timezone": "GMT",
-"end": 1793059140,
 "start": 1793059140,
+"end": 1793059140,
 "gmtoffset": 0
 }
 },
@@ -47863,12 +47863,12 @@
 "fechamento": 16.480100631713867
 },
 {
-"t": 1793013087,
+"t": 1792972800,
 "data": "2026-10-26",
 "abertura": 16.580400466918945,
-"maxima": 16.645700454711914,
+"maxima": 16.691999435424805,
 "minima": 16.549800872802734,
-"fechamento": 16.63755989074707
+"fechamento": 16.631500244140625
 }
 ]
 }

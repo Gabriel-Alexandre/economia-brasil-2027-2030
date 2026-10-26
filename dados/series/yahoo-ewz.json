@@ -6,21 +6,21 @@
 "fullExchangeName": "NYSEArca",
 "instrumentType": "ETF",
 "firstTradeDate": 963581400,
-"regularMarketTime": 1792785600,
+"regularMarketTime": 1793044800,
 "hasPrePostMarketData": true,
 "gmtoffset": -14400,
 "timezone": "EDT",
 "exchangeTimezoneName": "America/New_York",
-"regularMarketPrice": 42.59,
-"regularMarketChangePercent": 1.768,
-"fulldayPrice": 31.783,
-"fulldayChange": -10.797,
-"fulldayChangePercent": -25.357,
+"regularMarketPrice": 34.15,
+"regularMarketChangePercent": -19.817,
+"fulldayPrice": 34.314,
+"fulldayChange": -8.276,
+"fulldayChangePercent": -19.432,
 "fiftyTwoWeekHigh": 43.9,
 "fiftyTwoWeekLow": 30.7,
-"regularMarketDayHigh": 42.62,
-"regularMarketDayLow": 41.61,
-"regularMarketVolume": 82789774,
+"regularMarketDayHigh": 34.51,
+"regularMarketDayLow": 31.4,
+"regularMarketVolume": 298643009,
 "longName": "iShares MSCI Brazil ETF",
 "shortName": "iShares MSCI Brazil ETF",
 "chartPreviousClose": 18.75,
@@ -28,20 +28,20 @@
 "currentTradingPeriod": {
 "pre": {
 "timezone": "EDT",
-"start": 1793001600,
 "end": 1793021400,
+"start": 1793001600,
 "gmtoffset": -14400
 },
 "regular": {
 "timezone": "EDT",
-"start": 1793021400,
 "end": 1793044800,
+"start": 1793021400,
 "gmtoffset": -14400
 },
 "post": {
 "timezone": "EDT",
-"start": 1793044800,
 "end": 1793059200,
+"start": 1793044800,
 "gmtoffset": -14400
 }
 },
@@ -52933,6 +52933,14 @@
 "maxima": 42.630001068115234,
 "minima": 41.61000061035156,
 "fechamento": 42.59000015258789
+},
+{
+"t": 1793021400,
+"data": "2026-10-26",
+"abertura": 31.709999084472656,
+"maxima": 34.5099983215332,
+"minima": 31.399999618530273,
+"fechamento": 34.150001525878906
 }
 ]
 }
