@@ -160,4 +160,6 @@ Pré-registro (este commit) → coleta com hash → derivados → M1 a M8 → va
 
 ## 12. Emendas
 
-(nenhuma até agora)
+### Emenda 1 (26/out, 08h, operacional, antes de qualquer conta do M3)
+
+O indicador `GGX_NGDP` do WEO não está no serviço de dados do FMI (datamapper). O gasto total do governo geral passa a vir do **Fiscal Monitor** (`G_X_G01_GDP_PT`, mesma definição, mesma base de out/2026), com o primário (`GGXONLB_G01_GDP_PT`) e o nominal (`GGXCNL_G01_GDP_PT`) da mesma publicação. O serviço também não lista quais países formam o grupo "emergentes e de renda média" do Fiscal Monitor (`FM_EMG`), então a **mediana dos emergentes** da régua 1 do M3 passa a ser a mediana dos **emergentes do G20** (Argentina, Brasil, China, Índia, Indonésia, México, Rússia, Arábia Saudita, África do Sul e Turquia, sem o Brasil na mediana), e a **média ponderada do grupo FM_EMG**, que o FMI publica pronta, vai ao lado. O limite de 5 pontos do PIB não muda. **O que já tinha sido visto ao escrever esta emenda:** o valor de 2026 do Brasil (48,7% do PIB), do FM_EMG (32,4%), do México e da Índia, impressos na conferência do download. Com qualquer das duas réguas, essa diferença já passa de 5 pontos; a emenda não muda o veredito, só diz de onde ele sai.
