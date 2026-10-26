@@ -189,7 +189,7 @@ def main(coletar: bool = True) -> int:
         S.yahoo.cache_clear(), S.sgs.cache_clear(), S.focus.cache_clear()
     out: dict = {"gerado_em": dt.datetime.now(BRT).isoformat(timespec="minutes")}
     e = mercado.evento(D0, D1)
-    fechado = e["ibovespa"] is not None and dt.datetime.now(BRT).hour >= 18
+    fechado = e["ibovespa"] is not None and dt.datetime.now(BRT) >= dt.datetime(D1.year, D1.month, D1.day, 18, 0, tzinfo=BRT)
     out["fechamento_de_26_out"] = fechado
     out["dia"] = e if e["ibovespa"] else None
     notas = []

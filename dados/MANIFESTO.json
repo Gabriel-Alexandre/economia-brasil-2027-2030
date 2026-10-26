@@ -203,18 +203,18 @@
  },
  "focus-ipca-12m": {
   "arquivo": "dados/series/focus-ipca-12m.json",
-  "baixado_em": "2026-10-26T08:40:44",
-  "bytes": 26253,
-  "sha256": "5dce9c0bc585dda02d2ae43f486c01addc7676f19fa1e950d6e7cc306a579ddf",
+  "baixado_em": "2026-10-26T09:46:17",
+  "bytes": 30357,
+  "sha256": "97bc65e8d18d022e406589700c8a18496ff9bf0293d3165ac79349dc1cbbd6d1",
   "urls": [
    "https://olinda.bcb.gov.br/olinda/servico/Expectativas/versao/v1/odata/ExpectativasMercadoInflacao12Meses?%24filter=Indicador%20eq%20%27IPCA%27%20and%20Data%20ge%20%272026-09-01%27&%24format=json&%24top=10000"
   ]
  },
  "focus-recente": {
   "arquivo": "dados/series/focus-recente.json",
-  "baixado_em": "2026-10-26T08:40:42",
-  "bytes": 958202,
-  "sha256": "a43ce18a3415f6db3f4a18bd42923de5f818ad7bc4554c24a4f7a3d68abb9c2a",
+  "baixado_em": "2026-10-26T09:46:15",
+  "bytes": 1108137,
+  "sha256": "e68a2d29ad2f4a2905d502a9af2e3b14a16c743edbb47d8d39152701dcf6d1ce",
   "urls": [
    "https://olinda.bcb.gov.br/olinda/servico/Expectativas/versao/v1/odata/ExpectativasMercadoAnuais?%24filter=Indicador%20eq%20%27IPCA%27%20and%20Data%20ge%20%272026-09-01%27%20and%20Data%20le%20%272026-10-26%27&%24format=json&%24top=100000",
    "https://olinda.bcb.gov.br/olinda/servico/Expectativas/versao/v1/odata/ExpectativasMercadoAnuais?%24filter=Indicador%20eq%20%27PIB%20Total%27%20and%20Data%20ge%20%272026-09-01%27%20and%20Data%20le%20%272026-10-26%27&%24format=json&%24top=100000",
@@ -417,7 +417,7 @@
  },
  "polymarket-lula": {
   "arquivo": "dados/series/polymarket-lula.json",
-  "baixado_em": "2026-10-26T08:48:04",
+  "baixado_em": "2026-10-26T09:44:24",
   "bytes": 1577,
   "sha256": "d52b7def0a43a11e28100cbfbe104c57662ea3418b486602cf052e6dff2103e3",
   "urls": [
