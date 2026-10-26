@@ -6,7 +6,7 @@
 "fullExchangeName": "CCY",
 "instrumentType": "CURRENCY",
 "firstTradeDate": 1041465600,
-"regularMarketTime": 1793008800,
+"regularMarketTime": 1793012400,
 "hasPrePostMarketData": false,
 "gmtoffset": 0,
 "timezone": "GMT",
@@ -49759,7 +49759,7 @@
 "fechamento": 3186.77001953125
 },
 {
-"t": 1793008800,
+"t": 1793012400,
 "data": "2026-10-26",
 "abertura": 3144.6298828125,
 "maxima": 3154.47998046875,

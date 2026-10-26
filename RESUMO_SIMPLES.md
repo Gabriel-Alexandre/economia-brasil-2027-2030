@@ -7,11 +7,11 @@
 | Afirmação | Veredito | Por quê |
 |---|---|---|
 | "a bolsa derreteu" | aguardando o fechamento de 26/out |  |
-| "vários investimentos [...] acabou fugindo do Brasil" | aguardando o dado da B3 |  |
+| "vários investimentos [...] acabou fugindo do Brasil" | não confirmada | até 22/out entraram R$ 46,5 bi de estrangeiros na bolsa em 2026 e R$ 19,1 bi em outubro; o dado de 26/out sai na B3 dois dias depois |
 | "muitas medidas" no ano da eleição | confirmada | 13 medidas nos 12 meses antes da eleição; 75% do custo que se repete não é compensado na própria lei. Intenção não se mede |
 | "de onde é que vai vir esse dinheiro" | confirmada | 10 de 14 promessas econômicas sem custo publicado ou sem fonte declarada |
 | "a gastança do Brasil já está muito alta" | confirmada | o governo gasta 46,9% do PIB, contra 31,1% na mediana dos emergentes do G20 (FMI, 2025) |
-| "o juro já está muito alto" | ver M4 | juro real de 8,8% ao ano (Selic 13,75% menos inflação esperada de 4,51%) |
+| "o juro já está muito alto" | confirmada | o Brasil tem o maior juro real entre as economias do ranking MoneYou de 16/set/2026 (achado K12); régua: entre os três maiores = confirmada |
 | "a tendência é apenas aumentar" (o juro) | não confirmada |  |
 
 ## O que esperar até 2030

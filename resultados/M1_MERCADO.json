@@ -1,0 +1,43 @@
+{
+ "gerado_em": "2026-10-26T08:23-03:00",
+ "fechamento_de_26_out": false,
+ "dia": null,
+ "curva_23_out": {
+  "jan/2027": 13.468,
+  "jan/2028": 12.859,
+  "jan/2029": 12.642,
+  "jan/2031": 12.642,
+  "jan/2033": 12.738
+ },
+ "termo_2028_em_23_out": 12.381801826656691,
+ "juros": [],
+ "polymarket": {
+  "p": 0.345,
+  "hora_brt": "2026-10-25T18:00-03:00",
+  "fim_de_23_out": 0.225,
+  "pontos": 58,
+  "url": "https://clob.polymarket.com/prices-history?market=30630994248667897740988010928640156931882346081873066002335460180076741328029&startTs=1792724400&endTs=1793005200&fidelity=60"
+ },
+ "fluxo_numeros": {
+  "ano_ate_22_out_rs_bi": 46.52,
+  "outubro_ate_22_out_rs_bi": 19.13
+ },
+ "fluxo": [
+  "Acumulado do capital estrangeiro na B3 em 2026 até 22/10 (último dado publicado), mercado secundário, sem IPOs e follow-ons. Até 30/09 o mesmo cálculo dá R$ 27,40 bi, número que o Poder360 (Elos Ayta) publicou; com ofertas, R$ 32,03 bi. ([fonte](https://www.dadosdemercado.com.br/fluxo))",
+  "Saldo estrangeiro no 1º semestre de 2026 (jan a jun), com junho em -R$ 7,78 bi (soma da tabela: R$ 33,85 bi; junho -7.785,58 mi). ([fonte](https://www.infomoney.com.br/?p=3396049))",
+  "Agosto de 2026 foi o pior mês do ano para o estrangeiro na B3 (tabela: -18.116,81 mi). O InfoMoney cita julho em +R$ 4,3 bi (tabela: +2,56 bi, sem ofertas). ([fonte](https://trademap.com.br/noticias/news-8266222))",
+  "Setembro de 2026: entrada líquida estrangeira de R$ 9,11 bi, melhor mês desde março (Elos Ayta). Tabela: 9.106,83 mi. ([fonte](https://www.poder360.com.br/poder-economia/estrangeiros-aportam-r-911-bi-na-b3-em-setembro/))",
+  "5/10/2026, primeiro pregão depois do 1º turno: entrada estrangeira recorde de R$ 10,06 bi num só dia. ([fonte](https://www.dadosdemercado.com.br/fluxo))",
+  "Outubro de 2026 até o dia 22: entrada estrangeira de R$ 19,13 bi (soma da tabela). Até 14/10 a XP contava R$ 19,1 bi (tabela até 14/10: R$ 18,54 bi; diferença de método não reconciliada). Nos dias perto do 2º turno o fluxo virou: 19/10 -1.008,76 mi, 20/10 +17,64 mi, 21/10 +156,88 mi, 22/10 -1.030,50 mi. O dado de 23/10 ainda não tinha saído. ([fonte](https://www.dadosdemercado.com.br/fluxo))",
+  "Papel do estrangeiro no rali de outubro: InfoMoney calcula capital estrangeiro positivo em R$ 20,15 bi em outubro (dados até 21/10), segundo maior mês do ano atrás de janeiro (R$ 26,4 bi). Bloomberg: investidores estavam posicionados para vitória de Flávio; UBS, Morgan Stanley, JPMorgan e Citi emitiram recomendações otimistas após o 1º turno. ([fonte](https://www.infomoney.com.br/mercados/ibovespa-em-alta-dolar-em-queda-a-reacao-do-mercado-entre-1o-e-2o-turno-da-eleicao/))"
+ ],
+ "veredito_a2": {
+  "veredito": "não confirmada",
+  "porque": "até 22/out entraram R$ 46,5 bi de estrangeiros na bolsa em 2026 e R$ 19,1 bi em outubro; o dado de 26/out sai na B3 dois dias depois"
+ },
+ "veredito_a6": {
+  "veredito": "confirmada",
+  "porque": "o Brasil tem o maior juro real entre as economias do ranking MoneYou de 16/set/2026 (achado K12); régua: entre os três maiores = confirmada"
+ },
+ "notas": []
+}

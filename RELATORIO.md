@@ -6,8 +6,8 @@
 
 - **Não prevê preço de ação, de dólar ou de juro.** Os números de 2027 a 2030 são cenários com regra escrita antes, não profecia. No passado, a previsão do mercado para a dívida três anos depois errou, em média, 7,0 pontos do PIB (§8).
 - **Não julga intenção.** Uma medida de ano eleitoral pode ter sido feita para ganhar votos ou não; o projeto mede data, custo e quem paga.
-- **O dia seguinte é um dia.** A reação de 26/out mede o susto do mercado com o resultado, não o mandato inteiro (§2.3).
-- **A base da IFI é de junho de 2026**, antes de medidas de setembro e outubro (o reajuste do Bolsa Família e o Desenrola 3.0). O efeito delas está calculado à parte (§7.4).
+- **O dia seguinte é um dia.** A reação de 26/out mede o susto do mercado com o resultado, não o mandato inteiro (§2.2).
+- **A base da IFI é de junho de 2026**, antes de medidas de setembro e outubro (o reajuste do Bolsa Família e o Desenrola 3.0). O efeito delas está calculado à parte (§7.1).
 - **Não testa se houve fraude**: o pedido supõe que não haja contestação.
 
 ## 1. A resposta curta
@@ -15,11 +15,11 @@
 |  | O que o pedido disse | Veredito | Por quê |
 |---|---|---|---|
 | A1 | "a bolsa derreteu" | aguardando o fechamento de 26/out |  |
-| A2 | "vários investimentos [...] acabou fugindo do Brasil" | aguardando o dado da B3 |  |
+| A2 | "vários investimentos [...] acabou fugindo do Brasil" | não confirmada | até 22/out entraram R$ 46,5 bi de estrangeiros na bolsa em 2026 e R$ 19,1 bi em outubro; o dado de 26/out sai na B3 dois dias depois |
 | A3 | "muitas medidas" no ano da eleição | confirmada | 13 medidas nos 12 meses antes da eleição; 75% do custo que se repete não é compensado na própria lei. Intenção não se mede |
 | A4 | "de onde é que vai vir esse dinheiro" | confirmada | 10 de 14 promessas econômicas sem custo publicado ou sem fonte declarada |
 | A5 | "a gastança do Brasil já está muito alta" | confirmada | o governo gasta 46,9% do PIB, contra 31,1% na mediana dos emergentes do G20 (FMI, 2025) |
-| A6 | "o juro já está muito alto" | ver M4 | juro real de 8,8% ao ano (Selic 13,75% menos inflação esperada de 4,51%) |
+| A6 | "o juro já está muito alto" | confirmada | o Brasil tem o maior juro real entre as economias do ranking MoneYou de 16/set/2026 (achado K12); régua: entre os três maiores = confirmada |
 | A7 | "a tendência é apenas aumentar" (o juro) | não confirmada |  |
 
 **A dívida no cenário central: sobe rápido.** A dívida bruta passa de 82,5% do PIB em 2026 para 100,7% em 2030 (+18,2 pontos). Para ela parar de subir, o governo precisaria de um superávit primário de 3,6% do PIB por ano; a base da IFI prevê -1,1%. A distância é de 4,7 pontos do PIB.
@@ -58,7 +58,13 @@ Em 4 das 6 eleições a bolsa caiu no dia seguinte. A direção do dia bateu com
 
 ## 3. O dinheiro estrangeiro (M2)
 
-Aguardando a coleta do saldo do investidor estrangeiro na B3.
+- Acumulado do capital estrangeiro na B3 em 2026 até 22/10 (último dado publicado), mercado secundário, sem IPOs e follow-ons. Até 30/09 o mesmo cálculo dá R$ 27,40 bi, número que o Poder360 (Elos Ayta) publicou; com ofertas, R$ 32,03 bi. ([fonte](https://www.dadosdemercado.com.br/fluxo))
+- Saldo estrangeiro no 1º semestre de 2026 (jan a jun), com junho em -R$ 7,78 bi (soma da tabela: R$ 33,85 bi; junho -7.785,58 mi). ([fonte](https://www.infomoney.com.br/?p=3396049))
+- Agosto de 2026 foi o pior mês do ano para o estrangeiro na B3 (tabela: -18.116,81 mi). O InfoMoney cita julho em +R$ 4,3 bi (tabela: +2,56 bi, sem ofertas). ([fonte](https://trademap.com.br/noticias/news-8266222))
+- Setembro de 2026: entrada líquida estrangeira de R$ 9,11 bi, melhor mês desde março (Elos Ayta). Tabela: 9.106,83 mi. ([fonte](https://www.poder360.com.br/poder-economia/estrangeiros-aportam-r-911-bi-na-b3-em-setembro/))
+- 5/10/2026, primeiro pregão depois do 1º turno: entrada estrangeira recorde de R$ 10,06 bi num só dia. ([fonte](https://www.dadosdemercado.com.br/fluxo))
+- Outubro de 2026 até o dia 22: entrada estrangeira de R$ 19,13 bi (soma da tabela). Até 14/10 a XP contava R$ 19,1 bi (tabela até 14/10: R$ 18,54 bi; diferença de método não reconciliada). Nos dias perto do 2º turno o fluxo virou: 19/10 -1.008,76 mi, 20/10 +17,64 mi, 21/10 +156,88 mi, 22/10 -1.030,50 mi. O dado de 23/10 ainda não tinha saído. ([fonte](https://www.dadosdemercado.com.br/fluxo))
+- Papel do estrangeiro no rali de outubro: InfoMoney calcula capital estrangeiro positivo em R$ 20,15 bi em outubro (dados até 21/10), segundo maior mês do ano atrás de janeiro (R$ 26,4 bi). Bloomberg: investidores estavam posicionados para vitória de Flávio; UBS, Morgan Stanley, JPMorgan e Citi emitiram recomendações otimistas após o 1º turno. ([fonte](https://www.infomoney.com.br/mercados/ibovespa-em-alta-dolar-em-queda-a-reacao-do-mercado-entre-1o-e-2o-turno-da-eleicao/))
 
 ## 4. As contas públicas hoje (M3)
 
@@ -223,5 +229,5 @@ Erro médio de 7,0 pontos do PIB na dívida e de 1,5 ponto no PIB. Em 5 de 6 ele
 ## 10. Como se conferiu
 
 - Validação por um segundo caminho: **10 de 10** itens passaram (`resultados/VALIDACAO.json`).
-- Achados de terceiros: 191 levantados, **171** com o trecho encontrado por script no texto capturado; os outros ficam fora do relatório.
+- Achados de terceiros: 229 levantados, **203** com o trecho encontrado por script no texto capturado; os outros ficam fora do relatório.
 - Revisão adversarial: [`docs/REVISAO_ADVERSARIAL.md`](docs/REVISAO_ADVERSARIAL.md). Leitura da IA: [`docs/LEITURA_DA_IA.md`](docs/LEITURA_DA_IA.md). Como refazer: [`docs/REPLICAR.md`](docs/REPLICAR.md).
