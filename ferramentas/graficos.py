@@ -95,7 +95,7 @@ def g03_gasto(r: dict) -> None:
               ("Emergentes e renda média (média FMI)", d25["media_fm_emg"], CINZA),
               ("América Latina (mediana)", d25["mediana_america_latina"], CINZA)]
     fig, ax = nova("Quanto o governo gasta, em % do PIB (2025)", "FMI, Fiscal Monitor de out/2026 (despesa total do governo geral, inclui juros)",
-                   f"Governo geral: União, estados e municípios. No Brasil, {br(juros)} pontos disso são juros da dívida")
+                   f"Governo geral: União, estados e municípios, com os juros da dívida (o FMI estima os juros líquidos do Brasil em {br(juros)}% do PIB)")
     for i, (nome, v, cor) in enumerate(linhas[::-1]):
         ax.barh(i, v, height=0.6, color=cor)
         ax.text(v + 0.6, i, f"{br(v)}%", va="center", fontsize=24, fontweight="bold", color=TINTA)
@@ -104,6 +104,7 @@ def g03_gasto(r: dict) -> None:
     ax.set_xlim(0, 58)
     ax.set_xticks([])
     ax.spines["bottom"].set_visible(False)
+    fig.subplots_adjust(left=0.30)
     salvar(fig, "g03_gasto_do_governo.png")
 
 
@@ -222,7 +223,7 @@ def g09_discricionarias(r: dict) -> None:
         ax.text(a - w / 2, v + 2, br(v), ha="center", fontsize=19, fontweight="bold")
     for a, v, e in zip(anos[1:], base[1:], espaco[1:]):
         ax.text(a + w / 2, v + 2, br(v), ha="center", fontsize=19, color=TINTA2)
-        ax.text(a, max(v, e) + 12, f"faltam {br(v - e)}", ha="center", fontsize=19, color="#b4451a", fontweight="bold")
+        ax.text(a, max(v, e) + 12, f"faltam R$ {br(v - e)} bi", ha="center", fontsize=19, color="#b4451a", fontweight="bold")
     ax.set_xticks(anos)
     ax.set_ylim(150, 260)
     ax.legend(frameon=False, fontsize=18, loc="upper left")
