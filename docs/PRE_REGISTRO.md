@@ -185,3 +185,19 @@ A7 pede a Selic que **a curva** espera para o fim de 2027, sem dizer como lê-la
 
 Regra do autor registrada hoje para todos os projetos dele: *"faça dos dois pontos de vista"*. O relatório ganha uma seção **"As duas premissas"**, cada uma tomada como verdadeira por vez: **P1, o mercado tem razão** (o resultado piora as contas e o juro, e a queda do dia antecipa isso) e **P2, o mercado exagerou** (a queda é a desmontagem de uma aposta, e a economia segue o caminho que já seguia). Para cada uma: a versão mais forte, o que se esperaria ver no dado, as implicações para 2027 a 2030 e o que a derrubaria. No fim, a seção diz qual das duas o dado sustenta mais, sem apagar a outra. A seção não muda nenhuma régua nem o cenário central; as objeções mais fortes da revisão adversarial entram nela como variantes calculadas.
 
+### Emenda 6 (26/out, manhã, correções apontadas pela revisão adversarial de método)
+
+**1. A emenda 3 foi escrita depois de um dado que ela não declarou.** O texto dela diz que *"as contagens ainda não foram feitas"*. Não é inteiramente verdade: o commit `f026935` (08h00), anterior à emenda (`086ddaf`, 08h05), já trazia em `resultados/RESUMO.json` o custo recorrente de todas as medidas por categoria (A: R$ 27,7 bi; B: R$ 83,0 bi; D: R$ 12,4 bi) e quantas promessas tinham custo publicado. O que não tinha sido feito era o recorte da janela de 12 meses e a contagem de A4 pela régua. Por isso as duas réguas da emenda 3 passam a valer **com este aviso**, e o relatório publica, ao lado de cada veredito, **a partir de quando ele mudaria**:
+- A3 depende de como se lê a categoria B. Se o que cabe no limite de gasto contar como pago (porque sai de outra despesa), a fatia não compensada cai para perto de zero e A3 vira **"confirmada em parte"** (continua com 5 medidas ou mais na janela). Sem o salário mínimo, que segue uma regra anual, a fatia continua acima da metade.
+- A4 muda de "confirmada" se três promessas a mais tiverem custo e fonte publicados. Sem o fim da escala 6x1, que já foi aprovado e não tem despesa pública, fica em 9 de 13.
+
+**2. A régua de A7 olha 2026, 2027 e 2028.** O código passava a trajetória do Focus até 2030 e, com a Selic esperada igual em 2029 e 2030, o veredito saía "não confirmada" em vez de "o dado diz o contrário". Corrigido para os três anos do texto do M4. E o veredito de A7 **só sai com a curva de 26/out**, como o M4 manda; até lá, o relatório diz que está pendente.
+
+**3. Horários.** As horas escritas nos títulos eram estimativas. Valem as dos commits: pré-registro às 07h16 (`0e7620d`), emenda 1 às 07h37, emenda 2 às 07h54, emenda 3 às 08h05, emenda 4 às 08h08, emenda 5 às 08h25. A B3 abriu às 10h; nenhuma regra de mercado foi escrita depois disso.
+
+**4. A base é a IFI de junho (RAF 113), não a de setembro (RAF 116).** O RAF 116 é o mais recente, mas só revisou 2026 e 2027; a última projeção de médio prazo, que o M6 exige até 2030, é a do RAF 113. Declarado agora porque o M6 dizia "o mais recente".
+
+**5. A tabela do cenário central.** A dívida do S1 é calculada com o PIB e a Selic da IFI; o M6 punha ao lado o macro do Focus, que é outro cenário. O relatório passa a mostrar as duas coisas em tabelas separadas, e o cenário com o macro do Focus vira variante calculada (revisão adversarial).
+
+**6. O que o pré-registro prometeu e não foi entregue, dito aqui:** o investimento estrangeiro em carteira do balanço de pagamentos (M2, medida 2) e o crescimento real da despesa do governo central de 2023 a 2026 contra 2015 a 2022 (M3, régua 2), se a coleta não conseguir os arquivos; o relatório diz o que faltou. O M8 só mostra tema com duas fontes conferidas, como o M8 exige.
+

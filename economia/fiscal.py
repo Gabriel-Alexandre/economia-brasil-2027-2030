@@ -59,3 +59,23 @@ def regua_trajetoria(variacao_pp: float) -> str:
     if variacao_pp <= 8:
         return "sobe devagar"
     return "sobe rápido"
+
+
+def trajetoria_geral(base: dict, juro_extra_pp: dict[int, float] | None = None,
+                     piora_primario: dict[int, float] | None = None,
+                     choque_pib_pp: dict[int, float] | None = None) -> dict[int, float]:
+    """Como trajetoria, mas com o acréscimo de juro, a piora do primário e o choque no PIB dados ano a ano.
+
+    Serve às variantes da revisão adversarial (docs/REVISAO_ADVERSARIAL.md), que mexem em anos diferentes.
+    Valores negativos em piora_primario são melhora (superávit maior que o da base).
+    """
+    juro_extra_pp, piora_primario, choque_pib_pp = juro_extra_pp or {}, piora_primario or {}, choque_pib_pp or {}
+    div, pib, prim = base["divida"], base["pib_nominal"], base["primario"]
+    i = juro_implicito(div, pib, prim)
+    anos = sorted(i)
+    d = {anos[0] - 1: div[anos[0] - 1]}
+    for t in anos:
+        g = pib[t] / pib[t - 1] - 1 + choque_pib_pp.get(t, 0.0) / 100
+        it = i[t] + juro_extra_pp.get(t, 0.0) / 100
+        d[t] = d[t - 1] * (1 + it) / (1 + g) - (prim[t] - piora_primario.get(t, 0.0))
+    return d
