@@ -39,6 +39,11 @@ SGS_SERIES = {
     "bcb-ipca-mensal": (433, "01/01/1995"),
     "bcb-ipca-12m": (13522, "01/01/1995"),
     "bcb-desemprego-pnad": (24369, "01/03/2012"),
+    # balanço de pagamentos, investimento estrangeiro em carteira no Brasil (passivos), US$ milhões, líquido
+    "bcb-bp-acoes": (22927, "01/01/2014"),
+    "bcb-bp-fundos": (22936, "01/01/2014"),
+    "bcb-bp-titulos-no-pais": (22942, "01/01/2014"),
+    "bcb-bp-titulos-no-exterior": (22945, "01/01/2014"),
 }
 SGS_DIARIAS = {"bcb-ptax-venda": (1, 1995), "bcb-selic-meta": (432, 2000)}
 

@@ -17,6 +17,42 @@
    "https://www.b3.com.br/pesquisapregao/download?filelist=TS261023.ex_"
   ]
  },
+ "bcb-bp-acoes": {
+  "arquivo": "dados/series/bcb-bp-acoes.json",
+  "baixado_em": "2026-10-26T08:45:13",
+  "bytes": 6887,
+  "sha256": "dcb44f62929389c8a854c048304d38b76b2a9bb6deaf38445cc6cd75c795007f",
+  "urls": [
+   "https://api.bcb.gov.br/dados/serie/bcdata.sgs.22927/dados?formato=json&dataInicial=01/01/2014&dataFinal=26/10/2026"
+  ]
+ },
+ "bcb-bp-fundos": {
+  "arquivo": "dados/series/bcb-bp-fundos.json",
+  "baixado_em": "2026-10-26T08:45:15",
+  "bytes": 6764,
+  "sha256": "9714aa8f422f8f308a01edd54ca592ffb6d1e17fb77dc66c7e2cadf1d01aa0c3",
+  "urls": [
+   "https://api.bcb.gov.br/dados/serie/bcdata.sgs.22936/dados?formato=json&dataInicial=01/01/2014&dataFinal=26/10/2026"
+  ]
+ },
+ "bcb-bp-titulos-no-exterior": {
+  "arquivo": "dados/series/bcb-bp-titulos-no-exterior.json",
+  "baixado_em": "2026-10-26T08:45:20",
+  "bytes": 6875,
+  "sha256": "41cfe604af653b359c33d70f6ed3b7798ef0b2a6062aea18771a02b6156dddb0",
+  "urls": [
+   "https://api.bcb.gov.br/dados/serie/bcdata.sgs.22945/dados?formato=json&dataInicial=01/01/2014&dataFinal=26/10/2026"
+  ]
+ },
+ "bcb-bp-titulos-no-pais": {
+  "arquivo": "dados/series/bcb-bp-titulos-no-pais.json",
+  "baixado_em": "2026-10-26T08:45:18",
+  "bytes": 6909,
+  "sha256": "cda3f95418ec1cee09cc7bb83e7a96573787da9dcf4b7e8f44af64a9fdcee293",
+  "urls": [
+   "https://api.bcb.gov.br/dados/serie/bcdata.sgs.22942/dados?formato=json&dataInicial=01/01/2014&dataFinal=26/10/2026"
+  ]
+ },
  "bcb-desemprego-pnad": {
   "arquivo": "dados/series/bcb-desemprego-pnad.json",
   "baixado_em": "2026-10-26T07:20:00",
@@ -167,7 +203,7 @@
  },
  "focus-ipca-12m": {
   "arquivo": "dados/series/focus-ipca-12m.json",
-  "baixado_em": "2026-10-26T08:13:00",
+  "baixado_em": "2026-10-26T08:40:44",
   "bytes": 26253,
   "sha256": "5dce9c0bc585dda02d2ae43f486c01addc7676f19fa1e950d6e7cc306a579ddf",
   "urls": [
@@ -176,7 +212,7 @@
  },
  "focus-recente": {
   "arquivo": "dados/series/focus-recente.json",
-  "baixado_em": "2026-10-26T08:12:58",
+  "baixado_em": "2026-10-26T08:40:42",
   "bytes": 958202,
   "sha256": "a43ce18a3415f6db3f4a18bd42923de5f818ad7bc4554c24a4f7a3d68abb9c2a",
   "urls": [
@@ -381,7 +417,7 @@
  },
  "polymarket-lula": {
   "arquivo": "dados/series/polymarket-lula.json",
-  "baixado_em": "2026-10-26T08:39:27",
+  "baixado_em": "2026-10-26T08:48:04",
   "bytes": 1577,
   "sha256": "d52b7def0a43a11e28100cbfbe104c57662ea3418b486602cf052e6dff2103e3",
   "urls": [

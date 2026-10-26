@@ -203,7 +203,12 @@ def relatorio(r: dict, val: dict, x: dict) -> str:
              + f"; no mandato que começou em 2015, PIB médio de {br(h[2014]['pib_real_medio_pct'])}% ao ano. A dívida desta tabela está no conceito do FMI, maior que o do Banco Central usado no resto do relatório.\n")
     s.append("## 3. O dinheiro estrangeiro (M2)\n")
     s += [f"- {linha}" for linha in m1.get("fluxo", [])]
-    s.append("\nO investimento estrangeiro em carteira do balanço de pagamentos (a segunda medida do M2) não foi coletado nesta rodada (emenda 6).\n")
+    bp = (m1.get("fluxo_numeros") or {}).get("balanco_de_pagamentos") or {}
+    if bp:
+        acoes = bp.get("ações", {}).get("soma_us_mi", 0)
+        renda_fixa = sum(v["soma_us_mi"] for k, v in bp.items() if k.startswith("títulos"))
+        s.append(f"\nA régua de A2 usa a primeira medida (a bolsa, B3), como o pré-registro manda. Pela segunda (o balanço de pagamentos), a entrada de 2026 foi sobretudo em renda fixa (US$ {br(renda_fixa / 1000)} bi), "
+                 f"e em ações, contando tudo, o saldo foi de {'saída' if acoes < 0 else 'entrada'} (US$ {br(abs(acoes) / 1000)} bi). As duas medidas contam coisas diferentes: a B3 só a bolsa; o Banco Central também ações fora da bolsa e recibos negociados lá fora.\n")
     s.append("## 4. As contas públicas hoje (M3)\n")
     p, j = ch["bcb-primario-12m"], ch["bcb-juros-nominais-12m"]
     db, dl = ch["bcb-divida-bruta-gg"], ch["bcb-divida-liquida-sp"]

@@ -11,7 +11,7 @@
 | "muitas medidas" no ano da eleição | confirmada | 13 medidas nos 12 meses antes da eleição; 75% do custo que se repete não tem receita nova para pagar (sai de outra despesa ou de fora do Orçamento). Viraria "em parte" se o que cabe no limite de gasto contasse como pago. Intenção não se mede |
 | "de onde é que vai vir esse dinheiro" | confirmada | 10 de 14 promessas econômicas sem custo publicado ou sem fonte declarada (9 de 13 sem o fim da escala 6x1, que já foi aprovado) |
 | "a gastança do Brasil já está muito alta" | confirmada | o governo (União, estados e municípios) gasta 46,9% do PIB, contra 31,1% na mediana dos emergentes do G20 (FMI, 2025) |
-| "o juro já está muito alto" | confirmada | o Brasil é o maior juro real entre 40 países no ranking MoneYou de 16/set/2026, com 8,45% ao ano; o segundo tem 6,79% |
+| "o juro já está muito alto" | confirmada | o Brasil tem o maior juro real entre 40 países no ranking MoneYou de 16/set/2026, com 8,45% ao ano; o segundo tem 6,79% |
 | "a tendência é apenas aumentar" (o juro) | pendente (falta a curva da B3 de 26/out) | o Focus de 2026-10-16 esperava Selic de 12,00% no fim de 2027, abaixo dos 13,75% de hoje; a curva da B3 cobrava 12,38% para 2028 em 23/out |
 
 ## O que esperar até 2030

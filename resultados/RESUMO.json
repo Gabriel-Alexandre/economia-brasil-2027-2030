@@ -1,7 +1,7 @@
 {
- "gerado_em": "2026-10-26T08:39",
+ "gerado_em": "2026-10-26T08:48",
  "M1_mercado": {
-  "gerado_em": "2026-10-26T08:37-03:00",
+  "gerado_em": "2026-10-26T08:48-03:00",
   "fechamento_de_26_out": false,
   "dia": null,
   "curva_23_out": {
@@ -22,7 +22,29 @@
   },
   "fluxo_numeros": {
    "ano_ate_22_out_rs_bi": 46.52,
-   "outubro_ate_22_out_rs_bi": 19.13
+   "outubro_ate_22_out_rs_bi": 19.13,
+   "balanco_de_pagamentos": {
+    "ações": {
+     "ate": "2026-09-01",
+     "soma_us_mi": -3420.4000000000005,
+     "ultimo_mes_us_mi": -2111.7
+    },
+    "fundos de investimento": {
+     "ate": "2026-09-01",
+     "soma_us_mi": -2096.8999999999996,
+     "ultimo_mes_us_mi": 416.8
+    },
+    "títulos de dívida negociados no país": {
+     "ate": "2026-09-01",
+     "soma_us_mi": 5695.699999999999,
+     "ultimo_mes_us_mi": -382.4
+    },
+    "títulos de dívida negociados no exterior": {
+     "ate": "2026-09-01",
+     "soma_us_mi": 9627.6,
+     "ultimo_mes_us_mi": 378.7
+    }
+   }
   },
   "fluxo": [
    "De janeiro a 22/out de 2026, os estrangeiros compraram R$ 46,5 bi a mais do que venderam em ações na B3 (sem contar ofertas novas) ([fonte](https://www.dadosdemercado.com.br/fluxo)).",
@@ -30,6 +52,7 @@
    "No primeiro pregão depois do 1º turno (5/out) entraram R$ 10,1 bi num dia só, recorde ([fonte](https://www.dadosdemercado.com.br/fluxo)).",
    "O pior mês do ano foi agosto, com saída de R$ 18,1 bi ([fonte](https://trademap.com.br/noticias/news-8266222)).",
    "Nos dias antes do 2º turno o saldo já oscilava: 19/10, R$ -1.008,76 mi, 20/10, R$ +17,64 mi, 21/10, R$ +156,88 mi, 22/10, R$ -1.030,50 mi.",
+   "Pelo balanço de pagamentos do Banco Central, que conta todo tipo de compra de ações (não só a bolsa) e também a renda fixa, o saldo do investimento estrangeiro em carteira no Brasil de janeiro até 09/2026 foi: ações, US$ -3,4 bi; fundos de investimento, US$ -2,1 bi; títulos de dívida negociados no país, US$ 5,7 bi; títulos de dívida negociados no exterior, US$ 9,6 bi.",
    "A imprensa registrou que os investidores estrangeiros estavam posicionados para a vitória do outro candidato ([fonte](https://www.infomoney.com.br/mercados/ibovespa-em-alta-dolar-em-queda-a-reacao-do-mercado-entre-1o-e-2o-turno-da-eleicao/))."
   ],
   "veredito_a2": {
@@ -45,7 +68,7 @@
     6.33,
     6.25
    ],
-   "porque": "o Brasil é o maior juro real entre 40 países no ranking MoneYou de 16/set/2026, com 8,45% ao ano; o segundo tem 6,79%"
+   "porque": "o Brasil tem o maior juro real entre 40 países no ranking MoneYou de 16/set/2026, com 8,45% ao ano; o segundo tem 6,79%"
   },
   "notas": []
  },

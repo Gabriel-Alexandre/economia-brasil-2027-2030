@@ -155,9 +155,23 @@ def fluxo() -> tuple[dict, list[str]]:
         dias = re.findall(r"(\d{2}/10) ([+-][\d.]+,\d+) mi", ach["K09"]["fato"])
         if dias:
             linhas.append("Nos dias antes do 2º turno o saldo já oscilava: " + ", ".join(f"{d}, R$ {v} mi" for d, v in dias) + ".")
+    # medida 2 do M2: balanço de pagamentos (Banco Central), investimento estrangeiro em carteira no Brasil
+    bp = {}
+    for nome, rot in [("bcb-bp-acoes", "ações"), ("bcb-bp-fundos", "fundos de investimento"),
+                      ("bcb-bp-titulos-no-pais", "títulos de dívida negociados no país"), ("bcb-bp-titulos-no-exterior", "títulos de dívida negociados no exterior")]:
+        try:
+            s = S.sgs(nome)
+        except FileNotFoundError:
+            continue
+        a = s[s.index >= dt.date(2026, 1, 1)]
+        bp[rot] = {"ate": a.index[-1].isoformat(), "soma_us_mi": float(a.sum()), "ultimo_mes_us_mi": float(a.iloc[-1])}
+    if bp:
+        ate = max(v["ate"] for v in bp.values())
+        partes = "; ".join(f"{k}, US$ {b(v['soma_us_mi'] / 1000)} bi" for k, v in bp.items())
+        linhas.append(f"Pelo balanço de pagamentos do Banco Central, que conta todo tipo de compra de ações (não só a bolsa) e também a renda fixa, o saldo do investimento estrangeiro em carteira no Brasil de janeiro até {ate[5:7]}/{ate[:4]} foi: {partes}.")
     if "K21" in ach:
         linhas.append(f"A imprensa registrou que os investidores estrangeiros estavam posicionados para a vitória do outro candidato ([fonte]({ach['K21']['url_a']})).")
-    return {"ano_ate_22_out_rs_bi": ano, "outubro_ate_22_out_rs_bi": outubro}, linhas
+    return {"ano_ate_22_out_rs_bi": ano, "outubro_ate_22_out_rs_bi": outubro, "balanco_de_pagamentos": bp}, linhas
 
 
 def regua_a2(ano: float | None, outubro: float | None) -> str:
@@ -235,7 +249,7 @@ def main(coletar: bool = True) -> int:
         posicao = 1 + sum(1 for x in outros if x > brasil)
         v = "confirmada" if posicao <= 3 else ("confirmada em parte" if posicao <= 10 else "não confirmada")
         out["veredito_a6"] = {"veredito": v, "posicao": posicao, "juro_real_brasil_ranking": brasil, "seguintes": outros,
-                              "porque": (f"o Brasil é o {'maior' if posicao == 1 else str(posicao) + 'º maior'} juro real entre 40 países no ranking MoneYou de 16/set/2026, com {brasil:.2f}% ao ano; "
+                              "porque": (f"o Brasil tem o {'maior' if posicao == 1 else str(posicao) + 'º maior'} juro real entre 40 países no ranking MoneYou de 16/set/2026, com {brasil:.2f}% ao ano; "
                                          f"o segundo tem {max(outros):.2f}%").replace(".", ",")}
     out["notas"] = notas
     RES.mkdir(exist_ok=True)
