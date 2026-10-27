@@ -21,9 +21,9 @@
 | A4 | "de onde é que vai vir esse dinheiro" | confirmada | 10 de 14 promessas econômicas sem custo publicado ou sem fonte declarada (9 de 13 sem o fim da escala 6x1, que já foi aprovado) |
 | A5 | "a gastança do Brasil já está muito alta" | confirmada | o governo (União, estados e municípios) gasta 46,9% do PIB, contra 31,1% na mediana dos emergentes do G20 (FMI, 2025) |
 | A6 | "o juro já está muito alto" | confirmada | o Brasil tem o maior juro real entre 40 países no ranking MoneYou de 16/set/2026, com 8,45% ao ano; o segundo tem 6,79% |
-| A7 | "a tendência é apenas aumentar" (o juro) | confirmada em parte | o Focus de 2026-10-23 esperava Selic de 11,75% no fim de 2027, abaixo dos 13,75% de hoje; a curva da B3 cobrava 12,38% para 2028 em 23/out; depois do resultado, o DI de janeiro de 2028 (o juro médio cobrado até lá) foi de 12,86% para 14,80%, acima da Selic de hoje (emenda 9) |
+| A7 | "a tendência é apenas aumentar" (o juro) | confirmada em parte | o Focus de 2026-10-23 esperava Selic de 11,75% no fim de 2027, abaixo dos 13,75% de hoje; a curva da B3 cobrava 12,38% para 2028 em 23/out; e 15,70% em 26/out |
 
-**A dívida no cenário central: sobe rápido.** A dívida bruta do governo passa de 82,5% do PIB em 2026 para **105,4% em 2030** (+22,9 pontos; faixa pelo erro histórico, de 98% a 112%). Mesmo sem nenhum prêmio de juros ela sobe 13,2 pontos, o que já é "sobe rápido" pela régua. Para a dívida parar de subir em 2030, o governo precisaria de um superávit de 5,3% do PIB naquele ano (1,9% se o mercado não cobrasse prêmio); a base da IFI prevê um déficit de 1,1%. A distância é de 6,4 pontos do PIB. Em nenhuma das 17 contas feitas (§7.1) a dívida para de subir.
+**A dívida no cenário central: sobe rápido.** A dívida bruta do governo passa de 82,5% do PIB em 2026 para **105,5% em 2030** (+23,0 pontos; faixa pelo erro histórico, de 98% a 112%). Mesmo sem nenhum prêmio de juros ela sobe 13,2 pontos, o que já é "sobe rápido" pela régua. Para a dívida parar de subir em 2030, o governo precisaria de um superávit de 5,3% do PIB naquele ano (1,9% se o mercado não cobrasse prêmio); a base da IFI prevê um déficit de 1,1%. A distância é de 6,4 pontos do PIB. Em nenhuma das 17 contas feitas (§7.1) a dívida para de subir.
 
 **O cenário central, ano a ano** (o que a conta usa: o cenário base da IFI de junho, mais o prêmio de juros medido no dia):
 
@@ -33,7 +33,7 @@
 | 2027 | 1,8% | 12% | déficit de 0,7% | 87,8% |
 | 2028 | 2,3% | 10% | déficit de 0,6% | 93,6% |
 | 2029 | 2,3% | 8% | déficit de 0,8% | 99,0% |
-| 2030 | 2,3% | 8% | déficit de 1,1% | 105,4% |
+| 2030 | 2,3% | 8% | déficit de 1,1% | 105,5% |
 
 **O que o mercado esperava antes da eleição** (mediana do Focus de 2026-10-23; é outro cenário, mais pessimista no PIB e no juro que o da IFI; a dívida com ele está no §7.1):
 
@@ -58,8 +58,11 @@ Janela: fechamento de 2026-10-23 contra o de 2026-10-26.
 | Dólar PTAX (média do dia, Banco Central) | +9,19% | R$ 5,0377 → R$ 5,5007 |
 | Dólar à vista (fechamento, imprensa) | +8,21% | → R$ 5,4029 ([fonte](https://euqueroinvestir.com/acoes/ibovespa-hoje-reage-a-eleicao-e-derrete-mais-de-1388)) |
 | Dólar contra México, Chile, Colômbia e África do Sul (média, controle) | -0,33% |  |
-| DI futuro jan/2028 (fechamento, Reuters) | +194 centésimos | 12,86% → 14,80% |
-| DI futuro jan/2031 (fechamento, Reuters) | +254 centésimos | 12,64% → 15,19% |
+| DI futuro jan/2027 (B3) | +23 centésimos | 13,47% → 13,70% |
+| DI futuro jan/2028 (B3) | +196 centésimos | 12,86% → 14,82% |
+| DI futuro jan/2029 (B3) | +258 centésimos | 12,64% → 15,22% |
+| DI futuro jan/2031 (B3) | +264 centésimos | 12,64% → 15,28% |
+| DI futuro jan/2033 (B3) | +256 centésimos | 12,74% → 15,29% |
 
 **O que se atribui à eleição (o Brasil menos os outros emergentes):** bolsa -13,58 pontos; dólar +6,92 pontos (dólar do Yahoo nos dois lados, para a mesma hora; a PTAX é a média do dia e mede outra coisa).
 
@@ -74,9 +77,20 @@ Janela: fechamento de 2026-10-23 contra o de 2026-10-26.
 
 ### 2.1 O prêmio de juros
 
-Prêmio usado na conta da dívida: **3,89 pontos ao ano** (excesso do DI jan/2031 contra o título de 10 anos dos EUA em 26/out (2,54 ponto), dividido pela surpresa (1 - 0,345)). Medido contra a curva de 12/jun (data da base da IFI), e não contra a véspera, o prêmio é de 0,36 ponto ao ano (variante, §11).
+Prêmio usado na conta da dívida: **3,91 pontos ao ano** (excesso do DI jan/2033 contra o título de 10 anos dos EUA em 26/out (2,56 ponto), dividido pela surpresa (1 - 0,345)). Medido contra a curva de 12/jun (data da base da IFI), e não contra a véspera, o prêmio é de 0,49 ponto ao ano (variante, §11).
 
-**A Selic que a curva cobra para 2028** (taxa a termo entre os DI de janeiro de 2028 e de 2029, emenda 4): 12,38% em 23/out. A Selic hoje é 13,75%.
+**A Selic que a curva cobra para 2028** (taxa a termo entre os DI de janeiro de 2028 e de 2029, emenda 4): 12,38% em 23/out e 15,70% em 26/out. A Selic hoje é 13,75%.
+
+### 2.1.1 O pior momento do dia, as ações e o que circulou
+
+Os números que circularam em vídeo na manhã de 26/out (o dólar subindo mais de 12%, ações caindo 27% a 31%) eram do pior momento do pregão, não do fechamento. A análise de cada vídeo está em [`docs/VIDEOS_QUE_CIRCULARAM.md`](docs/VIDEOS_QUE_CIRCULARAM.md).
+
+- **circuit breaker:** Às 10h05 de 26/out a B3 acionou o circuit breaker (queda de 10% do Ibovespa) e suspendeu os negócios à vista por 30 minutos, a primeira vez desde a pandemia. ([fonte](https://www.infomoney.com.br/mercados/circuit-breaker-por-que-bolsa-suspendeu-negociacoes-veja-quando-ela-volta/), [segunda fonte](https://investalk.bb.com.br/noticias/mercado/b3-aciona-circuit-break-pela-1-vez-desde-pandemia-e-suspende-negociacoes-a-vista-por-30-minutos))
+- **o pior momento do dia (Ibovespa):** A mínima do Ibovespa em 26/out foi 169.516 pontos (−17,3% contra a sexta); o fechamento foi 176.608 (−13,88%). ([fonte](https://www.spacemoney.com.br/investimentos/acoes/ibovespa-hoje/ibovespa-cai-dolar-sobe-fechamento-2))
+- **o pior momento do dia (dólar):** Nos primeiros minutos de 26/out o dólar chegou a R$ 5,6049 (+12,25%); fechou a R$ 5,4029 (+8,21%). ([fonte](https://www.moneytimes.com.br/dolar-26-10-26-lils/), [segunda fonte](https://bpmoney.com.br/mercado/cambio/dolar-dispara-8-fecha-540-reeleicao-lula-segundo-turno/))
+- **as ações que mais caíram em 26/out:** No fechamento de 26/out, entre as ações citadas nos vídeos que circularam: B3 (B3SA3) −36,28%, Banco do Brasil (BBAS3) −29,33%, Bradesco (BBDC4) −21,70%, Itaú (ITUB4) −13,66%, Petrobras (PETR4) −8,18%; os bancos tinham subido entre o 1º turno e 23/out. ([fonte](https://www.suno.com.br/noticias/ibovespa-hoje-26-outubro-magazine-luiza-mglu3-eleicoes-mt/), [segunda fonte](https://investirecocaresocomecar.com.br/acoes-de-bancos-queda-reeleicao-lula/))
+- **o dólar a R$ 6 do Morgan Stanley:** O Morgan Stanley vê o dólar a R$ 6 como cenário pessimista, se o governo não sinalizar ajuste das contas nas próximas semanas; o cenário-base do banco é R$ 5,60 a R$ 5,70 e o DI de janeiro de 2029 a 15,5%. ([fonte](https://www.moneytimes.com.br/dolar-a-r-6-entra-no-radar-apos-vitoria-de-lula-mas-depende-de-um-fator-segundo-morgan-stanley-lils/), [segunda fonte](https://exame.com/invest/mercados/acoes-podem-perder-ate-30-com-a-reeleicao-de-lula-diz-morgan-stanley/))
+- **o sinal que o mercado espera:** Economistas ouvidos pela CNN Brasil esperam uma mensagem inicial do governo sobre as contas, com função semelhante à da Carta ao Povo Brasileiro de 2002 (uma fonte; registro). ([fonte](https://www.cnnbrasil.com.br/blogs/priscila-yazbek/economia/money/macroeconomia/mercado-espera-sinal-fiscal-de-lula-para-conter-turbulencia-apos-eleicao/))
 
 ### 2.2 As eleições anteriores
 
@@ -195,7 +209,7 @@ Categorias: **A** compensada na própria lei (imposto maior para outro grupo) ·
 | Cenário (dívida bruta, conceito do Banco Central, % do PIB) | 2026 | 2027 | 2028 | 2029 | 2030 |
 |---|---|---|---|---|---|
 | S0: base da IFI (jun/2026) | 82,5 | 86,4 | 90,1 | 92,7 | 95,7 |
-| S1: central (base + prêmio de 3,89 pontos) | 82,5 | 87,8 | 93,6 | 99,0 | 105,4 |
+| S1: central (base + prêmio de 3,91 pontos) | 82,5 | 87,8 | 93,6 | 99,0 | 105,5 |
 | S2: risco (S1 + promessas com custo e sem fonte, 0,03% do PIB) | 82,5 | 87,8 | 93,7 | 99,1 | 105,6 |
 | Mercado (Focus, antes da eleição) | 83,5 | 87,2 | 90,1 | 92,7 | 95,0 |
 
@@ -206,20 +220,20 @@ No conceito do FMI, que soma os títulos do Tesouro na carteira do Banco Central
 | Variante | Dívida em 2030 (% do PIB) |
 |---|---|
 | prêmio pela metade | 100,5 |
-| prêmio em dobro | 115,8 |
-| o prêmio passa inteiro para a dívida já em 2027 | 109,7 |
+| prêmio em dobro | 115,9 |
+| o prêmio passa inteiro para a dívida já em 2027 | 109,8 |
 | PIB 1 ponto abaixo por ano | 109,4 |
-| PIB 1 ponto acima por ano | 101,6 |
-| se o limite de gasto não segurar o reajuste do Bolsa Família e o Desenrola 3.0 | 106,2 |
+| PIB 1 ponto acima por ano | 101,7 |
+| se o limite de gasto não segurar o reajuste do Bolsa Família e o Desenrola 3.0 | 106,3 |
 | cenário otimista da IFI, com o prêmio | 94,3 |
-| cenário pessimista da IFI, com o prêmio | 116,6 |
+| cenário pessimista da IFI, com o prêmio | 116,7 |
 | (P2) sem prêmio nenhum | 95,7 |
-| (P2) prêmio medido contra a curva de junho (0,36 ponto) | 96,6 |
+| (P2) prêmio medido contra a curva de junho (0,49 ponto) | 96,9 |
 | (P2) metas do PLDO 2027 cumpridas, sem prêmio | 88,0 |
 | (P2) metas do PLDO 2027 cumpridas, com o prêmio | 97,5 |
-| (P1) macro do Focus no lugar do da IFI | 108,5 |
+| (P1) macro do Focus no lugar do da IFI | 108,6 |
 | (P1) 2026 começando com os juros já acima da base | 111,3 |
-| (P1) limite de gasto sem segurar os R$ 51,3 bi por ano que a base não tem | 106,8 |
+| (P1) limite de gasto sem segurar os R$ 51,3 bi por ano que a base não tem | 106,9 |
 | (P1) as três juntas | 116,0 |
 
 ### 7.2 O aperto do Orçamento
@@ -274,7 +288,7 @@ Só entram temas com as duas fontes conferidas por script. A frase "o que pode m
 ## 10. Como se conferiu
 
 - Validação por um segundo caminho: **12 de 12** itens passaram (`resultados/VALIDACAO.json`).
-- Achados de terceiros: 238 levantados, **212** com o trecho encontrado por script no texto capturado, 88 deles com a segunda fonte também conferida.
+- Achados de terceiros: 243 levantados, **217** com o trecho encontrado por script no texto capturado, 91 deles com a segunda fonte também conferida.
 - Revisão adversarial por três leitores independentes: [`docs/REVISAO_ADVERSARIAL.md`](docs/REVISAO_ADVERSARIAL.md). Leitura da IA: [`docs/LEITURA_DA_IA.md`](docs/LEITURA_DA_IA.md). Como refazer: [`docs/REPLICAR.md`](docs/REPLICAR.md).
 
 ## 11. As duas premissas (emenda 5)
@@ -283,14 +297,14 @@ Só entram temas com as duas fontes conferidas por script. A frase "o que pode m
 
 - **A versão mais forte:** o resultado mantém um governo que expande gasto sem receita nova, o juro longo sobe e fica, e a dívida, que já subia, sobe mais depressa; a queda do dia antecipa isso.
 - **O que se esperaria ver:** o juro longo e o dólar sem voltar nas semanas seguintes, o Copom parando os cortes, as metas fiscais de 2027 e 2028 revistas para baixo.
-- **O que o dado mostra:** com o macro do Focus (Selic mais alta e PIB menor que os da IFI), a dívida vai a 108,5% em 2030; com os juros de 2026 já acima da base, 111,3%; se o limite de gasto não segurar os R$ 51,3 bi por ano que a base não tem, 106,8%; as três juntas, 116,0%.
+- **O que o dado mostra:** com o macro do Focus (Selic mais alta e PIB menor que os da IFI), a dívida vai a 108,6% em 2030; com os juros de 2026 já acima da base, 111,3%; se o limite de gasto não segurar os R$ 51,3 bi por ano que a base não tem, 106,9%; as três juntas, 116,0%.
 - **O que a derrubaria:** um pacote de ajuste crível antes do Orçamento de 2027 e o juro longo voltando ao nível de antes da eleição.
 
 ### P2: o mercado exagerou
 
 - **A versão mais forte:** a queda é a desmontagem de uma aposta no outro resultado; a economia real (emprego, renda) vai bem e o mercado costuma errar a dívida para pior.
 - **O que se esperaria ver:** a bolsa e o dólar recuperando parte da perda em semanas, o juro longo voltando ao nível de junho, o governo cumprindo a meta de 2027.
-- **O que o dado mostra:** o mercado de previsão dava 34,5% de chance a Lula na véspera, então parte da queda é aposta desfeita; contra a curva de junho, que a base da IFI usa, o prêmio é de 0,36 ponto e a dívida vai a 96,6% em 2030; sem prêmio nenhum, 95,7%; com as metas do próprio governo cumpridas, 88,0% sem prêmio e 97,5% com ele; e o mercado previu a dívida maior do que aconteceu em 5 das 6 eleições desde 2002.
+- **O que o dado mostra:** o mercado de previsão dava 34,5% de chance a Lula na véspera, então parte da queda é aposta desfeita; contra a curva de junho, que a base da IFI usa, o prêmio é de 0,49 ponto e a dívida vai a 96,9% em 2030; sem prêmio nenhum, 95,7%; com as metas do próprio governo cumpridas, 88,0% sem prêmio e 97,5% com ele; e o mercado previu a dívida maior do que aconteceu em 5 das 6 eleições desde 2002.
 - **O que a derrubaria:** o juro longo ficando acima do de junho, a meta de 2027 descumprida ou mudada, o limite de gasto alterado em 2028 sem compensação.
 
-**Qual o dado sustenta mais.** Em nenhuma das 17 contas a dívida para de subir: em 2030 ela fica entre 88,0% e 116,6% do PIB, contra 82,5% em 2026. Nisso o dado sustenta a P1: o problema das contas é real e vem de antes da eleição. Onde a P2 tem razão é no tamanho do susto do dia: parte da queda é aposta desfeita, e o mercado já errou a dívida para pior. O que decide entre as duas daqui para a frente é se o governo cumpre a meta de 2027 e o que faz com o limite de gasto em 2028.
+**Qual o dado sustenta mais.** Em nenhuma das 17 contas a dívida para de subir: em 2030 ela fica entre 88,0% e 116,7% do PIB, contra 82,5% em 2026. Nisso o dado sustenta a P1: o problema das contas é real e vem de antes da eleição. Onde a P2 tem razão é no tamanho do susto do dia: parte da queda é aposta desfeita, e o mercado já errou a dívida para pior. O que decide entre as duas daqui para a frente é se o governo cumpre a meta de 2027 e o que faz com o limite de gasto em 2028.

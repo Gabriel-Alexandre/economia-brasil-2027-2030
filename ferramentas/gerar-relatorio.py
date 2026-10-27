@@ -197,6 +197,13 @@ def relatorio(r: dict, val: dict, x: dict) -> str:
           tabela(["Ano", "PIB", "Inflação (IPCA)", "Selic no fim do ano", "Dólar no fim do ano", "Dívida bruta (Focus)"],
                  [[a, f"{br(f['PIB Total'][a])}%", f"{br(f['IPCA'][a], 2)}%", f"{br(sel[a]['mediana'], 2)}%", f"R$ {br(f['Câmbio'][a], 2)}", f"{br(m6['focus_dbgg'][a])}%"] for a in ANOS]) + "\n"]
     s += secao_mercado(r, v, jr)
+    # o pior momento do dia e as ações citadas nos vídeos que circularam (rodada 7; docs/VIDEOS_QUE_CIRCULARAM.md)
+    dia = [x["ok"][k] for k in ("K41", "K47", "K48", "K46", "K49", "K50") if k in x["ok"]]
+    if dia:
+        s.append("### 2.1.1 O pior momento do dia, as ações e o que circulou\n")
+        s.append("Os números que circularam em vídeo na manhã de 26/out (o dólar subindo mais de 12%, ações caindo 27% a 31%) eram do pior momento do pregão, não do fechamento. "
+                 "A análise de cada vídeo está em [`docs/VIDEOS_QUE_CIRCULARAM.md`](docs/VIDEOS_QUE_CIRCULARAM.md).\n")
+        s += [f"- **{a['tema']}:** {a['fato']} ([fonte]({a['url_a']})" + (f", [segunda fonte]({a['url_b']}))" if a.get("url_b") else ")") for a in dia] + [""]
     s.append("### 2.2 As eleições anteriores\n")
     linhas = [[l["ano"], l["vencedor"], f"{sinal(l['ibovespa_dia_pct'])}%", f"{sinal(l['dolar_dia_pct'])}%" if l.get("dolar_dia_pct") is not None else "",
                f"{br(l['pib_real_medio_pct'])}%", f"{br(l['divida_bruta_inicio'])} → {br(l['divida_bruta_fim'])}" + ("" if l["mandato_completo"] else " (projeção do FMI)"),

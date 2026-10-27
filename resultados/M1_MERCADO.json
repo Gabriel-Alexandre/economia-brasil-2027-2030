@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-26T21:13-03:00",
+ "gerado_em": "2026-10-26T23:28-03:00",
  "fechamento_de_26_out": true,
  "dia": {
   "janela": [
@@ -120,24 +120,43 @@
  },
  "termo_2028_em_23_out": 12.381801826656691,
  "curva_26_out": {
-  "jan/2028": 14.8,
-  "jan/2031": 15.185
+  "jan/2027": 13.695,
+  "jan/2028": 14.822,
+  "jan/2029": 15.22,
+  "jan/2031": 15.277,
+  "jan/2033": 15.294
  },
- "curva_selic_fim_2027": 14.8,
- "fonte_curva_26_out": "imprensa, texto da Reuters na CNN Brasil e no InfoMoney (achado K45; emenda 9)",
+ "termo_2028_em_26_out": 15.698452862001,
+ "curva_selic_fim_2027": 15.698452862001,
+ "fonte_curva_26_out": "B3, arquivo de taxas referenciais (emenda 4)",
  "juros": [
   {
-   "nome": "DI futuro jan/2028 (fechamento, Reuters)",
-   "variacao_pp": 1.9410000000000007,
-   "detalhe": "12,86% → 14,80%"
+   "nome": "DI futuro jan/2027 (B3)",
+   "variacao_pp": 0.2270000000000003,
+   "detalhe": "13,47% → 13,70%"
   },
   {
-   "nome": "DI futuro jan/2031 (fechamento, Reuters)",
-   "variacao_pp": 2.543000000000001,
-   "detalhe": "12,64% → 15,19%"
+   "nome": "DI futuro jan/2028 (B3)",
+   "variacao_pp": 1.9629999999999992,
+   "detalhe": "12,86% → 14,82%"
+  },
+  {
+   "nome": "DI futuro jan/2029 (B3)",
+   "variacao_pp": 2.578000000000001,
+   "detalhe": "12,64% → 15,22%"
+  },
+  {
+   "nome": "DI futuro jan/2031 (B3)",
+   "variacao_pp": 2.635,
+   "detalhe": "12,64% → 15,28%"
+  },
+  {
+   "nome": "DI futuro jan/2033 (B3)",
+   "variacao_pp": 2.556000000000001,
+   "detalhe": "12,74% → 15,29%"
   }
  ],
- "vencimento_do_premio": "jan/2031",
+ "vencimento_do_premio": "jan/2033",
  "polymarket": {
   "p": 0.345,
   "hora_brt": "2026-10-25T18:00-03:00",
@@ -146,18 +165,18 @@
   "url": "https://clob.polymarket.com/prices-history?market=30630994248667897740988010928640156931882346081873066002335460180076741328029&startTs=1792724400&endTs=1793005200&fidelity=60"
  },
  "premio": {
-  "premio_pp": 3.8854959618954275,
-  "excesso_juro_pp": 2.544999855041505,
-  "variacao_di_pp": 2.543000000000001,
-  "vencimento": "jan/2031",
+  "premio_pp": 3.905343290139702,
+  "excesso_juro_pp": 2.557999855041505,
+  "variacao_di_pp": 2.556000000000001,
+  "vencimento": "jan/2033",
   "variacao_10_anos_eua_pp": -0.0019998550415039062,
   "p_lula_vespera": 0.345,
-  "origem": "excesso do DI jan/2031 contra o título de 10 anos dos EUA em 26/out (2,54 ponto), dividido pela surpresa (1 - 0,345)"
+  "origem": "excesso do DI jan/2033 contra o título de 10 anos dos EUA em 26/out (2,56 ponto), dividido pela surpresa (1 - 0,345)"
  },
  "premio_contra_base_ifi": {
-  "premio_pp": 0.3569999275207518,
-  "vencimento": "jan/2031",
-  "di_12_jun": 14.329,
+  "premio_pp": 0.48799992752075205,
+  "vencimento": "jan/2033",
+  "di_12_jun": 14.307,
   "variacao_10_anos_eua_pp": 0.49900007247924805
  },
  "veredito_a1": {

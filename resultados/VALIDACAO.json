@@ -1,14 +1,14 @@
 {
- "em": "2026-10-26T21:14",
+ "em": "2026-10-26T23:29",
  "itens": [
   {
    "item": "S0 reproduz a dívida da IFI de 2026 a 2030",
    "passou": true
   },
   {
-   "item": "S1 (prêmio 3.89) igual nos dois caminhos",
+   "item": "S1 (prêmio 3.91) igual nos dois caminhos",
    "passou": true,
-   "valor_2030": 105.40680298828089
+   "valor_2030": 105.45819268774936
   },
   {
    "item": "SGS 13762 baixada de novo",

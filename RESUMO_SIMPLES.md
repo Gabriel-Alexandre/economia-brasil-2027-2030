@@ -12,12 +12,12 @@
 | "de onde é que vai vir esse dinheiro" | confirmada | 10 de 14 promessas econômicas sem custo publicado ou sem fonte declarada (9 de 13 sem o fim da escala 6x1, que já foi aprovado) |
 | "a gastança do Brasil já está muito alta" | confirmada | o governo (União, estados e municípios) gasta 46,9% do PIB, contra 31,1% na mediana dos emergentes do G20 (FMI, 2025) |
 | "o juro já está muito alto" | confirmada | o Brasil tem o maior juro real entre 40 países no ranking MoneYou de 16/set/2026, com 8,45% ao ano; o segundo tem 6,79% |
-| "a tendência é apenas aumentar" (o juro) | confirmada em parte | o Focus de 2026-10-23 esperava Selic de 11,75% no fim de 2027, abaixo dos 13,75% de hoje; a curva da B3 cobrava 12,38% para 2028 em 23/out; depois do resultado, o DI de janeiro de 2028 (o juro médio cobrado até lá) foi de 12,86% para 14,80%, acima da Selic de hoje (emenda 9) |
+| "a tendência é apenas aumentar" (o juro) | confirmada em parte | o Focus de 2026-10-23 esperava Selic de 11,75% no fim de 2027, abaixo dos 13,75% de hoje; a curva da B3 cobrava 12,38% para 2028 em 23/out; e 15,70% em 26/out |
 
 ## O que esperar até 2030
 
-- **A dívida sobe rápido:** de 82,5% do PIB em 2026 para 105,4% em 2030 no cenário central (faixa de 98% a 112%).
-- **Em nenhuma das 17 contas feitas a dívida para de subir**: em 2030 ela fica entre 88,0% e 116,6% do PIB, mesmo com as metas do próprio governo cumpridas.
+- **A dívida sobe rápido:** de 82,5% do PIB em 2026 para 105,5% em 2030 no cenário central (faixa de 98% a 112%).
+- **Em nenhuma das 17 contas feitas a dívida para de subir**: em 2030 ela fica entre 88,0% e 116,7% do PIB, mesmo com as metas do próprio governo cumpridas.
 - **Para ela parar de subir em 2030**, seria preciso um superávit de 5,3% do PIB naquele ano. O previsto é um déficit de 1,1%.
 - **O juro real é de 8,8% ao ano**, o maior do mundo. Antes da eleição, o mercado esperava a Selic em 11,75% no fim de 2027.
 - **As medidas de 2025 e 2026 custam R$ 124,1 bi por ano a partir de 2027**; 67% disso cabe no limite de gasto, ou seja, sai de outra despesa do Orçamento.

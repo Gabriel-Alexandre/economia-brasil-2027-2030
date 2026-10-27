@@ -1,7 +1,7 @@
 {
- "gerado_em": "2026-10-26T21:14",
+ "gerado_em": "2026-10-26T23:28",
  "M1_mercado": {
-  "gerado_em": "2026-10-26T21:13-03:00",
+  "gerado_em": "2026-10-26T23:28-03:00",
   "fechamento_de_26_out": true,
   "dia": {
    "janela": [
@@ -122,24 +122,43 @@
   },
   "termo_2028_em_23_out": 12.381801826656691,
   "curva_26_out": {
-   "jan/2028": 14.8,
-   "jan/2031": 15.185
+   "jan/2027": 13.695,
+   "jan/2028": 14.822,
+   "jan/2029": 15.22,
+   "jan/2031": 15.277,
+   "jan/2033": 15.294
   },
-  "curva_selic_fim_2027": 14.8,
-  "fonte_curva_26_out": "imprensa, texto da Reuters na CNN Brasil e no InfoMoney (achado K45; emenda 9)",
+  "termo_2028_em_26_out": 15.698452862001,
+  "curva_selic_fim_2027": 15.698452862001,
+  "fonte_curva_26_out": "B3, arquivo de taxas referenciais (emenda 4)",
   "juros": [
    {
-    "nome": "DI futuro jan/2028 (fechamento, Reuters)",
-    "variacao_pp": 1.9410000000000007,
-    "detalhe": "12,86% → 14,80%"
+    "nome": "DI futuro jan/2027 (B3)",
+    "variacao_pp": 0.2270000000000003,
+    "detalhe": "13,47% → 13,70%"
    },
    {
-    "nome": "DI futuro jan/2031 (fechamento, Reuters)",
-    "variacao_pp": 2.543000000000001,
-    "detalhe": "12,64% → 15,19%"
+    "nome": "DI futuro jan/2028 (B3)",
+    "variacao_pp": 1.9629999999999992,
+    "detalhe": "12,86% → 14,82%"
+   },
+   {
+    "nome": "DI futuro jan/2029 (B3)",
+    "variacao_pp": 2.578000000000001,
+    "detalhe": "12,64% → 15,22%"
+   },
+   {
+    "nome": "DI futuro jan/2031 (B3)",
+    "variacao_pp": 2.635,
+    "detalhe": "12,64% → 15,28%"
+   },
+   {
+    "nome": "DI futuro jan/2033 (B3)",
+    "variacao_pp": 2.556000000000001,
+    "detalhe": "12,74% → 15,29%"
    }
   ],
-  "vencimento_do_premio": "jan/2031",
+  "vencimento_do_premio": "jan/2033",
   "polymarket": {
    "p": 0.345,
    "hora_brt": "2026-10-25T18:00-03:00",
@@ -148,18 +167,18 @@
    "url": "https://clob.polymarket.com/prices-history?market=30630994248667897740988010928640156931882346081873066002335460180076741328029&startTs=1792724400&endTs=1793005200&fidelity=60"
   },
   "premio": {
-   "premio_pp": 3.8854959618954275,
-   "excesso_juro_pp": 2.544999855041505,
-   "variacao_di_pp": 2.543000000000001,
-   "vencimento": "jan/2031",
+   "premio_pp": 3.905343290139702,
+   "excesso_juro_pp": 2.557999855041505,
+   "variacao_di_pp": 2.556000000000001,
+   "vencimento": "jan/2033",
    "variacao_10_anos_eua_pp": -0.0019998550415039062,
    "p_lula_vespera": 0.345,
-   "origem": "excesso do DI jan/2031 contra o título de 10 anos dos EUA em 26/out (2,54 ponto), dividido pela surpresa (1 - 0,345)"
+   "origem": "excesso do DI jan/2033 contra o título de 10 anos dos EUA em 26/out (2,56 ponto), dividido pela surpresa (1 - 0,345)"
   },
   "premio_contra_base_ifi": {
-   "premio_pp": 0.3569999275207518,
-   "vencimento": "jan/2031",
-   "di_12_jun": 14.329,
+   "premio_pp": 0.48799992752075205,
+   "vencimento": "jan/2033",
+   "di_12_jun": 14.307,
    "variacao_10_anos_eua_pp": 0.49900007247924805
   },
   "veredito_a1": {
@@ -921,8 +940,8 @@
   }
  },
  "M6_divida": {
-  "premio_pp": 3.8854959618954275,
-  "premio_origem": "excesso do DI jan/2031 contra o título de 10 anos dos EUA em 26/out (2,54 ponto), dividido pela surpresa (1 - 0,345)",
+  "premio_pp": 3.905343290139702,
+  "premio_origem": "excesso do DI jan/2033 contra o título de 10 anos dos EUA em 26/out (2,56 ponto), dividido pela surpresa (1 - 0,345)",
   "S0_base_ifi": {
    "2025": 78.6,
    "2026": 82.49999999999999,
@@ -934,36 +953,36 @@
   "S1_central": {
    "2025": 78.6,
    "2026": 82.49999999999999,
-   "2027": 87.7565345053872,
-   "2028": 93.58893554664827,
-   "2029": 99.0071917052624,
-   "2030": 105.40680298828086
+   "2027": 87.76346375865812,
+   "2028": 93.60692259398041,
+   "2029": 99.04010881333735,
+   "2030": 105.45819268774936
   },
   "S2_risco": {
    "2025": 78.6,
    "2026": 82.49999999999999,
-   "2027": 87.79093896420505,
-   "2028": 93.65979579786456,
-   "2029": 99.1159530977801,
-   "2030": 105.55579056926067
+   "2027": 87.79786821747598,
+   "2028": 93.67778701804032,
+   "2029": 99.14888521535899,
+   "2030": 105.60721443503819
   },
   "custo_s2_pct_pib": 0.0344044588178628,
   "S0_reproduz_a_ifi": true,
-  "variacao_2026_2030_S1_pp": 22.906802988280873,
+  "variacao_2026_2030_S1_pp": 22.958192687749374,
   "classificacao_S1": "sobe rápido",
-  "primario_que_estabiliza_em_2030_pct_pib": 5.299611283018465,
+  "primario_que_estabiliza_em_2030_pct_pib": 5.318083874412014,
   "primario_que_estabiliza_em_2030_sem_premio_pct_pib": 1.8999999999999955,
   "primario_previsto_2030_base_ifi": -1.1,
-  "distancia_ate_estabilizar_pp": 6.399611283018466,
+  "distancia_ate_estabilizar_pp": 6.418083874412014,
   "sensibilidade_2030": {
-   "premio_metade": 100.46611357279112,
-   "premio_dobro": 115.82844893241568,
-   "repasse_total_imediato": 109.73634195158253,
-   "pib_1_ponto_abaixo": 109.38814949767833,
-   "pib_1_ponto_acima": 101.60807008485156,
-   "custos_fora_da_base_ifi": 106.23219418690888,
-   "cenario_otimista_ifi_com_premio": 94.26878256954512,
-   "cenario_pessimista_ifi_com_premio": 116.64210549927826
+   "premio_metade": 100.49090380330988,
+   "premio_dobro": 115.93872173898434,
+   "repasse_total_imediato": 109.81184084169338,
+   "pib_1_ponto_abaixo": 109.44151191219505,
+   "pib_1_ponto_acima": 101.65757768682488,
+   "custos_fora_da_base_ifi": 106.2837731677294,
+   "cenario_otimista_ifi_com_premio": 94.31629425342679,
+   "cenario_pessimista_ifi_com_premio": 116.6968082413682
   },
   "fmi_weo_out2026_conceito_fmi": {
    "2025": 93.3,
@@ -1012,11 +1031,11 @@
   "Última decisão do Copom em 2026 (281ª reunião, 16/09/2026): Selic cortada para 13,75% a.a. Orientação: 'a magnitude total do ciclo de calibração será estabelecida à luz de novas informações'; cenário com 'desancoragem das expectativas'; projeção de IPCA 3,2% no 1º tri de 2028; Focus 4,9% (2026) e 4,3% (2027). Cortes anteriores: 14,25% (17/06) e 14,00% (05/08). ([fonte](https://www.bcb.gov.br/api/servico/sitebcb/copom/comunicados_detalhes?nro_reuniao=281))",
   "Próxima reunião do Copom: 4 de novembro de 2026, dez dias depois da eleição (InfoMoney). Bruno Corano (Corano Capital), opinião: alta probabilidade de o BC interromper o ciclo de cortes. ([fonte](https://www.infomoney.com.br/onde-investir/tesouro-direto-abertura-fechamento-26102026/))"
  ],
- "M4_porque_a7": "o Focus de 2026-10-23 esperava Selic de 11,75% no fim de 2027, abaixo dos 13,75% de hoje; a curva da B3 cobrava 12,38% para 2028 em 23/out; depois do resultado, o DI de janeiro de 2028 (o juro médio cobrado até lá) foi de 12,86% para 14,80%, acima da Selic de hoje (emenda 9)",
+ "M4_porque_a7": "o Focus de 2026-10-23 esperava Selic de 11,75% no fim de 2027, abaixo dos 13,75% de hoje; a curva da B3 cobrava 12,38% para 2028 em 23/out; e 15,70% em 26/out",
  "M6_variantes_revisao": {
   "p2_premio_contra_a_curva_de_junho": {
-   "premio_pp": 0.3569999275207518,
-   "divida_2030": 96.56291558105204
+   "premio_pp": 0.48799992752075205,
+   "divida_2030": 96.8810086333214
   },
   "p2_sem_premio": {
    "divida_2030": 95.69999999999999
@@ -1029,15 +1048,15 @@
     "2030": 1.5
    },
    "divida_2030_sem_premio": 88.04869313305775,
-   "divida_2030_com_premio": 97.47253090795958
+   "divida_2030_com_premio": 97.52245144807208
   },
   "p1_macro_do_focus": {
-   "divida_2030": 108.50229794489489,
+   "divida_2030": 108.55501274946528,
    "juro_extra_pp": {
-    "2027": 1.4847731828529422,
-    "2028": 2.459647375232028,
-    "2029": 3.6357967695163422,
-    "2030": 4.551746365705885
+    "2027": 1.4937044805628659,
+    "2028": 2.472548138590806,
+    "2029": 3.651674632111762,
+    "2030": 4.569608961125732
    },
    "choque_pib_nominal_pp": {
     "2027": -0.6281235827605203,
@@ -1048,19 +1067,19 @@
   },
   "p1_ponto_de_partida_pior": {
    "juro_extra_pp": 1.2468193384223925,
-   "divida_2030": 111.26200672124472
+   "divida_2030": 111.31570063671863
   },
   "p1_limite_nao_segura": {
    "custo_rs_bi": 51.300000000000004,
-   "divida_2030": 106.81369625980332
+   "divida_2030": 106.86542277248199
   },
   "p1_juntas": {
-   "divida_2030": 115.97357599629072
+   "divida_2030": 116.02899741884198
   }
  },
  "M6_faixa_2030": {
-  "de": 98.3701363216142,
-  "ate": 112.44346965494752,
+  "de": 98.4215260210827,
+  "ate": 112.49485935441602,
   "erro_usado_pp": 7.036666666666666,
   "nota": "erro médio da previsão do Focus para a dívida líquida 3 anos depois (M7); não há série de previsão da dívida bruta tão longa"
  },

@@ -17,6 +17,15 @@
    "https://www.b3.com.br/pesquisapregao/download?filelist=TS261023.ex_"
   ]
  },
+ "b3-curva-pre-20261026": {
+  "arquivo": "dados/brutos/TS261026.zip",
+  "baixado_em": "2026-10-26T23:19:56",
+  "bytes": 334434,
+  "sha256": "ada5ceb20a183e9161e2695f6481ac22d4ee307c32eae70fe9364fba6f4a4f56",
+  "urls": [
+   "https://www.b3.com.br/pesquisapregao/download?filelist=TS261026.ex_"
+  ]
+ },
  "bcb-bp-acoes": {
   "arquivo": "dados/series/bcb-bp-acoes.json",
   "baixado_em": "2026-10-26T08:45:13",
@@ -417,7 +426,7 @@
  },
  "polymarket-lula": {
   "arquivo": "dados/series/polymarket-lula.json",
-  "baixado_em": "2026-10-26T21:14:53",
+  "baixado_em": "2026-10-26T23:28:34",
   "bytes": 1577,
   "sha256": "d52b7def0a43a11e28100cbfbe104c57662ea3418b486602cf052e6dff2103e3",
   "urls": [
