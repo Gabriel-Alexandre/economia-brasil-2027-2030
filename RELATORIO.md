@@ -1,6 +1,6 @@
 # O que esperar da economia do Brasil de 2027 a 2030
 
-**Relatório gerado por script em 2026-10-26** a partir de `resultados/RESUMO.json`. Regras escritas antes de qualquer conta em [`docs/PRE_REGISTRO.md`](docs/PRE_REGISTRO.md), com 6 emendas, cada uma dizendo o que já tinha sido visto. Análise feita pelo Claude (IA da Anthropic), a pedido de Gabriel Alexandre. **Não é recomendação de investimento.**
+**Relatório gerado por script em 2026-10-27** a partir de `resultados/RESUMO.json`. Regras escritas antes de qualquer conta em [`docs/PRE_REGISTRO.md`](docs/PRE_REGISTRO.md), com 6 emendas, cada uma dizendo o que já tinha sido visto. Análise feita pelo Claude (IA da Anthropic), a pedido de Gabriel Alexandre. **Não é recomendação de investimento.**
 
 ## O que este projeto não consegue dizer
 
@@ -91,6 +91,14 @@ Os números que circularam em vídeo na manhã de 26/out (o dólar subindo mais 
 - **as ações que mais caíram em 26/out:** No fechamento de 26/out, entre as ações citadas nos vídeos que circularam: B3 (B3SA3) −36,28%, Banco do Brasil (BBAS3) −29,33%, Bradesco (BBDC4) −21,70%, Itaú (ITUB4) −13,66%, Petrobras (PETR4) −8,18%; os bancos tinham subido entre o 1º turno e 23/out. ([fonte](https://www.suno.com.br/noticias/ibovespa-hoje-26-outubro-magazine-luiza-mglu3-eleicoes-mt/), [segunda fonte](https://investirecocaresocomecar.com.br/acoes-de-bancos-queda-reeleicao-lula/))
 - **o dólar a R$ 6 do Morgan Stanley:** O Morgan Stanley vê o dólar a R$ 6 como cenário pessimista, se o governo não sinalizar ajuste das contas nas próximas semanas; o cenário-base do banco é R$ 5,60 a R$ 5,70 e o DI de janeiro de 2029 a 15,5%. ([fonte](https://www.moneytimes.com.br/dolar-a-r-6-entra-no-radar-apos-vitoria-de-lula-mas-depende-de-um-fator-segundo-morgan-stanley-lils/), [segunda fonte](https://exame.com/invest/mercados/acoes-podem-perder-ate-30-com-a-reeleicao-de-lula-diz-morgan-stanley/))
 - **o sinal que o mercado espera:** Economistas ouvidos pela CNN Brasil esperam uma mensagem inicial do governo sobre as contas, com função semelhante à da Carta ao Povo Brasileiro de 2002 (uma fonte; registro). ([fonte](https://www.cnnbrasil.com.br/blogs/priscila-yazbek/economia/money/macroeconomia/mercado-espera-sinal-fiscal-de-lula-para-conter-turbulencia-apos-eleicao/))
+
+### 2.1.2 O 2º dia: o mercado, o Tesouro, o governo e a Fitch (27/out)
+
+Registro do que veio depois do dia medido; nenhuma régua do pré-registro usa estes achados, e nenhum veredito mudou.
+
+- **o Tesouro sem leilão de venda na semana:** Em 27/out o Tesouro cancelou também o leilão tradicional de LFT (o título ligado à Selic), depois de ter cancelado em 26/out os de prefixados e de inflação: na semana da eleição, nenhum leilão de venda. ([fonte](https://istoedinheiro.com.br/juros-futuros-hoje-27-10-2026-intervencao-tesouro), [segunda fonte](https://www.cnnbrasil.com.br/economia/money/macroeconomia/juros-recuam-em-linha-com-dolar-apos-nova-intervencao-do-tesouro-em-leiloes/))
+- **o que o governo disse:** Em 27/out o ministro da Fazenda, Dario Durigan, disse que o governo vai mandar ao Congresso um projeto de lei complementar para buscar o centro da meta fiscal (e não o piso), que já tem medidas prontas, e que a queda dos ativos não é de fundamento; não detalhou as medidas nem a data. ([fonte](https://exame.com/economia/apos-quedada-bolsa-durigan-promete-medida-para-reforcar-meta-fiscal/), [segunda fonte](https://forbes.com.br/forbes-money/2026/10/medidas-fiscais-governo-lula/))
+- **a Fitch:** Em 26/out a Fitch disse que a reeleição aumenta a incerteza nas contas e que o cenário-base da agência é uma consolidação gradual, insuficiente para estabilizar a dívida em relação ao PIB; não mudou a nota do Brasil (texto da Reuters, em 2 veículos). ([fonte](https://www.cnnbrasil.com.br/economia/money/macroeconomia/reeleicao-de-lula-eleva-incerteza-fiscal-e-ameaca-divida-publica-diz-fitch/), [segunda fonte](https://www.infomoney.com.br/economia/fitch-ve-aumento-da-incerteza-fiscal-apos-reeleicao-de-lula-e-alerta-para-divida/))
 
 ### 2.2 As eleições anteriores
 
@@ -288,7 +296,7 @@ Só entram temas com as duas fontes conferidas por script. A frase "o que pode m
 ## 10. Como se conferiu
 
 - Validação por um segundo caminho: **12 de 12** itens passaram (`resultados/VALIDACAO.json`).
-- Achados de terceiros: 243 levantados, **217** com o trecho encontrado por script no texto capturado, 91 deles com a segunda fonte também conferida.
+- Achados de terceiros: 246 levantados, **220** com o trecho encontrado por script no texto capturado, 94 deles com a segunda fonte também conferida.
 - Revisão adversarial por três leitores independentes: [`docs/REVISAO_ADVERSARIAL.md`](docs/REVISAO_ADVERSARIAL.md). Leitura da IA: [`docs/LEITURA_DA_IA.md`](docs/LEITURA_DA_IA.md). Como refazer: [`docs/REPLICAR.md`](docs/REPLICAR.md).
 
 ## 11. As duas premissas (emenda 5)

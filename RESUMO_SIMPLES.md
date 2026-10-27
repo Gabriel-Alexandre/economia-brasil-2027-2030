@@ -1,6 +1,6 @@
 # Resumo simples
 
-**Gerado em 2026-10-26.** Completo: [`RELATORIO.md`](RELATORIO.md). Opinião da IA: [`docs/LEITURA_DA_IA.md`](docs/LEITURA_DA_IA.md). Não é recomendação de investimento.
+**Gerado em 2026-10-27.** Completo: [`RELATORIO.md`](RELATORIO.md). Opinião da IA: [`docs/LEITURA_DA_IA.md`](docs/LEITURA_DA_IA.md). Não é recomendação de investimento.
 
 ## As afirmações do pedido
 

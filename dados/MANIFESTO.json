@@ -426,7 +426,7 @@
  },
  "polymarket-lula": {
   "arquivo": "dados/series/polymarket-lula.json",
-  "baixado_em": "2026-10-26T23:28:34",
+  "baixado_em": "2026-10-27T15:29:28",
   "bytes": 1577,
   "sha256": "d52b7def0a43a11e28100cbfbe104c57662ea3418b486602cf052e6dff2103e3",
   "urls": [
