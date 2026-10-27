@@ -204,6 +204,12 @@ def relatorio(r: dict, val: dict, x: dict) -> str:
         s.append("Os números que circularam em vídeo na manhã de 26/out (o dólar subindo mais de 12%, ações caindo 27% a 31%) eram do pior momento do pregão, não do fechamento. "
                  "A análise de cada vídeo está em [`docs/VIDEOS_QUE_CIRCULARAM.md`](docs/VIDEOS_QUE_CIRCULARAM.md).\n")
         s += [f"- **{a['tema']}:** {a['fato']} ([fonte]({a['url_a']})" + (f", [segunda fonte]({a['url_b']}))" if a.get("url_b") else ")") for a in dia] + [""]
+    # o 2º dia depois da eleição (rodada 8): o mercado, o Tesouro, o governo e a Fitch; nenhuma régua usa estes achados
+    dia2 = [x["ok"][k] for k in ("K54", "K51", "K52", "K53") if k in x["ok"]]
+    if dia2:
+        s.append("### 2.1.2 O 2º dia: o mercado, o Tesouro, o governo e a Fitch (27/out)\n")
+        s.append("Registro do que veio depois do dia medido; nenhuma régua do pré-registro usa estes achados, e nenhum veredito mudou.\n")
+        s += [f"- **{a['tema']}:** {a['fato']} ([fonte]({a['url_a']})" + (f", [segunda fonte]({a['url_b']}))" if a.get("url_b") else ")") for a in dia2] + [""]
     s.append("### 2.2 As eleições anteriores\n")
     linhas = [[l["ano"], l["vencedor"], f"{sinal(l['ibovespa_dia_pct'])}%", f"{sinal(l['dolar_dia_pct'])}%" if l.get("dolar_dia_pct") is not None else "",
                f"{br(l['pib_real_medio_pct'])}%", f"{br(l['divida_bruta_inicio'])} → {br(l['divida_bruta_fim'])}" + ("" if l["mandato_completo"] else " (projeção do FMI)"),

@@ -4,6 +4,8 @@
 
 **O resultado em uma linha por afirmação:** bolsa caiu forte (A1 confirmada) · o dinheiro de fora fugiu (A2 não confirmada até 22/out) · muitas medidas sem dinheiro novo (A3 confirmada, 15 medidas e 75% sem compensação) · promessas sem fonte (A4 confirmada, 10 de 14) · gasto alto (A5 confirmada, 46,9% do PIB contra 31,1%) · juro alto (A6 confirmada, 1º de 40) · juro tende a subir (A7 em parte) · dívida de 82,5% a 105,5% do PIB em 2030 no cenário central, subindo nos 17 cenários.
 
+**27/out/2026, rodada 8 (o 2º dia depois da eleição).** Entraram como registro, sem mudar régua nem veredito, no §2.1.2 do relatório: o fechamento de 27/out (achado K54), o Tesouro sem nenhum leilão de venda na semana (o de LFT cancelado em 27/out, K51), o ministro da Fazenda, Dario Durigan, prometendo um projeto de lei complementar para buscar o centro da meta e dizendo que a queda não é de fundamento (K52), e a Fitch dizendo que o ajuste que ela espera não basta pra estabilizar a dívida, sem mudar a nota (K53).
+
 ## O que ainda vai mudar a conta (a atualização prometida no vídeo)
 
 | O que falta | Quando sai | O que fazer |
