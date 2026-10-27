@@ -205,34 +205,53 @@ def main(coletar: bool = True) -> int:
     if c0:
         out["curva_23_out"] = {k: taxa_em(c0, D0, v)[0] for k, v in VENCIMENTOS.items()}
         out["termo_2028_em_23_out"] = termo(c0, D0, VENCIMENTOS["jan/2028"], VENCIMENTOS["jan/2029"])
+    venc = "jan/2033"
     if c0 and c1:
         out["curva_26_out"] = {k: taxa_em(c1, D1, v)[0] for k, v in VENCIMENTOS.items()}
         out["termo_2028_em_26_out"] = termo(c1, D1, VENCIMENTOS["jan/2028"], VENCIMENTOS["jan/2029"])
         out["curva_selic_fim_2027"] = out["termo_2028_em_26_out"]
+        out["fonte_curva_26_out"] = "B3, arquivo de taxas referenciais (emenda 4)"
         for k in VENCIMENTOS:
             juros.append({"nome": f"DI futuro {k} (B3)", "variacao_pp": out["curva_26_out"][k] - out["curva_23_out"][k],
                           "detalhe": f"{out['curva_23_out'][k]:.2f}% → {out['curva_26_out'][k]:.2f}%".replace(".", ",")})
+    elif c0:
+        # emenda 9: sem o arquivo da B3 de 26/out, a taxa de fechamento publicada (achado K45, texto da Reuters)
+        k45 = {l["id"]: l for l in csv.DictReader((RAIZ / "dados" / "evidencias" / "ACHADOS.csv").open(encoding="utf-8"))}.get("K45")
+        conf45 = {l["id"]: l for l in csv.DictReader((RES / "TRECHOS_CONFERIDOS.csv").open(encoding="utf-8"))}.get("K45", {})
+        if k45 and conf45.get("estado_a", "").startswith("ok") and conf45.get("estado_b", "").startswith("ok"):
+            t = k45["trecho_a"]
+            m28 = re.search(r"janeiro de 2028 estava em (\d+,\d+)%", t)
+            m31 = re.search(r"janeiro de 2031 estava em (\d+,\d+)%", t)
+            num = lambda m: float(m.group(1).replace(",", "."))  # noqa: E731
+            out["curva_26_out"] = {"jan/2028": num(m28), "jan/2031": num(m31)}
+            out["curva_selic_fim_2027"] = num(m28)
+            out["fonte_curva_26_out"] = "imprensa, texto da Reuters na CNN Brasil e no InfoMoney (achado K45; emenda 9)"
+            venc = "jan/2031"
+            for k in ("jan/2028", "jan/2031"):
+                juros.append({"nome": f"DI futuro {k} (fechamento, Reuters)", "variacao_pp": out["curva_26_out"][k] - out["curva_23_out"][k],
+                              "detalhe": f"{out['curva_23_out'][k]:.2f}% → {out['curva_26_out'][k]:.2f}%".replace(".", ",")})
     out["juros"] = juros
+    out["vencimento_do_premio"] = venc
     # prêmio
     pm = polymarket()
     out["polymarket"] = pm
     dus = tnx(D0, D1)
-    if pm and c0 and c1 and dus is not None:
-        dbr = out["curva_26_out"]["jan/2033"] - out["curva_23_out"]["jan/2033"]
+    if pm and out.get("curva_26_out") and dus is not None:
+        dbr = out["curva_26_out"][venc] - out["curva_23_out"][venc]
         exc = dbr - dus
-        out["premio"] = {"premio_pp": exc / (1 - pm["p"]), "excesso_juro_jan2033_pp": exc, "variacao_di_jan2033_pp": dbr,
+        out["premio"] = {"premio_pp": exc / (1 - pm["p"]), "excesso_juro_pp": exc, "variacao_di_pp": dbr, "vencimento": venc,
                          "variacao_10_anos_eua_pp": dus, "p_lula_vespera": pm["p"],
-                         "origem": f"excesso do DI jan/2033 contra o título de 10 anos dos EUA em 26/out ({exc:.2f} ponto), dividido pela surpresa (1 - {pm['p']:.3f})".replace(".", ",")}
+                         "origem": f"excesso do DI {venc} contra o título de 10 anos dos EUA em 26/out ({exc:.2f} ponto), dividido pela surpresa (1 - {pm['p']:.3f})".replace(".", ",")}
     # variante da revisão adversarial: o juro longo de 26/out contra o da data da base da IFI (12/jun),
     # descontado o que o título de 10 anos dos EUA fez no mesmo intervalo; sem dividir pela surpresa,
     # porque compara dois níveis e não a reação a um resultado
     jun = dt.date(2026, 6, 12)
     cj = curva_b3(jun)
     dus_jun = tnx(jun, D1)
-    if cj and c1 and dus_jun is not None:
-        di_jun = taxa_em(cj, jun, VENCIMENTOS["jan/2033"])[0]
-        out["premio_contra_base_ifi"] = {"premio_pp": (out["curva_26_out"]["jan/2033"] - di_jun) - dus_jun,
-                                         "di_jan2033_12_jun": di_jun, "variacao_10_anos_eua_pp": dus_jun}
+    if cj and out.get("curva_26_out") and dus_jun is not None:
+        di_jun = taxa_em(cj, jun, VENCIMENTOS[venc])[0]
+        out["premio_contra_base_ifi"] = {"premio_pp": (out["curva_26_out"][venc] - di_jun) - dus_jun, "vencimento": venc,
+                                         "di_12_jun": di_jun, "variacao_10_anos_eua_pp": dus_jun}
     # vereditos
     if e["ibovespa"]:
         v = e["ibovespa"]["variacao_pct"]
@@ -274,6 +293,7 @@ def main(coletar: bool = True) -> int:
     if "K41" in conf:
         notas.append(f"{ach['K41']['fato']} ([fonte]({ach['K41']['url_a']}), [segunda fonte]({ach['K41']['url_b']}))")
     out["conferencia_segunda_fonte"] = conferencia
+    notas.append("As cotações do Yahoo são as da coleta das 18h16 de 26/out, depois do fechamento de Nova York e com todas as moedas na mesma hora; a coleta das 21h devolveu o dia 26 vazio para o EWZ e os emergentes, e não foi usada.")
     out["notas"] = notas
     RES.mkdir(exist_ok=True)
     (RES / "M1_MERCADO.json").write_text(json.dumps(out, ensure_ascii=False, indent=1, default=str), encoding="utf-8")

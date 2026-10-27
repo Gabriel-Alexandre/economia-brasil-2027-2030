@@ -147,10 +147,10 @@ def secao_mercado(r: dict, v: dict, jr: dict) -> list[str]:
         s.append(f"**O que o mercado esperava:** às {pm['hora_brt'][11:16]} de 25/out, último registro antes do fim da votação, o Polymarket dava {br(100 * pm['p'], 1)}% de chance a Lula (no fim de 23/out, {br(100 * pm['fim_de_23_out'], 1)}%). "
                  f"A reação do dia mede só a parte que não estava no preço; para ter a diferença inteira entre os dois resultados, a variação se divide por {br(1 - pm['p'], 3)}.\n")
     s.append("### 2.1 O prêmio de juros\n")
-    txt = f"Prêmio usado na conta da dívida: **{br(m6['premio_pp'], 2)} ponto ao ano** ({m6['premio_origem']})."
+    txt = f"Prêmio usado na conta da dívida: **{br(m6['premio_pp'], 2)} pontos ao ano** ({m6['premio_origem']})."
     pj = v.get("p2_premio_contra_a_curva_de_junho")
     if pj:
-        txt += f" Medido contra a curva de 12/jun (data da base da IFI), e não contra a véspera, o prêmio é de {br(pj['premio_pp'], 2)} ponto (variante, §11)."
+        txt += f" Medido contra a curva de 12/jun (data da base da IFI), e não contra a véspera, o prêmio é de {br(pj['premio_pp'], 2)} ponto ao ano (variante, §11)."
     s.append(txt + "\n")
     if m1.get("termo_2028_em_23_out") is not None:
         t26 = m1.get("termo_2028_em_26_out")
@@ -270,7 +270,7 @@ def relatorio(r: dict, val: dict, x: dict) -> str:
     s.append("## 7. 2027 a 2030 (M6)\n")
     s.append(tabela(["Cenário (dívida bruta, conceito do Banco Central, % do PIB)"] + ANOS, [
         ["S0: base da IFI (jun/2026)"] + [br(m6["S0_base_ifi"][a]) for a in ANOS],
-        [f"S1: central (base + prêmio de {br(m6['premio_pp'], 2)} ponto)"] + [br(m6["S1_central"][a]) for a in ANOS],
+        [f"S1: central (base + prêmio de {br(m6['premio_pp'], 2)} pontos)"] + [br(m6["S1_central"][a]) for a in ANOS],
         [f"S2: risco (S1 + promessas com custo e sem fonte, {br(r['M5_S2']['custo_pct_pib'], 2)}% do PIB)"] + [br(m6["S2_risco"][a]) for a in ANOS],
         ["Mercado (Focus, antes da eleição)"] + [br(m6["focus_dbgg"][a]) for a in ANOS],
     ]) + "\n")

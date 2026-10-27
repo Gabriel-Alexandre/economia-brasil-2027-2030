@@ -118,7 +118,7 @@
  },
  "bcb-ptax-venda": {
   "arquivo": "dados/series/bcb-ptax-venda.json",
-  "baixado_em": "2026-10-26T18:21:21",
+  "baixado_em": "2026-10-26T21:04:03",
   "bytes": 359372,
   "sha256": "fa0045185c25b8658de28d1c15fa22b77b74888cb728f33e399898caf823ffbf",
   "urls": [
@@ -203,7 +203,7 @@
  },
  "focus-ipca-12m": {
   "arquivo": "dados/series/focus-ipca-12m.json",
-  "baixado_em": "2026-10-26T18:21:33",
+  "baixado_em": "2026-10-26T21:04:14",
   "bytes": 30357,
   "sha256": "97bc65e8d18d022e406589700c8a18496ff9bf0293d3165ac79349dc1cbbd6d1",
   "urls": [
@@ -212,7 +212,7 @@
  },
  "focus-recente": {
   "arquivo": "dados/series/focus-recente.json",
-  "baixado_em": "2026-10-26T18:21:31",
+  "baixado_em": "2026-10-26T21:04:13",
   "bytes": 1108137,
   "sha256": "e68a2d29ad2f4a2905d502a9af2e3b14a16c743edbb47d8d39152701dcf6d1ce",
   "urls": [
@@ -417,7 +417,7 @@
  },
  "polymarket-lula": {
   "arquivo": "dados/series/polymarket-lula.json",
-  "baixado_em": "2026-10-26T19:14:21",
+  "baixado_em": "2026-10-26T21:05:54",
   "bytes": 1577,
   "sha256": "d52b7def0a43a11e28100cbfbe104c57662ea3418b486602cf052e6dff2103e3",
   "urls": [
@@ -426,83 +426,92 @@
  },
  "yahoo-eem": {
   "arquivo": "dados/series/yahoo-eem.json",
-  "baixado_em": "2026-10-26T18:20:30",
-  "bytes": 975344,
-  "sha256": "87ea9182998ad5901b2a0db136532bdd262e6669fbc0f39112e32f07d2facee2",
+  "baixado_em": "2026-10-26T21:03:20",
+  "bytes": 1022785,
+  "nota": "coleta das 18h16 de 26/out (depois do fechamento de Nova York); a das 21h devolveu o dia 26 vazio ou de outro horário",
+  "sha256": "c115d744502f81a72c49c09cf18444d205cb9dea1e8d900a9ba61dff7813a96b",
   "urls": [
-   "https://query1.finance.yahoo.com/v8/finance/chart/EEM?period1=725857200&period2=1793136028&interval=1d"
+   "https://query1.finance.yahoo.com/v8/finance/chart/EEM?period1=725857200&period2=1793145799&interval=1d"
   ]
  },
  "yahoo-ewz": {
   "arquivo": "dados/series/yahoo-ewz.json",
-  "baixado_em": "2026-10-26T18:20:27",
-  "bytes": 1074850,
-  "sha256": "90ae72a6bef35c2d591165f42d8879d03ec28311c55c6f0e039e9ba498beca7b",
+  "baixado_em": "2026-10-26T21:03:18",
+  "bytes": 1127795,
+  "nota": "coleta das 18h16 de 26/out (depois do fechamento de Nova York); a das 21h devolveu o dia 26 vazio ou de outro horário",
+  "sha256": "fdf68ac7eca614bdc1c09c2f6f9d43f8551087d86c8cf9153a169fbb6a183258",
   "urls": [
-   "https://query1.finance.yahoo.com/v8/finance/chart/EWZ?period1=725857200&period2=1793136026&interval=1d"
+   "https://query1.finance.yahoo.com/v8/finance/chart/EWZ?period1=725857200&period2=1793145797&interval=1d"
   ]
  },
  "yahoo-ibovespa": {
   "arquivo": "dados/series/yahoo-ibovespa.json",
-  "baixado_em": "2026-10-26T18:20:25",
-  "bytes": 1089150,
-  "sha256": "96bc1bae31f0b0f8a6887d3492a2d728939a4c6f958d78ef0e143c237d812536",
+  "baixado_em": "2026-10-26T21:03:16",
+  "bytes": 1157023,
+  "nota": "coleta das 18h16 de 26/out (depois do fechamento de Nova York); a das 21h devolveu o dia 26 vazio ou de outro horário",
+  "sha256": "01051c98499c601128150f0452c27b55e8c6be8ffe8e9fdaa436973ba9d99792",
   "urls": [
-   "https://query1.finance.yahoo.com/v8/finance/chart/%5EBVSP?period1=725857200&period2=1793136024&interval=1d"
+   "https://query1.finance.yahoo.com/v8/finance/chart/%5EBVSP?period1=725857200&period2=1793145795&interval=1d"
   ]
  },
  "yahoo-us10y": {
   "arquivo": "dados/series/yahoo-us10y.json",
-  "baixado_em": "2026-10-26T18:20:34",
-  "bytes": 1409229,
-  "sha256": "74985c9aefc3888415e48dbc95d19590b40c7c5a513053837c3535ab92c5e631",
+  "baixado_em": "2026-10-26T21:03:24",
+  "bytes": 1477390,
+  "nota": "coleta das 18h16 de 26/out (depois do fechamento de Nova York); a das 21h devolveu o dia 26 vazio ou de outro horário",
+  "sha256": "6a1ea3b3bc00b29ed03365b97ab79abdbb5822716edd6d0397f7e4440a3757fd",
   "urls": [
-   "https://query1.finance.yahoo.com/v8/finance/chart/%5ETNX?period1=725857200&period2=1793136033&interval=1d"
+   "https://query1.finance.yahoo.com/v8/finance/chart/%5ETNX?period1=725857200&period2=1793145803&interval=1d"
   ]
  },
  "yahoo-usdbrl": {
   "arquivo": "dados/series/yahoo-usdbrl.json",
-  "baixado_em": "2026-10-26T18:20:32",
-  "bytes": 971659,
-  "sha256": "1c66b860b45150978ddf5a86084e10702cf4faddfaad03e5457a3210f962a3da",
+  "baixado_em": "2026-10-26T21:03:22",
+  "bytes": 1019532,
+  "nota": "coleta das 18h16 de 26/out (depois do fechamento de Nova York); a das 21h devolveu o dia 26 vazio ou de outro horário",
+  "sha256": "954d3e0b96dde370e138f3f6e4be4eba42d39e9f48e87e2e1c7a6412fb6d33c0",
   "urls": [
-   "https://query1.finance.yahoo.com/v8/finance/chart/BRL%3DX?period1=725857200&period2=1793136031&interval=1d"
+   "https://query1.finance.yahoo.com/v8/finance/chart/BRL%3DX?period1=725857200&period2=1793145801&interval=1d"
   ]
  },
  "yahoo-usdclp": {
   "arquivo": "dados/series/yahoo-usdclp.json",
-  "baixado_em": "2026-10-26T18:20:19",
-  "bytes": 938469,
-  "sha256": "30e5c2f82873750b9bfb43e6251e2df36a35c0189fd21c2c7d4f847bd730b4e6",
+  "baixado_em": "2026-10-26T21:03:10",
+  "bytes": 986342,
+  "nota": "coleta das 18h16 de 26/out (depois do fechamento de Nova York); a das 21h devolveu o dia 26 vazio ou de outro horário",
+  "sha256": "e6156844afb9b5ea16306b06cd8e1e4264b07c7aaba0875fd3ce0298591972d2",
   "urls": [
-   "https://query1.finance.yahoo.com/v8/finance/chart/CLP%3DX?period1=725857200&period2=1793136018&interval=1d"
+   "https://query1.finance.yahoo.com/v8/finance/chart/CLP%3DX?period1=725857200&period2=1793145789&interval=1d"
   ]
  },
  "yahoo-usdcop": {
   "arquivo": "dados/series/yahoo-usdcop.json",
-  "baixado_em": "2026-10-26T18:20:21",
-  "bytes": 896816,
-  "sha256": "d38cf852327efc3a1948996ae611b62a3ae478fd45ce688980a095652bf2ed41",
+  "baixado_em": "2026-10-26T21:03:12",
+  "bytes": 946585,
+  "nota": "coleta das 18h16 de 26/out (depois do fechamento de Nova York); a das 21h devolveu o dia 26 vazio ou de outro horário",
+  "sha256": "10c036840e1964d43530657a775831c69ca820c2f58a43e6a9f761094f1f6f78",
   "urls": [
-   "https://query1.finance.yahoo.com/v8/finance/chart/COP%3DX?period1=725857200&period2=1793136020&interval=1d"
+   "https://query1.finance.yahoo.com/v8/finance/chart/COP%3DX?period1=725857200&period2=1793145791&interval=1d"
   ]
  },
  "yahoo-usdmxn": {
   "arquivo": "dados/series/yahoo-usdmxn.json",
-  "baixado_em": "2026-10-26T18:20:17",
-  "bytes": 1001866,
-  "sha256": "b127ecd7dd7048f697b9eb8f835d3e0ff2abaad3ba8c7cb884cafe25b3901d43",
+  "baixado_em": "2026-10-26T21:03:08",
+  "bytes": 1049739,
+  "nota": "coleta das 18h16 de 26/out (depois do fechamento de Nova York); a das 21h devolveu o dia 26 vazio ou de outro horário",
+  "sha256": "ed0c6ad01410b85973c362df6d8db85a6063a4a5604fae306a07f2248b1c7cc6",
   "urls": [
-   "https://query1.finance.yahoo.com/v8/finance/chart/MXN%3DX?period1=725857200&period2=1793136016&interval=1d"
+   "https://query1.finance.yahoo.com/v8/finance/chart/MXN%3DX?period1=725857200&period2=1793145787&interval=1d"
   ]
  },
  "yahoo-usdzar": {
   "arquivo": "dados/series/yahoo-usdzar.json",
-  "baixado_em": "2026-10-26T18:20:23",
-  "bytes": 994672,
-  "sha256": "8c00358e5c2a3992266395e6f2b20ca2a0f3b706dae9b2d820b7e61ee1ab18e3",
+  "baixado_em": "2026-10-26T21:03:14",
+  "bytes": 1042545,
+  "nota": "coleta das 18h16 de 26/out (depois do fechamento de Nova York); a das 21h devolveu o dia 26 vazio ou de outro horário",
+  "sha256": "b0fa1def5d2c3b7af9db90c1ee7314345b205f05b9dc1aceb70ee95378213a9b",
   "urls": [
-   "https://query1.finance.yahoo.com/v8/finance/chart/ZAR%3DX?period1=725857200&period2=1793136022&interval=1d"
+   "https://query1.finance.yahoo.com/v8/finance/chart/ZAR%3DX?period1=725857200&period2=1793145793&interval=1d"
   ]
  }
 }

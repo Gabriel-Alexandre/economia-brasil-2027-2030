@@ -269,6 +269,10 @@ def main() -> int:
         partes.append(f"a curva da B3 cobrava {t23:.2f}% para 2028 em 23/out".replace(".", ","))
     if t26 is not None:
         partes.append(f"e {t26:.2f}% em 26/out".replace(".", ","))
+    elif m1.get("curva_selic_fim_2027") is not None:
+        c26 = m1["curva_selic_fim_2027"]
+        c23 = (m1.get("curva_23_out") or {}).get("jan/2028")
+        partes.append((f"depois do resultado, o DI de janeiro de 2028 (o juro médio cobrado até lá) foi de {c23:.2f}% para {c26:.2f}%, acima da Selic de hoje (emenda 9)").replace(".", ","))
     resumo["M4_porque_a7"] = "; ".join(partes)
     resumo["M6_variantes_revisao"] = variantes(resumo, m1, ach)
     rz = resumo["M7_previsao_do_mercado_contra_o_realizado"]["resumo"]
@@ -277,6 +281,14 @@ def main() -> int:
                                "erro_usado_pp": rz["erro_medio_absoluto_dlsp_pp"],
                                "nota": "erro médio da previsão do Focus para a dívida líquida 3 anos depois (M7); não há série de previsão da dívida bruta tão longa"}
     resumo["M5_pontos_de_virada"] = pontos_de_virada()
+    # contexto citado no roteiro: a bolsa no ano até a véspera e o desemprego contra a série
+    ib = S.yahoo("yahoo-ibovespa")
+    a0, v0 = S.valor_em(ib, dt.date(2025, 12, 31))
+    a1, v1 = S.valor_em(ib, dt.date(2026, 10, 23))
+    de = S.sgs("bcb-desemprego-pnad")
+    resumo["contexto"] = {"ibovespa_no_ano_ate_23_out_pct": 100 * (v1 / v0 - 1), "ibovespa_base": [a0.isoformat(), v0], "ibovespa_23_out": v1,
+                          "desemprego_ultimo": {"mes": de.index[-1].isoformat(), "valor": float(de.iloc[-1])},
+                          "desemprego_minimo_da_serie": {"mes": de.idxmin().isoformat(), "valor": float(de.min()), "inicio_da_serie": de.index[0].isoformat()}}
     resumo["M6_estabilizador_sem_premio"] = resumo["M6_divida"]["primario_que_estabiliza_em_2030_sem_premio_pct_pib"]
     RES.mkdir(exist_ok=True)
     (RES / "RESUMO.json").write_text(json.dumps(resumo, ensure_ascii=False, indent=1, default=str), encoding="utf-8")

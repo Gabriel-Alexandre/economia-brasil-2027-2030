@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-26T19:14-03:00",
+ "gerado_em": "2026-10-26T21:05-03:00",
  "fechamento_de_26_out": true,
  "dia": {
   "janela": [
@@ -119,13 +119,46 @@
   "jan/2033": 12.738
  },
  "termo_2028_em_23_out": 12.381801826656691,
- "juros": [],
+ "curva_26_out": {
+  "jan/2028": 14.8,
+  "jan/2031": 15.185
+ },
+ "curva_selic_fim_2027": 14.8,
+ "fonte_curva_26_out": "imprensa, texto da Reuters na CNN Brasil e no InfoMoney (achado K45; emenda 9)",
+ "juros": [
+  {
+   "nome": "DI futuro jan/2028 (fechamento, Reuters)",
+   "variacao_pp": 1.9410000000000007,
+   "detalhe": "12,86% → 14,80%"
+  },
+  {
+   "nome": "DI futuro jan/2031 (fechamento, Reuters)",
+   "variacao_pp": 2.543000000000001,
+   "detalhe": "12,64% → 15,19%"
+  }
+ ],
+ "vencimento_do_premio": "jan/2031",
  "polymarket": {
   "p": 0.345,
   "hora_brt": "2026-10-25T18:00-03:00",
   "fim_de_23_out": 0.225,
   "pontos": 58,
   "url": "https://clob.polymarket.com/prices-history?market=30630994248667897740988010928640156931882346081873066002335460180076741328029&startTs=1792724400&endTs=1793005200&fidelity=60"
+ },
+ "premio": {
+  "premio_pp": 3.8854959618954275,
+  "excesso_juro_pp": 2.544999855041505,
+  "variacao_di_pp": 2.543000000000001,
+  "vencimento": "jan/2031",
+  "variacao_10_anos_eua_pp": -0.0019998550415039062,
+  "p_lula_vespera": 0.345,
+  "origem": "excesso do DI jan/2031 contra o título de 10 anos dos EUA em 26/out (2,54 ponto), dividido pela surpresa (1 - 0,345)"
+ },
+ "premio_contra_base_ifi": {
+  "premio_pp": 0.3569999275207518,
+  "vencimento": "jan/2031",
+  "di_12_jun": 14.329,
+  "variacao_10_anos_eua_pp": 0.49900007247924805
  },
  "veredito_a1": {
   "veredito": "confirmada",
@@ -203,6 +236,7 @@
  "notas": [
   "Em 26/out o Tesouro cancelou o leilão de títulos atrelados à inflação (NTN-B) de 27/out e o de prefixados (LTN e NTN-F) de 29/out, e manteve o de títulos ligados à Selic (LFT). ([fonte](https://exame.com/invest/mercados/tesouro-suspende-leiloes-de-titulos-prefixados-e-atrelados-a-inflacao-apos-vitoria-de-lula/), [segunda fonte](https://www.suno.com.br/noticias/tesouro-nacional-suspende-leiloes-ipca-prefixados-2026/))",
   "Uma fonte registra que o Tesouro recomprou R$ 7,1 bilhões em títulos em 26/out (uma fonte só; fica como registro, sem entrar na conta). ([fonte](https://gazetadoparana.com.br/publico/apos-reeleicao-de-lula-tesouro-cancela-leiloes-de-titulos-publicos-e-recompra-r-71-bilhoes-para))",
-  "Às 10h05 de 26/out a B3 acionou o circuit breaker (queda de 10% do Ibovespa) e suspendeu os negócios à vista por 30 minutos, a primeira vez desde a pandemia. ([fonte](https://www.infomoney.com.br/mercados/circuit-breaker-por-que-bolsa-suspendeu-negociacoes-veja-quando-ela-volta/), [segunda fonte](https://investalk.bb.com.br/noticias/mercado/b3-aciona-circuit-break-pela-1-vez-desde-pandemia-e-suspende-negociacoes-a-vista-por-30-minutos))"
+  "Às 10h05 de 26/out a B3 acionou o circuit breaker (queda de 10% do Ibovespa) e suspendeu os negócios à vista por 30 minutos, a primeira vez desde a pandemia. ([fonte](https://www.infomoney.com.br/mercados/circuit-breaker-por-que-bolsa-suspendeu-negociacoes-veja-quando-ela-volta/), [segunda fonte](https://investalk.bb.com.br/noticias/mercado/b3-aciona-circuit-break-pela-1-vez-desde-pandemia-e-suspende-negociacoes-a-vista-por-30-minutos))",
+  "As cotações do Yahoo são as da coleta das 18h16 de 26/out, depois do fechamento de Nova York e com todas as moedas na mesma hora; a coleta das 21h devolveu o dia 26 vazio para o EWZ e os emergentes, e não foi usada."
  ]
 }

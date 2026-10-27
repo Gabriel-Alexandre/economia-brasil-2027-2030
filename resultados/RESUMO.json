@@ -1,7 +1,7 @@
 {
- "gerado_em": "2026-10-26T19:14",
+ "gerado_em": "2026-10-26T21:05",
  "M1_mercado": {
-  "gerado_em": "2026-10-26T19:14-03:00",
+  "gerado_em": "2026-10-26T21:05-03:00",
   "fechamento_de_26_out": true,
   "dia": {
    "janela": [
@@ -121,13 +121,46 @@
    "jan/2033": 12.738
   },
   "termo_2028_em_23_out": 12.381801826656691,
-  "juros": [],
+  "curva_26_out": {
+   "jan/2028": 14.8,
+   "jan/2031": 15.185
+  },
+  "curva_selic_fim_2027": 14.8,
+  "fonte_curva_26_out": "imprensa, texto da Reuters na CNN Brasil e no InfoMoney (achado K45; emenda 9)",
+  "juros": [
+   {
+    "nome": "DI futuro jan/2028 (fechamento, Reuters)",
+    "variacao_pp": 1.9410000000000007,
+    "detalhe": "12,86% → 14,80%"
+   },
+   {
+    "nome": "DI futuro jan/2031 (fechamento, Reuters)",
+    "variacao_pp": 2.543000000000001,
+    "detalhe": "12,64% → 15,19%"
+   }
+  ],
+  "vencimento_do_premio": "jan/2031",
   "polymarket": {
    "p": 0.345,
    "hora_brt": "2026-10-25T18:00-03:00",
    "fim_de_23_out": 0.225,
    "pontos": 58,
    "url": "https://clob.polymarket.com/prices-history?market=30630994248667897740988010928640156931882346081873066002335460180076741328029&startTs=1792724400&endTs=1793005200&fidelity=60"
+  },
+  "premio": {
+   "premio_pp": 3.8854959618954275,
+   "excesso_juro_pp": 2.544999855041505,
+   "variacao_di_pp": 2.543000000000001,
+   "vencimento": "jan/2031",
+   "variacao_10_anos_eua_pp": -0.0019998550415039062,
+   "p_lula_vespera": 0.345,
+   "origem": "excesso do DI jan/2031 contra o título de 10 anos dos EUA em 26/out (2,54 ponto), dividido pela surpresa (1 - 0,345)"
+  },
+  "premio_contra_base_ifi": {
+   "premio_pp": 0.3569999275207518,
+   "vencimento": "jan/2031",
+   "di_12_jun": 14.329,
+   "variacao_10_anos_eua_pp": 0.49900007247924805
   },
   "veredito_a1": {
    "veredito": "confirmada",
@@ -205,7 +238,8 @@
   "notas": [
    "Em 26/out o Tesouro cancelou o leilão de títulos atrelados à inflação (NTN-B) de 27/out e o de prefixados (LTN e NTN-F) de 29/out, e manteve o de títulos ligados à Selic (LFT). ([fonte](https://exame.com/invest/mercados/tesouro-suspende-leiloes-de-titulos-prefixados-e-atrelados-a-inflacao-apos-vitoria-de-lula/), [segunda fonte](https://www.suno.com.br/noticias/tesouro-nacional-suspende-leiloes-ipca-prefixados-2026/))",
    "Uma fonte registra que o Tesouro recomprou R$ 7,1 bilhões em títulos em 26/out (uma fonte só; fica como registro, sem entrar na conta). ([fonte](https://gazetadoparana.com.br/publico/apos-reeleicao-de-lula-tesouro-cancela-leiloes-de-titulos-publicos-e-recompra-r-71-bilhoes-para))",
-   "Às 10h05 de 26/out a B3 acionou o circuit breaker (queda de 10% do Ibovespa) e suspendeu os negócios à vista por 30 minutos, a primeira vez desde a pandemia. ([fonte](https://www.infomoney.com.br/mercados/circuit-breaker-por-que-bolsa-suspendeu-negociacoes-veja-quando-ela-volta/), [segunda fonte](https://investalk.bb.com.br/noticias/mercado/b3-aciona-circuit-break-pela-1-vez-desde-pandemia-e-suspende-negociacoes-a-vista-por-30-minutos))"
+   "Às 10h05 de 26/out a B3 acionou o circuit breaker (queda de 10% do Ibovespa) e suspendeu os negócios à vista por 30 minutos, a primeira vez desde a pandemia. ([fonte](https://www.infomoney.com.br/mercados/circuit-breaker-por-que-bolsa-suspendeu-negociacoes-veja-quando-ela-volta/), [segunda fonte](https://investalk.bb.com.br/noticias/mercado/b3-aciona-circuit-break-pela-1-vez-desde-pandemia-e-suspende-negociacoes-a-vista-por-30-minutos))",
+   "As cotações do Yahoo são as da coleta das 18h16 de 26/out, depois do fechamento de Nova York e com todas as moedas na mesma hora; a coleta das 21h devolveu o dia 26 vazio para o EWZ e os emergentes, e não foi usada."
   ]
  },
  "M1_historico_eleicoes": [
@@ -887,8 +921,8 @@
   }
  },
  "M6_divida": {
-  "premio_pp": 2.046153846153846,
-  "premio_origem": "provisório: o do projeto do vídeo 13 (reação do DI de 15/out), até medir o do dia 26/out",
+  "premio_pp": 3.8854959618954275,
+  "premio_origem": "excesso do DI jan/2031 contra o título de 10 anos dos EUA em 26/out (2,54 ponto), dividido pela surpresa (1 - 0,345)",
   "S0_base_ifi": {
    "2025": 78.6,
    "2026": 82.49999999999999,
@@ -900,36 +934,36 @@
   "S1_central": {
    "2025": 78.6,
    "2026": 82.49999999999999,
-   "2027": 87.11436911088292,
-   "2028": 91.9292901356851,
-   "2029": 95.98759318718487,
-   "2030": 100.72465464270877
+   "2027": 87.7565345053872,
+   "2028": 93.58893554664827,
+   "2029": 99.0071917052624,
+   "2030": 105.40680298828086
   },
   "S2_risco": {
    "2025": 78.6,
    "2026": 82.49999999999999,
-   "2027": 87.14877356970078,
-   "2028": 91.99976367051657,
-   "2029": 96.09496901512895,
-   "2030": 100.87050350200289
+   "2027": 87.79093896420505,
+   "2028": 93.65979579786456,
+   "2029": 99.1159530977801,
+   "2030": 105.55579056926067
   },
   "custo_s2_pct_pib": 0.0344044588178628,
   "S0_reproduz_a_ifi": true,
-  "variacao_2026_2030_S1_pp": 18.224654642708785,
+  "variacao_2026_2030_S1_pp": 22.906802988280873,
   "classificacao_S1": "sobe rápido",
-  "primario_que_estabiliza_em_2030_pct_pib": 3.6370614555239125,
+  "primario_que_estabiliza_em_2030_pct_pib": 5.299611283018465,
   "primario_que_estabiliza_em_2030_sem_premio_pct_pib": 1.8999999999999955,
   "primario_previsto_2030_base_ifi": -1.1,
-  "distancia_ate_estabilizar_pp": 4.737061455523913,
+  "distancia_ate_estabilizar_pp": 6.399611283018466,
   "sensibilidade_2030": {
-   "premio_metade": 98.18838926937272,
-   "premio_dobro": 105.94320648064526,
-   "repasse_total_imediato": 102.90922745060789,
-   "pib_1_ponto_abaixo": 104.5262767539322,
-   "pib_1_ponto_acima": 97.09739056883318,
-   "custos_fora_da_base_ifi": 101.5326573231981,
-   "cenario_otimista_ifi_com_premio": 89.94122438317714,
-   "cenario_pessimista_ifi_com_premio": 111.65592760845388
+   "premio_metade": 100.46611357279112,
+   "premio_dobro": 115.82844893241568,
+   "repasse_total_imediato": 109.73634195158253,
+   "pib_1_ponto_abaixo": 109.38814949767833,
+   "pib_1_ponto_acima": 101.60807008485156,
+   "custos_fora_da_base_ifi": 106.23219418690888,
+   "cenario_otimista_ifi_com_premio": 94.26878256954512,
+   "cenario_pessimista_ifi_com_premio": 116.64210549927826
   },
   "fmi_weo_out2026_conceito_fmi": {
    "2025": 93.3,
@@ -965,7 +999,7 @@
   ],
   "pct_pib": 0.1906007018509599
  },
- "M4_veredito_a7": "pendente (falta a curva da B3 de 26/out)",
+ "M4_veredito_a7": "confirmada em parte",
  "M4_custo_de_um_ponto_de_selic": {
   "rs_bi_por_ano": 49.009858019999996,
   "pct_pib": 0.358599970878759,
@@ -978,8 +1012,12 @@
   "Última decisão do Copom em 2026 (281ª reunião, 16/09/2026): Selic cortada para 13,75% a.a. Orientação: 'a magnitude total do ciclo de calibração será estabelecida à luz de novas informações'; cenário com 'desancoragem das expectativas'; projeção de IPCA 3,2% no 1º tri de 2028; Focus 4,9% (2026) e 4,3% (2027). Cortes anteriores: 14,25% (17/06) e 14,00% (05/08). ([fonte](https://www.bcb.gov.br/api/servico/sitebcb/copom/comunicados_detalhes?nro_reuniao=281))",
   "Próxima reunião do Copom: 4 de novembro de 2026, dez dias depois da eleição (InfoMoney). Bruno Corano (Corano Capital), opinião: alta probabilidade de o BC interromper o ciclo de cortes. ([fonte](https://www.infomoney.com.br/onde-investir/tesouro-direto-abertura-fechamento-26102026/))"
  ],
- "M4_porque_a7": "o Focus de 2026-10-23 esperava Selic de 11,75% no fim de 2027, abaixo dos 13,75% de hoje; a curva da B3 cobrava 12,38% para 2028 em 23/out",
+ "M4_porque_a7": "o Focus de 2026-10-23 esperava Selic de 11,75% no fim de 2027, abaixo dos 13,75% de hoje; a curva da B3 cobrava 12,38% para 2028 em 23/out; depois do resultado, o DI de janeiro de 2028 (o juro médio cobrado até lá) foi de 12,86% para 14,80%, acima da Selic de hoje (emenda 9)",
  "M6_variantes_revisao": {
+  "p2_premio_contra_a_curva_de_junho": {
+   "premio_pp": 0.3569999275207518,
+   "divida_2030": 96.56291558105204
+  },
   "p2_sem_premio": {
    "divida_2030": 95.69999999999999
   },
@@ -991,15 +1029,15 @@
     "2030": 1.5
    },
    "divida_2030_sem_premio": 88.04869313305775,
-   "divida_2030_com_premio": 92.92548478943229
+   "divida_2030_com_premio": 97.47253090795958
   },
   "p1_macro_do_focus": {
-   "divida_2030": 103.69916302232798,
+   "divida_2030": 108.50229794489489,
    "juro_extra_pp": {
-    "2027": 0.6570692307692307,
-    "2028": 1.2640749999999998,
-    "2029": 2.164323076923077,
-    "2030": 2.8963384615384613
+    "2027": 1.4847731828529422,
+    "2028": 2.459647375232028,
+    "2029": 3.6357967695163422,
+    "2030": 4.551746365705885
    },
    "choque_pib_nominal_pp": {
     "2027": -0.6281235827605203,
@@ -1010,19 +1048,19 @@
   },
   "p1_ponto_de_partida_pior": {
    "juro_extra_pp": 1.2468193384223925,
-   "divida_2030": 106.3690192145917
+   "divida_2030": 111.26200672124472
   },
   "p1_limite_nao_segura": {
    "custo_rs_bi": 51.300000000000004,
-   "divida_2030": 102.10061269901952
+   "divida_2030": 106.81369625980332
   },
   "p1_juntas": {
-   "divida_2030": 110.9226517475353
+   "divida_2030": 115.97357599629072
   }
  },
  "M6_faixa_2030": {
-  "de": 93.68798797604211,
-  "ate": 107.76132130937543,
+  "de": 98.3701363216142,
+  "ate": 112.44346965494752,
   "erro_usado_pp": 7.036666666666666,
   "nota": "erro médio da previsão do Focus para a dívida líquida 3 anos depois (M7); não há série de previsão da dívida bruta tão longa"
  },
@@ -1033,6 +1071,23 @@
    "sem": 9,
    "de": 13,
    "pct": 69.23076923076923
+  }
+ },
+ "contexto": {
+  "ibovespa_no_ano_ate_23_out_pct": 27.281923972071365,
+  "ibovespa_base": [
+   "2025-12-30",
+   161125.0
+  ],
+  "ibovespa_23_out": 205083.0,
+  "desemprego_ultimo": {
+   "mes": "2026-08-01",
+   "valor": 5.3
+  },
+  "desemprego_minimo_da_serie": {
+   "mes": "2025-12-01",
+   "valor": 5.1,
+   "inicio_da_serie": "2012-03-01"
   }
  },
  "M6_estabilizador_sem_premio": 1.8999999999999955
