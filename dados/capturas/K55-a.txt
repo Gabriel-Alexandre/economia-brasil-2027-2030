@@ -1,0 +1,355 @@
+# fonte: https://carteirafundos.com/investment-flow
+# capturado em: 2026-10-28
+
+Fluxo Estrangeiro, Institucional e PF na B3 | Carteira Fundos
+Início
+Fundos
+Ações
+Mercado
+Ferramentas
+Buscar fundo, ação ou gestora
+/
+Assinar PRO
+Ranking de fundos
+Quanto cada fundo rendeu, por categoria
+Ativos mais alocados
+As ações que mais fundos têm na carteira
+Lista de fundos
+Todos os fundos, com filtros
+Alocação dos fundos
+O que os fundos compraram e venderam no mês
+Ranking de consistência
+Quem bate o índice com mais frequência
+Posições em comum
+Ações que vários fundos têm juntos
+Fundos no exterior
+Novo
+Carteiras de gestoras dos EUA (13F)
+Destaque
+Ranking do mês
+Os fundos que mais renderam no mês em cada categoria, com o histórico mês a mês.
+Ver ranking
+→
+Ações mais vendidas
+Short interest: quanto de cada ação está alugado
+Recompras e insiders
+Recompras das empresas e compras e vendas de diretores e controladores
+Comunicados CVM
+Comunicados de participação relevante
+IPOs
+Ofertas de ações recentes e futuras
+CVM
+Comunicados CVM
+Os comunicados mais recentes de quem passou a ter, ou reduziu, uma fatia relevante de uma empresa: quantas ações e % do capital.
+Ver comunicados
+→
+EWZ 24 horas
+Como o Brasil está sendo negociado lá fora, agora
+Fluxo na B3
+Quanto o estrangeiro comprou ou vendeu na bolsa
+Amplitude (Market Breadth)
+Quantas ações estão acima da média: o sentimento
+Rotação setorial
+Quais setores estão liderando
+Panorama
+O resumo do mercado num lugar só
+Destaques do X
+O que estão falando sobre a bolsa
+Ao vivo
+EWZ 24 horas
+Acompanhe o Brasil sendo negociado em Nova York e na Hyperliquid, fora do horário da B3.
+Abrir EWZ 24h
+→
+Terminal
+Gráficos com indicadores técnicos
+Gráfico social
+Ações mais comentadas nas redes
+Simulador de carteira
+Monte uma carteira com fundos e ações
+PRO
+Tudo liberado
+Histórico completo das carteiras, consistência, terminal e alertas por e-mail.
+Conheça o PRO
+→
+Mais acessados
+EWZ 24h
+Fluxo na B3
+Ações mais vendidas
+Recompras e insiders
+Comunicados CVM
+Amplitude
+Ativos mais alocados
+Ranking de fundos
+Seu fundo aqui
+Anuncie para quem acompanha fundos
+Saiba mais
+Sua gestora aqui
+Investidores olhando carteiras agora
+Saiba mais
+Sua marca aqui
+Fale com a gente pelo WhatsApp
+Saiba mais
+Publicidade
+Início
+/
+Mercado
+/
+Fluxo estrangeiro
+Fluxo na B3
+Open interest EWZ
+EWZ 24 horas
+Fluxo estrangeiro na B3
+Quanto cada tipo de investidor comprou ou vendeu de ações na bolsa, pregão a pregão.
+Pregão de
+26/10/2026
+·
+Fonte: B3
+·
+Publicado com 2 pregões de atraso
+Receber por e-mail
+Estrangeiro no último pregão
+−R$ 2,85 bi
+26/10/2026
+Estrangeiro em outubro
++R$ 13,34 bi
+17 pregões
+Estrangeiro em 2026
++R$ 40,73 bi
+204 pregões
+Quem comprou e quem vendeu
+No pregão de 26/10/2026, quem mais comprou foi a pessoa física (+R$ 6,19 bi) e quem mais vendeu foi o institucional (−R$ 3,34 bi).
+Último pregão
+Outubro
+2026
+Estrangeiro
+−R$ 2,85 bi
+Institucional
+−R$ 3,34 bi
+Pessoa física
++R$ 6,19 bi
+Inst. financeiras
+−R$ 439 mi
+Outros
++R$ 437 mi
+← Vendeu mais do que comprou
+Comprou mais do que vendeu →
+Histórico
+No último pregão, o estrangeiro vendeu R$ 2,85 bi a mais do que comprou. Cada barra do gráfico é um pregão.
+Por pregão
+Acumulado
+Saldo por perfil de investidor
+Pregão a pregão ·
+outubro
+Mês a mês ·
+2026
+Saldo diário por perfil de investidor na B3 (compra menos venda)
+Pregão
+Estrangeiro
+Institucional
+Pessoa física
+Inst. financeiras
+Outros
+26/10
+−R$ 2,85 bi
+−R$ 3,34 bi
++R$ 6,19 bi
+−R$ 439 mi
++R$ 437 mi
+23/10
+−R$ 2,94 bi
++R$ 1,41 bi
++R$ 1,39 bi
++R$ 31 mi
++R$ 116 mi
+22/10
+−R$ 1,03 bi
++R$ 170 mi
++R$ 932 mi
+−R$ 151 mi
++R$ 79 mi
+21/10
++R$ 157 mi
+−R$ 753 mi
++R$ 970 mi
+−R$ 430 mi
++R$ 56 mi
+20/10
++R$ 18 mi
++R$ 130 mi
++R$ 55 mi
+−R$ 39 mi
+−R$ 164 mi
+19/10
+−R$ 1,01 bi
++R$ 464 mi
++R$ 632 mi
+−R$ 56 mi
+−R$ 31 mi
+16/10
++R$ 2,24 bi
+−R$ 2,47 bi
+−R$ 770 mi
++R$ 1,21 bi
+−R$ 213 mi
+15/10
++R$ 213 mi
+−R$ 457 mi
++R$ 210 mi
++R$ 117 mi
+−R$ 82 mi
+14/10
++R$ 708 mi
+−R$ 802 mi
++R$ 163 mi
+−R$ 6 mi
+−R$ 63 mi
+13/10
++R$ 2,08 bi
+−R$ 2,21 bi
++R$ 381 mi
+−R$ 137 mi
+−R$ 113 mi
+09/10
++R$ 1,03 bi
+−R$ 710 mi
+−R$ 320 mi
++R$ 196 mi
+−R$ 196 mi
+08/10
++R$ 1,65 bi
+−R$ 53 mi
++R$ 29 mi
+−R$ 1,41 bi
+−R$ 214 mi
+07/10
+−R$ 628 mi
++R$ 676 mi
++R$ 155 mi
++R$ 177 mi
+−R$ 380 mi
+06/10
++R$ 1,09 bi
+−R$ 638 mi
+−R$ 266 mi
++R$ 120 mi
+−R$ 308 mi
+05/10
++R$ 10,06 bi
+−R$ 3,96 bi
+−R$ 5,3 bi
++R$ 802 mi
+−R$ 1,6 bi
+02/10
++R$ 2,28 bi
+−R$ 292 mi
+−R$ 971 mi
++R$ 72 mi
+−R$ 1,09 bi
+01/10
++R$ 268 mi
++R$ 200 mi
++R$ 158 mi
+−R$ 1,01 bi
++R$ 386 mi
+Acumulado
++R$ 13,34 bi
+−R$ 12,64 bi
++R$ 3,64 bi
+−R$ 955 mi
+−R$ 3,38 bi
+Saldo mensal por perfil de investidor na B3 em 2026 (compra menos venda)
+Mês
+Estrangeiro
+Institucional
+Pessoa física
+Inst. financeiras
+Outros
+Outubro
++R$ 13,34 bi
+−R$ 12,64 bi
++R$ 3,64 bi
+−R$ 955 mi
+−R$ 3,38 bi
+Setembro
++R$ 9,11 bi
+−R$ 6,9 bi
+−R$ 450 mi
+−R$ 1,69 bi
+−R$ 70 mi
+Agosto
+−R$ 18,12 bi
++R$ 11,39 bi
++R$ 2,09 bi
++R$ 716 mi
++R$ 3,92 bi
+Julho
++R$ 2,56 bi
+−R$ 5,37 bi
++R$ 1,13 bi
++R$ 2,44 bi
+−R$ 761 mi
+Junho
+−R$ 7,79 bi
++R$ 1,79 bi
++R$ 3,16 bi
++R$ 2,37 bi
++R$ 473 mi
+Maio
+−R$ 14,91 bi
++R$ 13,33 bi
++R$ 5,82 bi
+−R$ 1,53 bi
+−R$ 2,71 bi
+Abril
++R$ 3,18 bi
+−R$ 9,44 bi
++R$ 33 mi
++R$ 4,99 bi
++R$ 1,25 bi
+Março
++R$ 11,66 bi
+−R$ 9,95 bi
++R$ 277 mi
+−R$ 4,77 bi
++R$ 2,78 bi
+Fevereiro
++R$ 15,4 bi
+−R$ 12,79 bi
+−R$ 2,73 bi
++R$ 1,65 bi
+−R$ 1,52 bi
+Janeiro
++R$ 26,31 bi
+−R$ 17,54 bi
+−R$ 3,57 bi
+−R$ 4,69 bi
+−R$ 518 mi
+No ano
++R$ 40,73 bi
+−R$ 48,12 bi
++R$ 9,39 bi
+−R$ 1,47 bi
+−R$ 542 mi
+Precisa de compra e venda separadas por perfil, com o histórico completo?
+Conheça a API de dados
+Sobre o fluxo de investimento na B3
+No pregão de 26/10/2026, o investidor estrangeiro vendeu R$ 2,85 bi a mais do que comprou no mercado à vista de ações da B3. No acumulado de outubro, o estrangeiro comprou R$ 13,34 bi a mais do que vendeu; em 2026, comprou R$ 40,73 bi a mais do que vendeu.
+Perguntas frequentes
+O que é o fluxo estrangeiro na B3?
+É o saldo das operações do investidor estrangeiro no mercado à vista de ações: o quanto ele comprou menos o quanto vendeu no dia. Saldo positivo é entrada de dinheiro estrangeiro na bolsa; negativo, saída.
+Quais são os perfis de investidor da B3?
+A B3 divide os negócios em cinco perfis (estrangeiro, institucional, pessoa física, instituições financeiras e outros), e a soma dos cinco em cada dia fica perto de zero, porque toda compra tem uma venda do outro lado.
+Por que o fluxo estrangeiro importa?
+O estrangeiro responde por boa parte do volume da bolsa. Entradas fortes costumam coincidir com alta do Ibovespa e queda do dólar, e saídas, com o contrário.
+De onde vêm os dados e quando são atualizados?
+Os dados são só da B3. Atualizamos a página assim que a B3 divulga os números de cada pregão, e o gráfico acima traz o histórico desde novembro de 2021.
+Dados por CarteiraFundos, com base na B3.
+Carteira Fundos
+©
+2026
+Todos os direitos reservados.
+[email protected]
+Grupo WhatsApp
+Fale conosco
+Termos de Uso
+Privacidade

@@ -139,22 +139,28 @@ def fluxo() -> tuple[dict, list[str]]:
     """M2 pelos achados de fluxo (K04 a K09), com os números lidos do trecho conferido."""
     conf = {l["id"]: l for l in csv.DictReader((RES / "TRECHOS_CONFERIDOS.csv").open(encoding="utf-8")) if l["estado_a"].startswith("ok")}
     ach = {l["id"]: l for l in csv.DictReader((RAIZ / "dados" / "evidencias" / "ACHADOS.csv").open(encoding="utf-8")) if l["id"] in conf}
-    ano = float(ach["K04"]["numero"]) if "K04" in ach else None
-    outubro = float(ach["K09"]["numero"]) if "K09" in ach else None
+    # rodada 9: com o dado da B3 publicado em 28/out (K55 e K56), o saldo vai até 26/out, o dia medido; sem eles, até 22/out (K04 e K09)
+    k_ano, k_out, dia_fim = ("K56", "K55", 26) if "K56" in ach and "K55" in ach else ("K04", "K09", 22)
+    ano = float(ach[k_ano]["numero"]) if k_ano in ach else None
+    outubro = float(ach[k_out]["numero"]) if k_out in ach else None
     b = lambda x: f"{x:,.1f}".replace(",", "X").replace(".", ",").replace("X", ".")  # noqa: E731
     linhas = []
     if ano is not None:
-        linhas.append(f"De janeiro a 22/out de 2026, os estrangeiros compraram R$ {b(ano)} bi a mais do que venderam em ações na B3 (sem contar ofertas novas) ([fonte]({ach['K04']['url_a']})).")
+        linhas.append(f"De janeiro a {dia_fim}/out de 2026, os estrangeiros compraram R$ {b(ano)} bi a mais do que venderam em ações na B3 (sem contar ofertas novas) ([fonte]({ach[k_ano]['url_a']})).")
     if outubro is not None:
-        linhas.append(f"Só em outubro, até o dia 22, a entrada foi de R$ {b(outubro)} bi ([fonte]({ach['K09']['url_a']})).")
+        linhas.append(f"Só em outubro, até o dia {dia_fim}, a entrada foi de R$ {b(outubro)} bi ([fonte]({ach[k_out]['url_a']})).")
+    if dia_fim == 26 and "K04" in ach and "K09" in ach:
+        linhas.append(f"Até 22/out eram R$ {b(float(ach['K04']['numero']))} bi no ano e R$ {b(float(ach['K09']['numero']))} bi em outubro; a diferença saiu nos 2 pregões em volta do 2º turno ([fonte]({ach['K55']['url_b']})).")
     if "K08" in ach:
         linhas.append(f"No primeiro pregão depois do 1º turno (5/out) entraram R$ {b(float(ach['K08']['numero']))} bi num dia só, recorde ([fonte]({ach['K08']['url_a']})).")
     if "K06" in ach:
         linhas.append(f"O pior mês do ano foi agosto, com saída de R$ {b(-float(ach['K06']['numero']))} bi ([fonte]({ach['K06']['url_a']})).")
     if "K09" in ach:
         dias = re.findall(r"(\d{2}/10) ([+-][\d.]+,\d+) mi", ach["K09"]["fato"])
+        if dia_fim == 26:
+            dias += re.findall(r"(\d{2}/10) ([+-][\d.]+,\d+) mi", ach["K55"]["fato"])
         if dias:
-            linhas.append("Nos dias antes do 2º turno o saldo já oscilava: " + ", ".join(f"{d}, R$ {v} mi" for d, v in dias) + ".")
+            linhas.append("Nos dias em volta do 2º turno o saldo oscilou: " + ", ".join(f"{d}, R$ {v} mi" for d, v in dias) + ".")
     # medida 2 do M2: balanço de pagamentos (Banco Central), investimento estrangeiro em carteira no Brasil
     bp = {}
     for nome, rot in [("bcb-bp-acoes", "ações"), ("bcb-bp-fundos", "fundos de investimento"),
@@ -171,7 +177,7 @@ def fluxo() -> tuple[dict, list[str]]:
         linhas.append(f"Pelo balanço de pagamentos do Banco Central, que conta todo tipo de compra de ações (não só a bolsa) e também a renda fixa, o saldo do investimento estrangeiro em carteira no Brasil de janeiro até {ate[5:7]}/{ate[:4]} foi: {partes}.")
     if "K21" in ach:
         linhas.append(f"A imprensa registrou que os investidores estrangeiros estavam posicionados para a vitória do outro candidato ([fonte]({ach['K21']['url_a']})).")
-    return {"ano_ate_22_out_rs_bi": ano, "outubro_ate_22_out_rs_bi": outubro, "balanco_de_pagamentos": bp}, linhas
+    return {"ano_rs_bi": ano, "outubro_rs_bi": outubro, "ate_o_dia": f"{dia_fim}/out", "balanco_de_pagamentos": bp}, linhas
 
 
 def regua_a2(ano: float | None, outubro: float | None) -> str:
@@ -259,8 +265,9 @@ def main(coletar: bool = True) -> int:
                               "porque": f"Ibovespa {v:+.2f}% no dia; contra os emergentes (EEM), {e.get('excesso_ibovespa_contra_eem_pct', 0):+.2f} pontos".replace(".", ",")}
     f, linhas = fluxo()
     out["fluxo_numeros"], out["fluxo"] = f, linhas
-    a2 = regua_a2(f["ano_ate_22_out_rs_bi"], f["outubro_ate_22_out_rs_bi"])
-    out["veredito_a2"] = {"veredito": a2, "porque": (f"até 22/out entraram R$ {f['ano_ate_22_out_rs_bi']:.1f} bi de estrangeiros na bolsa em 2026 e R$ {f['outubro_ate_22_out_rs_bi']:.1f} bi em outubro; o dado de 26/out sai na B3 dois dias depois".replace(".", ",")) if a2 != "sem dado" else ""}
+    a2 = regua_a2(f["ano_rs_bi"], f["outubro_rs_bi"])
+    resto = "; o dado de 26/out sai na B3 dois dias depois" if f["ate_o_dia"] != "26/out" else "; o dia 26/out, já publicado pela B3, foi de saída e não virou o saldo"
+    out["veredito_a2"] = {"veredito": a2, "porque": (f"até {f['ate_o_dia']} entraram R$ {f['ano_rs_bi']:.1f} bi de estrangeiros na bolsa em 2026 e R$ {f['outubro_rs_bi']:.1f} bi em outubro".replace(".", ",") + resto) if a2 != "sem dado" else ""}
     conf = {l["id"]: l for l in csv.DictReader((RES / "TRECHOS_CONFERIDOS.csv").open(encoding="utf-8")) if l["estado_a"].startswith("ok")}
     ach = {l["id"]: l for l in csv.DictReader((RAIZ / "dados" / "evidencias" / "ACHADOS.csv").open(encoding="utf-8"))}
     if "K12" in conf and conf["K12"]["estado_b"].startswith("ok"):

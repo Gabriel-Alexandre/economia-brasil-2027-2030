@@ -1,13 +1,13 @@
 # Resumo simples
 
-**Gerado em 2026-10-27.** Completo: [`RELATORIO.md`](RELATORIO.md). Opinião da IA: [`docs/LEITURA_DA_IA.md`](docs/LEITURA_DA_IA.md). Não é recomendação de investimento.
+**Gerado em 2026-10-28.** Completo: [`RELATORIO.md`](RELATORIO.md). Opinião da IA: [`docs/LEITURA_DA_IA.md`](docs/LEITURA_DA_IA.md). Não é recomendação de investimento.
 
 ## As afirmações do pedido
 
 | Afirmação | Veredito | Por quê |
 |---|---|---|
 | "a bolsa derreteu" | confirmada | Ibovespa -13,88% no dia; contra os emergentes (EEM), -13,58 pontos |
-| "vários investimentos [...] acabou fugindo do Brasil" | não confirmada | até 22/out entraram R$ 46,5 bi de estrangeiros na bolsa em 2026 e R$ 19,1 bi em outubro; o dado de 26/out sai na B3 dois dias depois |
+| "vários investimentos [...] acabou fugindo do Brasil" | não confirmada | até 26/out entraram R$ 40,7 bi de estrangeiros na bolsa em 2026 e R$ 13,3 bi em outubro; o dia 26/out, já publicado pela B3, foi de saída e não virou o saldo |
 | "muitas medidas" no ano da eleição | confirmada | 15 medidas nos 12 meses antes da eleição; 75% do custo que se repete não tem receita nova para pagar (sai de outra despesa ou de fora do Orçamento). Viraria "em parte" se o que cabe no limite de gasto contasse como pago. Intenção não se mede |
 | "de onde é que vai vir esse dinheiro" | confirmada | 10 de 14 promessas econômicas sem custo publicado ou sem fonte declarada (9 de 13 sem o fim da escala 6x1, que já foi aprovado) |
 | "a gastança do Brasil já está muito alta" | confirmada | o governo (União, estados e municípios) gasta 46,9% do PIB, contra 31,1% na mediana dos emergentes do G20 (FMI, 2025) |

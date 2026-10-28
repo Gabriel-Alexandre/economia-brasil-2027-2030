@@ -172,7 +172,7 @@ def relatorio(r: dict, val: dict, x: dict) -> str:
     s0_var = m6["S0_base_ifi"]["2030"] - m6["S0_base_ifi"]["2026"]
     est_sem = r.get("M6_estabilizador_sem_premio")
     s = ["# O que esperar da economia do Brasil de 2027 a 2030\n",
-         f"**Relatório gerado por script em {r['gerado_em'][:10]}** a partir de `resultados/RESUMO.json`. Regras escritas antes de qualquer conta em [`docs/PRE_REGISTRO.md`](docs/PRE_REGISTRO.md), com 6 emendas, cada uma dizendo o que já tinha sido visto. "
+         f"**Relatório gerado por script em {r['gerado_em'][:10]}** a partir de `resultados/RESUMO.json`. Regras escritas antes de qualquer conta em [`docs/PRE_REGISTRO.md`](docs/PRE_REGISTRO.md), com 10 emendas, cada uma dizendo o que já tinha sido visto. "
          "Análise feita pelo Claude (IA da Anthropic), a pedido de Gabriel Alexandre. **Não é recomendação de investimento.**\n",
          "## O que este projeto não consegue dizer\n",
          f"- **Não prevê preço de ação, de dólar ou de juro.** Os números de 2027 a 2030 são cenários com regra escrita antes. No passado, a previsão do mercado para a dívida três anos depois errou, em média, {br(prev['resumo']['erro_medio_absoluto_dlsp_pp'])} pontos do PIB (§8).",
@@ -205,11 +205,18 @@ def relatorio(r: dict, val: dict, x: dict) -> str:
                  "A análise de cada vídeo está em [`docs/VIDEOS_QUE_CIRCULARAM.md`](docs/VIDEOS_QUE_CIRCULARAM.md).\n")
         s += [f"- **{a['tema']}:** {a['fato']} ([fonte]({a['url_a']})" + (f", [segunda fonte]({a['url_b']}))" if a.get("url_b") else ")") for a in dia] + [""]
     # o 2º dia depois da eleição (rodada 8): o mercado, o Tesouro, o governo e a Fitch; nenhuma régua usa estes achados
-    dia2 = [x["ok"][k] for k in ("K54", "K51", "K52", "K53") if k in x["ok"]]
+    # rodada 9 (28/out): o fechamento de 27/out (K54), os juros (K57), as recompras (K58) e a Moody's (K59)
+    dia2 = [x["ok"][k] for k in ("K54", "K57", "K51", "K58", "K52", "K53", "K59") if k in x["ok"]]
     if dia2:
-        s.append("### 2.1.2 O 2º dia: o mercado, o Tesouro, o governo e a Fitch (27/out)\n")
+        s.append("### 2.1.2 O 2º dia: o mercado, os juros, o Tesouro, o governo, a Fitch e a Moody's (27/out)\n")
         s.append("Registro do que veio depois do dia medido; nenhuma régua do pré-registro usa estes achados, e nenhum veredito mudou.\n")
         s += [f"- **{a['tema']}:** {a['fato']} ([fonte]({a['url_a']})" + (f", [segunda fonte]({a['url_b']}))" if a.get("url_b") else ")") for a in dia2] + [""]
+    # rodada 9: o 3º dia, só o fechamento preliminar (fonte única); o dinheiro de fora de 26/out está no §3
+    dia3 = [x["ok"][k] for k in ("K60",) if k in x["ok"]]
+    if dia3:
+        s.append("### 2.1.3 O 3º dia (28/out, preliminar)\n")
+        s.append("Registro, com fonte única e números preliminares; nenhuma régua usa este achado. O saldo do dinheiro de fora com o dia 26/out, publicado pela B3 em 28/out, está no §3.\n")
+        s += [f"- **{a['tema']}:** {a['fato']} ([fonte]({a['url_a']}))" for a in dia3] + [""]
     s.append("### 2.2 As eleições anteriores\n")
     linhas = [[l["ano"], l["vencedor"], f"{sinal(l['ibovespa_dia_pct'])}%", f"{sinal(l['dolar_dia_pct'])}%" if l.get("dolar_dia_pct") is not None else "",
                f"{br(l['pib_real_medio_pct'])}%", f"{br(l['divida_bruta_inicio'])} → {br(l['divida_bruta_fim'])}" + ("" if l["mandato_completo"] else " (projeção do FMI)"),

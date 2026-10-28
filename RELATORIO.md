@@ -1,6 +1,6 @@
 # O que esperar da economia do Brasil de 2027 a 2030
 
-**Relatório gerado por script em 2026-10-27** a partir de `resultados/RESUMO.json`. Regras escritas antes de qualquer conta em [`docs/PRE_REGISTRO.md`](docs/PRE_REGISTRO.md), com 6 emendas, cada uma dizendo o que já tinha sido visto. Análise feita pelo Claude (IA da Anthropic), a pedido de Gabriel Alexandre. **Não é recomendação de investimento.**
+**Relatório gerado por script em 2026-10-28** a partir de `resultados/RESUMO.json`. Regras escritas antes de qualquer conta em [`docs/PRE_REGISTRO.md`](docs/PRE_REGISTRO.md), com 10 emendas, cada uma dizendo o que já tinha sido visto. Análise feita pelo Claude (IA da Anthropic), a pedido de Gabriel Alexandre. **Não é recomendação de investimento.**
 
 ## O que este projeto não consegue dizer
 
@@ -16,7 +16,7 @@
 |  | O que o pedido disse | Veredito | Por quê |
 |---|---|---|---|
 | A1 | "a bolsa derreteu" | confirmada | Ibovespa -13,88% no dia; contra os emergentes (EEM), -13,58 pontos |
-| A2 | "vários investimentos [...] acabou fugindo do Brasil" | não confirmada | até 22/out entraram R$ 46,5 bi de estrangeiros na bolsa em 2026 e R$ 19,1 bi em outubro; o dado de 26/out sai na B3 dois dias depois |
+| A2 | "vários investimentos [...] acabou fugindo do Brasil" | não confirmada | até 26/out entraram R$ 40,7 bi de estrangeiros na bolsa em 2026 e R$ 13,3 bi em outubro; o dia 26/out, já publicado pela B3, foi de saída e não virou o saldo |
 | A3 | "muitas medidas" no ano da eleição | confirmada | 15 medidas nos 12 meses antes da eleição; 75% do custo que se repete não tem receita nova para pagar (sai de outra despesa ou de fora do Orçamento). Viraria "em parte" se o que cabe no limite de gasto contasse como pago. Intenção não se mede |
 | A4 | "de onde é que vai vir esse dinheiro" | confirmada | 10 de 14 promessas econômicas sem custo publicado ou sem fonte declarada (9 de 13 sem o fim da escala 6x1, que já foi aprovado) |
 | A5 | "a gastança do Brasil já está muito alta" | confirmada | o governo (União, estados e municípios) gasta 46,9% do PIB, contra 31,1% na mediana dos emergentes do G20 (FMI, 2025) |
@@ -92,13 +92,23 @@ Os números que circularam em vídeo na manhã de 26/out (o dólar subindo mais 
 - **o dólar a R$ 6 do Morgan Stanley:** O Morgan Stanley vê o dólar a R$ 6 como cenário pessimista, se o governo não sinalizar ajuste das contas nas próximas semanas; o cenário-base do banco é R$ 5,60 a R$ 5,70 e o DI de janeiro de 2029 a 15,5%. ([fonte](https://www.moneytimes.com.br/dolar-a-r-6-entra-no-radar-apos-vitoria-de-lula-mas-depende-de-um-fator-segundo-morgan-stanley-lils/), [segunda fonte](https://exame.com/invest/mercados/acoes-podem-perder-ate-30-com-a-reeleicao-de-lula-diz-morgan-stanley/))
 - **o sinal que o mercado espera:** Economistas ouvidos pela CNN Brasil esperam uma mensagem inicial do governo sobre as contas, com função semelhante à da Carta ao Povo Brasileiro de 2002 (uma fonte; registro). ([fonte](https://www.cnnbrasil.com.br/blogs/priscila-yazbek/economia/money/macroeconomia/mercado-espera-sinal-fiscal-de-lula-para-conter-turbulencia-apos-eleicao/))
 
-### 2.1.2 O 2º dia: o mercado, o Tesouro, o governo e a Fitch (27/out)
+### 2.1.2 O 2º dia: o mercado, os juros, o Tesouro, o governo, a Fitch e a Moody's (27/out)
 
 Registro do que veio depois do dia medido; nenhuma régua do pré-registro usa estes achados, e nenhum veredito mudou.
 
+- **o fechamento de 27/out:** Em 27/out, o 2º pregão depois da eleição, o Ibovespa fechou em queda de 0,51%, a 175.710,05 pontos, e o dólar à vista caiu cerca de 1%: R$ 5,3506 (−0,97%) numa fonte e R$ 5,3488 (−1,07%) na outra, que usam horários de fechamento diferentes. ([fonte](https://timesbrasil.com.br/investimentos/bolsa/ibovespa-ensaia-recuperacao-apos-reeleicao-de-lula-mas-cai-051-dolar-corrige-excessos-e-fecha-a-r-535/), [segunda fonte](https://revistaoeste.com/economia/dolar-recua-097-e-ibovespa-cai-051-depois-de-tombo-historico/))
+- **os juros no 2º dia:** No fim da tarde de 27/out, o DI de janeiro de 2028 estava em 14,41% (14,822% no ajuste de 26/out) e o de janeiro de 2031 em 14,935% (15,277%): os juros devolveram de 13% a 21% da alta da véspera e seguiram acima da Selic de 13,75%. O prêmio da conta da dívida é o de 26/out, como o pré-registro manda; este recuo fica como registro. ([fonte](https://www.spacemoney.com.br/investimentos/renda-fixa/dis-juros-futuros-recompra-tesouro-durigan), [segunda fonte](https://www.cnnbrasil.com.br/economia/money/mercado/mercado-financeiro-ibovespa-dolar-27-outubro-2026/))
 - **o Tesouro sem leilão de venda na semana:** Em 27/out o Tesouro cancelou também o leilão tradicional de LFT (o título ligado à Selic), depois de ter cancelado em 26/out os de prefixados e de inflação: na semana da eleição, nenhum leilão de venda. ([fonte](https://istoedinheiro.com.br/juros-futuros-hoje-27-10-2026-intervencao-tesouro), [segunda fonte](https://www.cnnbrasil.com.br/economia/money/macroeconomia/juros-recuam-em-linha-com-dolar-apos-nova-intervencao-do-tesouro-em-leiloes/))
+- **as recompras do Tesouro:** Em 27/out o Tesouro recomprou R$ 16,8 bi em títulos ligados à inflação (NTN-B), depois de R$ 14,8 bi em 26/out (cerca de R$ 7,1 bi em prefixados de manhã e R$ 7,7 bi em NTN-B à tarde): R$ 31,6 bi em 2 dias. O K43 (R$ 7,1 bi, fonte única) era só a operação da manhã de 26/out. O InvestNews chama de terceira maior intervenção da história em valor nominal (fonte única nesse ponto). ([fonte](https://investnews.com.br/investimentos/tesouro-faz-terceira-intervencao-em-dois-dias-e-anuncia-nova-recompra-de-ntn-bs/), [segunda fonte](https://www.spacemoney.com.br/investimentos/renda-fixa/dis-juros-futuros-recompra-tesouro-durigan))
 - **o que o governo disse:** Em 27/out o ministro da Fazenda, Dario Durigan, disse que o governo vai mandar ao Congresso um projeto de lei complementar para buscar o centro da meta fiscal (e não o piso), que já tem medidas prontas, e que a queda dos ativos não é de fundamento; não detalhou as medidas nem a data. ([fonte](https://exame.com/economia/apos-quedada-bolsa-durigan-promete-medida-para-reforcar-meta-fiscal/), [segunda fonte](https://forbes.com.br/forbes-money/2026/10/medidas-fiscais-governo-lula/))
 - **a Fitch:** Em 26/out a Fitch disse que a reeleição aumenta a incerteza nas contas e que o cenário-base da agência é uma consolidação gradual, insuficiente para estabilizar a dívida em relação ao PIB; não mudou a nota do Brasil (texto da Reuters, em 2 veículos). ([fonte](https://www.cnnbrasil.com.br/economia/money/macroeconomia/reeleicao-de-lula-eleva-incerteza-fiscal-e-ameaca-divida-publica-diz-fitch/), [segunda fonte](https://www.infomoney.com.br/economia/fitch-ve-aumento-da-incerteza-fiscal-apos-reeleicao-de-lula-e-alerta-para-divida/))
+- **a Moody's:** Em 27/out a Moody's manteve a nota Ba1 do Brasil, com perspectiva estável (um degrau abaixo do grau de investimento), disse que a eleição não muda a avaliação dela e que a trajetória atual, com ajustes só graduais, pode prolongar déficits altos, juro alto e dívida subindo. Pela conta da agência, a dívida estabiliza com superávit primário de 2% a 3% do PIB (a conta do projeto para 2030 dá 1,9% sem prêmio de juros e 5,3% com o prêmio medido em 26/out). ([fonte](https://www.moneytimes.com.br/moodys-mantem-avaliacao-de-credito-do-brasil-mas-ve-riscos-fiscais-no-radar-apos-eleicao-de-lula/), [segunda fonte](https://bpmoney.com.br/economia/moodys-mantem-nota-brasil-reeleicao-lula-risco-fiscal/))
+
+### 2.1.3 O 3º dia (28/out, preliminar)
+
+Registro, com fonte única e números preliminares; nenhuma régua usa este achado. O saldo do dinheiro de fora com o dia 26/out, publicado pela B3 em 28/out, está no §3.
+
+- **o fechamento preliminar de 28/out:** Em 28/out, o 3º pregão depois da eleição, o Ibovespa fechou, preliminarmente, em queda de 2,71%, a 170.946,55 pontos (16h55), e o dólar comercial terminou o dia em queda de 0,19%, a R$ 5,340 (17h06), com a decisão do Fed no mesmo dia; a PTAX de 28/out ficou em R$ 5,3420 na venda. Fonte única (cobertura ao vivo do InfoMoney, capturada às 17h26); o fechamento oficial com 2 fontes fica para a próxima rodada. ([fonte](https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-28102026/))
 
 ### 2.2 As eleições anteriores
 
@@ -115,11 +125,12 @@ Em 4 das 6 eleições a bolsa caiu no dia seguinte. A direção do dia bateu com
 
 ## 3. O dinheiro estrangeiro (M2)
 
-- De janeiro a 22/out de 2026, os estrangeiros compraram R$ 46,5 bi a mais do que venderam em ações na B3 (sem contar ofertas novas) ([fonte](https://www.dadosdemercado.com.br/fluxo)).
-- Só em outubro, até o dia 22, a entrada foi de R$ 19,1 bi ([fonte](https://www.dadosdemercado.com.br/fluxo)).
+- De janeiro a 26/out de 2026, os estrangeiros compraram R$ 40,7 bi a mais do que venderam em ações na B3 (sem contar ofertas novas) ([fonte](https://carteirafundos.com/investment-flow)).
+- Só em outubro, até o dia 26, a entrada foi de R$ 13,3 bi ([fonte](https://carteirafundos.com/investment-flow)).
+- Até 22/out eram R$ 46,5 bi no ano e R$ 19,1 bi em outubro; a diferença saiu nos 2 pregões em volta do 2º turno ([fonte](https://www.infomoney.com.br/mercados/estrangeiros-retiraram-r-28-bilhoes-da-b3-no-dia-seguinte-as-eleicoes/)).
 - No primeiro pregão depois do 1º turno (5/out) entraram R$ 10,1 bi num dia só, recorde ([fonte](https://www.dadosdemercado.com.br/fluxo)).
 - O pior mês do ano foi agosto, com saída de R$ 18,1 bi ([fonte](https://trademap.com.br/noticias/news-8266222)).
-- Nos dias antes do 2º turno o saldo já oscilava: 19/10, R$ -1.008,76 mi, 20/10, R$ +17,64 mi, 21/10, R$ +156,88 mi, 22/10, R$ -1.030,50 mi.
+- Nos dias em volta do 2º turno o saldo oscilou: 19/10, R$ -1.008,76 mi, 20/10, R$ +17,64 mi, 21/10, R$ +156,88 mi, 22/10, R$ -1.030,50 mi, 23/10, R$ -2.944,83 mi, 26/10, R$ -2.846,16 mi.
 - Pelo balanço de pagamentos do Banco Central, que conta todo tipo de compra de ações (não só a bolsa) e também a renda fixa, o saldo do investimento estrangeiro em carteira no Brasil de janeiro até 09/2026 foi: ações, US$ -3,4 bi; fundos de investimento, US$ -2,1 bi; títulos de dívida negociados no país, US$ 5,7 bi; títulos de dívida negociados no exterior, US$ 9,6 bi.
 - A imprensa registrou que os investidores estrangeiros estavam posicionados para a vitória do outro candidato ([fonte](https://www.infomoney.com.br/mercados/ibovespa-em-alta-dolar-em-queda-a-reacao-do-mercado-entre-1o-e-2o-turno-da-eleicao/)).
 
@@ -296,7 +307,7 @@ Só entram temas com as duas fontes conferidas por script. A frase "o que pode m
 ## 10. Como se conferiu
 
 - Validação por um segundo caminho: **12 de 12** itens passaram (`resultados/VALIDACAO.json`).
-- Achados de terceiros: 246 levantados, **220** com o trecho encontrado por script no texto capturado, 94 deles com a segunda fonte também conferida.
+- Achados de terceiros: 253 levantados, **227** com o trecho encontrado por script no texto capturado, 100 deles com a segunda fonte também conferida.
 - Revisão adversarial por três leitores independentes: [`docs/REVISAO_ADVERSARIAL.md`](docs/REVISAO_ADVERSARIAL.md). Leitura da IA: [`docs/LEITURA_DA_IA.md`](docs/LEITURA_DA_IA.md). Como refazer: [`docs/REPLICAR.md`](docs/REPLICAR.md).
 
 ## 11. As duas premissas (emenda 5)
